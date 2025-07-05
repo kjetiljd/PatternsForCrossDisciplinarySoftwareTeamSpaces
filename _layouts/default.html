@@ -93,13 +93,26 @@
             overlay.tabIndex = -1;
 
             const container = document.createElement('div');
-            container.style.maxWidth = '90vw';
-            container.style.maxHeight = '90vh';
+            container.style.width = '100vw';
+            container.style.height = '100vh';
+            container.style.display = 'flex';
+            container.style.alignItems = 'center';
+            container.style.justifyContent = 'center';
             container.style.overflow = 'auto';
-            container.style.background = 'white';
-            container.style.padding = '2rem';
-            container.style.borderRadius = '8px';
+            container.style.background = 'transparent';
+            container.style.padding = '0';
+            container.style.borderRadius = '0';
             container.innerHTML = svgContent;
+
+            // Make SVG responsive and large
+            const svg = container.querySelector('svg');
+            if (svg) {
+                svg.style.width = '90vw';
+                svg.style.height = '90vh';
+                svg.style.maxWidth = 'none';
+                svg.style.maxHeight = 'none';
+                svg.style.display = 'block';
+            }
 
             overlay.appendChild(container);
 
