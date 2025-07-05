@@ -74,6 +74,64 @@
     });
     import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
     mermaid.initialize({ startOnLoad: true });
+
+    // Mermaid fullscreen overlay logic
+    document.addEventListener('DOMContentLoaded', () => {
+        function createOverlay(svgContent) {
+            const overlay = document.createElement('div');
+            overlay.style.position = 'fixed';
+            overlay.style.top = 0;
+            overlay.style.left = 0;
+            overlay.style.width = '100vw';
+            overlay.style.height = '100vh';
+            overlay.style.background = 'rgba(0,0,0,0.85)';
+            overlay.style.display = 'flex';
+            overlay.style.alignItems = 'center';
+            overlay.style.justifyContent = 'center';
+            overlay.style.zIndex = 9999;
+            overlay.style.cursor = 'zoom-out';
+            overlay.tabIndex = -1;
+
+            const container = document.createElement('div');
+            container.style.maxWidth = '90vw';
+            container.style.maxHeight = '90vh';
+            container.style.overflow = 'auto';
+            container.style.background = 'white';
+            container.style.padding = '2rem';
+            container.style.borderRadius = '8px';
+            container.innerHTML = svgContent;
+
+            overlay.appendChild(container);
+
+            function closeOverlay() {
+                document.body.removeChild(overlay);
+                document.removeEventListener('keydown', escListener);
+            }
+
+            function escListener(e) {
+                if (e.key === 'Escape') closeOverlay();
+            }
+
+            overlay.addEventListener('click', (e) => {
+                if (e.target === overlay) closeOverlay();
+            });
+            document.addEventListener('keydown', escListener);
+
+            document.body.appendChild(overlay);
+            overlay.focus();
+        }
+
+        document.querySelectorAll('.mermaid').forEach(el => {
+            el.style.cursor = 'zoom-in';
+            el.addEventListener('click', () => {
+                // Find the rendered SVG inside the mermaid element
+                const svg = el.querySelector('svg');
+                if (svg) {
+                    createOverlay(svg.outerHTML);
+                }
+            });
+        });
+    });
 </script>
 </body>
 </html>
