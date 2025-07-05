@@ -99,7 +99,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ### Manufacturing Cell Patterns
 
-- **[U-Shape Team Layout](cross-disciplinary/u-shape-team-layout.md)** - Arrange teams in circular or U-shaped seating for fluid communication
+- **[U-Shape Team Layout](cross-disciplinary/u-shape-team-layout.md)** - Position workstations inside a U-shape facing outward with wheeled chairs for easy mobility and collaboration
 - **[Andon Cord & Stop-the-Line](cross-disciplinary/andon-cord-stop-line.md)** - Enable any team member to halt work to address quality issues
 - **[Kaizen Corner](cross-disciplinary/kaizen-corner.md)** - Create visible spaces for tracking continuous improvement efforts
 
