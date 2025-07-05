@@ -11,7 +11,7 @@ Large open offices create noise, distraction, and anonymity. People lose sense o
 
 ## Solution
 Create small team rooms that:
-- **Size limit**: Maximum 12 people, ideally 5-10 for optimal team dynamics
+- **Size limit**: Maximum 12 people per room, ideally 5-9 for optimal team dynamics
 - **Partial enclosure**: Walls or barriers that define the space but allow connection
 - **Shared resources**: Team whiteboard, meeting corner, shared storage
 - **Acoustic comfort**: Sound absorption to manage noise levels

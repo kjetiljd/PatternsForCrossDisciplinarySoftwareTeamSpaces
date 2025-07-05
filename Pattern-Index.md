@@ -24,7 +24,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ### Team Structure and Autonomy
 
-- **[Self-Governing Teams](organizational/self-governing-teams.md)** - Empower cross-functional teams of 5-20 people with autonomy over their work style and organization
+- **[Self-Governing Teams](organizational/self-governing-teams.md)** - Empower cross-functional teams of 5-12 people with autonomy over their work style and organization
 - **[Aligned Autonomy](organizational/aligned-autonomy.md)** - Balance team independence with organizational alignment through enabling constraints and shared goals
 - **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance to enable distributed decision-making
 - **[Team Composition and Size](organizational/team-composition-size.md)** - Maintain stable, cross-functional teams small enough to be "fed by two pizzas"

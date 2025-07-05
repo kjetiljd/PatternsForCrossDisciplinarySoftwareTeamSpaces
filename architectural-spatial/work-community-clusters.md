@@ -11,7 +11,7 @@ Large open offices or isolated team spaces fail to create the right balance of c
 
 ## Solution
 Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster should:
-- Accommodate 10-20 people maximum
+- Accommodate 10-20 people maximum (typically 2-3 teams sharing the space)
 - Have a central common area (like a courtyard or square)
 - Include shared amenities (coffee station, lunch counter, informal seating)
 - Feel semi-autonomous while connected to the larger organization

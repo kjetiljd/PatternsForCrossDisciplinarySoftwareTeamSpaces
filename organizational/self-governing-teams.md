@@ -1,7 +1,7 @@
 # Self-Governing Teams
 
 ## Summary
-Empower each product team to be a self-governing workgroup of roughly 5–20 people with autonomy over their internal organization, work style, and schedule.
+Empower each product team to be a self-governing workgroup of roughly 5–12 people with autonomy over their internal organization, work style, and schedule.
 
 ## Context
 Cross-functional product teams that need to move quickly and adapt to changing requirements without bureaucratic overhead.
@@ -12,7 +12,7 @@ Traditional hierarchical structures create bottlenecks and reduce ownership. Tea
 ## Solution
 Create autonomous teams that:
 - Are cross-functional (include all needed roles: design, dev, QA, domain experts)
-- Have 5-20 people maximum for effective communication
+- Have 5-12 people maximum for effective communication
 - Control their own work style, schedule, and internal organization
 - Own a clear mission or product area end-to-end
 - Can make decisions without constant approval
