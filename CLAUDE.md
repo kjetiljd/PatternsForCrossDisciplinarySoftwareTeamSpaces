@@ -11,9 +11,11 @@ This repository contains research and documentation for a pattern language focus
 The repository is organized as a documentation-focused research project with the following structure:
 
 ### Core Research Files
-- **Introduction.md**: Project overview, scope, methodology, team structure, and deliverables
-- **Initial Research.md**: Focused exploration of patterns for small autonomous teams and workspace design
-- **Foundational Research.md**: Comprehensive research compendium covering architectural/spatial patterns, organizational patterns, cross-disciplinary inspirations, temporal patterns, annotated bibliography, gap analysis, and meta-patterns
+Located in the `research/` folder (immutable):
+- **research/Introduction.md**: Project overview, scope, methodology, team structure, and deliverables
+- **research/Initial Research.md**: Focused exploration of patterns for small autonomous teams and workspace design
+- **research/Foundational Research.md**: Comprehensive research compendium covering architectural/spatial patterns, organizational patterns, cross-disciplinary inspirations, temporal patterns, annotated bibliography, gap analysis, and meta-patterns
+- **research/Additional Research.md**: High-performance team patterns for hybrid-first product organizations, incorporating insights from Team Topologies, FAST Agile, and recent research on fluid teaming, stream-aligned teams, and enabling/platform team structures
 
 ### Pattern Language Implementation
 - **Pattern-Index.md**: Categorized index of all 50+ patterns with descriptive one-liners and links to individual pattern pages
@@ -103,4 +105,4 @@ This work serves as the foundation for a complete pattern language for cross-dis
 
 ## Memories
 
-- Never update research files. They are immutable.
+- Research files are located in the `research/` folder and are immutable. Never update them.
