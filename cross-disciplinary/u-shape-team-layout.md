@@ -29,7 +29,92 @@ Arrange team workstations in U-shaped configurations with people sitting inside 
 - **Modular implementation**: Wide desks at right angles forming corners of the U-shape
 - **Breakaway options**: Adjacent quiet spaces or privacy screens for concentrated individual work
 - **Scalable design**: U-shape can accommodate 4-6 team members comfortably, perhaps doubling if needed for shorter paring sessions on wide desk-workstations
-- **Activity zones**: Different areas of the U can support different collaborations, e.g with a wall-mounted screen at the bottom of the U for software teaming sessions  
+- **Activity zones**: Different areas of the U can support different collaborations, e.g with a wall-mounted screen at the bottom of the U for software teaming sessions
+
+## Visual Layout
+
+### Basic U-Shape Configuration
+```
+                 ┌─────────────────────────────────┐
+                 │         WALL/DISPLAYS            │
+                 └─────────────────────────────────┘
+                                 
+┌─────────────────┐                   ┌─────────────────┐
+│      DESK       │                   │      DESK       │
+│        A        │                   │        B        │
+│  🪑 (facing     │                   │   (facing 🪑   │
+│     outward)    │                   │    outward)     │
+└─────────────────┘                   └─────────────────┘
+        |                                       |
+        |          ┌─────────────────┐         |
+        |          │   COLLABORATION │         |
+        |          │      SPACE      │         |
+        |          │  ○ Table/Stand  │         |
+        |          │  📺 Screen      │         |
+        |          │  ⚬ Mobile      │         |
+        |          │    Chairs       │         |
+        |          └─────────────────┘         |
+        |                                       |
+┌─────────────────┐                   ┌─────────────────┐
+│      DESK       │                   │      DESK       │
+│        F        │                   │        C        │
+│  🪑 (facing     │                   │   (facing 🪑   │
+│     outward)    │                   │    outward)     │
+└─────────────────┘                   └─────────────────┘
+        |                                       |
+        └───────────────────────────────────────┘
+                         |
+                ┌─────────────────┐
+                │      DESK       │
+                │        E        │
+                │   🪑 (facing    │
+                │     outward)    │
+                └─────────────────┘
+                         |
+                ┌─────────────────┐
+                │      DESK       │
+                │        D        │
+                │   🪑 (facing    │
+                │     outward)    │
+                └─────────────────┘
+```
+
+### Collaboration Flow Diagram
+```mermaid
+graph TD
+    subgraph "U-Shape Team Layout"
+        PERSON_A[👤 Developer A<br/>🖥️ Individual Work] 
+        PERSON_B[👤 Developer B<br/>🖥️ Individual Work]
+        PERSON_C[👤 Developer C<br/>🖥️ Individual Work]
+        PERSON_D[👤 Developer D<br/>🖥️ Individual Work]
+        CENTER[🏛️ Center Space<br/>○ Stand-up Table<br/>📺 Shared Display<br/>⚬ Mobile Chairs]
+    end
+    
+    %% Easy mobility connections
+    PERSON_A -.->|🪑 wheel over| PERSON_B
+    PERSON_B -.->|🪑 wheel over| PERSON_C  
+    PERSON_C -.->|🪑 wheel over| PERSON_D
+    PERSON_D -.->|🪑 wheel over| PERSON_A
+    
+    %% Central collaboration
+    PERSON_A --> CENTER
+    PERSON_B --> CENTER
+    PERSON_C --> CENTER  
+    PERSON_D --> CENTER
+    
+    %% Peripheral awareness
+    PERSON_A -.->|👁️ peripheral<br/>awareness| PERSON_B
+    PERSON_B -.->|👁️ peripheral<br/>awareness| PERSON_C
+    PERSON_C -.->|👁️ peripheral<br/>awareness| PERSON_D
+    PERSON_D -.->|👁️ peripheral<br/>awareness| PERSON_A
+    
+    classDef person fill:#e1f5fe,stroke:#0277bd
+    classDef center fill:#f3e5f5,stroke:#7b1fa2
+    classDef mobility stroke-dasharray: 5 5
+    
+    class PERSON_A,PERSON_B,PERSON_C,PERSON_D person
+    class CENTER center
+```  
 
 ## Forces
 - Equal participation vs. space efficiency
