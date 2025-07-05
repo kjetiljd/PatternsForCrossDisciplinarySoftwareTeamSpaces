@@ -470,62 +470,62 @@ graph TD
 ### Central Hub Patterns
 The most connected patterns that serve as integration points:
 
-1. **Small Team Bays** (15+ connections) - Physical foundation for team autonomy
-2. **Psychological Safety Practices** (12+ connections) - Cultural foundation across all categories
-3. **Transparent Artifacts** (11+ connections) - Information flow enabler
-4. **Self-Governing Teams** (10+ connections) - Organizational autonomy foundation
+1. **[Small Team Bays](architectural-spatial/small-team-bays.md)** (15+ connections) - Physical foundation for team autonomy
+2. **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** (12+ connections) - Cultural foundation across all categories
+3. **[Transparent Artifacts](organizational/transparent-artifacts.md)** (11+ connections) - Information flow enabler
+4. **[Self-Governing Teams](organizational/self-governing-teams.md)** (10+ connections) - Organizational autonomy foundation
 
 ### Cross-Category Bridges
 Patterns that strongly connect different categories:
 
-- **Environmental Comfort Patterns** → Bridges physical design with team wellbeing
-- **Daily Rituals** → Connects temporal patterns with organizational practices
-- **Display of Work** → Links cross-disciplinary practices with organizational transparency
-- **Modular Furniture** → Connects cross-disciplinary flexibility with spatial adaptability
+- **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** → Bridges physical design with team wellbeing
+- **[Daily Rituals](temporal/daily-rituals.md)** → Connects temporal patterns with organizational practices
+- **[Display of Work](cross-disciplinary/display-of-work.md)** → Links cross-disciplinary practices with organizational transparency
+- **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** → Connects cross-disciplinary flexibility with spatial adaptability
 
 ### Pattern Clusters
 
 #### High-Autonomy Cluster
-```
-Self-Governing Teams ↔ Small Team Bays ↔ Aligned Autonomy
-```
+- [Self-Governing Teams](organizational/self-governing-teams.md)
+- [Small Team Bays](architectural-spatial/small-team-bays.md) 
+- [Aligned Autonomy](organizational/aligned-autonomy.md)
 
 #### Transparency Cluster  
-```
-Transparent Artifacts ↔ Display of Work ↔ Neighborhood Effect
-```
+- [Transparent Artifacts](organizational/transparent-artifacts.md)
+- [Display of Work](cross-disciplinary/display-of-work.md)
+- [Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)
 
 #### Hybrid Integration Cluster
-```
-Anchor Days ↔ Digital Campfires ↔ Embedded Telepresence
-```
+- [Anchor Days](organizational/anchor-days.md)
+- [Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)
+- [Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)
 
 #### Decision Quality Cluster
-```
-Cynefin Framework ↔ Structured Experiments ↔ Architecture Decision Records
-```
+- [Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)
+- [Structured Experiments](organizational/structured-experiments.md)
+- [Architecture Decision Records](organizational/architecture-decision-records.md)
 
 ### Implementation Pathways
 
 #### Foundation First
-1. Start with **Meta-Patterns** for philosophical alignment
-2. Establish **Psychological Safety Practices**
-3. Implement **Self-Governing Teams**
+1. Start with **[Meta-Patterns](meta-patterns/)** for philosophical alignment
+2. Establish **[Psychological Safety Practices](organizational/psychological-safety-practices.md)**
+3. Implement **[Self-Governing Teams](organizational/self-governing-teams.md)**
 
 #### Spatial Support
-1. Create **Small Team Bays** 
-2. Add **Adjacent Semi-Private Spaces**
-3. Enable **Modular Furniture** for adaptability
+1. Create **[Small Team Bays](architectural-spatial/small-team-bays.md)** 
+2. Add **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)**
+3. Enable **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** for adaptability
 
 #### Communication Flow
-1. Implement **Transparent Artifacts**
-2. Establish **Daily Stand-Ups**
-3. Create **Display of Work** areas
+1. Implement **[Transparent Artifacts](organizational/transparent-artifacts.md)**
+2. Establish **[Daily Stand-Ups](organizational/daily-stand-ups.md)**
+3. Create **[Display of Work](cross-disciplinary/display-of-work.md)** areas
 
 #### Hybrid Integration
-1. Set up **Anchor Days**
-2. Install **Embedded Telepresence**
-3. Develop **Async Collaboration Norms**
+1. Set up **[Anchor Days](organizational/anchor-days.md)**
+2. Install **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)**
+3. Develop **[Async Collaboration Norms](organizational/async-collaboration-norms.md)**
 
 ---
 
