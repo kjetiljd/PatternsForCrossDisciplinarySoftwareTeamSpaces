@@ -20,6 +20,11 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** - Implement ergonomic furniture, proper lighting, acoustic zoning, and climate control
 - **[Personalization and Human Scale](architectural-spatial/personalization-human-scale.md)** - Enable teams to shape their space with artifacts, varied textures, and comfortable seating
 
+### Collaborative Workspace Patterns
+
+- **[Pair Programming Workstations](architectural-spatial/pair-programming-workstations.md)** - Design dedicated desks for two people to comfortably work at one machine with dual peripherals
+- **[Mob Programming Corner](architectural-spatial/mob-programming-corner.md)** - Create spaces where entire teams can collaborate on one task with large displays and flexible seating
+
 ## Organizational Patterns
 
 ### Team Structure and Autonomy
@@ -68,6 +73,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)** - Create informal virtual spaces for casual interaction and relationship building
 - **[Distributed Whiteboards](organizational/distributed-whiteboards.md)** - Use shared visual workspaces to maintain democratic brainstorming and design sessions
 - **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams leveraging both async tools and planned in-person interactions
+- **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)** - Integrate always-ready video conferencing into collaboration areas for seamless hybrid participation
 
 ## Cross-Disciplinary Patterns
 
@@ -128,4 +134,4 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ---
 
-*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 60+ patterns with enhanced focus on sophisticated decision-making frameworks for complex software development environments.*
+*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 65+ patterns with enhanced focus on sophisticated decision-making frameworks and intensive collaboration practices like pair and mob programming for complex software development environments.*

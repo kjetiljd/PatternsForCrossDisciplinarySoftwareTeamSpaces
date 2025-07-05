@@ -18,6 +18,18 @@ Create small team rooms that:
 - **Team identity**: Space that the team can personalize and control
 - **Adjacent quiet**: Access to phone booths or quiet areas for private work
 
+**Collaborative Layout Design:**
+- **U-shaped desk arrangement**: Individual workstations around room perimeter facing walls, with open central area for team interaction
+- **Central collaboration zone**: Large shared table or standing bench in the middle of the U-shape for quick huddles and pair rotations
+- **Multiple work modes**: Support for individual focus (at personal desks), pair programming (shared stations), and team meetings (central area)
+- **Information radiators**: Ample wall space for sprint boards, whiteboards, and design artifacts to create "mission control" environment
+
+**Meeting and Display Infrastructure:**
+- **Stand-up area**: Central space with round standing-height table to encourage brief, energetic meetings
+- **Large display**: Wall-mounted screen or projector for group code reviews, demos, and video calls
+- **Telepresence integration**: Video conferencing setup for hybrid team participation
+- **Flexible furniture**: Mobile whiteboards and modular seating that can be reconfigured for different activities
+
 ## Forces
 - Small groups develop stronger cohesion and trust
 - Communication overhead grows non-linearly with team size
@@ -33,9 +45,13 @@ Create small team rooms that:
 - Alexander's research on optimal work group sizes
 
 ## Related Patterns
-- [Work Community Clusters](work-community-clusters.md)
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md)
-- [Self-Governing Teams](../organizational/self-governing-teams.md)
+- [Work Community Clusters](work-community-clusters.md) - Small team rooms are components of larger clusters
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Provides individual territory within team space
+- [Self-Governing Teams](../organizational/self-governing-teams.md) - Organizational pattern supported by dedicated team space
+- [Pair Programming Workstations](pair-programming-workstations.md) - Can be integrated into team room layout
+- [Mob Programming Corner](mob-programming-corner.md) - Central collaboration area serves this function
+- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Specific implementation of team room arrangement
+- [Embedded Telepresence in Team Spaces](../organizational/embedded-telepresence-team-spaces.md) - Technology integration for hybrid teams
 
 ## Sources
 - Christopher Alexander, "A Pattern Language" (Pattern 148)
