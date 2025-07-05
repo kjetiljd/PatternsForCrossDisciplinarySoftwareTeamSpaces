@@ -26,10 +26,20 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 - **[Self-Governing Teams](organizational/self-governing-teams.md)** - Empower cross-functional teams of 5-12 people with autonomy over their work style and organization
 - **[Aligned Autonomy](organizational/aligned-autonomy.md)** - Balance team independence with organizational alignment through enabling constraints and shared goals
-- **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance to enable distributed decision-making
+- **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance to enable distributed decision-making with context-sensitive frameworks
 - **[Team Composition and Size](organizational/team-composition-size.md)** - Maintain stable, cross-functional teams small enough to be "fed by two pizzas"
 - **[Right-Sized Stream-Aligned Teams](organizational/right-sized-stream-aligned-teams.md)** - Form small, mission-focused teams of 5-8 members that own a product value stream end-to-end
 - **[Demand-Led Fluid Teaming](organizational/demand-led-fluid-teaming.md)** - Reorganize teams periodically based on strategic demand rather than fixed structures
+
+### Advanced Decision-Making Patterns
+
+- **[One-Way vs Two-Way Door Decisions](organizational/one-way-two-way-door-decisions.md)** - Accelerate decision-making by categorizing decisions based on reversibility and applying appropriate process weight
+- **[Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)** - Match decision-making approaches to situation complexity using the Cynefin sensemaking framework
+- **[Structured Experiments](organizational/structured-experiments.md)** - Use deliberate, time-bounded experiments to gather evidence before making irreversible decisions
+- **[Trying Out Options](organizational/trying-out-options.md)** - Test multiple approaches in parallel to surface better solutions through direct comparison
+- **[Nominal Group Technique](organizational/nominal-group-technique.md)** - Improve decision quality by gathering individual opinions independently before group discussion
+- **[Ranked Voting](organizational/ranked-voting.md)** - Make group decisions through preference ranking to identify broadly acceptable solutions
+- **[Architecture Decision Records](organizational/architecture-decision-records.md)** - Document key architectural decisions with context, rationale, and consequences for team alignment
 
 ### Communication and Collaboration
 
@@ -38,6 +48,8 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Transparent Artifacts](organizational/transparent-artifacts.md)** - Make work progress visible through information radiators and shared dashboards
 - **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** - Cultivate blameless culture and explicit norms that encourage speaking up
 - **[Open Space Swarm Cadence](organizational/open-space-swarm-cadence.md)** - Use Open Space Technology for continuous self-organization of work in short cycles
+- **[Thinking Out Loud](organizational/thinking-out-loud.md)** - Create clarity and trust by voicing reasoning, assumptions, and uncertainties before taking action
+- **[I Intend To](organizational/i-intend-to.md)** - Build ownership and alignment by clearly stating planned actions and rationale before proceeding
 
 ### Cross-Team Coordination
 
@@ -116,4 +128,4 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ---
 
-*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era.*
+*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 60+ patterns with enhanced focus on sophisticated decision-making frameworks for complex software development environments.*

@@ -21,7 +21,7 @@ Establish platform teams that provide shared services and tools, complemented by
 ## Related Patterns
 - [Aligned Autonomy](aligned-autonomy.md)
 - [Cross-Team Synchronization](cross-team-synchronization.md)
-- [Team-to-Team Contracts](team-to-team-contracts.md)
+- [Team API](team-api.md)
 
 ## Sources
 - Platform engineering practices

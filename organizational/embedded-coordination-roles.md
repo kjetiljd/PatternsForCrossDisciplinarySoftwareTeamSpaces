@@ -20,7 +20,7 @@ Establish rotating ambassador roles where team members serve as liaisons to othe
 
 ## Related Patterns
 - [Cross-Team Synchronization](cross-team-synchronization.md)
-- [Team-to-Team Contracts](team-to-team-contracts.md)
+- [Team API](team-api.md)
 - [Platform Teams & Communities of Practice](platform-teams-communities.md)
 
 ## Sources
