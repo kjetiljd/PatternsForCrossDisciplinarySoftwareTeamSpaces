@@ -28,6 +28,8 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Aligned Autonomy](organizational/aligned-autonomy.md)** - Balance team independence with organizational alignment through enabling constraints and shared goals
 - **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance to enable distributed decision-making
 - **[Team Composition and Size](organizational/team-composition-size.md)** - Maintain stable, cross-functional teams small enough to be "fed by two pizzas"
+- **[Right-Sized Stream-Aligned Teams](organizational/right-sized-stream-aligned-teams.md)** - Form small, mission-focused teams of 5-8 members that own a product value stream end-to-end
+- **[Demand-Led Fluid Teaming](organizational/demand-led-fluid-teaming.md)** - Reorganize teams periodically based on strategic demand rather than fixed structures
 
 ### Communication and Collaboration
 
@@ -35,13 +37,16 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Swarm Reviews & Pairing](organizational/swarm-reviews-pairing.md)** - Collective code reviews and pair/mob programming for knowledge sharing
 - **[Transparent Artifacts](organizational/transparent-artifacts.md)** - Make work progress visible through information radiators and shared dashboards
 - **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** - Cultivate blameless culture and explicit norms that encourage speaking up
+- **[Open Space Swarm Cadence](organizational/open-space-swarm-cadence.md)** - Use Open Space Technology for continuous self-organization of work in short cycles
 
 ### Cross-Team Coordination
 
 - **[Platform Teams & Communities of Practice](organizational/platform-teams-communities.md)** - Create service teams for shared infrastructure and voluntary guilds for knowledge sharing
 - **[Cross-Team Synchronization](organizational/cross-team-synchronization.md)** - Establish lightweight coordination routines like Scrum of Scrums and Open Space events
-- **[Team-to-Team Contracts](organizational/team-to-team-contracts.md)** - Define explicit interfaces and protocols for inter-team collaboration
+- **[Team API](organizational/team-api.md)** - Treat each team as a service with clear interfaces for ownership, communication, and collaboration
 - **[Embedded Coordination Roles](organizational/embedded-coordination-roles.md)** - Use ambassador or liaison roles to create human bridges between teams
+- **[Enabling and Platform Teams](organizational/enabling-platform-teams.md)** - Specialized teams that reduce complexity for stream-aligned teams through services and coaching
+- **[Near/Far Specialist Guilds](organizational/near-far-specialist-guilds.md)** - Blend embedded specialists with central guilds for expertise sharing
 
 ### Hybrid Work Patterns
 
@@ -50,6 +55,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Anchor Days](organizational/anchor-days.md)** - Designate regular days for whole-team in-person gathering focused on connection
 - **[Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)** - Create informal virtual spaces for casual interaction and relationship building
 - **[Distributed Whiteboards](organizational/distributed-whiteboards.md)** - Use shared visual workspaces to maintain democratic brainstorming and design sessions
+- **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams leveraging both async tools and planned in-person interactions
 
 ## Cross-Disciplinary Patterns
 
