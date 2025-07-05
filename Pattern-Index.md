@@ -19,6 +19,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Half-Open, Half-Private Spaces](architectural-spatial/half-open-half-private-spaces.md)** - Create alcoves with 50-75% enclosure that balance privacy with connection
 - **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** - Implement ergonomic furniture, proper lighting, acoustic zoning, and climate control
 - **[Personalization and Human Scale](architectural-spatial/personalization-human-scale.md)** - Enable teams to shape their space with artifacts, varied textures, and comfortable seating
+- **[Visible Evolution Traces](architectural-spatial/visible-evolution-traces.md)** - Design spaces to show their history of adaptation and use, making team modifications visible to encourage further beneficial changes
 
 ### Collaborative Workspace Patterns
 
@@ -55,6 +56,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Open Space Swarm Cadence](organizational/open-space-swarm-cadence.md)** - Use Open Space Technology for continuous self-organization of work in short cycles
 - **[Thinking Out Loud](organizational/thinking-out-loud.md)** - Create clarity and trust by voicing reasoning, assumptions, and uncertainties before taking action
 - **[I Intend To](organizational/i-intend-to.md)** - Build ownership and alignment by clearly stating planned actions and rationale before proceeding
+- **[Desire Path Recognition](organizational/desire-path-recognition.md)** - Observe natural patterns of team behavior and space usage before formalizing processes or layouts
 
 ### Cross-Team Coordination
 
@@ -131,7 +133,8 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Transparency and Osmotic Communication](meta-patterns/transparency-osmotic-communication.md)** - Enable information flow through physical and cultural transparency
 - **[Rhythms of Collaboration and Focus](meta-patterns/rhythms-collaboration-focus.md)** - Alternate between convergent team time and divergent individual work
 - **[Human-Centric Design](meta-patterns/human-centric-design.md)** - Design work environments around human needs rather than rigid systems
+- **[Productive Traces Preservation](meta-patterns/productive-traces-preservation.md)** - Distinguish between beneficial signs of use and actual problems, preserving evidence of successful adaptations
 
 ---
 
-*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 65+ patterns with enhanced focus on sophisticated decision-making frameworks and intensive collaboration practices like pair and mob programming for complex software development environments.*
+*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 76 patterns with enhanced focus on sophisticated decision-making frameworks, intensive collaboration practices, and social proof mechanisms that encourage beneficial space evolution and team engagement.*
