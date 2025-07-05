@@ -32,7 +32,7 @@ Design individual workspaces with specific guidelines:
 
 ## Related Patterns
 - [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md)
-- [Small Team Rooms](small-team-rooms.md)
+- [Small Team Bays](small-team-bays.md)
 - [Environmental Comfort Patterns](environmental-comfort-patterns.md)
 
 ## Sources

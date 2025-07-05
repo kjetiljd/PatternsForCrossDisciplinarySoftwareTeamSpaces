@@ -1,7 +1,7 @@
 # Work Community Clusters
 
 ## Summary
-Design workplaces as small communities of 10–20 workspaces grouped around a shared common area (courtyard or square) with amenities like coffee, lunch counters, and greenspace.
+Design workplaces as small communities of 20–25 workspaces grouped around a shared common area (courtyard or square) with amenities like coffee, presentation space, and greenspace.
 
 ## Context
 Creating human-scale workplace neighborhoods that foster informal interaction and team identity while maintaining connection to the larger organization.
@@ -11,9 +11,9 @@ Large open offices or isolated team spaces fail to create the right balance of c
 
 ## Solution
 Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster should:
-- Accommodate 10-20 people maximum (typically 2-3 teams sharing the space)
+- Accommodate 20-25 workstations (typically 2-4 teams sharing the space)
 - Have a central common area (like a courtyard or square)
-- Include shared amenities (coffee station, lunch counter, informal seating)
+- Include shared amenities (coffee station, minimal presentation stage with screen, mobile whiteboard, informal seating)
 - Feel semi-autonomous while connected to the larger organization
 - Ensure every workstation has access to natural light (Norwegian compliance)
 
@@ -30,7 +30,7 @@ Organize workspaces into clusters that feel like small villages or neighborhoods
 - Basecamp's quiet "library rules" with social kitchen areas
 
 ## Related Patterns
-- [Small Team Rooms](small-team-rooms.md)
+- [Small Team Bays](small-team-bays.md)
 - [Neighborhood Effect and Serendipity](neighborhood-effect-serendipity.md)
 - [Self-Governing Teams](../organizational/self-governing-teams.md)
 

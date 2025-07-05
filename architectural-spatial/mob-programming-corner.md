@@ -49,7 +49,7 @@ Design dedicated mob programming stations with:
 
 ## Related Patterns
 - [Pair Programming Workstations](pair-programming-workstations.md) - Can be combined or scaled up for mob sessions
-- [Small Team Rooms](small-team-rooms.md) - May contain or be adjacent to mob programming corners
+- [Small Team Bays](small-team-bays.md) - May contain or be adjacent to mob programming corners
 - [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Enables flexible mob space configuration
 - [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Critical for sustained team collaboration
 - [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Provides foundation for mob seating arrangements

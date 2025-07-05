@@ -14,7 +14,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ### Micro-Scale Workspace Patterns
 
-- **[Small Team Rooms](architectural-spatial/small-team-rooms.md)** - Limit each work room to about a dozen people for better cohesion and reduced noise
+- **[Small Team Bays](architectural-spatial/small-team-bays.md)** - Create team bays for typically 4-6 people with good sound dampening to encourage natural conversation
 - **[Workspace Enclosure & Personal Space](architectural-spatial/workspace-enclosure-personal-space.md)** - Provide ~60 sq ft per person with partial walls and window views for psychological comfort
 - **[Half-Open, Half-Private Spaces](architectural-spatial/half-open-half-private-spaces.md)** - Create alcoves with 50-75% enclosure that balance privacy with connection
 - **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** - Implement ergonomic furniture, proper lighting, acoustic zoning, and climate control

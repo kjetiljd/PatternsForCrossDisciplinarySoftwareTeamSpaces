@@ -19,7 +19,7 @@ Create connected office spaces where related teams are adjacent to each other, w
 - Fixed layouts vs. changing team compositions
 
 ## Related Patterns
-- [Small Team Rooms](small-team-rooms.md)
+- [Small Team Bays](small-team-bays.md)
 - [Work Community Clusters](work-community-clusters.md)
 - [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md)
 

@@ -50,7 +50,7 @@ Embed telepresence technology directly into team collaboration areas:
 ## Related Patterns
 - [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Enhanced with remote participant visibility
 - [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Requires telepresence for hybrid mob sessions
-- [Small Team Rooms](../architectural-spatial/small-team-rooms.md) - Core infrastructure for team-based telepresence
+- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Core infrastructure for team-based telepresence
 - [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Provides informal interaction channels
 - [Hybrid Coordination and Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Supports formal coordination processes
 

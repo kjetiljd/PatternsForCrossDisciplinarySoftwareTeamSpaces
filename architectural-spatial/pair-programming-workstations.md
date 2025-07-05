@@ -41,7 +41,7 @@ Create dedicated pair programming workstations with:
 - **Modern Agile Offices:** Mobile workstations on wheels that can be combined for pairing or separated for focus work
 
 ## Related Patterns
-- [Small Team Rooms](small-team-rooms.md) - Can house multiple pair programming workstations
+- [Small Team Bays](small-team-bays.md) - Can house multiple pair programming workstations
 - [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Supports flexible pairing arrangements
 - [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Can incorporate pairing pods within team clusters
 - [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Ensures physical comfort during extended collaboration

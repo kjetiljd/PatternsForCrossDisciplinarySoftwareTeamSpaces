@@ -20,7 +20,7 @@ Form teams of 5-9 people with complementary skills including development, testin
 
 ## Related Patterns
 - [Self-Governing Teams](self-governing-teams.md)
-- [Small Team Rooms](../architectural-spatial/small-team-rooms.md)
+- [Small Team Bays](../architectural-spatial/small-team-bays.md)
 - [Cross-Team Synchronization](cross-team-synchronization.md)
 
 ## Sources

@@ -20,7 +20,7 @@ Design work areas with partial enclosure - high enough to provide visual privacy
 
 ## Related Patterns
 - [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md)
-- [Small Team Rooms](small-team-rooms.md)
+- [Small Team Bays](small-team-bays.md)
 - [Environmental Comfort Patterns](environmental-comfort-patterns.md)
 
 ## Sources

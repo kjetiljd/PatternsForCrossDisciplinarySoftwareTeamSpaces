@@ -47,7 +47,7 @@ Design work environments with adjustable ergonomic furniture, multiple lighting 
 - [Personalization and Human Scale](personalization-human-scale.md) - Enables individual comfort customization
 - [Pair Programming Workstations](pair-programming-workstations.md) - Requires multi-user ergonomic considerations
 - [Mob Programming Corner](mob-programming-corner.md) - Benefits from flexible furniture and acoustic design
-- [Small Team Rooms](small-team-rooms.md) - Provides framework for team-scale environmental comfort
+- [Small Team Bays](small-team-bays.md) - Provides framework for team-scale environmental comfort
 
 ## Sources
 - Ergonomic research and workplace health studies

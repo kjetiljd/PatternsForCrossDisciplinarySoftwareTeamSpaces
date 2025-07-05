@@ -42,7 +42,7 @@ Arrange team seating in U-shaped or circular configurations that enable eye cont
 - **Collaborative Classrooms:** Educational settings optimized for group discussion and peer interaction
 
 ## Related Patterns
-- [Small Team Rooms](../architectural-spatial/small-team-rooms.md) - Provides space framework for U-shaped arrangements
+- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Provides space framework for U-shaped arrangements
 - [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Individual stations within the U-shape
 - [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Central collaboration area within the U
 - [Modular Furniture and Reconfigurability](modular-furniture-reconfigurability.md) - Enables flexible U-shape implementation
