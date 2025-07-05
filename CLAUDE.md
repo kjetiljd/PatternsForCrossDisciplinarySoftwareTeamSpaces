@@ -100,3 +100,7 @@ The repository contains comprehensive foundational research with 50+ documented 
 - Asynchronous collaboration rituals
 
 This work serves as the foundation for a complete pattern language for cross-disciplinary software team spaces in the modern hybrid work environment. The pattern language is now ready for practical application and continued refinement based on real-world implementation.
+
+## Memories
+
+- Never update research files. They are immutable.

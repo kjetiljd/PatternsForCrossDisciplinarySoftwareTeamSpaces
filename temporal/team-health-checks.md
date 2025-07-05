@@ -20,7 +20,7 @@ Implement regular team health assessments through surveys, retrospectives, and d
 
 ## Related Patterns
 - [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
-- [Monthly/Quarterly Rituals](monthly-quarterly-rituals.md)
+- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
 - [Team Composition and Size](../organizational/team-composition-size.md)
 
 ## Sources

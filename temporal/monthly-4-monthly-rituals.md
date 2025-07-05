@@ -1,4 +1,4 @@
-# Monthly/Quarterly Rituals
+# Monthly/4-Month Period Rituals
 
 ## Summary
 Innovation days, hackathons, and Open Space events for learning and improvement that break routine and encourage experimentation.
@@ -10,7 +10,7 @@ Teams need regular opportunities to step back from routine work, experiment with
 Without regular breaks from routine work, teams can become stagnant, miss innovation opportunities, and lose motivation for continuous improvement.
 
 ## Solution
-Establish monthly or quarterly rituals like innovation days, hackathons, and Open Space events that encourage experimentation and learning.
+Establish monthly or 4-month period rituals like innovation days, hackathons, and Open Space events that encourage experimentation and learning.
 
 ## Forces
 - Routine productivity vs. innovation time

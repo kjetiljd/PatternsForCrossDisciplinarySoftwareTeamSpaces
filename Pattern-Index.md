@@ -88,9 +88,9 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ### Longer-Term Rhythms
 
-- **[Monthly/Quarterly Rituals](temporal/monthly-quarterly-rituals.md)** - Innovation days, hackathons, and Open Space events for learning and improvement
+- **[Monthly/4-Month Period Rituals](temporal/monthly-4-monthly-rituals.md)** - Innovation days, hackathons, and Open Space events for learning and improvement
 - **[Team Health Checks](temporal/team-health-checks.md)** - Regular surveys and discussions about team well-being and collaboration
-- **[Annual/Seasonal Patterns](temporal/annual-seasonal-patterns.md)** - Yearly offsites, quarterly planning, and cyclical cool-down periods
+- **[Annual/Seasonal Patterns](temporal/annual-seasonal-patterns.md)** - Yearly offsites, 4-month period planning, and cyclical cool-down periods
 
 ### Space-Time Integration
 

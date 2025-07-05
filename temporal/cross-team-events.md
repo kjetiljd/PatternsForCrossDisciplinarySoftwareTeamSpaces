@@ -21,7 +21,7 @@ Establish regular events like demo days, science fairs, and showcase events that
 ## Related Patterns
 - [Cross-Team Synchronization](../organizational/cross-team-synchronization.md)
 - [Poster Sessions](../cross-disciplinary/poster-sessions.md)
-- [Monthly/Quarterly Rituals](monthly-quarterly-rituals.md)
+- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
 
 ## Sources
 - Demo day practices in tech companies

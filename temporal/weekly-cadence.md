@@ -20,7 +20,7 @@ Establish weekly rhythms with planning activities early in the week and reflecti
 
 ## Related Patterns
 - [Daily Rituals](daily-rituals.md)
-- [Monthly/Quarterly Rituals](monthly-quarterly-rituals.md)
+- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
 - [Cross-Team Events](cross-team-events.md)
 
 ## Sources

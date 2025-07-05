@@ -1,7 +1,7 @@
 # Annual/Seasonal Patterns
 
 ## Summary
-Yearly offsites, quarterly planning, and cyclical cool-down periods that align with natural rhythms and organizational cycles.
+Yearly offsites, 4-month period planning, and cyclical cool-down periods that align with natural rhythms and organizational cycles.
 
 ## Context
 Teams and organizations need longer-term rhythms that align with natural cycles and provide opportunities for strategic planning and relationship building.
@@ -10,7 +10,7 @@ Teams and organizations need longer-term rhythms that align with natural cycles 
 Without longer-term patterns, teams can lose sight of strategic goals and miss opportunities for deeper connection and planning.
 
 ## Solution
-Establish annual and seasonal patterns such as yearly offsites, quarterly strategic planning, and cyclical cool-down periods that align with natural rhythms.
+Establish annual and seasonal patterns such as yearly offsites, 4-month period strategic planning, and cyclical cool-down periods that align with natural rhythms.
 
 ## Forces
 - Long-term planning vs. agile responsiveness
@@ -19,7 +19,7 @@ Establish annual and seasonal patterns such as yearly offsites, quarterly strate
 - Investment in planning vs. immediate delivery
 
 ## Related Patterns
-- [Monthly/Quarterly Rituals](monthly-quarterly-rituals.md)
+- [Monthly/4-Month Period Rituals](monthly-4-monthly-rituals.md)
 - [Cross-Team Events](cross-team-events.md)
 - [Anchor Days](../organizational/anchor-days.md)
 

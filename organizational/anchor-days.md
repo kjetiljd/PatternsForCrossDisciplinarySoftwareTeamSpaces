@@ -27,7 +27,7 @@ Implement purposeful anchor days:
 
 ## Examples
 - Companies using monthly all-hands anchor days
-- Project teams doing quarterly planning sessions in person
+- Project teams doing 4-month period planning sessions in person
 - GitLab's annual in-person summits despite being fully remote
 
 ## Related Patterns
