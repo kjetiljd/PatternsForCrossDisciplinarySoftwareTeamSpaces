@@ -32,9 +32,10 @@ Implement practices that build psychological safety:
 - XP's "courage" value encouraging difficult conversations
 
 ## Related Patterns
-- [Blameless Post-Mortems](blameless-post-mortems.md)
-- [Team Health Checks](../temporal/team-health-checks.md)
-- [Human-Centric Design](../meta-patterns/human-centric-design.md)
+- [Blameless Post-Mortems](blameless-post-mortems.md) - Systematic approach to learning from failures without blame
+- [Team Health Checks](../temporal/team-health-checks.md) - Regular assessment depends on psychological safety for honest feedback
+- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Foundational meta-pattern supporting psychological safety
+- [Environmental Comfort Patterns](../architectural-spatial/environmental-comfort-patterns.md) - Physical comfort creates foundation for psychological safety and risk-taking
 
 ## Sources
 - Google's Project Aristotle research

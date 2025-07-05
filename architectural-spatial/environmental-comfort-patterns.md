@@ -48,6 +48,8 @@ Design work environments with adjustable ergonomic furniture, multiple lighting 
 - [Pair Programming Workstations](pair-programming-workstations.md) - Requires multi-user ergonomic considerations
 - [Mob Programming Corner](mob-programming-corner.md) - Benefits from flexible furniture and acoustic design
 - [Small Team Bays](small-team-bays.md) - Provides framework for team-scale environmental comfort
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Physical comfort creates foundation for psychological safety and risk-taking
+- [Team Health Checks](../temporal/team-health-checks.md) - Environmental comfort directly impacts team well-being and energy levels
 
 ## Sources
 - Ergonomic research and workplace health studies

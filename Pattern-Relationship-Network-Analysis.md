@@ -178,6 +178,8 @@ graph TD
     ECP --> PPW
     ECP --> MPC
     ECP --> STB
+    ECP --> PSP
+    ECP --> THC
     PHS --> ECP
     PHS --> WEP
     PHS --> DOW
@@ -207,6 +209,8 @@ graph TD
     CB --> MRA
     CB --> ASP
     CB --> ECP
+    CB --> CHT
+    CB --> ACN
 
     %% Organizational Pattern Relationships
     %% Team Structure
@@ -390,6 +394,8 @@ graph TD
     CR --> PUS
     CR --> PS
     CR --> PSP
+    CR --> WC
+    CR --> RSA
     MT --> PHS
     MT --> ECP
     MT --> DOW

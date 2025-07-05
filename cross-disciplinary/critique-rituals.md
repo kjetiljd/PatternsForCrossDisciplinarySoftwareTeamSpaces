@@ -19,9 +19,11 @@ Establish regular critique sessions where teams present their work to peers and 
 - Individual vs. collective learning
 
 ## Related Patterns
-- [Pin-Up Space](pin-up-space.md)
-- [Poster Sessions](poster-sessions.md)
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
+- [Pin-Up Space](pin-up-space.md) - Physical space that supports displaying work for critique
+- [Poster Sessions](poster-sessions.md) - Similar approach to sharing and discussing work
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Essential foundation for productive critique
+- [Weekly Cadence](../temporal/weekly-cadence.md) - Critique rituals benefit from regular scheduling as part of weekly rhythms
+- [Rituals as Spatial Anchors](../temporal/rituals-spatial-anchors.md) - Using consistent spaces creates meaningful associations with critique practices
 
 ## Sources
 - Design studio critique traditions

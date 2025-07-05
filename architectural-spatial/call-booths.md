@@ -123,6 +123,8 @@ Research supports the need for acoustic privacy solutions:
 - [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Alternative to formal meeting rooms
 - [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Team collaboration privacy
 - [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and climate considerations
+- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Privacy needs align with temporal patterns of collaboration and focus time
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md) - Call booths enable private synchronous communication while maintaining async-first culture
 
 ## Sources
 - Office productivity research on open plan environments
