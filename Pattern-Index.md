@@ -2,7 +2,7 @@
 
 A comprehensive catalog of patterns for designing effective physical and organizational environments for software product teams in the hybrid work era.
 
-## Architectural/Spatial Patterns
+## [Architectural/Spatial Patterns](architectural-spatial/)
 
 ### Macro-Scale Space Patterns
 
@@ -28,7 +28,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)** - Create small collaboration alcoves immediately adjacent to team work zones for context-preserving discussions
 - **[Call Booths](architectural-spatial/call-booths.md)** - Provide soundproof privacy pods for individual calls and focused work without complete team separation
 
-## Organizational Patterns
+## [Organizational Patterns](organizational/)
 
 ### Team Structure and Autonomy
 
@@ -81,7 +81,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams leveraging both async tools and planned in-person interactions
 - **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)** - Integrate always-ready video conferencing into collaboration areas for seamless hybrid participation
 
-## Cross-Disciplinary Patterns
+## [Cross-Disciplinary Patterns](cross-disciplinary/)
 
 ### Research Lab Inspirations
 
@@ -107,7 +107,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Andon Cord & Stop-the-Line](cross-disciplinary/andon-cord-stop-line.md)** - Enable any team member to halt work to address quality issues
 - **[Kaizen Corner](cross-disciplinary/kaizen-corner.md)** - Create visible spaces for tracking continuous improvement efforts
 
-## Temporal Patterns
+## [Temporal Patterns](temporal/)
 
 ### Daily and Weekly Rhythms
 
@@ -128,7 +128,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Communal Eating](temporal/communal-eating.md)** - Shared meals as social equalizers and spaces for informal idea exchange
 - **[Cross-Team Events](temporal/cross-team-events.md)** - Regular demo days and science fairs that bring teams together in common spaces
 
-## Meta-Patterns
+## [Meta-Patterns](meta-patterns/)
 
 ### Overarching Themes
 
