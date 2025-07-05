@@ -48,4 +48,4 @@ Whether you are an architect designing software company offices, a team lead see
 
 ---
 
-*Begin exploring with the [Pattern Index](Pattern-Index.md) to understand the full scope of the pattern language, or dive into the [Pattern Relationship Network](Pattern-Relationship-Network.md) to see how patterns interconnect and influence each other.*
+*Begin exploring with the [Pattern Index](Pattern-Index.md) to understand the full scope of the pattern language, or dive into the [Pattern Relationship Network Analysis](Pattern-Relationship-Network-Analysis.md) to see how patterns interconnect and influence each other.*
