@@ -4,7 +4,7 @@
 
 A comprehensive catalog of patterns for designing effective physical and organizational environments for software product teams in the hybrid work era.
 
-## [Architectural/Spatial Patterns](architectural-spatial/)
+## [Architectural/Spatial Patterns](architectural-spatial/index.md)
 
 ### Macro-Scale Space Patterns
 
@@ -30,7 +30,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)** - Create small collaboration alcoves immediately adjacent to team work zones for context-preserving discussions
 - **[Call Booths](architectural-spatial/call-booths.md)** - Provide soundproof privacy pods for individual calls and focused work without complete team separation
 
-## [Organizational Patterns](organizational/)
+## [Organizational Patterns](organizational/index.md)
 
 ### Team Structure and Autonomy
 
@@ -83,7 +83,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams leveraging both async tools and planned in-person interactions
 - **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)** - Integrate always-ready video conferencing into collaboration areas for seamless hybrid participation
 
-## [Cross-Disciplinary Patterns](cross-disciplinary/)
+## [Cross-Disciplinary Patterns](cross-disciplinary/index.md)
 
 ### Research Lab Inspirations
 
@@ -130,7 +130,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Communal Eating](temporal/communal-eating.md)** - Shared meals as social equalizers and spaces for informal idea exchange
 - **[Cross-Team Events](temporal/cross-team-events.md)** - Regular demo days and science fairs that bring teams together in common spaces
 
-## [Meta-Patterns](meta-patterns/)
+## [Meta-Patterns](meta-patterns/index.md)
 
 ### Overarching Themes
 
