@@ -1,3 +1,5 @@
+---
+---
 # Patterns for Cross‑Disciplinary Software Team Spaces
 
 Modern software product teams thrive in environments designed for aligned autonomy – small self-governing teams working in spaces that foster both focus and collaboration. Drawing inspiration from Christopher Alexander’s Pattern Language and contemporary agile practices, we outline key architectural and organizational patterns for individual team spaces and for clusters of such teams. These patterns also incorporate lessons from Extreme Programming, the “Spotify model,” Amazon’s two-pizza teams, and recent research on remote/hybrid work. The goal is to provide a foundation for a pattern language guiding effective cross-disciplinary team environments.

@@ -1,3 +1,5 @@
+---
+---
 # Productive Traces Preservation
 
 **Summary**: Distinguish between beneficial signs of use and actual problems, preserving evidence of successful adaptations while addressing genuine issues.

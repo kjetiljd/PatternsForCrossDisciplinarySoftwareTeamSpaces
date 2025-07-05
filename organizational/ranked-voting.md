@@ -1,3 +1,5 @@
+---
+---
 # Ranked Voting
 
 ## Summary

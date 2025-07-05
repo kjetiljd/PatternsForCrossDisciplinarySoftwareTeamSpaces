@@ -1,3 +1,5 @@
+---
+---
 # Fractal Autonomy, Layered Alignment
 
 ## Summary

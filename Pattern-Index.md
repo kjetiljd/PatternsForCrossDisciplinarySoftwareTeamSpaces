@@ -1,3 +1,5 @@
+---
+---
 # Pattern Index: Cross-Disciplinary Software Team Spaces
 
 A comprehensive catalog of patterns for designing effective physical and organizational environments for software product teams in the hybrid work era.

@@ -1,3 +1,5 @@
+---
+---
 # Transparency and Osmotic Communication
 
 ## Summary

@@ -1,3 +1,5 @@
+---
+---
 # Self-Governing Teams
 
 ## Summary

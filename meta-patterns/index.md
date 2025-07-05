@@ -1,3 +1,5 @@
+---
+---
 # Meta-Patterns
 
 At the foundation of any pattern language lie the deep principles that shape how we think about problems and solutions. These meta-patterns establish the philosophical framework that influences all other patterns in this collection. They represent overarching themes about human needs, organizational design, and environmental creation that transcend specific implementations while providing coherent guidance for creating environments where software teams can thrive.

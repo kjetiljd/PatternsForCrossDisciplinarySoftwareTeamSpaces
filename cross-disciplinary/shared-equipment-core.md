@@ -1,3 +1,5 @@
+---
+---
 # Shared Equipment Core
 
 ## Summary

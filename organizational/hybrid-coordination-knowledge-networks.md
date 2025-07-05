@@ -1,3 +1,5 @@
+---
+---
 # Hybrid Coordination and Knowledge Networks
 
 ## Summary

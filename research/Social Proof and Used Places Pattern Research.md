@@ -1,3 +1,5 @@
+---
+---
 # Social Proof and Used Places Pattern Research
 
 *Research on the pattern: "People use places more when they look already used"*

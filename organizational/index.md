@@ -1,3 +1,5 @@
+---
+---
 # Organizational Patterns
 
 Effective software teams require organizational structures that enable rapid decision-making, knowledge sharing, and adaptation to changing requirements. These organizational patterns create frameworks for team autonomy, sophisticated decision-making, seamless communication, cross-team coordination, and hybrid work integration. They recognize that software development is fundamentally collaborative work that benefits from aligned autonomy rather than command-and-control management.

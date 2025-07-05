@@ -1,3 +1,5 @@
+---
+---
 # Cross-Disciplinary Software Team Spaces: A Pattern Language
 
 In the evolving landscape of software development, where hybrid work has become the norm and cross-functional teams are essential for delivering complex products, traditional office design and organizational structures often fall short. This pattern language bridges the gap between the physical environments where software teams work and the organizational patterns that enable them to thrive.

@@ -1,3 +1,5 @@
+---
+---
 # Critique Rituals
 
 ## Summary

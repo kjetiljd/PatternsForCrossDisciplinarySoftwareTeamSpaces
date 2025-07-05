@@ -1,3 +1,5 @@
+---
+---
 # Decision-Making Patterns
 
 ## Summary

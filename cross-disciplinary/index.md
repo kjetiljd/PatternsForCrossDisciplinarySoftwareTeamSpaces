@@ -1,3 +1,5 @@
+---
+---
 # Cross-Disciplinary Patterns
 
 Software development shares surprising commonalities with other fields that blend creative and technical work. These cross-disciplinary patterns draw insights from research laboratories, maker spaces, architectural studios, and manufacturing cells—environments where complex problems are solved through collaboration between specialists with different expertise. By examining how these fields create conditions for innovation and quality, we can discover approaches that enhance software team effectiveness.

@@ -1,3 +1,5 @@
+---
+---
 # Psychological Safety Practices
 
 ## Summary

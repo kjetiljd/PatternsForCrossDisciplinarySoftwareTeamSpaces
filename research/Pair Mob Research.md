@@ -1,3 +1,5 @@
+---
+---
 # Enhancing Team Spaces for Pair Programming and Hybrid Work
 
 In the hybrid era, software teams need physical environments that support close collaboration (like pair and mob programming) while accommodating remote participants. Below we propose new patterns to add to the catalog and augmentations to existing patterns. These changes focus on furniture layout, tools, and hybrid integration to better facilitate pair programming, whole-team coding sessions, and fluid in-person/remote collaboration.

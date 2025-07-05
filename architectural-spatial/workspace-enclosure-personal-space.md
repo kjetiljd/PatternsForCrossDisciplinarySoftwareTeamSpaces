@@ -1,3 +1,5 @@
+---
+---
 # Workspace Enclosure & Personal Space
 
 ## Summary

@@ -1,3 +1,5 @@
+---
+---
 # Kaizen Corner
 
 ## Summary

@@ -1,3 +1,5 @@
+---
+---
 # High-Performance Team Patterns for Hybrid-First Product Organizations
 
 ## Introduction

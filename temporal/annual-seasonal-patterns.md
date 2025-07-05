@@ -1,3 +1,5 @@
+---
+---
 # Annual/Seasonal Patterns
 
 ## Summary

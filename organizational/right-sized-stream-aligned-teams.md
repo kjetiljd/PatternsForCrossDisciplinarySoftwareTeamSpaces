@@ -1,3 +1,5 @@
+---
+---
 # Right-Sized Stream-Aligned Teams
 
 ## Summary

@@ -5,4 +5,9 @@ plugins:
 title: "Cross-Disciplinary Software Team Spaces"
 description: A Pattern Language
 show_downloads: false
-mermaid: true
+google_analytics: G-CRHTQJZJBY
+repository: kjetiljd/PatternsForCross-DisciplinarySoftwareTeamSpaces
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty

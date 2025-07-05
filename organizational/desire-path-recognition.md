@@ -1,3 +1,5 @@
+---
+---
 # Desire Path Recognition
 
 **Summary**: Observe natural patterns of team behavior and space usage before formalizing processes or layouts, allowing organic solutions to emerge.

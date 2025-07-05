@@ -1,3 +1,5 @@
+---
+---
 # Pattern Language for Cross-Disciplinary Software Team Spaces
 
 A comprehensive pattern language addressing physical and organizational environments for cross-disciplinary software product teams in the hybrid work era. This research bridges architecture, organizational psychology, software engineering, interior design, product management, and epistemology to create effective team environments.

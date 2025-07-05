@@ -1,3 +1,5 @@
+---
+---
 # Visible Evolution Traces
 
 **Summary**: Design spaces to show their history of adaptation and use, making team modifications visible to encourage further beneficial changes.

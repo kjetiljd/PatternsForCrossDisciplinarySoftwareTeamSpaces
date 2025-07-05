@@ -1,3 +1,5 @@
+---
+---
 # Rituals as Spatial Anchors
 
 ## Summary

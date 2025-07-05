@@ -1,3 +1,5 @@
+---
+---
 # Temporal Patterns
 
 Time shapes everything about how software teams work. The rhythms, cadences, and cycles that structure team life profoundly impact productivity, well-being, and the quality of both individual work and collective collaboration. These temporal patterns create frameworks for sustainable workflows that honor both the need for deep, focused concentration and the energizing power of collaborative creation.

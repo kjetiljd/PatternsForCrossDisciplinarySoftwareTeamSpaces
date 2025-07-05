@@ -1,3 +1,5 @@
+---
+---
 # Adjacent Semi-Private Spaces
 
 ## Summary

@@ -1,3 +1,5 @@
+---
+---
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -102,6 +104,23 @@ The repository contains comprehensive foundational research with 50+ documented 
 - Asynchronous collaboration rituals
 
 This work serves as the foundation for a complete pattern language for cross-disciplinary software team spaces in the modern hybrid work environment. The pattern language is now ready for practical application and continued refinement based on real-world implementation.
+
+## Development Environment
+
+### Local Jekyll Server
+- The repository is configured to run Jekyll locally via Docker
+- Use `make serve` to build and run the Jekyll server (blocks terminal)
+- Server runs at http://localhost:4000 with live reload enabled
+- Run the command in a separate terminal/process when needed
+
+### Available Make Commands
+- `make build`: Build the Docker image
+- `make serve`: Build and serve the site locally (with live reload) - blocks terminal
+- `make serve-daemon`: Build and serve the site in background daemon mode
+- `make logs`: View logs from the background Jekyll server
+- `make stop`: Stop the background Jekyll server
+- `make rebuild`: Clean and rebuild from scratch
+- `make clean`: Remove Docker image
 
 ## Memories
 

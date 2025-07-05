@@ -1,3 +1,5 @@
+---
+---
 # Half-Open, Half-Private Spaces
 
 ## Summary

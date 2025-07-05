@@ -1,3 +1,5 @@
+---
+---
 # Architectural and Spatial Patterns
 
 The physical environment profoundly shapes how software teams collaborate, focus, and innovate. These architectural and spatial patterns create environments that support both individual productivity and team effectiveness, recognizing that software development requires frequent transitions between focused concentration and collaborative problem-solving.

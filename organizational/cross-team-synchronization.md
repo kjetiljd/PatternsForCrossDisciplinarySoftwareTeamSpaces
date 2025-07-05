@@ -1,3 +1,5 @@
+---
+---
 # Cross-Team Synchronization
 
 ## Summary

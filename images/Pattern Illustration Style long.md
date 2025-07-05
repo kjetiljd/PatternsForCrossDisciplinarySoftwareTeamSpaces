@@ -1,3 +1,5 @@
+---
+---
 # Illustration Style Description for Architectural Patterns
 
 ## Style

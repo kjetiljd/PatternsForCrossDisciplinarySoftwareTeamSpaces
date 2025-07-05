@@ -1,3 +1,5 @@
+---
+---
 # Lab Adjacency
 
 ## Summary
