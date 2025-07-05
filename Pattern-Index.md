@@ -25,6 +25,8 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 - **[Pair Programming Workstations](architectural-spatial/pair-programming-workstations.md)** - Design dedicated desks for two people to comfortably work at one machine with dual peripherals
 - **[Mob Programming Corner](architectural-spatial/mob-programming-corner.md)** - Create spaces where entire teams can collaborate on one task with large displays and flexible seating
+- **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)** - Create small collaboration alcoves immediately adjacent to team work zones for context-preserving discussions
+- **[Call Booths](architectural-spatial/call-booths.md)** - Provide soundproof privacy pods for individual calls and focused work without complete team separation
 
 ## Organizational Patterns
 
@@ -57,6 +59,8 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Thinking Out Loud](organizational/thinking-out-loud.md)** - Create clarity and trust by voicing reasoning, assumptions, and uncertainties before taking action
 - **[I Intend To](organizational/i-intend-to.md)** - Build ownership and alignment by clearly stating planned actions and rationale before proceeding
 - **[Desire Path Recognition](organizational/desire-path-recognition.md)** - Observe natural patterns of team behavior and space usage before formalizing processes or layouts
+- **[Meeting Room Anti-Pattern](organizational/meeting-room-anti-pattern.md)** - Avoid using traditional meeting rooms for core collaborative work to prevent barriers to spontaneous interaction
+- **[In-Zone Collaboration](organizational/in-zone-collaboration.md)** - Conduct team discussions within work areas rather than separate meeting spaces to preserve context
 
 ### Cross-Team Coordination
 
@@ -137,4 +141,4 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ---
 
-*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 76 patterns with enhanced focus on sophisticated decision-making frameworks, intensive collaboration practices, and social proof mechanisms that encourage beneficial space evolution and team engagement.*
+*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 80 patterns with enhanced focus on sophisticated decision-making frameworks, intensive collaboration practices, spatial alternatives to traditional meeting rooms, and social proof mechanisms that encourage beneficial space evolution and team engagement.*

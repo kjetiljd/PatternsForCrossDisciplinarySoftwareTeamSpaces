@@ -19,9 +19,11 @@ Design work areas with partial enclosure - high enough to provide visual privacy
 - Individual preferences vs. team cohesion
 
 ## Related Patterns
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md)
-- [Small Team Bays](small-team-bays.md)
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md)
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Individual workspace privacy design
+- [Small Team Bays](small-team-bays.md) - Team-level privacy and enclosure
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and lighting considerations
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Collaboration spaces with similar privacy principles
+- [Call Booths](call-booths.md) - Complementary individual privacy solution
 
 ## Sources
 - Research on office design and productivity
