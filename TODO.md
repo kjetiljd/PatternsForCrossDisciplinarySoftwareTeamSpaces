@@ -38,10 +38,10 @@
 
 - [ ] ## Architectural/Spatial Improvements
 
-- [ ] ### Work Community Clusters
-- [ ] - **Add diagrams**: Visual representations would make the spatial relationships clearer.
-- [ ] - **Include failure modes**: What happens when these clusters are implemented poorly?
-- [ ] - **Hybrid adaptation**: More explicit guidance on how these clusters work in hybrid settings.
+- [x] ### Work Community Clusters
+- [x] - **Add diagrams**: Visual representations would make the spatial relationships clearer.
+- [x] - **Include failure modes**: What happens when these clusters are implemented poorly?
+- [x] - **Hybrid adaptation**: More explicit guidance on how these clusters work in hybrid settings.
 
 - [ ] ### Half-Open, Half-Private Spaces
 - [ ] - **Quantify the balance**: Provide more specific guidance on the optimal degree of enclosure for different activities.
