@@ -62,10 +62,10 @@
 - [x] - **Include sensory considerations**: Address not just physical accessibility but also sensory accessibility needs.
 - [x] - **Provide retrofit guidance**: Offer strategies for improving accessibility in existing spaces with constraints.
 
-- [ ] ### Adjacent Semi-Private Spaces
-- [ ] - **Provide acoustic specifications**: Include detailed acoustic performance metrics for effective semi-private areas.
-- [ ] - **Add furniture configurations**: Show specific furniture arrangements that optimize the balance of privacy and openness.
-- [ ] - **Include transition protocols**: Develop guidelines for how teams should signal and respect transitions between collaborative and focused work.
+- [x] ### Adjacent Semi-Private Spaces
+- [x] - **Provide acoustic specifications**: Include detailed acoustic performance metrics for effective semi-private areas.
+- [x] - **Add furniture configurations**: Show specific furniture arrangements that optimize the balance of privacy and openness.
+- [x] - **Include transition protocols**: Develop guidelines for how teams should signal and respect transitions between collaborative and focused work.
 
 - [x] ### Call Booths
 - [x] - **Specify technology integration**: Provide detailed specifications for A/V equipment that works best in small enclosed spaces.
@@ -92,10 +92,10 @@
 - [x] - **Include equipment recommendations**: Suggest specific hardware configurations that support effective pairing.
 - [x] - **Address different pairing styles**: Offer variations for driver-navigator, ping-pong, and other pairing approaches.
 
-- [ ] ### Personalization and Human Scale
-- [ ] - **Develop personalization frameworks**: Provide structured approaches to balancing individual expression with team identity.
-- [ ] - **Add cultural considerations**: Address how different cultural backgrounds affect personalization preferences.
-- [ ] - **Include maintenance guidelines**: Offer strategies for keeping personalized spaces organized and professional.
+- [x] ### Personalization and Human Scale
+- [x] - **Develop personalization frameworks**: Provide structured approaches to balancing individual expression with team identity.
+- [x] - **Add cultural considerations**: Address how different cultural backgrounds affect personalization preferences.
+- [x] - **Include maintenance guidelines**: Offer strategies for keeping personalized spaces organized and professional.
 
 - [x] ### Small Team Bays
 - [x] - **Provide dimensional specifications**: Include detailed measurements and spatial requirements for different team sizes.
