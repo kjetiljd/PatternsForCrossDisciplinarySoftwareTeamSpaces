@@ -12,9 +12,9 @@
 - [ ] - **Expand on implementation**: Provide more detailed guidance on how to balance transparency with privacy concerns.
 - [ ] - **Metrics for success**: Include ways to measure effective information flow.
 
-- [ ] ### Human-Centric Design
-- [ ] - **Strengthen connection to cognitive science**: Incorporate more research on how physical environments affect cognitive processes.
-- [ ] - **Address neurodiversity**: Explicitly address how spaces can accommodate different cognitive styles and sensory needs.
+- [x] ### Human-Centric Design
+- [x] - **Strengthen connection to cognitive science**: Incorporate more research on how physical environments affect cognitive processes.
+- [x] - **Address neurodiversity**: Explicitly address how spaces can accommodate different cognitive styles and sensory needs.
 
 - [ ] ### Spaces that Empower and Invite
 - [ ] - **Provide concrete implementation tactics**: Include specific design elements that signal empowerment and invitation.
