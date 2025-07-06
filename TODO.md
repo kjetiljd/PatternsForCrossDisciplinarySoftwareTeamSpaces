@@ -67,10 +67,10 @@
 - [ ] - **Add furniture configurations**: Show specific furniture arrangements that optimize the balance of privacy and openness.
 - [ ] - **Include transition protocols**: Develop guidelines for how teams should signal and respect transitions between collaborative and focused work.
 
-- [ ] ### Call Booths
-- [ ] - **Specify technology integration**: Provide detailed specifications for A/V equipment that works best in small enclosed spaces.
-- [ ] - **Add booking systems**: Suggest lightweight reservation approaches that don't create administrative overhead.
-- [ ] - **Include maintenance protocols**: Develop guidelines for keeping these high-use spaces clean and functional.
+- [x] ### Call Booths
+- [x] - **Specify technology integration**: Provide detailed specifications for A/V equipment that works best in small enclosed spaces.
+- [x] - **Add booking systems**: Suggest lightweight reservation approaches that don't create administrative overhead.
+- [x] - **Include maintenance protocols**: Develop guidelines for keeping these high-use spaces clean and functional.
 
 - [ ] ### Environmental Comfort Patterns
 - [ ] - **Add measurement standards**: Include specific metrics for light levels, temperature ranges, and acoustic performance.
