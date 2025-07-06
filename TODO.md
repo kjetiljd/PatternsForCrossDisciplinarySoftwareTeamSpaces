@@ -31,10 +31,10 @@
 - [x] - **Add transition strategies**: Include techniques for helping teams switch effectively between modes.
 - [x] - **Address hybrid work challenges**: Explain how to maintain rhythms when some team members are remote.
 
-- [ ] ### Productive Traces Preservation
-- [ ] - **Add decision framework**: Develop clearer criteria for determining which traces to preserve.
-- [ ] - **Include conversation guides**: Provide templates for discussions between teams and facilities management.
-- [ ] - **Expand digital application**: Extend the concept to digital workspaces and artifacts.
+- [x] ### Productive Traces Preservation
+- [x] - **Add decision framework**: Develop clearer criteria for determining which traces to preserve.
+- [x] - **Include conversation guides**: Provide templates for discussions between teams and facilities management.
+- [x] - **Expand digital application**: Extend the concept to digital workspaces and artifacts.
 
 - [ ] ## Architectural/Spatial Improvements
 
