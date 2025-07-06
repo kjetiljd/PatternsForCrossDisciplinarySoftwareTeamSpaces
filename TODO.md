@@ -47,10 +47,10 @@
 - [ ] - **Quantify the balance**: Provide more specific guidance on the optimal degree of enclosure for different activities.
 - [ ] - **Material recommendations**: Include specific material suggestions that balance acoustic and visual privacy.
 
-- [ ] ### Scattered Work and Campus Layout
-- [ ] - **Provide implementation strategies**: Include practical approaches for organizations transitioning from isolated campuses.
-- [ ] - **Add economic analysis**: Offer cost-benefit comparisons between isolated and mixed-use approaches.
-- [ ] - **Include case studies**: Showcase successful examples of scattered work environments in different contexts.
+- [x] ### Scattered Work and Campus Layout
+- [x] - **Provide implementation strategies**: Include practical approaches for organizations transitioning from isolated campuses.
+- [x] - **Add economic analysis**: Offer cost-benefit comparisons between isolated and mixed-use approaches.
+- [x] - **Include case studies**: Showcase successful examples of scattered work environments in different contexts.
 
 - [ ] ### Office Connections & Team War Rooms
 - [ ] - **Specify spatial relationships**: Provide more detailed guidance on optimal adjacencies between teams.
