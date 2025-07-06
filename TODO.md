@@ -52,15 +52,15 @@
 - [x] - **Add economic analysis**: Offer cost-benefit comparisons between isolated and mixed-use approaches.
 - [x] - **Include case studies**: Showcase successful examples of scattered work environments in different contexts.
 
-- [ ] ### Office Connections & Team War Rooms
-- [ ] - **Specify spatial relationships**: Provide more detailed guidance on optimal adjacencies between teams.
-- [ ] - **Add configuration options**: Include different layout possibilities for team war rooms based on team size and work style.
-- [ ] - **Address hybrid considerations**: Explain how to maintain connections when some team members are remote.
+- [x] ### Office Connections & Team War Rooms
+- [x] - **Specify spatial relationships**: Provide more detailed guidance on optimal adjacencies between teams.
+- [x] - **Add configuration options**: Include different layout possibilities for team war rooms based on team size and work style.
+- [x] - **Address hybrid considerations**: Explain how to maintain connections when some team members are remote.
 
-- [ ] ### Accessible & Code-Compliant Design
-- [ ] - **Create compliance checklists**: Develop practical checklists for ensuring spaces meet accessibility requirements.
-- [ ] - **Include sensory considerations**: Address not just physical accessibility but also sensory accessibility needs.
-- [ ] - **Provide retrofit guidance**: Offer strategies for improving accessibility in existing spaces with constraints.
+- [x] ### Accessible & Code-Compliant Design
+- [x] - **Create compliance checklists**: Develop practical checklists for ensuring spaces meet accessibility requirements.
+- [x] - **Include sensory considerations**: Address not just physical accessibility but also sensory accessibility needs.
+- [x] - **Provide retrofit guidance**: Offer strategies for improving accessibility in existing spaces with constraints.
 
 - [ ] ### Adjacent Semi-Private Spaces
 - [ ] - **Provide acoustic specifications**: Include detailed acoustic performance metrics for effective semi-private areas.
