@@ -250,10 +250,10 @@
 
 - [ ] ## Cross-Disciplinary Improvements
 
-- [ ] ### U-Shape Team Layout
-- [ ] - **Include accessibility considerations**: Ensure the layout works for team members with mobility challenges.
-- [ ] - **Add acoustic considerations**: Address potential noise issues in this configuration.
-- [ ] - **Hybrid adaptation**: How does this layout work when some team members are remote?
+- [x] ### U-Shape Team Layout
+- [x] - **Include accessibility considerations**: Ensure the layout works for team members with mobility challenges.
+- [x] - **Add acoustic considerations**: Address potential noise issues in this configuration.
+- [x] - **Hybrid adaptation**: How does this layout work when some team members are remote?
 
 - [ ] ### Critique Rituals
 - [ ] - **Structured feedback templates**: Include specific formats for giving and receiving critique.
