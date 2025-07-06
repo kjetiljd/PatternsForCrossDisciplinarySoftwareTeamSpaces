@@ -82,10 +82,10 @@
 - [ ] - **Include facilitation guidelines**: Offer guidance on how to effectively facilitate mob programming sessions.
 - [ ] - **Address space transitions**: Explain how these spaces can transform between mob programming and other uses.
 
-- [ ] ### Neighborhood Effect and Serendipity
-- [ ] - **Provide layout examples**: Include specific floor plans that maximize beneficial chance encounters.
-- [ ] - **Add measurement methods**: Develop ways to assess whether spaces are actually generating serendipitous interactions.
-- [ ] - **Include activation strategies**: Offer techniques for encouraging people to use common areas effectively.
+- [x] ### Neighborhood Effect and Serendipity
+- [x] - **Provide layout examples**: Include specific floor plans that maximize beneficial chance encounters.
+- [x] - **Add measurement methods**: Develop ways to assess whether spaces are actually generating serendipitous interactions.
+- [x] - **Include activation strategies**: Offer techniques for encouraging people to use common areas effectively.
 
 - [x] ### Pair Programming Workstations
 - [x] - **Add ergonomic guidelines**: Provide detailed specifications for optimal viewing angles and distances.
