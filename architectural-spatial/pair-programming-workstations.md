@@ -31,6 +31,121 @@ Create dedicated pair programming workstations with:
 - Optional bar-height stools for standing collaboration
 - Adequate legroom and personal space for extended sessions
 
+## Visual Layout
+
+### Optimal Pair Programming Desk Configuration
+```
+                    ← 160cm minimum width →
+                   ┌─────────────────────────┐ ↑
+                   │      MONITOR  MONITOR   │ │
+                   │        📺      📺      │ │
+                   │                         │ │ 80cm
+                   │  ⌨️🖱️         ⌨️🖱️    │ │ min
+                   │ PERSON A      PERSON B  │ │ depth
+                   │   🪑           🪑       │ │
+                   └─────────────────────────┘ ↓
+                   
+                   ← Driver Position  Navigator Position →
+```
+
+### Driver/Navigator Setup
+```
+        📺 SHARED DISPLAY (24" minimum) 📺
+        ┌─────────────────────────────────┐
+        │                                 │
+        │    Code + Collaborative View    │
+        │                                 │
+        └─────────────────────────────────┘
+        
+    ⌨️ KEYBOARD A          ⌨️ KEYBOARD B
+    🖱️ MOUSE A             🖱️ MOUSE B
+        ↓                       ↓
+    [PERSON A]               [PERSON B]
+     Driver                   Navigator
+    🪑 Chair A               🪑 Chair B
+    
+    💻 ONE MACHINE (switch control via software)
+    
+    Both keyboards/mice connected to single computer
+    Easy role switching without standing/moving
+```
+
+### Alternative Standing Configuration
+```
+                    🏃‍♂️ STANDING HEIGHT 🏃‍♀️
+                   ┌─────────────────────────┐
+                   │  📺 MONITOR  MONITOR 📺 │
+                   │                         │
+                   │  ⌨️ KEYBOARD KEYBOARD ⌨️ │
+                   │  🖱️ MOUSE    MOUSE   🖱️ │
+                   │                         │
+                   │  👤 PERSON A  PERSON B 👤│
+                   └─────────────────────────┘
+                   
+                   Optional bar stools: 🪑      🪑
+                   (for hybrid sit/stand sessions)
+```
+
+### Equipment Layout Comparison
+```mermaid
+graph TD
+    subgraph "❌ Poor Layout (L-Shaped Desk)"
+        BAD_DESK[🗂️ L-Shaped Corner Desk]
+        BAD_PERSON1[👤 Person A<br/>Corner position]
+        BAD_PERSON2[👤 Person B<br/>Awkward lean-over]
+        BAD_MONITOR[📺 Single Monitor<br/>Poor viewing angle]
+        
+        BAD_PERSON1 -.-> BAD_DESK
+        BAD_PERSON2 -.->|"❌ Uncomfortable<br/>shoulder strain"| BAD_PERSON1
+        BAD_MONITOR -.-> BAD_DESK
+    end
+    
+    subgraph "✅ Good Layout (Rectangular Desk)"
+        GOOD_DESK[📋 Rectangular Desk<br/>160cm x 80cm minimum]
+        GOOD_PERSON1[👤 Person A<br/>Driver position]
+        GOOD_PERSON2[👤 Person B<br/>Navigator position]
+        GOOD_MONITORS[📺📺 Dual Monitors<br/>Shared viewing]
+        GOOD_PERIPHERALS[⌨️🖱️ Dual Input Devices<br/>Single machine]
+        
+        GOOD_PERSON1 --> GOOD_DESK
+        GOOD_PERSON2 --> GOOD_DESK
+        GOOD_MONITORS --> GOOD_DESK
+        GOOD_PERIPHERALS --> GOOD_DESK
+    end
+    
+    classDef bad fill:#ffebee,stroke:#c62828
+    classDef good fill:#e8f5e8,stroke:#388e3c
+    
+    class BAD_DESK,BAD_PERSON1,BAD_PERSON2,BAD_MONITOR bad
+    class GOOD_DESK,GOOD_PERSON1,GOOD_PERSON2,GOOD_MONITORS,GOOD_PERIPHERALS good
+```
+
+### Space Requirements Within Team Bays
+```
+    TEAM BAY INTEGRATION (within Small Team Bays pattern)
+    
+    ┌─────────────────────────────────────────────────────┐
+    │  INDIVIDUAL    │   PAIR STATION   │  INDIVIDUAL     │
+    │  WORKSTATION   │                  │  WORKSTATION    │
+    │      👤         │    👤 + 👤       │      👤         │
+    │     🖥️🪑        │   📺📺⌨️⌨️🪑🪑   │     🖥️🪑        │
+    │                 │                  │                 │
+    ├─────────────────┼──────────────────┼─────────────────┤
+    │                                                     │
+    │            TEAM COLLABORATION AREA                   │
+    │                ○ Standing Table                     │
+    │                                                     │
+    ├─────────────────┼──────────────────┼─────────────────┤
+    │  INDIVIDUAL    │   INDIVIDUAL     │  INDIVIDUAL     │
+    │  WORKSTATION   │   WORKSTATION    │  WORKSTATION    │
+    │      👤         │      👤          │      👤         │
+    │     🖥️🪑        │     🖥️🪑         │     🖥️🪑        │
+    └─────────────────┴──────────────────┴─────────────────┘
+    
+    Pair programming workstation takes ~20% more space
+    but enables intensive collaboration when needed
+```
+
 ## Forces
 - **Collaboration vs. Individual Work:** Stations must support intensive pairing while remaining usable for solo development
 - **Physical Comfort:** Extended pairing sessions require ergonomic consideration for both participants
