@@ -128,10 +128,10 @@
 - [x] - **Include failure modes**: Describe common ways this pattern fails and how to recover.
 - [x] - **Provide transition roadmap**: Create a step-by-step guide for organizations moving from command-and-control to aligned autonomy.
 
-- [ ] ### Decision-Making Patterns
-- [ ] - **Create decision type flowchart**: Develop a visual guide for matching decision types to appropriate processes.
-- [ ] - **Add hybrid-specific guidance**: Include strategies for effective decision-making in distributed/hybrid teams.
-- [ ] - **Provide templates**: Include ready-to-use templates for different types of decision documentation.
+- [x] ### Decision-Making Patterns
+- [x] - **Create decision type flowchart**: Develop a visual guide for matching decision types to appropriate processes.
+- [x] - **Add hybrid-specific guidance**: Include strategies for effective decision-making in distributed/hybrid teams.
+- [x] - **Provide templates**: Include ready-to-use templates for different types of decision documentation.
 
 - [ ] ### Team Composition and Size
 - [ ] - **Expand skill coverage guidance**: Provide more detailed recommendations for ensuring all necessary skills are represented.
