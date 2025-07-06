@@ -14,8 +14,11 @@ Large open offices create noise, distraction, and anonymity. People lose sense o
 ## Solution
 Create small team bays that:
 - **Optimal sizing**: Typically 4-6 people per bay for ideal team dynamics
+- **Dimensional specifications**: 300-400 sq ft (28-37 m²) for 4-6 person bay, 600-800 sq ft (56-74 m²) for joined double bay up to 12 people
+- **Individual workspace**: 60-80 sq ft (5.6-7.4 m²) per person including circulation space, with minimum 6 feet (1.8m) between facing desks
+- **Central collaboration zone**: 100-150 sq ft (9-14 m²) for team interactions
 - **Scalable design**: Larger teams (up to 12) accommodated by joining two adjacent bays
-- **Partial enclosure**: Low walls or barriers that define the space but maintain visual connection
+- **Partial enclosure**: Low walls (4-5 feet/1.2-1.5m) or barriers that define the space but maintain visual connection
 - **Superior sound dampening**: Acoustic treatment that prevents conversation from carrying while allowing teams to speak naturally
 - **Shared resources**: Team whiteboard, meeting corner, shared storage
 - **Team identity**: Space that the team can personalize and control
@@ -137,11 +140,14 @@ graph TD
 
 ### Phase 2: Acoustic & Environmental Setup (Weeks 2-4)
 **Sound Management:**
-- [ ] Install acoustic panels or low walls (4-5 feet height)
-- [ ] Test background noise levels (target: <50 dB for concentration)
-- [ ] Add carpet or sound-absorbing flooring materials
-- [ ] Position acoustic barriers to contain team discussions
-- [ ] Verify speech privacy without complete isolation
+- [ ] Install acoustic panels or low walls (4-5 feet height) with NRC 0.85+ rating
+- [ ] Test background noise levels (target: <50 dB for concentration, <40 dB for phone calls)
+- [ ] Achieve Speech Privacy Index (SPI) of 0.7-0.8 (allows team conversation while protecting from external distraction)
+- [ ] Add carpet or sound-absorbing flooring materials (minimum NRC 0.25)
+- [ ] Install acoustic ceiling tiles (NRC 0.70-0.90) if possible
+- [ ] Position fabric-wrapped acoustic barriers with dense core (fiberglass/rockwool) to contain team discussions
+- [ ] Consider white noise or sound masking systems if ambient noise insufficient
+- [ ] Verify speech privacy without complete isolation - teams should overhear urgent cross-team communications
 
 **Environmental Comfort:**
 - [ ] Install adjustable LED lighting (minimum 500 lux on work surfaces)
@@ -225,6 +231,58 @@ graph TD
 - [ ] **Technology problems**: Ensure adequate power, network, and A/V support
 - [ ] **Space conflicts**: Establish clear team boundaries and usage norms
 - [ ] **Limited personalization**: Allow teams to modify and adapt within guidelines
+
+## Team Transition Protocols
+
+### When Team Composition Changes
+Team bays must adapt when members join, leave, or when entirely new teams occupy the space:
+
+**Adding Team Members (1-2 people):**
+- [ ] Assess if current bay can accommodate growth within 4-6 person optimal range
+- [ ] Reconfigure furniture layout to maintain U-shape while adding workstations
+- [ ] Preserve central collaboration zone (minimum 100 sq ft)
+- [ ] Update technology access (network, power, display connections)
+- [ ] Allow 1-2 weeks for team to establish new working patterns
+
+**Major Team Changes (>50% turnover):**
+- [ ] Conduct space reset session with incoming team members
+- [ ] Review and potentially modify team working agreements for space usage
+- [ ] Reestablish team identity artifacts (displays, decorations, project boards)
+- [ ] Test and adjust acoustic properties if team interaction style differs
+- [ ] Allow 4-6 weeks for new team dynamics to stabilize
+
+**Complete Team Replacement:**
+- [ ] Archive previous team's work artifacts and personalization appropriately
+- [ ] Reset space to neutral baseline while preserving successful layout elements
+- [ ] Orient new team to space capabilities and constraints
+- [ ] Support new team in establishing ownership and customization
+- [ ] Monitor space usage patterns during first 8 weeks for optimization needs
+
+### Space Evolution Guidelines
+**Gradual Adaptation (Ongoing):**
+- [ ] Allow teams to move furniture within acoustic and safety constraints
+- [ ] Support seasonal or project-based reconfigurations
+- [ ] Maintain documentation of successful layout variations for future teams
+- [ ] Preserve core U-shape structure while allowing collaboration zone flexibility
+
+**Major Reconfiguration (Quarterly/Project-based):**
+- [ ] Assess whether current team size still fits optimal bay capacity
+- [ ] Consider joining/splitting bays if team dynamics have fundamentally changed
+- [ ] Update technology infrastructure if new work modes require different setups
+- [ ] Coordinate with facilities management for structural or system changes
+
+### Handover Documentation
+**For Teams Leaving Bay:**
+- [ ] Document successful furniture configurations and layout optimizations
+- [ ] Identify which acoustic treatments and environmental settings worked best
+- [ ] Note any technology setup nuances or equipment preferences
+- [ ] Capture lessons learned about space usage patterns and team dynamics
+
+**For Teams Entering Bay:**
+- [ ] Provide space capability overview and constraint documentation
+- [ ] Share previous team's successful configuration insights (if relevant)
+- [ ] Explain acoustic boundaries and noise etiquette with neighboring teams
+- [ ] Orient to shared resources and collaboration infrastructure
 
 ## Examples
 - Wells (1960s) studies showing preference for smaller office groupings
