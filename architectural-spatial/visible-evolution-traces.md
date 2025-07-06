@@ -28,6 +28,28 @@ When spaces appear pristine and untouched, they signal that modification is disc
 - Clean around modifications rather than removing them
 - Let desire paths and usage patterns inform formal design changes
 
+**Documentation methods for capturing evolution:**
+- **Threshold moment photography**: Capture spaces at moments of significant change, not on arbitrary schedules—when teams are actively debating or implementing modifications
+- **Intervention narratives**: Document the specific problem that prompted each change and the team's hypothesis about why this modification would help
+- **Behavioral observation**: Notice and record changes in how people actually use spaces—not just how they say they use them
+- **Critical incident documentation**: Record both successful adaptations and failed modifications, focusing on what each taught about space-behavior relationships
+- **Desire path mapping**: Track the informal modifications teams make (cable routing, furniture angles, personal space markers) before formalizing or removing them
+
+**Storytelling frameworks for communicating evolution:**
+- **Problem-solution narratives**: Frame space changes as responses to specific team challenges, showing the reasoning process that led to each adaptation
+- **Failure-learning cycles**: Highlight modifications that didn't work as expected and what the team learned, normalizing experimentation and iteration
+- **Cross-team translation stories**: Document how one team's successful adaptation was modified and applied by another team with different constraints
+- **Invisible work revelation**: Make visible the often-hidden work of space adaptation—the conversations, experiments, and iterations that led to final configurations
+- **Temporal layering displays**: Show how spaces accumulate meaning and functionality over time, with each layer building on or responding to previous adaptations
+
+**Preservation guidelines for determining which traces to maintain:**
+- **Evidence of collective intelligence**: Preserve modifications that emerged from team collaboration rather than individual preference—these often represent deeper insights about group dynamics
+- **Adaptive value demonstration**: Keep traces that show teams successfully responding to changing work patterns or external pressures
+- **Teaching moments**: Maintain examples that help others understand the relationship between spatial configuration and team performance
+- **Authentic wear patterns**: Preserve evidence of genuine use (worn paths, naturally arranged furniture, accumulated tools) that reveals how spaces actually function
+- **Graceful degradation vs. dysfunction**: Remove traces that create safety hazards or accessibility barriers, but preserve those that show beneficial wear or adaptive modification
+- **Cultural memory preservation**: Keep traces that embody important organizational values or represent significant moments in team development, even if their functional benefit is unclear
+
 ## Forces
 
 - **Social proof**: Visible evidence of others' modifications signals that adaptation is acceptable and beneficial
@@ -38,13 +60,19 @@ When spaces appear pristine and untouched, they signal that modification is disc
 
 ## Examples
 
-**Manufacturing cells**: Toyota's visual management systems preserve and amplify evidence of worker improvements, encouraging continuous adaptation.
+**Manufacturing cells**: Toyota's visual management systems preserve and amplify evidence of worker improvements, encouraging continuous adaptation. Shadow boards show tool placement evolution, while kaizen boards document improvement suggestions and outcomes.
 
-**Research labs**: MIT's Building 20 famously improved through decades of user modifications that were preserved and built upon rather than cleaned away.
+**Research labs**: MIT's Building 20 famously improved through decades of user modifications that were preserved and built upon rather than cleaned away. Walls showed layers of cables, temporary partitions, and equipment modifications that taught newcomers about effective space use.
 
-**Maker spaces**: Successful tool arrangements and workspace configurations remain visible to inspire similar adaptations by other users.
+**Maker spaces**: Successful tool arrangements and workspace configurations remain visible to inspire similar adaptations by other users. Tool shadows on pegboards, well-worn paths between work areas, and accumulated modifications to workbenches all communicate effective patterns.
 
-**Architecture studios**: Pin-up walls and model displays show the evolution of design thinking, encouraging further iteration and improvement.
+**Architecture studios**: Pin-up walls and model displays show the evolution of design thinking, encouraging further iteration and improvement. Layers of previous work, modified furniture arrangements, and accumulated reference materials create a visual history of studio evolution.
+
+**Digital agencies**: Teams often leave evidence of their learning process visible—whiteboards with faded sketches underneath current work, accumulated sticky notes showing iteration cycles, and furniture arrangements that evolved from initial formal layouts to more collaborative configurations.
+
+**Startup offices**: Early-stage companies frequently preserve evidence of their spatial experiments—from initial folding tables to graduated workspace configurations—as both practical knowledge and cultural storytelling about the team's growth and adaptation.
+
+**University research groups**: Academic labs maintain visible layers of previous work—equipment modifications, storage solutions, and workflow adaptations—that communicate effective practices to new students and visiting researchers.
 
 ## Related Patterns
 

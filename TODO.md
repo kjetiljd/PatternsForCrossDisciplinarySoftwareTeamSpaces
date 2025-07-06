@@ -102,10 +102,10 @@
 - [x] - **Add acoustic treatment guidelines**: Offer specific recommendations for materials and installation approaches.
 - [x] - **Include team transition protocols**: Develop guidelines for how spaces evolve when team composition changes.
 
-- [ ] ### Visible Evolution Traces
-- [ ] - **Add documentation methods**: Provide techniques for capturing the history and rationale of space adaptations.
-- [ ] - **Include storytelling frameworks**: Offer approaches for communicating the narrative of space evolution.
-- [ ] - **Develop preservation guidelines**: Create criteria for determining which traces should be maintained.
+- [x] ### Visible Evolution Traces
+- [x] - **Add documentation methods**: Provide techniques for capturing the history and rationale of space adaptations.
+- [x] - **Include storytelling frameworks**: Offer approaches for communicating the narrative of space evolution.
+- [x] - **Develop preservation guidelines**: Create criteria for determining which traces should be maintained.
 
 - [ ] ### Workspace Enclosure & Personal Space
 - [ ] - **Provide privacy metrics**: Include specific measurements for visual and acoustic privacy levels.
