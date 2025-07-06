@@ -163,10 +163,10 @@
 - [ ] - **Add agenda templates**: Include structured formats for efficient cross-team meetings.
 - [ ] - **Develop escalation paths**: Create clear protocols for resolving cross-team dependencies and blockers.
 
-- [ ] ### Cynefin-Based Decision Framework
-- [ ] - **Add assessment tools**: Provide questionnaires to help teams determine which domain a problem falls into.
-- [ ] - **Include visual decision trees**: Create flowcharts to guide teams through the framework.
-- [ ] - **Develop training materials**: Offer exercises to help teams practice applying the framework.
+- [x] ### Cynefin-Based Decision Framework
+- [x] - **Add assessment tools**: Provide questionnaires to help teams determine which domain a problem falls into.
+- [x] - **Include visual decision trees**: Create flowcharts to guide teams through the framework.
+- [x] - **Develop training materials**: Offer exercises to help teams practice applying the framework.
 
 - [ ] ### Daily Stand-Ups
 - [ ] - **Provide format variations**: Offer different stand-up approaches for various team sizes and contexts.
