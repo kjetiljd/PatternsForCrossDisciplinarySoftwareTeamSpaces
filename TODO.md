@@ -72,10 +72,10 @@
 - [x] - **Add booking systems**: Suggest lightweight reservation approaches that don't create administrative overhead.
 - [x] - **Include maintenance protocols**: Develop guidelines for keeping these high-use spaces clean and functional.
 
-- [ ] ### Environmental Comfort Patterns
-- [ ] - **Add measurement standards**: Include specific metrics for light levels, temperature ranges, and acoustic performance.
-- [ ] - **Provide product recommendations**: Suggest specific furniture and equipment that meets ergonomic standards.
-- [ ] - **Include personalization guidelines**: Offer guidance on balancing individual comfort preferences with team standards.
+- [x] ### Environmental Comfort Patterns
+- [x] - **Add measurement standards**: Include specific metrics for light levels, temperature ranges, and acoustic performance.
+- [x] - **Provide product recommendations**: Suggest specific furniture and equipment that meets ergonomic standards.
+- [x] - **Include personalization guidelines**: Offer guidance on balancing individual comfort preferences with team standards.
 
 - [ ] ### Mob Programming Corner
 - [ ] - **Add equipment specifications**: Provide detailed technical requirements for displays, input devices, and furniture.
