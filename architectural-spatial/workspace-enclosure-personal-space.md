@@ -20,6 +20,31 @@ Design individual workspaces with specific guidelines:
 - **Light**: Window view to outside for natural light (Norwegian requirement)
 - **Privacy**: No more than 8 people within earshot or sight
 
+**Privacy metrics for visual and acoustic performance:**
+- **Visual privacy levels**: 
+  - Level 1 (Minimal): 30-40% enclosure, peripheral vision screening only
+  - Level 2 (Moderate): 50-65% enclosure, blocks direct sight lines while seated
+  - Level 3 (High): 70-85% enclosure, prevents visual distraction when standing
+- **Acoustic privacy measurements**:
+  - Speech Privacy Index (SPI) of 80-95 for confidential conversations
+  - Background noise levels of 45-48 dB for concentration
+  - Sound masking coefficient of 0.65-0.80 to reduce speech intelligibility
+  - Maximum 10 dB difference between workspace and corridor sound levels
+
+**Territorial markers for personal space boundaries:**
+- **Physical demarcation**: Floor patterns, carpet edges, or slight level changes to define personal territory
+- **Transition zones**: 18-24 inch "approach buffers" using planters, low storage, or desk orientation
+- **Personal storage visibility**: Shelving or storage that displays individual ownership without creating barriers
+- **Lighting control**: Individual task lighting that creates a personal "pool" of focused illumination
+- **Digital boundaries**: Positioning of monitors to naturally screen workspace from casual viewing
+
+**Cultural variations in personal space requirements:**
+- **Nordic/Germanic cultures**: Require larger personal territories (70-80 sq ft), prefer higher visual privacy, comfortable with minimal social interaction
+- **Latin/Mediterranean cultures**: Comfortable with closer proximity (50-60 sq ft), prefer lower partitions for easier communication, value visual connection to colleagues
+- **East Asian cultures**: Variable depending on context—formal work requires clear hierarchy in seating, but collaborative work benefits from flexible boundaries
+- **Anglo cultures**: Moderate territorial needs (60-70 sq ft), balance individual privacy with team accessibility, prefer subtle rather than explicit boundary markers
+- **Generational considerations**: Younger workers often prefer lower partitions and more visual connection, while experienced workers typically value higher acoustic privacy
+
 ## Forces
 - People need psychological safety and territorial comfort
 - Concentration requires freedom from constant interruption
@@ -28,9 +53,16 @@ Design individual workspaces with specific guidelines:
 - Different personality types have varying privacy needs
 
 ## Examples
-- Alexander's empirical workspace studies showing optimal dimensions
-- Norwegian workplace regulations mandating daylight access
-- Basecamp's "library rules" creating quiet, respectful workspaces
+
+**Scandinavian tech companies**: Many Norwegian software companies implement 70-80 sq ft individual workstations with 65-75% enclosure, incorporating natural wood territorial markers and individual lighting controls to respect cultural preferences for personal space and autonomy.
+
+**Silicon Valley startups**: Often balance open collaboration with individual focus through modular systems—65 sq ft workstations with moveable partitions that teams can adjust based on project phases, typically maintaining 50-60% enclosure.
+
+**Japanese software development teams**: Implement hierarchical seating arrangements within team clusters, with senior developers receiving higher visual privacy (70%+ enclosure) while junior team members work in more open configurations (40-50% enclosure) that facilitate mentoring.
+
+**European consulting firms**: Use subtle territorial markers like distinctive desk materials, personal storage towers, and individual task lighting to create psychological ownership within flexible seating arrangements that can accommodate client meetings.
+
+**Remote-first companies' satellite offices**: Design highly flexible individual spaces (60-75 sq ft) with multiple privacy levels, allowing workers accustomed to home office control to choose their preferred level of enclosure and territorial definition.
 
 ## Related Patterns
 - [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md)

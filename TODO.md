@@ -107,10 +107,10 @@
 - [x] - **Include storytelling frameworks**: Offer approaches for communicating the narrative of space evolution.
 - [x] - **Develop preservation guidelines**: Create criteria for determining which traces should be maintained.
 
-- [ ] ### Workspace Enclosure & Personal Space
-- [ ] - **Provide privacy metrics**: Include specific measurements for visual and acoustic privacy levels.
-- [ ] - **Add territorial markers**: Suggest subtle ways to indicate personal space boundaries.
-- [ ] - **Include cultural variations**: Address how different cultures perceive and require personal space.
+- [x] ### Workspace Enclosure & Personal Space
+- [x] - **Provide privacy metrics**: Include specific measurements for visual and acoustic privacy levels.
+- [x] - **Add territorial markers**: Suggest subtle ways to indicate personal space boundaries.
+- [x] - **Include cultural variations**: Address how different cultures perceive and require personal space.
 
 - [ ] ## Organizational Improvements
 
