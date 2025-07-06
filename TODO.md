@@ -255,9 +255,9 @@
 - [x] - **Add acoustic considerations**: Address potential noise issues in this configuration.
 - [x] - **Hybrid adaptation**: How does this layout work when some team members are remote?
 
-- [ ] ### Critique Rituals
-- [ ] - **Structured feedback templates**: Include specific formats for giving and receiving critique.
-- [ ] - **Remote critique protocols**: Strengthen guidance for conducting effective critiques in distributed teams.
+- [x] ### Critique Rituals
+- [x] - **Structured feedback templates**: Include specific formats for giving and receiving critique.
+- [x] - **Remote critique protocols**: Strengthen guidance for conducting effective critiques in distributed teams.
 
 - [ ] ### Shared Equipment Core
 - [ ] - **Develop governance models**: Provide frameworks for managing shared resources fairly.
