@@ -133,10 +133,10 @@
 - [x] - **Add hybrid-specific guidance**: Include strategies for effective decision-making in distributed/hybrid teams.
 - [x] - **Provide templates**: Include ready-to-use templates for different types of decision documentation.
 
-- [ ] ### Team Composition and Size
-- [ ] - **Expand skill coverage guidance**: Provide more detailed recommendations for ensuring all necessary skills are represented.
-- [ ] - **Add team formation strategies**: Include specific approaches for forming effective cross-functional teams.
-- [ ] - **Address diversity considerations**: Explicitly address how diversity of background and thinking styles strengthens teams.
+- [x] ### Team Composition and Size
+- [x] - **Expand skill coverage guidance**: Provide more detailed recommendations for ensuring all necessary skills are represented.
+- [x] - **Add team formation strategies**: Include specific approaches for forming effective cross-functional teams.
+- [x] - **Address diversity considerations**: Explicitly address how diversity of background and thinking styles strengthens teams.
 
 - [ ] ### Anchor Days
 - [ ] - **Provide scheduling frameworks**: Offer specific cadence options (weekly, bi-weekly, monthly) with pros and cons.
