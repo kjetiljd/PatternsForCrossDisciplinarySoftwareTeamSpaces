@@ -20,6 +20,7 @@ Create autonomous teams that:
 - **Clear boundaries**: Own specific mission or product area end-to-end
 - **Customer access**: Direct connection to users and decision-making power
 - **Outcome accountability**: Responsible for results, not just outputs
+- **Conflict resolution capability**: Internal mechanisms for resolving disagreements and tensions
 
 **Internal Leadership Roles** (based on research by Hoda et al.):
 - **Mentor**: Coaching agile practices and team development
@@ -27,6 +28,39 @@ Create autonomous teams that:
 - **Translator**: Bridging business and technical communication
 - **Champion**: Advocating for team needs and removing obstacles
 - **Promoter**: Educating customers and stakeholders about team capabilities
+
+**Conflict Resolution Mechanisms for Internal Tensions:**
+
+*Teams need structured approaches to handle disagreements while preserving autonomy and relationships.*
+
+**Framework for Team Conflict Resolution:**
+1. **Direct Communication** (First 24-48 hours):
+   - Encourage one-on-one conversation between affected parties
+   - Use "I" statements and focus on behavior impact, not personality
+   - Establish shared understanding of the actual problem vs. symptoms
+
+2. **Team Facilitated Discussion** (If direct fails):
+   - Team member (often the Mentor role) facilitates structured conversation
+   - Use techniques like "Five Whys" to understand root causes
+   - Focus on team agreements and shared goals as decision criteria
+
+3. **External Perspective** (For persistent conflicts):
+   - Invite coach or manager to facilitate (not decide)
+   - Consider involving another self-governing team for outside perspective
+   - Use retrospective format to explore systemic causes
+
+**Common Conflict Scenarios & Approaches:**
+- **Technical disagreements**: Use time-boxed prototypes or "disagree and commit" with defined evaluation criteria
+- **Work style conflicts**: Establish explicit team working agreements and revisit during retrospectives
+- **Priority disputes**: Return to customer outcomes and team mission as tiebreaker criteria
+- **Performance concerns**: Address through peer feedback and clear role expectations
+- **Resource allocation**: Use transparent decision-making criteria agreed by the whole team
+
+**Escalation Boundaries:**
+- Teams resolve conflicts that affect only internal functioning
+- Escalate conflicts that impact other teams or organizational commitments
+- Manager involvement focused on coaching and support, not decision-making
+- HR involvement only for policy violations or harassment issues
 
 ## Forces
 - **Autonomy vs. Control**: Teams need freedom while managers need confidence
@@ -125,24 +159,50 @@ Create autonomous teams that:
 - [ ] Participate in cross-team synchronization activities
 - [ ] Contribute to organizational learning and capability building
 
+### Metrics Framework for Team Autonomy and Effectiveness
+
+**Autonomy Indicators:**
+- **Decision speed**: Average time from problem identification to decision implementation (target: <48 hours for team-scope decisions)
+- **Escalation rate**: Percentage of decisions that require management approval (target: <15% after 6 months)
+- **Authority utilization**: Frequency of teams using their granted decision-making authority (track monthly)
+- **Process adaptation**: Number of team-initiated changes to working methods per quarter
+
+**Team Effectiveness Measures:**
+- **Delivery predictability**: Percentage of commitments met within promised timeframes (target: >80%)
+- **Customer satisfaction**: Direct user feedback scores and Net Promoter Score (track quarterly)
+- **Cycle time**: Average time from idea to user value delivery (track monthly trends)
+- **Defect rate**: Quality issues requiring post-delivery fixes (target: declining trend)
+
+**Team Health Assessment:**
+- **Psychological safety**: Team members feel safe to speak up, make mistakes, and ask questions (quarterly survey)
+- **Conflict resolution capability**: Time to resolve internal disagreements (target: <1 week for most issues)
+- **Shared mental models**: Team alignment on goals, priorities, and approaches (quarterly assessment)
+- **Learning velocity**: Rate of skill acquisition and knowledge sharing within team
+
+**Organizational Impact:**
+- **Cross-team collaboration**: Quality of interactions with other teams and departments
+- **Innovation contribution**: Ideas and improvements contributed to broader organization
+- **Knowledge dissemination**: Teaching and mentoring provided to other teams
+- **Hiring attraction**: Team's ability to attract and retain high-quality team members
+
 ### Success Indicators
 **Immediate (1-3 months):**
-- [ ] Reduced escalations to management
-- [ ] Faster decision-making within team scope
-- [ ] Increased team member engagement scores
-- [ ] Clear team identity and shared purpose
+- [ ] Escalation rate drops below 30% of previous level
+- [ ] Decision-making time reduces by 50% for team-scope decisions
+- [ ] Team engagement scores increase by 20+ points
+- [ ] 100% of team members can articulate team mission and boundaries
 
 **Medium-term (3-6 months):**
-- [ ] Consistent delivery of customer value
-- [ ] Self-initiated process improvements
-- [ ] Effective conflict resolution without external help
-- [ ] Natural leadership rotation within team
+- [ ] Delivery predictability exceeds 80%
+- [ ] Team initiates 2+ process improvements per month
+- [ ] Conflicts resolved internally within 1 week 95% of time
+- [ ] All informal leadership roles naturally filled by team members
 
 **Long-term (6+ months):**
-- [ ] Innovation and experimentation by team initiative
-- [ ] Mentoring and supporting other teams
-- [ ] Contributing to organizational practices and standards
-- [ ] Sustained high performance and team satisfaction
+- [ ] Team generates 1+ innovation/experiment per quarter
+- [ ] Team provides mentoring to 2+ other teams annually
+- [ ] Team contributes to organizational standards and practices
+- [ ] Team health metrics in top quartile organization-wide
 
 ### Common Failure Modes & Preventions
 - [ ] **Pseudo-autonomy**: Ensure real authority, not just responsibility

@@ -114,10 +114,10 @@
 
 - [ ] ## Organizational Improvements
 
-- [ ] ### Self-Governing Teams
-- [ ] - **Add conflict resolution mechanisms**: The pattern should address how these teams handle internal conflicts.
-- [ ] - **Include team formation process**: More guidance on how to transition from traditional to self-governing teams.
-- [ ] - **Metrics framework**: Develop clearer metrics for measuring team autonomy and effectiveness.
+- [x] ### Self-Governing Teams
+- [x] - **Add conflict resolution mechanisms**: The pattern should address how these teams handle internal conflicts.
+- [x] - **Include team formation process**: More guidance on how to transition from traditional to self-governing teams.
+- [x] - **Metrics framework**: Develop clearer metrics for measuring team autonomy and effectiveness.
 
 - [ ] ### Meeting Room Anti-Pattern
 - [ ] - **Provide transition strategies**: Include guidance for organizations heavily dependent on meeting rooms.
