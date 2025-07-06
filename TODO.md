@@ -16,10 +16,10 @@
 - [x] - **Strengthen connection to cognitive science**: Incorporate more research on how physical environments affect cognitive processes.
 - [x] - **Address neurodiversity**: Explicitly address how spaces can accommodate different cognitive styles and sensory needs.
 
-- [ ] ### Spaces that Empower and Invite
-- [ ] - **Provide concrete implementation tactics**: Include specific design elements that signal empowerment and invitation.
-- [ ] - **Add measurement framework**: Develop ways to assess whether a space truly empowers and invites.
-- [ ] - **Include cultural considerations**: Address how different cultural contexts affect perceptions of empowerment.
+- [x] ### Spaces that Empower and Invite
+- [x] - **Provide concrete implementation tactics**: Include specific design elements that signal empowerment and invitation.
+- [x] - **Add measurement framework**: Develop ways to assess whether a space truly empowers and invites.
+- [x] - **Include cultural considerations**: Address how different cultural contexts affect perceptions of empowerment.
 
 - [ ] ### Fractal Autonomy, Layered Alignment
 - [ ] - **Clarify coordination mechanisms**: Provide specific examples of "thin coordination layers" that work.
