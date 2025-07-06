@@ -43,9 +43,9 @@
 - [x] - **Include failure modes**: What happens when these clusters are implemented poorly?
 - [x] - **Hybrid adaptation**: More explicit guidance on how these clusters work in hybrid settings.
 
-- [ ] ### Half-Open, Half-Private Spaces
-- [ ] - **Quantify the balance**: Provide more specific guidance on the optimal degree of enclosure for different activities.
-- [ ] - **Material recommendations**: Include specific material suggestions that balance acoustic and visual privacy.
+- [x] ### Half-Open, Half-Private Spaces
+- [x] - **Quantify the balance**: Provide more specific guidance on the optimal degree of enclosure for different activities.
+- [x] - **Material recommendations**: Include specific material suggestions that balance acoustic and visual privacy.
 
 - [x] ### Scattered Work and Campus Layout
 - [x] - **Provide implementation strategies**: Include practical approaches for organizations transitioning from isolated campuses.

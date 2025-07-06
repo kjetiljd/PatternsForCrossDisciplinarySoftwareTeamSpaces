@@ -106,7 +106,6 @@ Design spaces that give people control over their environment and clearly invite
 - **GitHub's Office Design**: Open floor plans with numerous "neighborhoods," each with different aesthetic and functional characteristics, allowing teams to gravitate toward environments that match their working style
 - **Patagonia's Workspace**: Employees encouraged to modify their work areas, with access to tools and materials for customization, reflecting the company's values of environmental stewardship and personal agency
 - **Buffer's Remote Culture**: Digital-first practices where all team members—regardless of location—have equal access to decision-making tools and contribution platforms
-
 ### Anti-Patterns to Avoid
 - **Assigned Seating Policies**: Undermines choice and agency, particularly problematic in cross-disciplinary teams where different roles may need different types of spaces
 - **Meeting Room Hoarding**: VIP or department-specific spaces that signal hierarchy and exclusion
