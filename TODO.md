@@ -330,10 +330,10 @@
 - [ ] - **Add facilitation guidance**: Include specific facilitation techniques for planning and retrospective sessions.
 - [ ] - **Create transition strategies**: Offer approaches for teams transitioning from ad-hoc to structured weekly rhythms.
 
-- [ ] ### Team Health Checks
-- [ ] - **Include assessment templates**: Provide ready-to-use templates for team health surveys and discussions.
-- [ ] - **Add intervention strategies**: Offer specific approaches for addressing common team health issues.
-- [ ] - **Develop tracking methods**: Suggest ways to track team health metrics over time to identify trends.
+- [x] ### Team Health Checks
+- [x] - **Include assessment templates**: Provide ready-to-use templates for team health surveys and discussions.
+- [x] - **Add intervention strategies**: Offer specific approaches for addressing common team health issues.
+- [x] - **Develop tracking methods**: Suggest ways to track team health metrics over time to identify trends.
 
 - [ ] ## General Improvements
 
