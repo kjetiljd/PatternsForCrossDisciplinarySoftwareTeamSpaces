@@ -274,10 +274,10 @@
 - [ ] - **Add measurement methods**: Include ways to assess the effectiveness of team adjacencies.
 - [ ] - **Address hybrid work challenges**: Explain how to maintain the benefits of adjacency in hybrid work environments.
 
-- [ ] ### Andon Cord & Stop-the-Line
-- [ ] - **Provide implementation playbooks**: Include detailed guidance for establishing stop-the-line protocols.
-- [ ] - **Add cultural reinforcement strategies**: Offer approaches for creating psychological safety around stopping work.
-- [ ] - **Develop escalation frameworks**: Create clear paths for addressing issues once work has been stopped.
+- [x] ### Andon Cord & Stop-the-Line
+- [x] - **Provide implementation playbooks**: Include detailed guidance for establishing stop-the-line protocols.
+- [x] - **Add cultural reinforcement strategies**: Offer approaches for creating psychological safety around stopping work.
+- [x] - **Develop escalation frameworks**: Create clear paths for addressing issues once work has been stopped.
 
 - [ ] ### Display of Work
 - [ ] - **Add display design guidelines**: Provide specific formats for effectively showcasing different types of work.
