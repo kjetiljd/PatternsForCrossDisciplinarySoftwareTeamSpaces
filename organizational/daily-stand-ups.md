@@ -155,27 +155,113 @@ Implement daily stand-ups adapted to your team's context, size, and working arra
 - Analysis of information flow patterns
 - Assessment of coordination effectiveness vs. other mechanisms
 
+### Transition Guidance Between Formats
+
+#### From Standard to Large Team Format
+**Trigger**: Team grows beyond 7 people or meetings consistently run over 15 minutes
+**Transition**: Spend one week explaining "walk the board" approach, then switch
+**Success indicator**: Meeting time stays under 20 minutes with larger team
+
+#### From Standard to Distributed Format  
+**Trigger**: Team becomes permanently distributed or time zone conflicts increase
+**Transition**: Start with hybrid async/sync for 2 weeks, then evaluate frequency
+**Success indicator**: Same level of coordination with reduced meeting burden
+
+#### From Any Format to Crisis Mode
+**Trigger**: Major incident, tight deadline, or team stress
+**Transition**: Announce temporary change and expected duration upfront
+**Return criteria**: Define specific conditions for returning to normal cadence
+
+### Measurement Prioritization Framework
+
+**Start Here (Week 1)**: Basic attendance and duration tracking
+**Add Next (Month 1)**: Team satisfaction quick pulse 
+**Advanced (Quarter 1)**: Coordination effectiveness metrics
+**Expert Level**: Full analytical framework with trend analysis
+
+**Red Flags to Act On Immediately**:
+- Attendance below 70% for two weeks
+- Meetings consistently over 20 minutes
+- Team satisfaction below 3/5 for two weeks
+
+### Cultural and Accessibility Considerations
+
+#### Video Participation Alternatives
+- **Bandwidth constraints**: Audio-only with screen sharing for agenda
+- **Privacy concerns**: Virtual backgrounds or audio-only days
+- **Accessibility needs**: Closed captions, sign language interpretation
+- **Cultural norms**: Respect for camera-off preferences in some contexts
+
+#### Speaking Order Flexibility
+- **Hierarchical cultures**: Senior members speak last to avoid influence
+- **Egalitarian cultures**: Random or rotating order
+- **Neurodivergent teams**: Predictable order to reduce anxiety
+- **Mixed preferences**: Let team establish their own norm
+
+### Failure Recovery Protocols
+
+#### When Stand-ups Become Status Reports
+1. **Reset week**: Explicitly focus only on coordination needs
+2. **Role clarification**: Manager observes but doesn't direct
+3. **Question evolution**: Change questions to emphasize team help
+
+#### When Meetings Consistently Run Long
+1. **Time-box enforcement**: Use visible timer, hard stop at 15 minutes
+2. **Parking lot discipline**: Facilitator actively redirects detailed discussions
+3. **Format evaluation**: Consider switching to "walk the board" format
+
+#### When Participation Drops
+1. **Individual check-ins**: Understand why people aren't attending/participating
+2. **Value clarification**: Team discussion on whether stand-ups are helpful
+3. **Experiment with alternatives**: Try different times, formats, or frequencies
+
+#### When Team Loses Focus
+1. **Back to basics**: Return to simplest format for two weeks
+2. **Facilitation rotation**: Change who leads to bring fresh energy
+3. **Purpose reminder**: Revisit why the team chose to have stand-ups
+
+### Integration with Team Rhythms
+
+#### Connection to Sprint Planning
+- Stand-ups help identify when sprint scope needs adjustment
+- Sprint goals provide context for daily priorities
+- Use stand-up insights to improve next sprint planning
+
+#### Connection to Retrospectives
+- Stand-up effectiveness should be regular retrospective topic
+- Daily coordination issues inform process improvement discussions
+- Team satisfaction with stand-ups indicates overall health
+
+#### Connection to Other Meetings
+- Stand-ups can replace some ad hoc coordination meetings
+- Identify when stand-up topics need deeper discussion time
+- Use stand-ups to schedule pairing or collaboration sessions
+
 ### Customization Guidelines
 
 #### For New Teams
 - Start with standard format
 - Focus on building routine and psychological safety
 - Gradually optimize based on team needs
+- Expect 4-6 weeks to establish effective rhythm
 
 #### For Mature Teams
 - Experiment with format variations
 - Reduce structure as team coordination improves
 - Consider transitioning to less frequent or async approaches
+- Trust team to evolve their own effective approach
 
 #### For Crisis Situations
 - Increase frequency temporarily (twice daily)
 - Add focus on risk mitigation and rapid response
 - Include clear escalation paths for critical issues
+- Set explicit end date for crisis mode
 
 #### For Innovation Work
 - Emphasize experiment results and learning
 - Include "what did we discover?" as fourth question
 - Allow for more uncertainty in daily plans
+- Focus on unblocking creative work rather than task tracking
 
 ## Forces
 - Coordination needs vs. meeting overhead

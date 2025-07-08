@@ -168,10 +168,10 @@
 - [x] - **Include visual decision trees**: Create flowcharts to guide teams through the framework.
 - [x] - **Develop training materials**: Offer exercises to help teams practice applying the framework.
 
-- [ ] ### Daily Stand-Ups
-- [ ] - **Provide format variations**: Offer different stand-up approaches for various team sizes and contexts.
-- [ ] - **Add remote facilitation techniques**: Include strategies for engaging distributed team members.
-- [ ] - **Develop outcome metrics**: Create ways to measure stand-up effectiveness beyond just attendance.
+- [x] ### Daily Stand-Ups
+- [x] - **Provide format variations**: Offer different stand-up approaches for various team sizes and contexts.
+- [x] - **Add remote facilitation techniques**: Include strategies for engaging distributed team members.
+- [x] - **Develop outcome metrics**: Create ways to measure stand-up effectiveness beyond just attendance.
 
 - [ ] ### Demand-Led Fluid Teaming
 - [ ] - **Add transition playbooks**: Provide detailed guidance for the handover process between team formations.
