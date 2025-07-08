@@ -284,10 +284,10 @@
 - [ ] - **Include rotation protocols**: Offer strategies for keeping displayed work fresh and relevant.
 - [ ] - **Develop engagement techniques**: Create approaches for encouraging interaction with displayed work.
 
-- [ ] ### Kaizen Corner
-- [ ] - **Provide visual design templates**: Include specific layouts for effective improvement tracking displays.
-- [ ] - **Add facilitation techniques**: Offer strategies for running effective improvement discussions.
-- [ ] - **Develop progress tracking methods**: Create frameworks for measuring and visualizing improvement over time.
+- [x] ### Kaizen Corner
+- [x] - **Provide visual design templates**: Include specific layouts for effective improvement tracking displays.
+- [x] - **Add facilitation techniques**: Offer strategies for running effective improvement discussions.
+- [x] - **Develop progress tracking methods**: Create frameworks for measuring and visualizing improvement over time.
 
 - [ ] ### Materiality and Texture
 - [ ] - **Add material selection guides**: Provide specific recommendations for materials that enhance sensory experience.
