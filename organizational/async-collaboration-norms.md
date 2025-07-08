@@ -16,6 +16,8 @@ Establish comprehensive norms for asynchronous collaboration with communication 
 
 ### Communication Templates
 
+**Note**: These templates are starting points - adapt them to your team size and culture. Smaller teams may need simpler formats, while larger organizations might add more structure.
+
 **Decision Request Template**:
 ```markdown
 ## Decision Needed: [Brief Title]
@@ -278,6 +280,16 @@ Establish comprehensive norms for asynchronous collaboration with communication 
 **Challenge: Context loss in async communication**
 - **Solution**: Use rich media (screenshots, videos, diagrams), provide sufficient background context
 - **Templates**: Structured formats ensure important context isn't missed
+
+**Challenge: Transitioning from sync-heavy to async-first culture**
+- **Solution**: Start small with one async process (daily standups), gradually expand successful patterns
+- **Training**: Provide async communication training, especially for managers
+- **Patience**: Cultural change takes 3-6 months, celebrate small wins
+
+**Challenge: Some team members struggle with async communication**
+- **Solution**: Provide multiple communication channels, offer async communication coaching
+- **Personality awareness**: Introverts often prefer written communication, extroverts may need more video calls
+- **Accommodation**: Balance async efficiency with individual communication needs
 
 ## Related Patterns
 - [Handbook First Documentation](handbook-first-documentation.md) - Foundation for async communication
