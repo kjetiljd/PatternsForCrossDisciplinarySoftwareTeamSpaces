@@ -138,25 +138,25 @@
 - [x] - **Add team formation strategies**: Include specific approaches for forming effective cross-functional teams.
 - [x] - **Address diversity considerations**: Explicitly address how diversity of background and thinking styles strengthens teams.
 
-- [ ] ### Anchor Days
-- [ ] - **Provide scheduling frameworks**: Offer specific cadence options (weekly, bi-weekly, monthly) with pros and cons.
-- [ ] - **Add activity templates**: Include structured agendas for making the most of in-person time.
-- [ ] - **Include measurement methods**: Develop ways to assess the effectiveness of anchor days.
+- [x] ### Anchor Days
+- [x] - **Provide scheduling frameworks**: Offer specific cadence options (weekly, bi-weekly, monthly) with pros and cons.
+- [x] - **Add activity templates**: Include structured agendas for making the most of in-person time.
+- [x] - **Include measurement methods**: Develop ways to assess the effectiveness of anchor days.
 
-- [ ] ### Architecture Decision Records
-- [ ] - **Add template variations**: Provide different ADR formats for various types of architectural decisions.
-- [ ] - **Include visualization techniques**: Suggest ways to incorporate diagrams and visual elements in ADRs.
-- [ ] - **Develop discovery mechanisms**: Offer approaches for making ADRs easily searchable and discoverable.
+- [x] ### Architecture Decision Records
+- [x] - **Add template variations**: Provide different ADR formats for various types of architectural decisions.
+- [x] - **Include visualization techniques**: Suggest ways to incorporate diagrams and visual elements in ADRs.
+- [x] - **Develop discovery mechanisms**: Offer approaches for making ADRs easily searchable and discoverable.
 
-- [ ] ### Async Collaboration Norms
-- [ ] - **Provide communication templates**: Include specific formats for different types of asynchronous updates.
-- [ ] - **Add response time expectations**: Develop guidelines for expected response times in different scenarios.
-- [ ] - **Include tool selection criteria**: Offer guidance on choosing appropriate async collaboration tools.
+- [x] ### Async Collaboration Norms
+- [x] - **Provide communication templates**: Include specific formats for different types of asynchronous updates.
+- [x] - **Add response time expectations**: Develop guidelines for expected response times in different scenarios.
+- [x] - **Include tool selection criteria**: Offer guidance on choosing appropriate async collaboration tools.
 
-- [ ] ### Blameless Post-Mortems
-- [ ] - **Add facilitation guides**: Provide detailed instructions for effectively facilitating post-mortem sessions.
-- [ ] - **Include template documents**: Offer structured formats for capturing post-mortem findings.
-- [ ] - **Develop follow-up protocols**: Create guidelines for ensuring action items are implemented.
+- [x] ### Blameless Post-Mortems
+- [x] - **Add facilitation guides**: Provide detailed instructions for effectively facilitating post-mortem sessions.
+- [x] - **Include template documents**: Offer structured formats for capturing post-mortem findings.
+- [x] - **Develop follow-up protocols**: Create guidelines for ensuring action items are implemented.
 
 - [ ] ### Cross-Team Synchronization
 - [ ] - **Provide cadence options**: Offer different synchronization frequencies with guidance on when to use each.

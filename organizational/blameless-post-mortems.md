@@ -24,12 +24,15 @@ Implement blameless post-mortem practices with structured facilitation and follo
 
 ### Facilitation Guide
 
+**For Hybrid/Remote Teams**: All guidance below includes specific adaptations for distributed teams. When teams are distributed, use collaborative digital tools (Miro, Mural) for timeline building and ensure all participants can contribute equally.
+
 **Pre-Meeting Preparation (24-48 hours before)**
 1. **Gather artifacts**: Logs, metrics, communications, deployment records
 2. **Create initial timeline**: Draft chronological sequence of events
 3. **Identify participants**: Include all stakeholders who were involved or affected
-4. **Set meeting logistics**: Schedule 60-90 minutes, book comfortable room
-5. **Share agenda**: Send template and artifacts to participants in advance
+4. **Set meeting logistics**: Schedule 60-90 minutes, book comfortable room (or set up video call with breakout rooms for distributed teams)
+5. **Prepare digital workspace**: For hybrid teams, set up shared timeline tool (Miro board, collaborative doc) where remote participants can contribute equally
+6. **Share agenda**: Send template and artifacts to participants in advance
 
 **Meeting Structure (60-90 minutes)**
 1. **Opening (5 minutes)**
@@ -62,7 +65,11 @@ Implement blameless post-mortem practices with structured facilitation and follo
    - Schedule follow-up review
    - Thank participants for their honesty and vulnerability
 
-### Post-Mortem Document Template
+### Post-Mortem Document Templates
+
+**Choose template based on incident severity:**
+
+#### Full Template (Critical/High Severity Incidents)
 
 ```markdown
 # Post-Mortem: [Incident Title]
@@ -115,6 +122,33 @@ Implement blameless post-mortem practices with structured facilitation and follo
 **Focus**: Review action item progress and measure improvement effectiveness
 ```
 
+#### Lightweight Template (Medium/Low Severity Incidents)
+
+```markdown
+# Quick Post-Mortem: [Incident Title]
+**Date**: [Date] | **Duration**: [X minutes] | **Impact**: [Brief impact statement]
+
+## What Happened
+[1-2 paragraph summary of the incident]
+
+## Timeline (Key Events Only)
+- **14:20** - [Event]
+- **14:25** - [Event]  
+- **14:45** - [Resolution]
+
+## Why It Happened
+1. [Primary contributing factor]
+2. [Secondary factor if relevant]
+
+## What We're Doing About It
+| Action | Owner | Due | 
+|--------|-------|-----|
+| [Specific action] | [Name] | [Date] |
+
+## Key Learning
+[One sentence takeaway for the team/organization]
+```
+
 ### Follow-Up Protocols
 
 **Immediate Follow-Up (Within 1 week)**
@@ -137,12 +171,17 @@ Implement blameless post-mortem practices with structured facilitation and follo
 
 ### Facilitation Best Practices
 
-**Creating Psychological Safety**
-- Start with clear blameless principles
-- Use "we" language instead of "you" language
-- Focus on curiosity: "Help me understand..." rather than accusation
-- Normalize learning from failure: "This is how we get better"
-- Acknowledge the human difficulty of being in stressful situations
+**Creating Psychological Safety (Adapted for Different Cultures)**
+- **High-Context Cultures**: Allow more time for relationship building, use indirect questioning, respect hierarchy in discussion order
+- **Low-Context Cultures**: Be direct about blameless principles, encourage open challenge of assumptions
+- **High Power Distance**: Ensure junior team members speak first, explicitly invite dissenting views
+- **Low Power Distance**: Use structured turn-taking to prevent senior members from dominating
+- Universal approaches:
+  - Start with clear blameless principles
+  - Use "we" language instead of "you" language  
+  - Focus on curiosity: "Help me understand..." rather than accusation
+  - Normalize learning from failure: "This is how we get better"
+  - Acknowledge the human difficulty of being in stressful situations
 
 **Effective Questioning Techniques**
 - "What information did you have at that point?"
@@ -151,12 +190,29 @@ Implement blameless post-mortem practices with structured facilitation and follo
 - "What were you hoping would happen?"
 - "How did you learn about this situation?"
 
+**Handling Disagreements and Conflict**
+- **When facts are disputed**: Focus on what each person observed, acknowledge different perspectives are valid
+- **When contributing factors are contested**: Use "both/and" rather than "either/or" thinking
+- **When blame emerges**: Redirect to systems: "What about our system made that the logical choice?"
+- **When people get defensive**: Validate their experience: "That sounds like a really difficult position to be in"
+- **Escalation approach**: If consensus can't be reached, document multiple perspectives and focus on future prevention
+
+**Measuring Post-Mortem Effectiveness**
+- **Participation metrics**: Are all relevant people attending and contributing?
+- **Learning metrics**: Are we identifying novel insights (not just obvious fixes)?
+- **Action follow-through**: What percentage of action items get completed?
+- **Incident prevention**: Are we seeing fewer similar incidents over time?
+- **Cultural indicators**: Do people feel safe raising concerns and sharing mistakes?
+- **Process feedback**: Regular retrospectives on the post-mortem process itself
+
 **Common Facilitation Pitfalls to Avoid**
 - Don't let discussion become blame or shame session
 - Don't accept "human error" as a root cause
 - Don't rush to solutions before understanding the problem
 - Don't let one person dominate the conversation
 - Don't skip documenting and sharing learnings
+- Don't ignore cultural dynamics that might silence some participants
+- Don't treat disagreement as a problem to solve rather than information to capture
 
 ## Forces
 - People need to feel safe to share honest information about what went wrong
