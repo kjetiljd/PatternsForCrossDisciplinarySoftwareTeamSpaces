@@ -29,6 +29,27 @@ Create Architecture Decision Records (ADRs) for decisions with significant conse
 6. **Communicate Decision**: Share the ADR with affected teams and store it with the code
 7. **Maintain Under Version Control**: Keep ADRs discoverable and up-to-date
 
+## When NOT to Create an ADR
+
+**Skip ADRs for:**
+- Decisions that can be easily reversed (two-way door decisions)
+- Implementation details that don't affect other teams
+- Temporary workarounds or experiments
+- Decisions that are obvious to everyone involved
+- Technical debt items that everyone already agrees need fixing
+
+**Red flags indicating ADR overload:**
+- Creating ADRs for every small technical choice
+- Spending more time documenting than implementing
+- Team resistance to creating new ADRs
+- ADRs that never get read or referenced
+
+**Maintenance Strategy:**
+- Review ADR relevance quarterly - mark obsolete decisions
+- Archive ADRs older than 2 years unless still actively referenced
+- Keep total active ADRs under 50 for most teams
+- Focus on decisions that affect multiple people/teams
+
 ## ADR Template Variations
 
 ### Standard ADR Template (General Decisions)
@@ -169,6 +190,8 @@ Compliance: [Relevant standards/regulations]
 
 ## Visualization Techniques
 
+**Note**: Not every ADR needs diagrams. Use visuals only when they clarify complex decisions or multiple options. Simple decisions often work better with plain text.
+
 ### Decision Flow Diagrams
 Include Mermaid diagrams to show decision logic:
 ```mermaid
@@ -296,9 +319,9 @@ done
 - Slack/Teams notifications for new ADRs
 - Email digest of pending decisions
 
-**Automated Reminders**:
+**Automated Reminders** (adapt to your tech stack):
 ```yaml
-# GitHub Action for ADR reviews
+# Example: GitHub Action for ADR reviews
 name: ADR Review Reminder
 on:
   schedule:
@@ -312,6 +335,12 @@ jobs:
           grep -l "Status: Proposed" docs/adr/*.md | \
           xargs -I {} echo "Review needed: {}"
 ```
+
+**Alternative implementations:**
+- **Slack integration**: Webhook to post pending ADRs to team channel
+- **Jira/Linear**: Create tickets for ADR reviews automatically  
+- **Email**: Simple cron job on any server to send weekly digest
+- **Manual**: Just add ADR review as standing agenda item in team meetings
 
 ## Examples
 **API Architecture Decision (with visualization):**
