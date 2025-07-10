@@ -223,10 +223,10 @@
 - [x] - **Include response frameworks**: Offer guidance on how to effectively respond to intent statements.
 - [x] - **Develop escalation protocols**: Create guidelines for handling disagreements about stated intentions.
 
-- [ ] ### In-Zone Collaboration
-- [ ] - **Provide noise management techniques**: Include strategies for balancing collaborative discussion with focused work.
-- [ ] - **Add space transition signals**: Offer visual indicators for when spaces shift between individual and collaborative modes.
-- [ ] - **Develop client integration protocols**: Create guidelines for bringing external stakeholders into team spaces.
+- [x] ### In-Zone Collaboration
+- [x] - **Provide noise management techniques**: Include strategies for balancing collaborative discussion with focused work.
+- [x] - **Add space transition signals**: Offer visual indicators for when spaces shift between individual and collaborative modes.
+- [x] - **Develop client integration protocols**: Create guidelines for bringing external stakeholders into team spaces.
 
 - [x] ### Near/Far Specialist Guilds
 - [x] - **Add guild formation playbooks**: Provide step-by-step guidance for establishing effective specialist communities.
@@ -243,11 +243,11 @@
 - [x] - **Include escalation criteria**: Offer guidelines for when to elevate two-way door decisions that become one-way.
 - [x] - **Develop documentation templates**: Create formats for recording decision type and rationale.
 
-- [ ] ### Open Space Swarm Cadence
+- [x] ### Open Space Swarm Cadence
 - 
-- [ ] - **Provide facilitation guides**: Include detailed instructions for running effective Open Space sessions.
-- [ ] - **Add work item formats**: Offer templates for clearly describing self-selectable work items.
-- [ ] - **Develop team formation exercises**: Create activities that help people quickly form effective swarms.
+- [x] - **Provide facilitation guides**: Include detailed instructions for running effective Open Space sessions.
+- [x] - **Add work item formats**: Offer templates for clearly describing self-selectable work items.
+- [x] - **Develop team formation exercises**: Create activities that help people quickly form effective swarms.
 
 - [ ] ## Cross-Disciplinary Improvements
 
@@ -280,10 +280,10 @@
 - [x] - **Add cultural reinforcement strategies**: Offer approaches for creating psychological safety around stopping work.
 - [x] - **Develop escalation frameworks**: Create clear paths for addressing issues once work has been stopped.
 
-- [ ] ### Display of Work
-- [ ] - **Add display design guidelines**: Provide specific formats for effectively showcasing different types of work.
-- [ ] - **Include rotation protocols**: Offer strategies for keeping displayed work fresh and relevant.
-- [ ] - **Develop engagement techniques**: Create approaches for encouraging interaction with displayed work.
+- [x] ### Display of Work
+- [x] - **Add display design guidelines**: Provide specific formats for effectively showcasing different types of work.
+- [x] - **Include rotation protocols**: Offer strategies for keeping displayed work fresh and relevant.
+- [x] - **Develop engagement techniques**: Create approaches for encouraging interaction with displayed work.
 
 - [x] ### Kaizen Corner
 - [x] - **Provide visual design templates**: Include specific layouts for effective improvement tracking displays.
