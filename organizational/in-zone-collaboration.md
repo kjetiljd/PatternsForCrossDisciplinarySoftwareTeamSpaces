@@ -60,6 +60,11 @@ Establish team practices and norms for conducting collaborative work within the 
 - **Migration Protocols**: Establish clear triggers for moving discussions to quieter spaces when they exceed volume/time limits
 - **Courtesy Checks**: Implement periodic "volume checks" where team members signal if noise levels are problematic
 - **Focused Work Signals**: Use agreed-upon visual indicators (headphones, desk flags, status lights) to communicate need for quiet
+- **Neurodiversity Accommodations**: Provide additional support for team members with sensory processing differences
+  - Advance notice of high-energy collaboration sessions
+  - Access to quiet retreat spaces during intense collaboration periods
+  - Flexible participation options (remote joining, asynchronous contribution)
+  - Sensory-friendly collaboration tools (visual schedules, noise-canceling resources)
 
 **Space Transition Signals:**
 
@@ -144,6 +149,11 @@ Establish team practices and norms for conducting collaborative work within the 
   - Corporate clients may prefer more structured, formal team space presentations
   - Startup clients may appreciate raw, authentic team space energy
   - Government clients may require additional security and confidentiality measures
+- **International Considerations**: Adapt protocols for diverse cultural communication styles
+  - High-context cultures may prefer more formal setup and structured interactions
+  - Low-context cultures may appreciate direct, informal collaboration demonstrations
+  - Power distance considerations for hierarchical client relationships
+  - Time orientation differences (monochronic vs. polychronic) in meeting structures
 - **Industry-Specific Protocols**: 
   - Healthcare clients: Ensure HIPAA compliance in team space information displays
   - Financial clients: Implement additional security measures for sensitive discussions
