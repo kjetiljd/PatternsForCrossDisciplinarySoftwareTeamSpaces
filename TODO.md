@@ -173,10 +173,10 @@
 - [x] - **Add remote facilitation techniques**: Include strategies for engaging distributed team members.
 - [x] - **Develop outcome metrics**: Create ways to measure stand-up effectiveness beyond just attendance.
 
-- [ ] ### Demand-Led Fluid Teaming
-- [ ] - **Add transition playbooks**: Provide detailed guidance for the handover process between team formations.
-- [ ] - **Include knowledge preservation strategies**: Offer approaches for maintaining continuity despite team changes.
-- [ ] - **Develop team formation exercises**: Create structured activities for quickly forming effective new teams.
+- [x] ### Demand-Led Fluid Teaming
+- [x] - **Add transition playbooks**: Provide detailed guidance for the handover process between team formations.
+- [x] - **Include knowledge preservation strategies**: Offer approaches for maintaining continuity despite team changes.
+- [x] - **Develop team formation exercises**: Create structured activities for quickly forming effective new teams.
 
 - [x] ### Desire Path Recognition
 - [x] - **Add observation frameworks**: Provide structured approaches to identifying and documenting natural patterns.
