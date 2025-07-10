@@ -188,10 +188,10 @@
 - [x] - **Add technology recommendations**: Suggest specific tools that support informal virtual gatherings.
 - [x] - **Include facilitation techniques**: Offer strategies for keeping virtual social spaces engaging and inclusive.
 
-- [ ] ### Distributed Whiteboards
-- [ ] - **Add tool comparison matrix**: Provide detailed analysis of different virtual whiteboarding platforms.
-- [ ] - **Include facilitation techniques**: Offer strategies for engaging all participants in virtual whiteboarding.
-- [ ] - **Develop integration approaches**: Create guidelines for connecting physical and digital whiteboarding.
+- [x] ### Distributed Whiteboards
+- [x] - **Add tool comparison matrix**: Provide detailed analysis of different virtual whiteboarding platforms.
+- [x] - **Include facilitation techniques**: Offer strategies for engaging all participants in virtual whiteboarding.
+- [x] - **Develop integration approaches**: Create guidelines for connecting physical and digital whiteboarding.
 
 - [ ] ### Embedded Coordination Roles
 - [ ] - **Provide role descriptions**: Include detailed responsibilities and boundaries for coordination roles.
