@@ -112,12 +112,22 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
 
 ### Implementation Frameworks
 
-**Lightweight Coordination Principles**
+**Human-Centric Coordination Principles**
 1. **Default to Async**: Use synchronous meetings only for complex discussions
 2. **Time-Box Ruthlessly**: Respect everyone's time with strict time limits
 3. **Document Decisions**: Capture outcomes for teams not present
 4. **Rotate Facilitation**: Distribute coordination responsibility
 5. **Measure Effectiveness**: Track resolution time and team satisfaction
+6. **Psychological Safety First**: Create conditions where teams feel safe to surface real blockers
+7. **Align Incentives**: Ensure team goals support rather than compete with coordination efforts
+
+**Organizational Prerequisites**
+Before implementing cross-team coordination, ensure:
+- **Clear Team Boundaries**: Teams understand their scope and decision-making authority
+- **Aligned Incentives**: Team metrics don't create perverse incentives against coordination
+- **Psychological Safety**: Teams feel safe to admit mistakes and ask for help
+- **Shared Context**: Teams understand the broader organizational goals and strategy
+- **Resource Clarity**: Clear understanding of shared vs. team-specific resources
 
 **Common Anti-Patterns to Avoid**
 - **Status Theater**: Meetings focused on updates rather than coordination
@@ -125,6 +135,31 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
 - **Scope Creep**: Expanding beyond coordination into team management
 - **Information Hoarding**: Withholding context needed for decisions
 - **Escalation Avoidance**: Delaying difficult conversations
+- **Coordination as Control**: Using coordination meetings to micromanage teams
+- **Process Cargo Culting**: Implementing coordination structures without understanding their purpose
+- **Ignoring Power Dynamics**: Not addressing underlying territorial disputes or resource competition
+
+**Warning Signs: When Coordination Becomes Dysfunction**
+- Meeting frequency increases but resolution time doesn't improve
+- Teams report feeling less autonomous despite "lightweight" processes
+- Escalations bypass established tiers regularly
+- Coordination becomes a requirement rather than a service
+- Teams start withholding information to avoid coordination overhead
+- Success metrics focus on process compliance rather than outcomes
+
+**The Conway's Law Factor**
+Cross-team coordination patterns must account for how organizational structure shapes communication:
+- **Aligned Architecture**: Teams structured around business capabilities coordinate more naturally
+- **Shared Ownership**: Clear ownership boundaries reduce coordination friction
+- **Tool Alignment**: Shared tools and platforms reduce technical coordination overhead
+- **Communication Pathways**: Formal reporting structures inevitably influence coordination patterns
+
+**When NOT to Coordinate**
+Some teams should maintain intentional distance:
+- **Innovation Teams**: Early-stage exploration teams may need isolation to avoid premature optimization
+- **Security Teams**: May need independence to maintain adversarial mindset
+- **Competitive Teams**: Internal competition can be healthy; coordination might reduce beneficial tension
+- **Different Time Horizons**: Teams with fundamentally different planning cycles may coordinate poorly
 
 ## Forces
 - Team autonomy vs. organizational alignment
@@ -143,11 +178,29 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
 5. Start with weekly sync and adjust based on effectiveness
 
 **Success Metrics**
-- Average time to resolve cross-team blockers
-- Number of escalations requiring leadership intervention
-- Team satisfaction with coordination effectiveness
-- Percentage of dependencies resolved within SLA
-- Cross-team collaboration frequency and quality
+*Outcome-Based Metrics (Primary)*
+- **Business Value Flow**: Time from cross-team dependency identification to customer value delivery
+- **Innovation Velocity**: Rate of successful cross-team experiments and feature releases
+- **Quality Incidents**: Reduction in production issues caused by poor cross-team coordination
+- **Resource Utilization**: Decrease in duplicate work or conflicting efforts across teams
+
+*Process Health Metrics (Secondary)*
+- Average time to resolve cross-team blockers (meaningful only if decreasing over time)
+- Number of escalations requiring leadership intervention (context matters more than raw numbers)
+- Percentage of dependencies resolved within SLA (but focus on why SLAs are missed)
+- Cross-team collaboration frequency and quality (qualitative assessment more valuable than counting)
+
+*Leading Indicators*
+- **Proactive Dependency Identification**: Teams surface dependencies before they become blockers
+- **Information Transparency**: Teams share context before being asked
+- **Conflict Resolution Speed**: Teams address disagreements directly rather than escalating
+- **Knowledge Sharing**: Teams actively share learnings and best practices
+
+*Warning Signal Metrics*
+- **Coordination Overhead**: Time spent in coordination meetings vs. productive work
+- **Autonomy Erosion**: Teams report feeling less empowered over time
+- **Process Compliance Theater**: High process adherence scores but poor business outcomes
+- **Blame Attribution**: Increase in finger-pointing when cross-team issues arise
 
 ## Related Patterns
 - [Aligned Autonomy](aligned-autonomy.md)
