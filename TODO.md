@@ -158,10 +158,10 @@
 - [x] - **Include template documents**: Offer structured formats for capturing post-mortem findings.
 - [x] - **Develop follow-up protocols**: Create guidelines for ensuring action items are implemented.
 
-- [ ] ### Cross-Team Synchronization
-- [ ] - **Provide cadence options**: Offer different synchronization frequencies with guidance on when to use each.
-- [ ] - **Add agenda templates**: Include structured formats for efficient cross-team meetings.
-- [ ] - **Develop escalation paths**: Create clear protocols for resolving cross-team dependencies and blockers.
+- [x] ### Cross-Team Synchronization
+- [x] - **Provide cadence options**: Offer different synchronization frequencies with guidance on when to use each.
+- [x] - **Add agenda templates**: Include structured formats for efficient cross-team meetings.
+- [x] - **Develop escalation paths**: Create clear protocols for resolving cross-team dependencies and blockers.
 
 - [x] ### Cynefin-Based Decision Framework
 - [x] - **Add assessment tools**: Provide questionnaires to help teams determine which domain a problem falls into.
