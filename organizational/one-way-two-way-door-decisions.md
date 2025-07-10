@@ -330,12 +330,17 @@ Before making any decision, ask: "What kind of door is this?" and match the deci
 
 **Decision Quality Improvement:**
 
-*Common Decision Traps:*
+*Common Decision Traps and Cognitive Biases:*
 - **Classification Drift:** Two-way doors that gradually become one-way without recognition
 - **Optimism Bias:** Underestimating reversal costs and overestimating success probability
-- **Analysis Paralysis:** Treating two-way doors like one-way doors
-- **Rush to Judgment:** Treating one-way doors like two-way doors
+- **Analysis Paralysis:** Treating two-way doors like one-way doors (perfectionism bias)
+- **Rush to Judgment:** Treating one-way doors like two-way doors (overconfidence bias)
 - **Stakeholder Blindness:** Missing affected parties in the decision process
+- **Sunk Cost Fallacy:** Continuing with poor one-way door decisions because of previous investment
+- **Availability Heuristic:** Overweighting recent examples when classifying decision reversibility
+- **Confirmation Bias:** Seeking information that supports preferred classification rather than objective assessment
+- **Anchoring Bias:** Over-relying on first classification without adequate reassessment
+- **Planning Fallacy:** Systematically underestimating time and cost required for reversal
 
 *Quality Checkpoints:*
 - **Devil's Advocate Review:** Formally assign someone to argue against the decision

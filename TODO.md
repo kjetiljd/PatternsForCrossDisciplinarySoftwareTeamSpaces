@@ -238,10 +238,10 @@
 - [x] - **Add digital implementation approaches**: Offer strategies for applying NGT in virtual environments.
 - [x] - **Develop result synthesis frameworks**: Create methods for effectively combining and prioritizing individual inputs.
 
-- [ ] ### One-Way vs Two-Way Door Decisions
-- [ ] - **Add decision classification tools**: Provide frameworks for consistently categorizing decision reversibility.
-- [ ] - **Include escalation criteria**: Offer guidelines for when to elevate two-way door decisions that become one-way.
-- [ ] - **Develop documentation templates**: Create formats for recording decision type and rationale.
+- [x] ### One-Way vs Two-Way Door Decisions
+- [x] - **Add decision classification tools**: Provide frameworks for consistently categorizing decision reversibility.
+- [x] - **Include escalation criteria**: Offer guidelines for when to elevate two-way door decisions that become one-way.
+- [x] - **Develop documentation templates**: Create formats for recording decision type and rationale.
 
 - [ ] ### Open Space Swarm Cadence
 - 
