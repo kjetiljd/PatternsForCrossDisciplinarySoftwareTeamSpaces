@@ -244,6 +244,7 @@
 - [ ] - **Develop documentation templates**: Create formats for recording decision type and rationale.
 
 - [ ] ### Open Space Swarm Cadence
+- 
 - [ ] - **Provide facilitation guides**: Include detailed instructions for running effective Open Space sessions.
 - [ ] - **Add work item formats**: Offer templates for clearly describing self-selectable work items.
 - [ ] - **Develop team formation exercises**: Create activities that help people quickly form effective swarms.
