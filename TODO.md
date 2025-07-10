@@ -290,10 +290,10 @@
 - [x] - **Add facilitation techniques**: Offer strategies for running effective improvement discussions.
 - [x] - **Develop progress tracking methods**: Create frameworks for measuring and visualizing improvement over time.
 
-- [ ] ### Materiality and Texture
-- [ ] - **Add material selection guides**: Provide specific recommendations for materials that enhance sensory experience.
-- [ ] - **Include maintenance considerations**: Offer guidance on keeping textured materials clean and functional.
-- [ ] - **Develop sensory mapping techniques**: Create approaches for intentionally designing sensory experiences.
+- [x] ### Materiality and Texture
+- [x] - **Add material selection guides**: Provide specific recommendations for materials that enhance sensory experience.
+- [x] - **Include maintenance considerations**: Offer guidance on keeping textured materials clean and functional.
+- [x] - **Develop sensory mapping techniques**: Create approaches for intentionally designing sensory experiences.
 
 - [x] ### Modular Furniture and Reconfigurability
 - [x] - **Provide specification guidelines**: Include detailed requirements for truly modular furniture systems.

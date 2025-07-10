@@ -19,11 +19,11 @@ Incorporate varied materials, textures, and tactile elements into work environme
 **Cognitive Performance Materials:**
 
 *Focus-Enhancing Textures:*
-- **Smooth Wood Grains:** Oak, maple, or birch surfaces for primary work areas (promotes calm focus)
-- **Fine Woven Fabrics:** Linen or cotton blends on acoustic panels (provides subtle tactile interest without distraction)
-- **Matte Metal Finishes:** Brushed aluminum or powder-coated steel for tool surfaces (clean, purposeful feel)
-- **Natural Stone:** Honed granite or limestone for accent surfaces (grounding, permanent feeling)
-- **Cork Surfaces:** Pin-up boards and floor accents (warm, yielding texture that invites interaction)
+- **Smooth Wood Grains:** Oak, maple, or birch surfaces for primary work areas (research suggests natural materials reduce stress and support sustained attention)
+- **Fine Woven Fabrics:** Linen or cotton blends on acoustic panels (provides subtle tactile interest without visual distraction)
+- **Matte Metal Finishes:** Brushed aluminum or powder-coated steel for tool surfaces (non-reflective surfaces reduce visual fatigue)
+- **Natural Stone:** Honed granite or limestone for accent surfaces (stable, non-distracting textures for peripheral vision)
+- **Cork Surfaces:** Pin-up boards and floor accents (renewable material with natural antimicrobial properties)
 
 *Creativity-Stimulating Materials:*
 - **Rough-Hewn Wood:** Reclaimed barn wood or live-edge surfaces for brainstorming areas (tactile inspiration)
@@ -104,11 +104,11 @@ Incorporate varied materials, textures, and tactile elements into work environme
 - **Attention Direction:** Rough textures to draw attention, smooth textures to maintain focus
 - **Stress Response:** Soft, natural textures in areas designed for psychological recovery
 
-*Circadian Rhythm Support:*
-- **Morning Textures:** Smooth, cool materials (metal, stone) to support alertness
-- **Afternoon Textures:** Varied textures to maintain engagement during energy dips
-- **Evening Textures:** Warm, soft materials (wood, fabric) to support wind-down
-- **Seasonal Adaptation:** Removable textile layers that can be adjusted for warmth and comfort
+*Circadian Rhythm Support (based on lighting and thermal comfort research):*
+- **Morning Textures:** Smooth, cool materials (metal, stone) may complement bright lighting for alertness
+- **Afternoon Textures:** Varied textures potentially help maintain engagement during natural energy dips
+- **Evening Textures:** Warm, soft materials (wood, fabric) may support psychological transition to evening
+- **Seasonal Adaptation:** Removable textile layers allowing thermal and tactile adjustment across seasons
 
 **Multi-Sensory Integration:**
 
@@ -125,6 +125,47 @@ Incorporate varied materials, textures, and tactile elements into work environme
 - **Echo Control:** Texture placement that manages reverberation while maintaining tactile interest
 - **Privacy Materials:** Acoustic barriers that also provide tactile separation
 - **Sound Masking:** Material textures that naturally create gentle ambient sounds
+
+### Safety and Compliance Considerations
+
+**Building Code and Safety Requirements:**
+
+*Slip and Fall Prevention:*
+- **Texture Coefficient of Friction:** All floor textures must meet ADA requirements (COF ≥0.6 wet, ≥0.8 dry)
+- **Transition Safety:** Gradual transitions between different floor textures to prevent tripping
+- **Visual Contrast:** Sufficient visual contrast between textures for vision-impaired navigation
+- **Warning Surfaces:** Tactile warning indicators at elevation changes or hazard areas
+- **Maintenance Accessibility:** All textured surfaces must be cleanable to maintain slip resistance
+
+*Fire Safety Compliance:*
+- **Flame Spread Ratings:** All materials must meet Class A (≤25) flame spread requirements
+- **Smoke Development:** Materials with low smoke development ratings for safe egress
+- **Toxic Gas Emissions:** Natural materials preferred to minimize toxic emissions during fire
+- **Emergency Egress:** Textural elements cannot impede emergency evacuation routes
+- **Sprinkler Integration:** Textured ceilings must accommodate fire suppression systems
+
+*Accessibility Beyond ADA Minimum:*
+- **Reach Ranges:** Interactive textured elements accessible to wheelchair users (15-48" height)
+- **Operating Force:** Textured controls require <5 lbs force for operation
+- **Clear Space:** 30"×48" clear space in front of textured interactive elements
+- **Visual Indicators:** High contrast marking for textured controls and surfaces
+- **Alternative Access:** Non-textural alternatives for all interactive textured elements
+
+**Health and Environmental Safety:**
+
+*Indoor Air Quality:*
+- **VOC Emissions:** All materials must meet Greenguard Gold or equivalent low-emission standards
+- **Allergen Considerations:** Natural materials selected to minimize common allergens
+- **Mold Prevention:** Moisture-resistant materials in high-humidity areas
+- **Chemical Sensitivity:** Fragrance-free and chemical-sensitive employee accommodations
+- **Cleaning Product Compatibility:** Materials compatible with non-toxic cleaning protocols
+
+*Maintenance Worker Safety:*
+- **Ergonomic Cleaning:** Textured surfaces designed for safe cleaning without repetitive strain
+- **Chemical Exposure:** Materials that can be maintained with safe, non-toxic cleaning products
+- **Personal Protective Equipment:** Clear guidelines for PPE requirements for different materials
+- **Training Requirements:** Specific training protocols for maintaining various textured surfaces
+- **Emergency Procedures:** Clear protocols for accidents involving textured surfaces
 
 ### Psychological and Cultural Considerations
 
@@ -231,11 +272,11 @@ Incorporate varied materials, textures, and tactile elements into work environme
 **Sensory Impact Assessment:**
 
 *Quantitative Measures:*
-- **Stress Indicators:** Cortisol levels, heart rate variability in different material zones
-- **Productivity Metrics:** Focus duration, creative output, collaboration frequency
-- **Comfort Surveys:** Regular assessment of physical comfort and material satisfaction
-- **Usage Patterns:** Time spent in different material zones, preference mapping
-- **Health Indicators:** Eye strain, physical tension, overall well-being measures
+- **Stress Indicators:** Self-reported stress levels, optional biometric monitoring where available
+- **Productivity Metrics:** Focus duration, creative output, collaboration frequency (tracked through existing tools)
+- **Comfort Surveys:** Regular assessment of physical comfort and material satisfaction (quarterly surveys)
+- **Usage Patterns:** Time spent in different material zones, preference mapping (observational data)
+- **Health Indicators:** Self-reported eye strain, physical tension, overall well-being measures
 
 *Qualitative Feedback:*
 - **Material Preference Interviews:** Individual preferences and sensory needs
@@ -248,12 +289,12 @@ Incorporate varied materials, textures, and tactile elements into work environme
 
 **Material Investment Framework:**
 
-*Initial Investment Categories:*
+*Initial Investment Categories (estimates based on commercial construction costs):*
 - **Foundation Materials:** $50-150 per square foot for flooring and basic wall treatments
 - **Textural Enhancements:** $25-75 per square foot for specialized textures and finishes
 - **Interactive Materials:** $15-50 per square foot for touchable and manipulable elements
 - **Biophilic Elements:** $20-100 per square foot for living and natural materials
-- **Total Material Enhancement:** $110-375 per square foot above standard office finishes
+- **Total Material Enhancement:** $110-375 per square foot above standard office finishes (varies significantly by region and specification)
 
 *Operational Returns:*
 - **Stress Reduction:** 15-25% reduction in stress-related sick days and turnover
