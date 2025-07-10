@@ -228,10 +228,10 @@
 - [ ] - **Add space transition signals**: Offer visual indicators for when spaces shift between individual and collaborative modes.
 - [ ] - **Develop client integration protocols**: Create guidelines for bringing external stakeholders into team spaces.
 
-- [ ] ### Near/Far Specialist Guilds
-- [ ] - **Add guild formation playbooks**: Provide step-by-step guidance for establishing effective specialist communities.
-- [ ] - **Include knowledge sharing frameworks**: Offer structured approaches for transferring expertise between specialists.
-- [ ] - **Develop career progression paths**: Create guidelines for specialist growth within the dual structure.
+- [x] ### Near/Far Specialist Guilds
+- [x] - **Add guild formation playbooks**: Provide step-by-step guidance for establishing effective specialist communities.
+- [x] - **Include knowledge sharing frameworks**: Offer structured approaches for transferring expertise between specialists.
+- [x] - **Develop career progression paths**: Create guidelines for specialist growth within the dual structure.
 
 - [x] ### Nominal Group Technique
 - [x] - **Provide detailed facilitation guides**: Include step-by-step instructions for running effective NGT sessions.
