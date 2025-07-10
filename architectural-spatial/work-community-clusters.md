@@ -844,6 +844,32 @@ Based on comprehensive case study analysis across multiple organizations:
 **Individualistic Cultures**: Need greater personal space allocation and privacy options within neighborhood design
 **Hierarchical Cultures**: Benefit from subtle status indicators while maintaining collaborative accessibility
 
+### Research Methodology and Limitations
+
+#### Study Methodologies Employed
+The case studies and research findings presented above employ diverse methodological approaches:
+
+- **Longitudinal Studies**: Multi-year tracking of workspace transformations with before/after comparisons
+- **Cross-Sectional Analysis**: Comparative studies across multiple organizations and cultural contexts
+- **Mixed Methods Research**: Combination of quantitative metrics (utilization, productivity) and qualitative feedback (satisfaction surveys, interviews)
+- **Ethnographic Observation**: Direct observation of workspace usage patterns and social interactions
+- **Economic Analysis**: Cost-benefit calculations using standardized accounting methodologies
+
+#### Research Limitations and Considerations
+
+**Sample Bias**: Many studies focus on knowledge work and technology companies; applicability to other industries requires further validation
+**Cultural Context**: Research predominantly conducted in Western organizational contexts; results may vary in other cultural settings
+**Implementation Variables**: Success metrics can vary significantly based on change management, leadership support, and organizational readiness
+**Measurement Challenges**: Some benefits (creativity, innovation, cultural cohesion) are difficult to quantify precisely
+**Temporal Factors**: Short-term productivity gains may differ from long-term cultural and organizational impacts
+
+#### Future Research Opportunities
+
+- **Global Cultural Studies**: Systematic comparison of work cluster effectiveness across diverse cultural contexts
+- **Industry-Specific Analysis**: Validation of principles in manufacturing, healthcare, education, and government sectors
+- **Technology Integration**: Impact of emerging technologies (AI, VR/AR, IoT) on physical workspace cluster design
+- **Generational Differences**: How workspace preferences and collaboration patterns vary across different age cohorts
+
 ## Sources and Further Reading
 
 ### Foundational Research
