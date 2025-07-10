@@ -295,10 +295,10 @@
 - [ ] - **Include maintenance considerations**: Offer guidance on keeping textured materials clean and functional.
 - [ ] - **Develop sensory mapping techniques**: Create approaches for intentionally designing sensory experiences.
 
-- [ ] ### Modular Furniture and Reconfigurability
-- [ ] - **Provide specification guidelines**: Include detailed requirements for truly modular furniture systems.
-- [ ] - **Add configuration playbooks**: Offer specific arrangements for different types of collaborative activities.
-- [ ] - **Develop transition protocols**: Create guidelines for efficiently reconfiguring spaces between different uses.
+- [x] ### Modular Furniture and Reconfigurability
+- [x] - **Provide specification guidelines**: Include detailed requirements for truly modular furniture systems.
+- [x] - **Add configuration playbooks**: Offer specific arrangements for different types of collaborative activities.
+- [x] - **Develop transition protocols**: Create guidelines for efficiently reconfiguring spaces between different uses.
 
 - [ ] ### Pin-Up Space
 - [ ] - **Add installation specifications**: Provide detailed requirements for effective pin-up surfaces and lighting.
