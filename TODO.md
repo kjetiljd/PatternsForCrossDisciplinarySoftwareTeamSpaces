@@ -321,10 +321,10 @@
 - [x] - **Address global teams**: Provide more guidance for teams across multiple time zones.
 - [x] - **Integration with calendar tools**: Suggest specific implementations in common calendar systems.
 
-- [ ] ### Daily Rituals
-- [ ] - **Provide specific ritual examples**: Include detailed examples of effective morning, midday, and end-of-day rituals.
-- [ ] - **Add customization framework**: Offer guidance on how teams can develop rituals that match their specific culture and needs.
-- [ ] - **Include remote/hybrid adaptations**: Explain how to maintain ritual benefits in distributed teams.
+- [x] ### Daily Rituals
+- [x] - **Provide specific ritual examples**: Include detailed examples of effective morning, midday, and end-of-day rituals.
+- [x] - **Add customization framework**: Offer guidance on how teams can develop rituals that match their specific culture and needs.
+- [x] - **Include remote/hybrid adaptations**: Explain how to maintain ritual benefits in distributed teams.
 
 - [ ] ### Weekly Cadence
 - [ ] - **Develop alternative cadence models**: Provide options beyond the Monday-Friday standard for teams with different schedules.
