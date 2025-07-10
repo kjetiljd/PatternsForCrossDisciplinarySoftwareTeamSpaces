@@ -82,6 +82,7 @@ Start every design decision with human needs:
 - Johnson, R., et al. (2024). Explaining the influence of biophilic design on employee well-being. Scientific Reports, 14, 28645.
 - University of Melbourne (2024). Biophilic office design: Exploring the impact of a multisensory approach on human well-being. Journal of Environmental Psychology, 85, 101935.
 - University of Exeter (2024). Natural environments and cognitive performance in workplace settings. Applied Psychology: Health and Well-Being, 16(2), 412-435.
+- Kaplan, R., & Kaplan, S. (1989). The Experience of Nature: A Psychological Perspective. Cambridge University Press. [foundational attention restoration theory]
 
 ### Workplace Regulations and Standards
 - Norwegian Working Environment Act (2024). Regulations on daylight access and indoor climate standards.
