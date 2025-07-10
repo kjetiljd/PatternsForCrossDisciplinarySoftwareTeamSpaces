@@ -233,10 +233,10 @@
 - [ ] - **Include knowledge sharing frameworks**: Offer structured approaches for transferring expertise between specialists.
 - [ ] - **Develop career progression paths**: Create guidelines for specialist growth within the dual structure.
 
-- [ ] ### Nominal Group Technique
-- [ ] - **Provide detailed facilitation guides**: Include step-by-step instructions for running effective NGT sessions.
-- [ ] - **Add digital implementation approaches**: Offer strategies for applying NGT in virtual environments.
-- [ ] - **Develop result synthesis frameworks**: Create methods for effectively combining and prioritizing individual inputs.
+- [x] ### Nominal Group Technique
+- [x] - **Provide detailed facilitation guides**: Include step-by-step instructions for running effective NGT sessions.
+- [x] - **Add digital implementation approaches**: Offer strategies for applying NGT in virtual environments.
+- [x] - **Develop result synthesis frameworks**: Create methods for effectively combining and prioritizing individual inputs.
 
 - [ ] ### One-Way vs Two-Way Door Decisions
 - [ ] - **Add decision classification tools**: Provide frameworks for consistently categorizing decision reversibility.

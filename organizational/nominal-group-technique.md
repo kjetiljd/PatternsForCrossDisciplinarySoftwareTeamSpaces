@@ -229,6 +229,13 @@ Separate the collection of individual opinions from group discussion by gatherin
 - **Facilitator Development**: Build facilitation skills across multiple team members
 - **Integration Enhancement**: Better integrate NGT with existing team decision-making processes
 
+**When NOT to Use NGT:**
+- **Urgent Decisions**: When decisions must be made in <24 hours, use faster techniques
+- **Small Decisions**: For low-impact choices, the process overhead exceeds benefits
+- **Very Small Groups**: With <4 participants, direct discussion may be more effective
+- **Frequent Use**: Overuse leads to **participant fatigue** and process gaming - limit to 1-2 times per month
+- **Technology Barriers**: When participants lack digital literacy or reliable internet access
+
 ## Examples
 **Product Roadmap Prioritization:**
 - Independent Input: Team members individually rank potential features with rationale
