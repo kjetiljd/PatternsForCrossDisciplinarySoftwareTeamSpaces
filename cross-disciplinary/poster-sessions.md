@@ -328,6 +328,24 @@ Establish regular poster sessions where teams display their work, prototypes, an
 - **Long-term (3+ years):** Sustained competitive advantage through superior learning capabilities
 - **Total ROI:** Estimated 300-500% return on investment over 3-year period for well-implemented programs
 
+### Lightweight Implementation for Smaller Organizations
+
+**Simplified Poster Sessions (Teams <50 people):**
+
+*Minimal Format:*
+- **Single Template:** One standardized format focusing on Problem → Solution → Impact → Next Steps
+- **Simple Tools:** Physical poster boards with printed templates, sticky notes for feedback
+- **Basic Facilitation:** Rotating team members take turns facilitating (no specialized training required)
+- **Monthly Cadence:** Regular but not overwhelming frequency for small teams
+- **Digital Archive:** Simple photo documentation with shared folder storage
+
+*Resource Requirements:*
+- **Time Investment:** 2-3 hours per session (30 minutes setup, 90 minutes session, 30 minutes follow-up)
+- **Material Costs:** <$100 per session (poster boards, printing, materials)
+- **Facilitator Training:** 1-hour orientation for rotating facilitators
+- **Technology Needs:** Basic camera/phone for documentation, shared file storage
+- **Expected Benefits:** Improved knowledge sharing, enhanced collaboration, better project visibility
+
 ## Forces
 - Formal vs. informal knowledge sharing
 - Prepared presentations vs. work-in-progress sharing

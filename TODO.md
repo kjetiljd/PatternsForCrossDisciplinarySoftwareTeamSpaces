@@ -265,10 +265,10 @@
 - [x] - **Include digital equivalents**: Extend the concept to shared digital tools and platforms.
 - [x] - **Add ROI calculations**: Provide methods for calculating the return on investment for shared vs. individual equipment.
 
-- [ ] ### Poster Sessions
-- [ ] - **Provide format templates**: Include specific formats and templates for effective poster/demo presentations.
-- [ ] - **Add virtual implementation**: Develop guidance for conducting effective virtual poster sessions.
-- [ ] - **Include facilitation techniques**: Offer strategies for facilitating productive interactions during sessions.
+- [x] ### Poster Sessions
+- [x] - **Provide format templates**: Include specific formats and templates for effective poster/demo presentations.
+- [x] - **Add virtual implementation**: Develop guidance for conducting effective virtual poster sessions.
+- [x] - **Include facilitation techniques**: Offer strategies for facilitating productive interactions during sessions.
 
 - [ ] ### Lab Adjacency
 - [ ] - **Specify optimal arrangements**: Provide more concrete guidance on which types of teams benefit most from adjacency.
