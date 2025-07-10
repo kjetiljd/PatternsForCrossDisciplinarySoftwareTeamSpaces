@@ -6,7 +6,7 @@
 Leave prototypes and work-in-progress visible to invite curiosity and cross-pollination of ideas across teams.
 
 ## Context
-Teams create valuable artifacts, prototypes, and work-in-progress that could inspire and inform other teams if made visible.
+Teams create valuable artifacts, prototypes, and work-in-progress that could inspire and inform other teams if made visible. Success requires organizational culture that values transparency, psychological safety around sharing imperfect work, and commitment to ongoing curation and maintenance.
 
 ## Problem
 When work is hidden away, teams miss opportunities to learn from each other's approaches and discover unexpected connections between projects. Empty display spaces signal that sharing work is not expected or valued.
