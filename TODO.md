@@ -260,10 +260,10 @@
 - [x] - **Structured feedback templates**: Include specific formats for giving and receiving critique.
 - [x] - **Remote critique protocols**: Strengthen guidance for conducting effective critiques in distributed teams.
 
-- [ ] ### Shared Equipment Core
-- [ ] - **Develop governance models**: Provide frameworks for managing shared resources fairly.
-- [ ] - **Include digital equivalents**: Extend the concept to shared digital tools and platforms.
-- [ ] - **Add ROI calculations**: Provide methods for calculating the return on investment for shared vs. individual equipment.
+- [x] ### Shared Equipment Core
+- [x] - **Develop governance models**: Provide frameworks for managing shared resources fairly.
+- [x] - **Include digital equivalents**: Extend the concept to shared digital tools and platforms.
+- [x] - **Add ROI calculations**: Provide methods for calculating the return on investment for shared vs. individual equipment.
 
 - [ ] ### Poster Sessions
 - [ ] - **Provide format templates**: Include specific formats and templates for effective poster/demo presentations.
