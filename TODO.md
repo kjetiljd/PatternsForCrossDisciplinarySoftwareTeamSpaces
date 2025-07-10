@@ -193,10 +193,10 @@
 - [x] - **Include facilitation techniques**: Offer strategies for engaging all participants in virtual whiteboarding.
 - [x] - **Develop integration approaches**: Create guidelines for connecting physical and digital whiteboarding.
 
-- [ ] ### Embedded Coordination Roles
-- [ ] - **Provide role descriptions**: Include detailed responsibilities and boundaries for coordination roles.
-- [ ] - **Add rotation strategies**: Offer approaches for regularly rotating coordination responsibilities.
-- [ ] - **Develop handover protocols**: Create guidelines for transitioning coordination roles between team members.
+- [x] ### Embedded Coordination Roles
+- [x] - **Provide role descriptions**: Include detailed responsibilities and boundaries for coordination roles.
+- [x] - **Add rotation strategies**: Offer approaches for regularly rotating coordination responsibilities.
+- [x] - **Develop handover protocols**: Create guidelines for transitioning coordination roles between team members.
 
 - [ ] ### Embedded Telepresence Team Spaces
 - [ ] - **Add technical specifications**: Provide detailed requirements for audio, video, and network infrastructure.
