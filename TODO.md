@@ -354,7 +354,7 @@
 - [x] - **Scaling guidance**: Provide more explicit guidance on how patterns scale from small to large organizations.
 
 - [ ] ### Hybrid-First Approach
-- [ ] - **Strengthen digital equivalents**: Ensure every physical pattern has a robust digital/remote equivalent.
+- [x] - **Strengthen digital equivalents**: Ensure every physical pattern has a robust digital/remote equivalent.
 - [ ] - **Synchronous/asynchronous balance**: More guidance on balancing these modes in hybrid settings.
 - [ ] - **Technology recommendations**: Include specific technology suggestions that support hybrid implementations.
 
