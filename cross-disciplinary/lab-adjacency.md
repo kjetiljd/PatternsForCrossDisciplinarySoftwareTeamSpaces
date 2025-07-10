@@ -225,6 +225,54 @@ Arrange teams with complementary skills or related work domains in adjacent spac
 - **Success Story Sharing:** Documenting and propagating successful adjacency patterns
 - **Continuous Optimization:** Ongoing refinement based on collaboration data
 
+**Acoustic Boundary Management:**
+
+*Sound Control Between Adjacent Teams:*
+- **Graduated Acoustic Barriers:** 50-70% visual openness with NRC 0.70+ sound absorption
+- **White Noise Buffers:** Strategic placement of ambient sound masking between teams
+- **Conversation Volume Protocols:** Team agreements on voice levels during different work modes
+- **Acoustic Feedback Systems:** Real-time sound level monitoring with visual indicators
+- **Flexible Sound Barriers:** Moveable acoustic panels for temporary noise control
+
+*Communication Etiquette:*
+- **Audio Privacy Windows:** Designated times when sensitive conversations are protected
+- **Escalation Protocols:** Clear paths for addressing noise conflicts between teams
+- **Cross-Team Signals:** Visual cues indicating when teams are in focus vs. collaboration mode
+- **Technology Solutions:** Noise-canceling equipment for individuals who need acoustic isolation
+- **Acoustic Design Integration:** Room layout that naturally directs sound away from adjacent workspaces
+
+**Addressing Resistance and Cultural Barriers:**
+
+*Managing Team Status Dynamics:*
+- **Status-Neutral Positioning:** Adjacency decisions based on functional needs, not organizational hierarchy
+- **Benefit Communication:** Clear explanation of mutual advantages for all teams involved
+- **Trial Periods:** Temporary adjacencies with evaluation and opt-out opportunities
+- **Executive Sponsorship:** Leadership support for adjacency decisions to override status concerns
+- **Success Recognition:** Celebrating collaboration achievements to build positive associations
+
+*Handling Isolation Preferences:*
+- **Needs Assessment:** Understanding why teams prefer isolation (focus, confidentiality, culture)
+- **Graduated Adjacency:** Starting with minimal interaction and building based on comfort
+- **Opt-Out Zones:** Designated areas for teams that function better in isolation
+- **Alternative Connection:** Digital or scheduled collaboration for isolation-preferring teams
+- **Cultural Accommodation:** Respecting work styles that genuinely benefit from separation
+
+**Real Estate and Infrastructure Constraints:**
+
+*Working Within Fixed Layouts:*
+- **Micro-Adjacencies:** Optimizing seating arrangements within existing floor plans
+- **Virtual Adjacency Emphasis:** Stronger focus on digital tools when physical changes aren't possible
+- **Partial Implementation:** Achieving some adjacency benefits through strategic furniture placement
+- **Future Planning:** Incorporating adjacency principles into lease renewals and space planning
+- **Creative Solutions:** Using temporary structures, signage, or sight lines to create connection
+
+*Change Management for Team Moves:*
+- **Stakeholder Alignment:** Involving team leads in adjacency planning and decision-making
+- **Transparent Communication:** Clear rationale and benefits explanation for any team relocations
+- **Phased Implementation:** Gradual changes allowing teams to adapt rather than sudden relocations
+- **Trial and Adjustment:** Pilot adjacencies with built-in evaluation and modification periods
+- **Support Systems:** Additional resources during transition periods to maintain productivity
+
 **Cultural and Behavioral Considerations:**
 
 *Team Personality Matching:*
@@ -281,6 +329,56 @@ Arrange teams with complementary skills or related work domains in adjacent spac
 - **Medium-term (1-2 years):** Cultural change and sustained collaboration improvements
 - **Long-term (2+ years):** Organizational learning capabilities and competitive advantage
 - **Total ROI:** Estimated 200-400% return on investment over 2-year period
+
+### Failure Recovery and Exit Strategies
+
+**When Adjacency Creates Problems:**
+
+*Conflict Resolution Protocols:*
+- **Early Warning Signs:** Declining productivity, increased tension, noise complaints, territory disputes
+- **Mediation Process:** Neutral facilitator helping teams negotiate adjacency modifications
+- **Temporary Separation:** Short-term physical barriers or schedule adjustments during conflict resolution
+- **Structured Problem-Solving:** Root cause analysis of why adjacency isn't working
+- **Exit Criteria:** Clear thresholds for when adjacency should be discontinued
+
+*Recovery Strategies:*
+- **Graduated Separation:** Slowly increasing distance/barriers while maintaining some connection benefits
+- **Alternative Collaboration:** Moving to scheduled collaboration instead of organic proximity
+- **Individual Accommodations:** Personal solutions (noise-canceling, visual barriers) before team moves
+- **Timing Adjustments:** Different work schedules to reduce overlap during problematic periods
+- **Communication Protocol Changes:** More formal coordination to replace informal interaction
+
+**Individual vs. Team Balance:**
+
+*Personal Work Style Accommodation:*
+- **Individual Opt-Outs:** Personal workspace modifications within team adjacency arrangements
+- **Flexible Positioning:** Some team members positioned for more/less adjacent interaction
+- **Rotation Systems:** Individuals rotating through different adjacency levels based on project needs
+- **Hybrid Personal Models:** Some individuals working remotely when adjacency doesn't suit their work
+- **Productivity Monitoring:** Ensuring individual performance isn't compromised by adjacency requirements
+
+*Team Needs Assessment:*
+- **Work Style Audits:** Understanding individual preferences within team adjacency decisions
+- **Compromise Solutions:** Adjacency arrangements that work for majority while accommodating outliers
+- **Trial and Feedback:** Testing adjacency with built-in individual adjustment mechanisms
+- **Performance Tracking:** Monitoring both team collaboration and individual productivity outcomes
+- **Alternative Contribution:** Ways for individuals to contribute to team goals without physical adjacency
+
+**Temporal Adaptation:**
+
+*Project Cycle Sensitivity:*
+- **Collaboration Intensity Mapping:** Recognizing when teams need more or less adjacency based on project phases
+- **Seasonal Adjustments:** Modifying adjacency during different organizational cycles (planning, execution, delivery)
+- **Sprint-Based Positioning:** Agile teams might benefit from different adjacency during sprints vs. planning
+- **Crisis Response:** Rapid adjacency adjustments during urgent projects or organizational changes
+- **Growth Phase Adaptation:** Scaling adjacency arrangements as teams grow or split
+
+*Technology Evolution Accommodation:*
+- **Tool Adoption Cycles:** Adjusting physical adjacency as digital collaboration tools improve
+- **Skill Development Phases:** Temporary adjacency for knowledge transfer that may not be permanently needed
+- **Innovation Pipeline:** Adjacent positioning during R&D phases, potentially different arrangement during production
+- **Platform Migration:** Coordinated adjacency during major technology transitions
+- **Legacy System Maintenance:** Different adjacency needs for teams maintaining vs. building new systems
 
 ## Forces
 - Collaboration benefits vs. space constraints

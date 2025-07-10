@@ -270,10 +270,10 @@
 - [x] - **Add virtual implementation**: Develop guidance for conducting effective virtual poster sessions.
 - [x] - **Include facilitation techniques**: Offer strategies for facilitating productive interactions during sessions.
 
-- [ ] ### Lab Adjacency
-- [ ] - **Specify optimal arrangements**: Provide more concrete guidance on which types of teams benefit most from adjacency.
-- [ ] - **Add measurement methods**: Include ways to assess the effectiveness of team adjacencies.
-- [ ] - **Address hybrid work challenges**: Explain how to maintain the benefits of adjacency in hybrid work environments.
+- [x] ### Lab Adjacency
+- [x] - **Specify optimal arrangements**: Provide more concrete guidance on which types of teams benefit most from adjacency.
+- [x] - **Add measurement methods**: Include ways to assess the effectiveness of team adjacencies.
+- [x] - **Address hybrid work challenges**: Explain how to maintain the benefits of adjacency in hybrid work environments.
 
 - [x] ### Andon Cord & Stop-the-Line
 - [x] - **Provide implementation playbooks**: Include detailed guidance for establishing stop-the-line protocols.
