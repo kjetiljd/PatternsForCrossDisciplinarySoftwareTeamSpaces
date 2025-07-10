@@ -198,10 +198,10 @@
 - [x] - **Add rotation strategies**: Offer approaches for regularly rotating coordination responsibilities.
 - [x] - **Develop handover protocols**: Create guidelines for transitioning coordination roles between team members.
 
-- [ ] ### Embedded Telepresence Team Spaces
-- [ ] - **Add technical specifications**: Provide detailed requirements for audio, video, and network infrastructure.
-- [ ] - **Include room layout guidelines**: Offer specific arrangements that optimize remote participant visibility.
-- [ ] - **Develop interaction protocols**: Create guidelines for ensuring equal participation of remote and local team members.
+- [x] ### Embedded Telepresence Team Spaces
+- [x] - **Add technical specifications**: Provide detailed requirements for audio, video, and network infrastructure.
+- [x] - **Include room layout guidelines**: Offer specific arrangements that optimize remote participant visibility.
+- [x] - **Develop interaction protocols**: Create guidelines for ensuring equal participation of remote and local team members.
 
 - [ ] ### Enabling Platform Teams
 - [ ] - **Provide service level agreements**: Include templates for defining expectations between platform and product teams.

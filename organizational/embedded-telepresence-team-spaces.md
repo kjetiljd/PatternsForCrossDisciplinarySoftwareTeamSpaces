@@ -24,6 +24,8 @@ Embed telepresence technology directly into team collaboration areas with compre
   - Auto-tracking capability for speaker identification
   - Dual cameras for whiteboard/workspace capture
   - Height: 1.2-1.5m from floor for optimal eye-level positioning
+  - **Hardware privacy shutters** with tactile controls for immediate privacy
+  - Visual privacy indicators (LED) showing recording/transmission status
 
 **Audio Requirements:**
 - **Microphone Array:** Ceiling-mounted beamforming array with 360° coverage
@@ -37,62 +39,77 @@ Embed telepresence technology directly into team collaboration areas with compre
 - **Latency:** <150ms round-trip for real-time collaboration
 - **Redundancy:** Dual network connections (wired primary, wireless backup)
 - **Quality of Service:** DSCP marking for prioritized video/audio traffic
+- **Failover Protocols:** Automatic degradation to audio-only during network issues
+- **Adaptive Bitrate:** Dynamic quality adjustment based on available bandwidth
 
 **Computing Requirements:**
 - **Processing Power:** Intel i7/AMD Ryzen 7 minimum or dedicated hardware codec
 - **Memory:** 16GB RAM minimum for smooth 4K processing
-- **Storage:** 256GB SSD for local recording/buffering
+- **Storage:** 128GB SSD minimum (calculated: 30GB for OS, 50GB for software, 48GB for 8 hours of meeting recordings at 720p)
 - **Cooling:** Silent operation (<35dB) to avoid audio interference
+- **Compliance:** GDPR/privacy-compliant data handling with local-only storage options
 
 ### Room Layout Guidelines
 
 **Optimal Spatial Arrangements:**
 
-*For Teams of 3-5 people:*
+*For Small Teams (3-5 people):*
 - **Screen Placement:** Center of longest wall, 2.5-3m from primary seating
 - **Seating Arc:** 150° arc facing screen, 1.5-2m from screen
 - **Table Configuration:** Curved or U-shaped desk allowing all faces to be visible
 - **Camera Position:** 30cm above screen center, angled 5° downward
 
-*For Teams of 6-8 people:*
+*For Medium Teams (6-8 people):*
 - **Screen Placement:** Corner position with 45° angle for better visibility
 - **Seating Layout:** Two-row configuration with front row 2m from screen
 - **Table Configuration:** Dual-level surfaces (standing/sitting options)
 - **Camera Position:** 50cm above screen, wider angle lens (130° minimum)
 
-*For Mob Programming (8-12 people):*
+*For Large Teams (9-12 people):*
 - **Screen Placement:** Dual screens - one for code, one for remote participants
 - **Seating Layout:** Theater-style arrangement with clear sight lines
 - **Table Configuration:** Tiered seating with laptop surfaces at each level
 - **Camera Position:** Wide-angle capture from rear of room plus focused face camera
+
+*For Global Teams (13+ people across time zones):*
+- **Asynchronous Setup:** Recording-optimized configuration for handoff meetings
+- **Multi-Region Displays:** Time zone clocks and presence indicators
+- **Persistent Workspace:** Always-available shared digital workspace
+- **Flexible Scheduling:** Core overlap hours with rotating anchor times
 
 **Lighting Considerations:**
 - **Natural Light:** Perpendicular to screen to minimize glare
 - **Artificial Light:** 500-750 lux even illumination on faces
 - **Color Temperature:** 4000K-5000K for accurate color reproduction
 - **Bias Lighting:** LED strip behind screen to reduce eye strain
+- **Seasonal Adaptation:** Automatic adjustment for Nordic winter months (2000K-3000K during December-February)
+- **Neurodiversity Support:** Dimmer controls and warm light options for sensory-sensitive individuals
 
 **Acoustic Treatment:**
-- **Absorption:** 20-30% of wall surface with acoustic panels
+- **Absorption:** 20-30% of wall surface with frequency-specific panels (250-4000Hz focus)
 - **Diffusion:** Avoid parallel reflective surfaces
 - **Sound Masking:** White noise generation for privacy from adjacent areas
 - **Isolation:** STC 45 minimum for walls separating from other spaces
+- **Noise Reduction Coefficient:** Target NRC 0.85 for speech intelligibility
+- **Reverberation Time:** 0.4-0.6 seconds for optimal video conferencing
 
 ### Interaction Protocols
 
 **Equal Participation Guidelines:**
 
 *Meeting Facilitation:*
-- **Round-Robin Check-ins:** Always start with remote participants
+- **Inclusive Check-ins:** Alternate between remote and local participants to avoid artificial formality
 - **Visual Cues:** Use hand signals visible to camera for speaking requests
-- **Screen Sharing Protocol:** Remote participants present first, then local
-- **Document Collaboration:** Shared digital workspace visible to all participants
+- **Screen Sharing Protocol:** Default to shared digital workspace accessible to all
+- **Document Collaboration:** Simultaneous editing tools with clear authorship indicators
+- **Psychological Safety:** Explicit "no judgment" periods for ideas and questions
 
 *Spontaneous Collaboration:*
-- **Drop-in Etiquette:** 30-second notification before joining ongoing session
+- **Flexible Drop-in:** Immediate access for urgent input, 30-second notification for non-urgent
 - **Presence Indicators:** Visual/audio cues when remote colleague wants to participate
 - **Context Sharing:** Brief summary of current discussion for joining participants
 - **Transition Protocols:** Clear signals when switching between local and hybrid modes
+- **Resistance Management:** Explicit discussion of discomfort with new patterns and gradual adaptation
 
 *Mob Programming Sessions:*
 - **Driver Rotation:** Equal time slots for remote and local participants
@@ -133,6 +150,9 @@ Embed telepresence technology directly into team collaboration areas with compre
 - **Spontaneity vs. Technology Complexity:** System must be simple enough for impromptu use
 - **Visual Quality vs. Cost:** High-definition video requires investment in equipment and bandwidth
 - **Privacy vs. Transparency:** Always-on systems raise concerns about surveillance and privacy
+- **Accessibility vs. Standardization:** Neurodivergent individuals may need different sensory environments
+- **Global vs. Local:** Time zone differences create tension between synchronous and asynchronous collaboration
+- **Compliance vs. Functionality:** Data protection regulations may limit recording and always-on capabilities
 
 ## Examples
 
@@ -191,11 +211,13 @@ Embed telepresence technology directly into team collaboration areas with compre
 - **Testing and Calibration:** Optimize audio/video quality and user experience
 - **Training Materials:** Create quick-start guides and troubleshooting resources
 
-### Phase 4: Cultural Integration (4-6 weeks)
+### Phase 4: Cultural Integration (6-12 months)
 - **Protocol Training:** Teach team members new interaction patterns and etiquette
-- **Feedback Collection:** Gather usage data and experience reports
+- **Resistance Identification:** Identify and address individual/cultural barriers to adoption
+- **Feedback Collection:** Gather usage data and experience reports with baseline measurements
 - **Iterative Improvement:** Adjust technical and cultural aspects based on feedback
-- **Success Measurement:** Track participation equality and collaboration effectiveness
+- **Success Measurement:** Track participation equality and collaboration effectiveness with quantitative metrics
+- **Change Management:** Active support for team members struggling with new patterns
 
 ### Maintenance and Evolution
 - **Daily:** Automated system startup and health checks
