@@ -218,10 +218,10 @@
 - [x] - **Add synchronization techniques**: Offer strategies for keeping in-person and remote work aligned.
 - [x] - **Develop knowledge capture protocols**: Create guidelines for preserving insights from both in-person and remote work.
 
-- [ ] ### I Intend To
-- [ ] - **Add phrase variations**: Provide different formulations for various contexts and decision types.
-- [ ] - **Include response frameworks**: Offer guidance on how to effectively respond to intent statements.
-- [ ] - **Develop escalation protocols**: Create guidelines for handling disagreements about stated intentions.
+- [x] ### I Intend To
+- [x] - **Add phrase variations**: Provide different formulations for various contexts and decision types.
+- [x] - **Include response frameworks**: Offer guidance on how to effectively respond to intent statements.
+- [x] - **Develop escalation protocols**: Create guidelines for handling disagreements about stated intentions.
 
 - [ ] ### In-Zone Collaboration
 - [ ] - **Provide noise management techniques**: Include strategies for balancing collaborative discussion with focused work.
