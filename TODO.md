@@ -203,10 +203,10 @@
 - [x] - **Include room layout guidelines**: Offer specific arrangements that optimize remote participant visibility.
 - [x] - **Develop interaction protocols**: Create guidelines for ensuring equal participation of remote and local team members.
 
-- [ ] ### Enabling Platform Teams
-- [ ] - **Provide service level agreements**: Include templates for defining expectations between platform and product teams.
-- [ ] - **Add capability building roadmaps**: Offer frameworks for gradually transferring knowledge from enabling to product teams.
-- [ ] - **Develop measurement frameworks**: Create metrics for assessing platform team effectiveness.
+- [x] ### Enabling Platform Teams
+- [x] - **Provide service level agreements**: Include templates for defining expectations between platform and product teams.
+- [x] - **Add capability building roadmaps**: Offer frameworks for gradually transferring knowledge from enabling to product teams.
+- [x] - **Develop measurement frameworks**: Create metrics for assessing platform team effectiveness.
 
 - [x] ### Handbook First Documentation
 - [x] - **Add information architecture guidelines**: Provide structures for organizing handbook content effectively.
