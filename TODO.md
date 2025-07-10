@@ -326,10 +326,10 @@
 - [x] - **Add customization framework**: Offer guidance on how teams can develop rituals that match their specific culture and needs.
 - [x] - **Include remote/hybrid adaptations**: Explain how to maintain ritual benefits in distributed teams.
 
-- [ ] ### Weekly Cadence
-- [ ] - **Develop alternative cadence models**: Provide options beyond the Monday-Friday standard for teams with different schedules.
-- [ ] - **Add facilitation guidance**: Include specific facilitation techniques for planning and retrospective sessions.
-- [ ] - **Create transition strategies**: Offer approaches for teams transitioning from ad-hoc to structured weekly rhythms.
+- [x] ### Weekly Cadence
+- [x] - **Develop alternative cadence models**: Provide options beyond the Monday-Friday standard for teams with different schedules.
+- [x] - **Add facilitation guidance**: Include specific facilitation techniques for planning and retrospective sessions.
+- [x] - **Create transition strategies**: Offer approaches for teams transitioning from ad-hoc to structured weekly rhythms.
 
 - [x] ### Team Health Checks
 - [x] - **Include assessment templates**: Provide ready-to-use templates for team health surveys and discussions.
