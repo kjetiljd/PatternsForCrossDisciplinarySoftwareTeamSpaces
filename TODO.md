@@ -351,7 +351,7 @@
 - [ ] ### Practical Application
 - [x] - **Implementation checklists**: Add practical checklists for implementing each pattern.
 - [x] - **Common anti-patterns**: Explicitly identify anti-patterns and failure modes for each pattern.
-- [ ] - **Scaling guidance**: Provide more explicit guidance on how patterns scale from small to large organizations.
+- [x] - **Scaling guidance**: Provide more explicit guidance on how patterns scale from small to large organizations.
 
 - [ ] ### Hybrid-First Approach
 - [ ] - **Strengthen digital equivalents**: Ensure every physical pattern has a robust digital/remote equivalent.
