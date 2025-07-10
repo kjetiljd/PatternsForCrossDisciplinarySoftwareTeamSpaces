@@ -317,9 +317,9 @@
 - [x] - **Individual vs. team time**: Clarify when no-meeting time should be synchronized across a team versus individually determined.
 - [x] - **Cultural reinforcement**: Add strategies for creating a culture that respects these boundaries.
 
-- [ ] ### Core Hours & Temporal Zoning
-- [ ] - **Address global teams**: Provide more guidance for teams across multiple time zones.
-- [ ] - **Integration with calendar tools**: Suggest specific implementations in common calendar systems.
+- [x] ### Core Hours & Temporal Zoning
+- [x] - **Address global teams**: Provide more guidance for teams across multiple time zones.
+- [x] - **Integration with calendar tools**: Suggest specific implementations in common calendar systems.
 
 - [ ] ### Daily Rituals
 - [ ] - **Provide specific ritual examples**: Include detailed examples of effective morning, midday, and end-of-day rituals.
