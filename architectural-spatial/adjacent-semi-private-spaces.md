@@ -3,10 +3,10 @@
 # Adjacent Semi-Private Spaces
 
 ## Summary
-Create small, semi-enclosed collaboration areas immediately adjacent to team work zones that enable quick transitions between individual work and team discussions without leaving the work context.
+Create small, semi-enclosed collaboration areas next to team work zones. These spaces allow quick transitions between individual work and team discussions. Teams can collaborate without leaving their work context.
 
 ## Context
-Software teams need frequent, informal collaboration that builds on shared work context. Traditional meeting rooms create barriers and interrupt work flow, while completely open spaces lack privacy for focused team discussions.
+Software teams need frequent, informal collaboration that builds on shared work context. Traditional meeting rooms create barriers and interrupt work flow. Completely open spaces lack privacy for focused team discussions.
 
 ## Problem
 Teams need a space for focused discussions that:
@@ -179,19 +179,19 @@ Design small collaboration alcoves immediately adjacent to team work areas:
 ## Implementation
 
 **Design Phase:**
-1. Position adjacent to each team bay or cluster
-2. Ensure acoustic treatment appropriate for open-plan integration
+1. Position next to each team bay or cluster
+2. Ensure acoustic treatment fits open-plan integration
 3. Provide flexible furniture and mobile whiteboards
 4. Include power and connectivity infrastructure
 
 **Team Onboarding:**
 1. Establish norms for space usage and noise levels
-2. Train teams on effective informal collaboration techniques
+2. Train teams on effective informal collaboration methods
 3. Set expectations for cleaning and maintenance
 4. Create protocols for handling conflicts over space usage
 
 **Monitoring and Adjustment:**
-1. Observe usage patterns and adjust furniture configuration
+1. Observe usage patterns and adjust furniture setup
 2. Monitor noise levels and add acoustic treatment as needed
 3. Gather feedback on effectiveness compared to formal meeting rooms
 4. Refine team protocols based on actual usage
