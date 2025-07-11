@@ -6,13 +6,13 @@
 Enable any team member to halt work to address quality issues and create a culture of shared responsibility for quality.
 
 ## Context
-Software teams need mechanisms to address quality issues quickly and create shared responsibility for maintaining high standards.
+Software teams need mechanisms to address quality issues quickly. They also need to create shared responsibility for maintaining high standards.
 
 ## Problem
-When quality issues are ignored or passed along, they accumulate and create larger problems later, while team members may hesitate to raise concerns about quality.
+When quality issues are ignored or passed along, they accumulate and create larger problems later. Team members may hesitate to raise concerns about quality.
 
 ## Solution
-Establish cultural norms and mechanisms that enable any team member to stop work when quality issues are identified, ensuring immediate attention to problems.
+Establish cultural norms and mechanisms that enable any team member to stop work when quality issues are identified. This ensures immediate attention to problems.
 
 ### Core Principles
 - **Everyone's responsibility**: Quality is everyone's job, not just QA or senior developers
