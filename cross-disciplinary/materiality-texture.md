@@ -3,106 +3,106 @@
 # Materiality and Texture
 
 ## Summary
-Use varied materials and textures to create inspiring, tactile environments that stimulate creativity and provide sensory richness.
+Use different materials and textures to create inspiring spaces that help teams think creatively and feel comfortable.
 
 ## Context
-Software teams spend long hours in digital environments and can benefit from physical spaces that provide sensory variety and tactile inspiration.
+Software teams work long hours on computers. Physical spaces with varied materials and textures can help them stay creative and connected to their environment.
 
 ## Problem
-Sterile, monotonous environments can reduce creativity and well-being, while purely digital work can create a disconnect from physical materials and textures.
+Bland, uniform environments can hurt creativity and well-being. Working only with digital tools can make people feel disconnected from the physical world.
 
 ## Solution
-Incorporate varied materials, textures, and tactile elements into work environments to create sensory richness and inspire creativity through evidence-based material selection, strategic sensory mapping, and sustainable maintenance practices.
+Add different materials, textures, and touchable elements to work spaces. Choose materials based on research. Map out where different textures work best. Plan for easy maintenance.
 
 ### Material Selection Guides
 
 **Cognitive Performance Materials:**
 
-*Focus-Enhancing Textures:*
-- **Smooth Wood Grains:** Oak, maple, or birch surfaces for primary work areas (research suggests natural materials reduce stress and support sustained attention)
-- **Fine Woven Fabrics:** Linen or cotton blends on acoustic panels (provides subtle tactile interest without visual distraction)
-- **Matte Metal Finishes:** Brushed aluminum or powder-coated steel for tool surfaces (non-reflective surfaces reduce visual fatigue)
-- **Natural Stone:** Honed granite or limestone for accent surfaces (stable, non-distracting textures for peripheral vision)
-- **Cork Surfaces:** Pin-up boards and floor accents (renewable material with natural antimicrobial properties)
+*Materials That Help Focus:*
+- **Smooth Wood:** Oak, maple, or birch for main work areas. Research shows natural materials reduce stress and help people focus better.
+- **Fine Fabrics:** Linen or cotton on sound panels. These add subtle texture without being distracting.
+- **Matte Metal:** Brushed aluminum or coated steel for tools. Non-shiny surfaces reduce eye strain.
+- **Natural Stone:** Smooth granite or limestone for accent areas. These create calm, steady textures.
+- **Cork Surfaces:** For bulletin boards and floor accents. Cork is renewable and naturally fights germs.
 
-*Creativity-Stimulating Materials:*
-- **Rough-Hewn Wood:** Reclaimed barn wood or live-edge surfaces for brainstorming areas (tactile inspiration)
-- **Textured Concrete:** Exposed aggregate or board-formed concrete for architectural accent walls
-- **Felt and Wool:** Thick acoustic panels with deep texture for collaboration zones
-- **Exposed Brick:** Original or thin-brick veneer for creative energy and visual interest
-- **Flexible Materials:** Magnetic surfaces, moldable foam, or reconfigurable fabric panels
+*Materials That Spark Creativity:*
+- **Rough Wood:** Reclaimed barn wood or natural-edge surfaces for brainstorming areas. The texture inspires touch and ideas.
+- **Textured Concrete:** Rough concrete with visible aggregate for accent walls.
+- **Felt and Wool:** Thick sound panels with deep texture for team work areas.
+- **Exposed Brick:** Original or thin-brick coating for creative energy and visual interest.
+- **Flexible Materials:** Magnetic surfaces, moldable foam, or fabric panels you can rearrange.
 
-*Stress-Reduction Textures:*
-- **Soft Curves:** Rounded edges on furniture and architectural elements (reduces visual stress)
-- **Natural Fibers:** Jute, hemp, or sisal for floor coverings in relaxation areas
-- **Water Features:** Smooth river stones around water elements (tactile meditation)
-- **Living Materials:** Moss walls, bark panels, or living wood installations
-- **Thermal Variation:** Cool metals paired with warm woods for sensory contrast
+*Materials That Reduce Stress:*
+- **Soft Curves:** Rounded edges on furniture and walls. This reduces visual stress.
+- **Natural Fibers:** Jute, hemp, or sisal for floor coverings in quiet areas.
+- **Water Features:** Smooth river stones around water elements for calm touch.
+- **Living Materials:** Moss walls, bark panels, or living wood installations.
+- **Temperature Mix:** Cool metals paired with warm woods for sensory contrast.
 
 **Sensory Zone Specifications:**
 
-*High-Focus Work Areas:*
-- **Primary Material:** Smooth hardwood (maple or oak) for 70% of surfaces
-- **Accent Materials:** Brushed aluminum, matte glass, natural leather (30% of surfaces)
-- **Texture Scale:** Fine-grain textures (1-3mm variation) to avoid visual distraction
-- **Color Palette:** Neutral tones (grays, whites, natural wood) with minimal color variation
-- **Tactile Elements:** Leather desk mats, smooth ceramic objects, polished stone accents
+*Areas for Deep Focus:*
+- **Main Material:** Smooth hardwood (maple or oak) for most surfaces (70%)
+- **Accent Materials:** Brushed aluminum, matte glass, natural leather for the rest (30%)
+- **Texture Size:** Very fine textures (1-3mm bumps) to avoid distracting the eye
+- **Colors:** Neutral tones (grays, whites, natural wood) with little color change
+- **Touch Elements:** Leather desk mats, smooth ceramic objects, polished stone accents
 
-*Collaborative Spaces:*
-- **Primary Material:** Mixed textures encouraging interaction and creativity
-- **Wall Surfaces:** 40% smooth (whiteboards, displays), 60% textured (acoustic panels, brick)
-- **Seating Materials:** Varied upholstery (smooth leather, nubby fabric, polished wood)
+*Team Work Spaces:*
+- **Main Material:** Mixed textures that encourage interaction and creativity
+- **Wall Surfaces:** 40% smooth (whiteboards, displays), 60% textured (sound panels, brick)
+- **Seating Materials:** Different upholstery (smooth leather, rough fabric, polished wood)
 - **Floor Treatments:** Area rugs with different pile heights and textures
 - **Interactive Surfaces:** Cork boards, magnetic surfaces, moldable materials
 
-*Transition and Break Areas:*
-- **Biophilic Materials:** Living plants, natural stone, water features
+*Break and Transition Areas:*
+- **Natural Materials:** Living plants, natural stone, water features
 - **Comfort Textures:** Soft fabrics, cushioned surfaces, warm materials
-- **Temperature Variation:** Cool stone paired with warm wood
+- **Temperature Mix:** Cool stone paired with warm wood
 - **Sensory Surprise:** Unexpected textures like smooth river stones or rough bark
-- **Flexible Elements:** Materials that can be touched, moved, or manipulated
+- **Flexible Elements:** Materials that can be touched, moved, or changed
 
 ### Material Performance Specifications
 
 **Durability and Commercial Use:**
 
 *High-Traffic Areas:*
-- **Flooring:** Porcelain tile with texture (>8 on Mohs scale), engineered hardwood (AC4 rating minimum)
+- **Flooring:** Porcelain tile with texture (very hard, rated 8+ on hardness scale), engineered hardwood (AC4 rating minimum)
 - **Work Surfaces:** Laminate with texture (Grade 10+ wear resistance), solid surface materials
-- **Wall Coverings:** Commercial-grade fabric (>30,000 double rubs), textured vinyl wallcovering
+- **Wall Coverings:** Commercial-grade fabric (30,000+ double rubs), textured vinyl wallcovering
 - **Furniture:** Steel or aluminum frames, commercial-grade upholstery (Grade A+ ratings)
 
-*Touch-Intensive Surfaces:*
-- **Handrails and Hardware:** Stainless steel with antimicrobial coating
+*Surfaces People Touch Often:*
+- **Handrails and Hardware:** Stainless steel with germ-fighting coating
 - **Interactive Walls:** Cleanable textured surfaces (porcelain panels, washable paint)
 - **Seating:** Leather or vinyl with texture that doesn't show wear patterns
-- **Manipulation Objects:** Non-porous materials that can be disinfected regularly
+- **Objects to Handle:** Non-porous materials that can be cleaned regularly
 
 **Acoustic Performance Integration:**
 
-*Sound-Absorbing Textures:*
-- **Fabric Panels:** NRC 0.85+ with varied fabric textures (bouclé, corduroy, tweed)
+*Textures That Absorb Sound:*
+- **Fabric Panels:** High sound absorption (NRC 0.85+) with varied fabric textures (bouclé, corduroy, tweed)
 - **Wood Slats:** Perforated or spaced hardwood with backing absorption
-- **Textured Concrete:** Aggregate surfaces with integrated acoustic treatment
+- **Textured Concrete:** Rough surfaces with built-in acoustic treatment
 - **Carpet Systems:** Multi-level loop pile or texture variation (NRC 0.30-0.50)
 - **Felt Elements:** Thick wool felt in sculptural forms (NRC 0.90+)
 
-*Sound-Reflecting Textures:*
+*Textures That Reflect Sound:*
 - **Polished Stone:** Marble or granite for specific acoustic enhancement
 - **Smooth Metal:** Polished aluminum or steel for sound projection in presentation areas
-- **Glass Surfaces:** Textured glass that maintains acoustic reflection while adding visual interest
+- **Glass Surfaces:** Textured glass that reflects sound while adding visual interest
 - **Hard Tile:** Large-format porcelain with subtle texture for sound clarity
 
 ### Sensory Mapping Techniques
 
 **Neurological Design Principles:**
 
-*Cognitive Load Management:*
-- **Texture Hierarchy:** Primary surfaces smooth (80%), secondary surfaces moderately textured (15%), accent surfaces highly textured (5%)
-- **Sensory Transition Zones:** Gradual texture changes between focus and collaborative areas
-- **Visual Rest Areas:** Smooth, monochromatic surfaces interspersed with complex textures
+*Managing Mental Load:*
+- **Texture Hierarchy:** Main surfaces smooth (80%), secondary surfaces medium textured (15%), accent surfaces highly textured (5%)
+- **Transition Zones:** Gradual texture changes between focus and team areas
+- **Visual Rest Areas:** Smooth, single-color surfaces mixed with complex textures
 - **Attention Direction:** Rough textures to draw attention, smooth textures to maintain focus
-- **Stress Response:** Soft, natural textures in areas designed for psychological recovery
+- **Stress Response:** Soft, natural textures in areas designed for mental recovery
 
 *Circadian Rhythm Support (based on lighting and thermal comfort research):*
 - **Morning Textures:** Smooth, cool materials (metal, stone) may complement bright lighting for alertness
@@ -130,23 +130,23 @@ Incorporate varied materials, textures, and tactile elements into work environme
 
 **Building Code and Safety Requirements:**
 
-*Slip and Fall Prevention:*
-- **Texture Coefficient of Friction:** All floor textures must meet ADA requirements (COF ≥0.6 wet, ≥0.8 dry)
-- **Transition Safety:** Gradual transitions between different floor textures to prevent tripping
-- **Visual Contrast:** Sufficient visual contrast between textures for vision-impaired navigation
+*Preventing Slips and Falls:*
+- **Floor Grip:** All floor textures must meet ADA requirements (COF ≥0.6 wet, ≥0.8 dry)
+- **Safe Transitions:** Gradual changes between different floor textures to prevent tripping
+- **Visual Contrast:** Enough visual contrast between textures for vision-impaired navigation
 - **Warning Surfaces:** Tactile warning indicators at elevation changes or hazard areas
-- **Maintenance Accessibility:** All textured surfaces must be cleanable to maintain slip resistance
+- **Easy Cleaning:** All textured surfaces must be cleanable to maintain slip resistance
 
-*Fire Safety Compliance:*
+*Fire Safety Rules:*
 - **Flame Spread Ratings:** All materials must meet Class A (≤25) flame spread requirements
-- **Smoke Development:** Materials with low smoke development ratings for safe egress
-- **Toxic Gas Emissions:** Natural materials preferred to minimize toxic emissions during fire
-- **Emergency Egress:** Textural elements cannot impede emergency evacuation routes
-- **Sprinkler Integration:** Textured ceilings must accommodate fire suppression systems
+- **Smoke Development:** Materials with low smoke development ratings for safe exit
+- **Toxic Gas Emissions:** Natural materials preferred to minimize toxic gas during fire
+- **Emergency Exit:** Textural elements cannot block emergency evacuation routes
+- **Sprinkler Integration:** Textured ceilings must work with fire suppression systems
 
-*Accessibility Beyond ADA Minimum:*
+*Extra Accessibility Features:*
 - **Reach Ranges:** Interactive textured elements accessible to wheelchair users (15-48" height)
-- **Operating Force:** Textured controls require <5 lbs force for operation
+- **Operating Force:** Textured controls require less than 5 lbs force to operate
 - **Clear Space:** 30"×48" clear space in front of textured interactive elements
 - **Visual Indicators:** High contrast marking for textured controls and surfaces
 - **Alternative Access:** Non-textural alternatives for all interactive textured elements
@@ -154,11 +154,11 @@ Incorporate varied materials, textures, and tactile elements into work environme
 **Health and Environmental Safety:**
 
 *Indoor Air Quality:*
-- **VOC Emissions:** All materials must meet Greenguard Gold or equivalent low-emission standards
+- **VOC Emissions:** All materials must meet Greenguard Gold or equal low-emission standards
 - **Allergen Considerations:** Natural materials selected to minimize common allergens
 - **Mold Prevention:** Moisture-resistant materials in high-humidity areas
 - **Chemical Sensitivity:** Fragrance-free and chemical-sensitive employee accommodations
-- **Cleaning Product Compatibility:** Materials compatible with non-toxic cleaning protocols
+- **Cleaning Product Compatibility:** Materials work with non-toxic cleaning protocols
 
 *Maintenance Worker Safety:*
 - **Ergonomic Cleaning:** Textured surfaces designed for safe cleaning without repetitive strain
@@ -292,13 +292,13 @@ Incorporate varied materials, textures, and tactile elements into work environme
 *Initial Investment Categories (estimates based on commercial construction costs):*
 - **Foundation Materials:** $50-150 per square foot for flooring and basic wall treatments
 - **Textural Enhancements:** $25-75 per square foot for specialized textures and finishes
-- **Interactive Materials:** $15-50 per square foot for touchable and manipulable elements
-- **Biophilic Elements:** $20-100 per square foot for living and natural materials
-- **Total Material Enhancement:** $110-375 per square foot above standard office finishes (varies significantly by region and specification)
+- **Interactive Materials:** $15-50 per square foot for touchable and moveable elements
+- **Natural Elements:** $20-100 per square foot for living and natural materials
+- **Total Material Enhancement:** $110-375 per square foot above standard office finishes. Costs vary by region and specification.
 
 *Operational Returns:*
 - **Stress Reduction:** 15-25% reduction in stress-related sick days and turnover
-- **Creativity Enhancement:** 20-35% increase in ideation and problem-solving effectiveness
+- **Creativity Enhancement:** 20-35% increase in ideas and problem-solving effectiveness
 - **Attraction and Retention:** Premium employer branding and talent attraction
 - **Client Impression:** Enhanced professional image and client confidence
 - **Well-being Premium:** Improved employee satisfaction and engagement scores
