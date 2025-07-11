@@ -3,13 +3,13 @@
 # Mob Programming Corner
 
 ## Summary
-Create dedicated spaces where entire teams (4-6 developers) can work together on one task, featuring large displays, flexible seating, and open-yet-defined boundaries.
+Create dedicated spaces where entire teams (4-6 developers) can work together on one task. These spaces feature large displays, flexible seating, and open-yet-defined boundaries.
 
 ## Context
-Mob programming (or ensemble programming) brings the entire team together to work on a single piece of code simultaneously. This practice requires specialized physical environments that traditional individual workstations or even pair programming setups cannot support.
+Mob programming (or ensemble programming) brings the entire team together to work on a single piece of code simultaneously. This practice requires specialized physical environments. Traditional individual workstations or even pair programming setups cannot support this.
 
 ## Problem
-Standard office layouts lack spaces where 4-6 people can comfortably gather around one shared screen for extended periods. Conference rooms are too formal and isolated, while open desk areas lack the focus and equipment needed for intensive collaborative coding sessions.
+Standard office layouts lack spaces where 4-6 people can comfortably gather around one shared screen for extended periods. Conference rooms are too formal and isolated. Open desk areas lack the focus and equipment needed for intensive collaborative coding sessions.
 
 ## Solution
 Design dedicated mob programming stations with:
