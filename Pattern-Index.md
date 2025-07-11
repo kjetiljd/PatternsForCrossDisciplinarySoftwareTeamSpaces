@@ -77,6 +77,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 - **[Handbook First Documentation](organizational/handbook-first-documentation.md)** - Create comprehensive, accessible documentation to enable asynchronous work
 - **[Asynchronous Collaboration Norms](organizational/async-collaboration-norms.md)** - Establish writing-first workflows and meeting protocols for distributed teams
+- **[Synchronous/Asynchronous Balance Framework](organizational/sync-async-balance-framework.md)** - Systematic approach to choosing between sync and async work modes based on task characteristics and team dynamics
 - **[Anchor Days](organizational/anchor-days.md)** - Designate regular days for whole-team in-person gathering focused on connection
 - **[Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)** - Create informal virtual spaces for casual interaction and relationship building
 - **[Distributed Whiteboards](organizational/distributed-whiteboards.md)** - Use shared visual workspaces to maintain democratic brainstorming and design sessions

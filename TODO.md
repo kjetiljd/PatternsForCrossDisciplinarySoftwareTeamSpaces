@@ -355,7 +355,7 @@
 
 - [ ] ### Hybrid-First Approach
 - [x] - **Strengthen digital equivalents**: Ensure every physical pattern has a robust digital/remote equivalent.
-- [ ] - **Synchronous/asynchronous balance**: More guidance on balancing these modes in hybrid settings.
+- [x] - **Synchronous/asynchronous balance**: More guidance on balancing these modes in hybrid settings.
 - [ ] - **Technology recommendations**: Include specific technology suggestions that support hybrid implementations.
 
 - [ ] ## Next Steps
