@@ -2,15 +2,15 @@
 ---
 # Visible Evolution Traces
 
-**Summary**: Design spaces to show their history of adaptation and use, making team modifications visible to encourage further beneficial changes.
+**Summary**: Design spaces to show their history of adaptation and use. Make team modifications visible to encourage further beneficial changes.
 
 ## Context
 
-Teams naturally adapt their work environments over time, but many workplaces immediately "clean up" or hide evidence of these adaptations. This removes valuable social signals that could encourage other teams to make similar improvements.
+Teams naturally adapt their work environments over time. However, many workplaces immediately "clean up" or hide evidence of these adaptations. This removes valuable social signals that could encourage other teams to make similar improvements.
 
 ## Problem
 
-When spaces appear pristine and untouched, they signal that modification is discouraged or inappropriate. Teams may hesitate to adapt their environment, missing opportunities to create more effective workspaces. The accumulated wisdom of previous adaptations gets lost when traces are erased.
+When spaces appear pristine and untouched, they signal that modification is discouraged or inappropriate. Teams may hesitate to adapt their environment. This causes them to miss opportunities to create more effective workspaces. The accumulated wisdom of previous adaptations gets lost when traces are erased.
 
 ## Solution
 
@@ -68,11 +68,11 @@ When spaces appear pristine and untouched, they signal that modification is disc
 
 **Architecture studios**: Pin-up walls and model displays show the evolution of design thinking, encouraging further iteration and improvement. Layers of previous work, modified furniture arrangements, and accumulated reference materials create a visual history of studio evolution.
 
-**Digital agencies**: Teams often leave evidence of their learning process visible—whiteboards with faded sketches underneath current work, accumulated sticky notes showing iteration cycles, and furniture arrangements that evolved from initial formal layouts to more collaborative configurations.
+**Digital agencies**: Teams often leave evidence of their learning process visible. This includes whiteboards with faded sketches underneath current work, accumulated sticky notes showing iteration cycles, and furniture arrangements. These arrangements evolved from initial formal layouts to more collaborative configurations.
 
-**Startup offices**: Early-stage companies frequently preserve evidence of their spatial experiments—from initial folding tables to graduated workspace configurations—as both practical knowledge and cultural storytelling about the team's growth and adaptation.
+**Startup offices**: Early-stage companies frequently preserve evidence of their spatial experiments. This ranges from initial folding tables to graduated workspace configurations. They use this as both practical knowledge and cultural storytelling about the team's growth and adaptation.
 
-**University research groups**: Academic labs maintain visible layers of previous work—equipment modifications, storage solutions, and workflow adaptations—that communicate effective practices to new students and visiting researchers.
+**University research groups**: Academic labs maintain visible layers of previous work. This includes equipment modifications, storage solutions, and workflow adaptations. These communicate effective practices to new students and visiting researchers.
 
 ## Related Patterns
 
