@@ -3,16 +3,16 @@
 # Personalization and Human Scale
 
 ## Summary
-Enable teams to shape their space with artifacts, varied textures, and comfortable seating to create environments that feel personal and human-scaled.
+Enable teams to shape their space with artifacts, varied textures, and comfortable seating. This creates environments that feel personal and human-scaled.
 
 ## Context
-Software teams work in their spaces for extended periods and need environments that feel welcoming, personal, and reflective of their team identity and culture.
+Software teams work in their spaces for extended periods. They need environments that feel welcoming, personal, and reflective of their team identity and culture.
 
 ## Problem
-Sterile, corporate environments can feel impersonal and uninspiring, reducing team satisfaction and failing to support the creative aspects of software development. When spaces appear untouchable and pristine, teams may hesitate to make beneficial adaptations.
+Sterile, corporate environments can feel impersonal and uninspiring. This reduces team satisfaction and fails to support the creative aspects of software development. When spaces appear untouchable and pristine, teams may hesitate to make beneficial adaptations.
 
 ## Solution
-Allow teams to personalize their spaces using structured frameworks that balance individual expression with team identity and professional requirements, while accounting for cultural differences in personalization preferences.
+Allow teams to personalize their spaces using structured frameworks that balance individual expression with team identity and professional requirements. Account for cultural differences in personalization preferences.
 
 ### Personalization Framework
 
