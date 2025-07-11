@@ -3,16 +3,16 @@
 # Scattered Work and Campus Layout
 
 ## Summary
-Distribute teams across mixed-use areas rather than isolated office parks to create more vibrant, integrated work environments.
+Distribute teams across mixed-use areas rather than isolated office parks. This creates more vibrant, integrated work environments.
 
 ## Context
-Software teams often find themselves in isolated office parks or corporate campuses that lack the vibrancy and diverse interactions found in mixed-use urban environments.
+Software teams often find themselves in isolated office parks or corporate campuses. These locations lack vibrancy. They also lack the diverse interactions found in mixed-use urban environments.
 
 ## Problem
-Isolated office environments can lead to insular thinking, limited cross-pollination of ideas, and a disconnect from the broader community and market context.
+Isolated office environments can lead to insular thinking. They limit cross-pollination of ideas. They also disconnect teams from the broader community and market context.
 
 ## Solution
-Integrate software team spaces into mixed-use developments where possible, or create campus layouts that incorporate diverse functions and encourage interaction with the broader community. This can range from choosing office space in mixed-use buildings to designing corporate campuses that include retail, dining, and community spaces.
+Integrate software team spaces into mixed-use developments where possible. Alternatively, create campus layouts that incorporate diverse functions. These layouts should encourage interaction with the broader community. This can range from choosing office space in mixed-use buildings to designing corporate campuses. These campuses should include retail, dining, and community spaces.
 
 ## Forces
 - Need for focused work environment vs. benefits of diverse interactions
