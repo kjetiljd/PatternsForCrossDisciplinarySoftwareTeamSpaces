@@ -3,16 +3,16 @@
 # Accessible & Code-Compliant Design
 
 ## Summary
-Ensure daylight access, universal accessibility, and healthy indoor climate by design to create inclusive and legally compliant work environments that support neurodiversity and varying abilities.
+Design spaces that everyone can use. Include daylight access, universal accessibility, and healthy indoor climate. Create inclusive work environments that support neurodiversity and varying abilities while meeting legal requirements.
 
 ## Context
-Software team spaces must comply with building codes and accessibility requirements while promoting health, well-being, and inclusivity for all team members. Modern teams include individuals with diverse physical, cognitive, and sensory needs that must be accommodated through thoughtful design rather than retrofitted accommodations.
+Software team spaces must follow building codes and accessibility rules. They also need to promote health, well-being, and inclusivity for all team members. Modern teams include people with diverse physical, cognitive, and sensory needs. Design should accommodate these needs from the start, not add them later as afterthoughts.
 
 ## Problem
-Workspaces that don't meet accessibility standards exclude potential team members, while poor indoor climate and lack of daylight negatively impact productivity and well-being. Many organizations address accessibility as an afterthought, creating segregated or compromised solutions rather than truly inclusive environments. Sensory accessibility needs are often overlooked, creating barriers for neurodiverse team members.
+Workspaces that don't meet accessibility standards exclude potential team members. Poor indoor climate and lack of daylight hurt productivity and well-being. Many organizations treat accessibility as an afterthought. This creates segregated or compromised solutions instead of truly inclusive environments. Organizations often overlook sensory accessibility needs, which creates barriers for neurodiverse team members.
 
 ## Solution
-Design all team spaces to exceed accessibility requirements using universal design principles, ensure abundant natural light with controllable systems, maintain optimal air quality and temperature with individual control options, and create inclusive environments that proactively accommodate diverse physical, cognitive, and sensory needs.
+Design all team spaces to exceed accessibility requirements. Use universal design principles. Include abundant natural light with controllable systems. Maintain optimal air quality and temperature with individual control options. Create inclusive environments that accommodate diverse physical, cognitive, and sensory needs from the start.
 
 ### Norwegian Building Code Compliance (TEK17)
 
@@ -33,12 +33,12 @@ Design all team spaces to exceed accessibility requirements using universal desi
 - **Noise Levels**: Maximum 40 dB for concentrated work areas
 
 ## Forces
-- Legal compliance requirements vs. cost considerations
-- Universal design principles vs. specific team needs  
+- Legal requirements vs. cost considerations
+- Universal design vs. specific team needs  
 - Natural light access vs. privacy and glare concerns
 - Energy efficiency vs. comfort requirements
-- Standardization vs. individual accommodation needs
-- Proactive inclusion vs. reactive accommodation
+- Standard solutions vs. individual needs
+- Planning for inclusion vs. reacting to requests
 
 ### Accessibility Compliance Checklists
 

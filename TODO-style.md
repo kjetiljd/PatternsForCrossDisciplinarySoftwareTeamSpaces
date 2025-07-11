@@ -1,4 +1,3 @@
-./architectural-spatial/accessible-code-compliant-design.md
 ./architectural-spatial/adjacent-semi-private-spaces.md
 ./architectural-spatial/call-booths.md
 ./architectural-spatial/environmental-comfort-patterns.md
