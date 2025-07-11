@@ -3,10 +3,10 @@
 # Workspace Enclosure & Personal Space
 
 ## Summary
-Provide each person ~60 square feet of dedicated space with partial walls behind or beside them, window views, and 50-75% enclosure for psychological comfort.
+Provide each person ~60 square feet of dedicated space with partial walls behind or beside them. Include window views and 50-75% enclosure for psychological comfort.
 
 ## Context
-Individual workstations that balance privacy needs with team connection and collaboration requirements.
+Individual workstations that balance privacy needs with team connection. They also meet collaboration requirements.
 
 ## Problem
 Open offices create stress and distraction, while fully closed offices isolate people. Workers need psychological comfort and the ability to focus.
@@ -54,15 +54,15 @@ Design individual workspaces with specific guidelines:
 
 ## Examples
 
-**Scandinavian tech companies**: Many Norwegian software companies implement 70-80 sq ft individual workstations with 65-75% enclosure, incorporating natural wood territorial markers and individual lighting controls to respect cultural preferences for personal space and autonomy.
+**Scandinavian tech companies**: Many Norwegian software companies implement 70-80 sq ft individual workstations with 65-75% enclosure. They incorporate natural wood territorial markers and individual lighting controls. This respects cultural preferences for personal space and autonomy.
 
-**Silicon Valley startups**: Often balance open collaboration with individual focus through modular systems—65 sq ft workstations with moveable partitions that teams can adjust based on project phases, typically maintaining 50-60% enclosure.
+**Silicon Valley startups**: Often balance open collaboration with individual focus through modular systems. These feature 65 sq ft workstations with moveable partitions that teams can adjust based on project phases. They typically maintain 50-60% enclosure.
 
-**Japanese software development teams**: Implement hierarchical seating arrangements within team clusters, with senior developers receiving higher visual privacy (70%+ enclosure) while junior team members work in more open configurations (40-50% enclosure) that facilitate mentoring.
+**Japanese software development teams**: Implement hierarchical seating arrangements within team clusters. Senior developers receive higher visual privacy (70%+ enclosure) while junior team members work in more open configurations (40-50% enclosure). This facilitates mentoring.
 
-**European consulting firms**: Use subtle territorial markers like distinctive desk materials, personal storage towers, and individual task lighting to create psychological ownership within flexible seating arrangements that can accommodate client meetings.
+**European consulting firms**: Use subtle territorial markers like distinctive desk materials, personal storage towers, and individual task lighting. These create psychological ownership within flexible seating arrangements that can accommodate client meetings.
 
-**Remote-first companies' satellite offices**: Design highly flexible individual spaces (60-75 sq ft) with multiple privacy levels, allowing workers accustomed to home office control to choose their preferred level of enclosure and territorial definition.
+**Remote-first companies' satellite offices**: Design highly flexible individual spaces (60-75 sq ft) with multiple privacy levels. This allows workers accustomed to home office control to choose their preferred level of enclosure and territorial definition.
 
 ## Related Patterns
 - [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md)
