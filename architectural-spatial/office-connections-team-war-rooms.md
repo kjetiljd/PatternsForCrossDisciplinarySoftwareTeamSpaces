@@ -3,16 +3,16 @@
 # Office Connections & Team War Rooms
 
 ## Summary
-Co-locate frequently collaborating teams with precise spatial relationships and provide dedicated, configurable war rooms optimized for different team sizes and hybrid work patterns.
+Co-locate frequently collaborating teams with precise spatial relationships. Provide dedicated, configurable war rooms optimized for different team sizes and hybrid work patterns.
 
 ## Context
-Cross-functional software teams need both connections to related teams and dedicated spaces where they can collaborate intensively without interrupting others. Modern teams operate in hybrid modes where some members are remote, requiring spaces that support both in-person collaboration and seamless remote participation.
+Cross-functional software teams need both connections to related teams and dedicated spaces where they can collaborate intensively without interrupting others. Modern teams operate in hybrid modes where some members are remote. These teams require spaces that support both in-person collaboration and seamless remote participation.
 
 ## Problem
-Teams that collaborate frequently but are physically separated waste time coordinating and lose opportunities for spontaneous collaboration, while teams without dedicated spaces struggle to maintain focus and team cohesion. Traditional office layouts fail to optimize adjacencies based on actual collaboration patterns and rarely accommodate effective hybrid work.
+Teams that collaborate frequently but are physically separated waste time coordinating and lose opportunities for spontaneous collaboration. Teams without dedicated spaces struggle to maintain focus and team cohesion. Traditional office layouts fail to optimize adjacencies based on actual collaboration patterns and rarely accommodate effective hybrid work.
 
 ## Solution
-Create strategically connected office spaces using research-backed adjacency principles, while providing each team with dedicated war rooms configured for their specific size, work style, and hybrid patterns.
+Create strategically connected office spaces using research-backed adjacency principles. Provide each team with dedicated war rooms configured for their specific size, work style, and hybrid patterns.
 
 ### Optimal Spatial Relationships
 
