@@ -3,10 +3,10 @@
 # Critique Rituals
 
 ## Summary
-Regular open forum sessions for presenting work and receiving peer feedback to improve quality and foster learning, using structured formats that maintain psychological safety while promoting honest evaluation.
+Regular open forum sessions for presenting work and receiving peer feedback to improve quality and foster learning. Use structured formats that maintain psychological safety while promoting honest evaluation.
 
 ## Context
-Software teams, like design studios and research labs, benefit from regular opportunities to share work-in-progress and receive constructive feedback from peers. This builds both individual skills and collective knowledge while maintaining quality standards.
+Software teams, like design studios and research labs, benefit from regular opportunities to share work-in-progress and receive constructive feedback from peers. This builds both individual skills and collective knowledge. It also maintains quality standards.
 
 ## Problem
 Without regular critique sessions, teams miss opportunities to:
@@ -19,7 +19,7 @@ Without regular critique sessions, teams miss opportunities to:
 Informal feedback often becomes personal or lacks structure, while formal code reviews may be too late in the process or focused only on technical correctness.
 
 ## Solution
-Establish regular critique sessions where teams present their work to peers and receive structured feedback in a supportive environment that emphasizes learning and improvement over judgment.
+Establish regular critique sessions where teams present their work to peers and receive structured feedback. Create a supportive environment that emphasizes learning and improvement over judgment.
 
 **Core Critique Structure:**
 1. **Presenter sets context**: Share the problem, goals, and constraints (3-5 minutes)
