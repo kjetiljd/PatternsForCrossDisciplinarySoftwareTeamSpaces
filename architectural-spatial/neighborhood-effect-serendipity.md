@@ -3,16 +3,16 @@
 # Neighborhood Effect and Serendipity
 
 ## Summary
-Design common areas and circulation paths to encourage informal cross-team encounters and spontaneous knowledge sharing.
+Design common areas and circulation paths to encourage informal cross-team encounters. This enables spontaneous knowledge sharing.
 
 ## Context
-Innovation and knowledge transfer often happen through informal interactions and chance encounters between people working on different projects or in different domains.
+Innovation and knowledge transfer often happen through informal interactions. These chance encounters occur between people working on different projects or in different domains.
 
 ## Problem
-Isolated team spaces, direct routing between workspaces and exits, and over-reliance on formal meeting rooms minimize opportunities for serendipitous encounters that could lead to valuable cross-pollination of ideas. The MIT Allen Curve research demonstrates that collaboration frequency drops exponentially with physical distance, making spontaneous encounters crucial for innovation.
+Isolated team spaces, direct routing between workspaces and exits, and over-reliance on formal meeting rooms minimize opportunities for chance encounters. These encounters could lead to valuable cross-pollination of ideas. The MIT Allen Curve research demonstrates that collaboration frequency drops exponentially with physical distance. This makes spontaneous encounters crucial for innovation.
 
 ## Solution
-Create common areas, shared facilities, and circulation paths that naturally bring different teams together, encouraging informal interactions and spontaneous collaboration. **Avoid locating formal meeting rooms in core work areas** - instead position them on separate floors or away from primary circulation paths to prevent them from becoming barriers to natural interaction.
+Create common areas, shared facilities, and circulation paths that naturally bring different teams together. This encourages informal interactions and spontaneous collaboration. **Avoid locating formal meeting rooms in core work areas** - instead position them on separate floors or away from primary circulation paths. This prevents them from becoming barriers to natural interaction.
 
 ### Design for Natural Encounters
 
@@ -78,7 +78,7 @@ Create common areas, shared facilities, and circulation paths that naturally bri
 - **Space Utilization:** Percentage of common area occupied during peak hours (adjust target based on office density)
 - **Path Analysis:** Heat mapping of foot traffic patterns to identify unused circulation routes
 
-*Note: Specific targets should be established based on your organization's baseline measurements and cultural context. The MIT Allen Curve research suggests significant collaboration benefits within 50m proximity, but optimal interaction frequency varies by team type and industry.*
+*Note: Specific targets should be established based on your organization's baseline measurements and cultural context. The MIT Allen Curve research suggests significant collaboration benefits within 50m proximity. However, optimal interaction frequency varies by team type and industry.*
 
 **Qualitative Assessment Tools:**
 - **Monthly Interaction Surveys:** "How many meaningful conversations with other teams did you have this week?"
@@ -92,7 +92,7 @@ Create common areas, shared facilities, and circulation paths that naturally bri
 
 ### Balancing Interaction with Focus Needs
 
-**Critical Consideration:** This pattern must respect diverse personality types and work styles. Not all valuable team members are comfortable with spontaneous interactions, and forced serendipity can become counterproductive.
+**Critical Consideration:** This pattern must respect diverse personality types and work styles. Not all valuable team members are comfortable with spontaneous interactions. Forced serendipity can become counterproductive.
 
 **Design for Choice:**
 - Provide multiple routes between team areas and exits - some social, some direct
