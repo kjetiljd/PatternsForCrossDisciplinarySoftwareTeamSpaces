@@ -1,4 +1,3 @@
-./architectural-spatial/pair-programming-workstations.md
 ./architectural-spatial/personalization-human-scale.md
 ./architectural-spatial/scattered-work-campus-layout.md
 ./architectural-spatial/small-team-bays.md

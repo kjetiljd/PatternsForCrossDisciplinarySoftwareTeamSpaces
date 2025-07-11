@@ -3,13 +3,13 @@
 # Pair Programming Workstations
 
 ## Summary
-Design dedicated desks for two people to comfortably work at one machine, promoting collaborative coding through ergonomic shared workspaces.
+Design dedicated desks for two people to comfortably work at one machine. These workspaces promote collaborative coding through ergonomic shared design.
 
 ## Context
-Modern software development increasingly relies on pair programming for knowledge sharing, code quality, and team learning. However, most office furniture is designed for individual work, making pair programming awkward and physically uncomfortable.
+Modern software development increasingly relies on pair programming for knowledge sharing, code quality, and team learning. However, most office furniture is designed for individual work. This makes pair programming awkward and physically uncomfortable.
 
 ## Problem
-Traditional L-shaped desks, corner workstations, and narrow desks force pairing partners into uncomfortable positions - leaning over shoulders, sharing inadequate space, or struggling with limited access to peripherals. This physical discomfort discourages pair programming and reduces its effectiveness.
+Traditional L-shaped desks, corner workstations, and narrow desks force pairing partners into uncomfortable positions. They must lean over shoulders, share inadequate space, or struggle with limited access to peripherals. This physical discomfort discourages pair programming and reduces its effectiveness.
 
 ## Solution
 Create dedicated pair programming workstations with:
