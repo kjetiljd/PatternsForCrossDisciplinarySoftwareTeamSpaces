@@ -3,16 +3,16 @@
 # Display of Work
 
 ## Summary
-Leave prototypes and work-in-progress visible to invite curiosity and cross-pollination of ideas across teams.
+Leave prototypes and work-in-progress visible. This invites curiosity and helps ideas spread across teams.
 
 ## Context
-Teams create valuable artifacts, prototypes, and work-in-progress that could inspire and inform other teams if made visible. Success requires organizational culture that values transparency, psychological safety around sharing imperfect work, and commitment to ongoing curation and maintenance.
+Teams create valuable artifacts, prototypes, and work-in-progress. These could inspire and inform other teams if made visible. Success requires a culture that values transparency and psychological safety around sharing imperfect work. Teams also need commitment to ongoing curation and maintenance.
 
 ## Problem
-When work is hidden away, teams miss opportunities to learn from each other's approaches and discover unexpected connections between projects. Empty display spaces signal that sharing work is not expected or valued.
+When teams hide their work, they miss opportunities to learn from each other's approaches. They also miss unexpected connections between projects. Empty display spaces send a signal that sharing work is not expected or valued.
 
 ## Solution
-Create dedicated spaces for displaying current work, prototypes, and visual artifacts where team members can see and be inspired by each other's progress through systematic display design, rotation protocols, and engagement techniques.
+Create dedicated spaces for displaying current work, prototypes, and visual artifacts. Team members can see and be inspired by each other's progress. Use systematic display design, rotation protocols, and engagement techniques.
 
 **Display Design Guidelines:**
 
@@ -45,10 +45,10 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Current work-in-progress prominently featured
    - Daily updates encouraged for rapidly evolving projects
    - Team members add sticky note comments and questions
-   - Progress photos and iteration documentation accumulated
+   - Progress photos and iteration documents accumulated
 
 2. **Mature Display Phase (2-3 weeks)**:
-   - Completed work with lessons learned documentation
+   - Completed work with lessons learned documents
    - Success metrics and outcomes clearly visible
    - Connection points to other projects highlighted
    - Invitation for others to build upon or adapt approaches
@@ -77,7 +77,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 
 1. **Annotation Opportunities**:
    - Sticky note parking lots for questions and observations
-   - Shared whiteboard space adjacent to displays for collaborative sketching
+   - Shared whiteboard space next to displays for collaborative sketching
    - Comment QR codes linking to digital discussion threads
    - "Build on this" invitation cards for extending displayed work
 
@@ -85,7 +85,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - **Weekly "Gallery Walks"**: 30-minute structured tours with work creators as guides
    - **Monthly "Cross-Pollination Sessions"**: Facilitated discussions connecting work across teams
    - **Quarterly "Innovation Archaeology"**: Deep dives into how displayed work evolved over time
-   - **"Maker Rounds"**: Medical rounds-style peer review of work-in-progress
+   - **"Maker Rounds"**: Peer review of work-in-progress (like medical rounds)
 
 *Social Proof Mechanisms:*
 
@@ -99,7 +99,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - **"Display of the Month"**: Community voting for most engaging or educational display
    - **"Cross-Pollination Awards"**: Recognition for work that inspired collaboration across teams
    - **"Process Transparency Champions"**: Celebrating teams that share authentic work-in-progress
-   - **"Evolution Stories"**: Highlighting how displayed work changed based on community feedback
+   - **"Evolution Stories"**: Show how displayed work changed based on community feedback
 
 *Structured Engagement Events:*
 
@@ -107,7 +107,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Rapid-fire 3-minute presentations of newly displayed work
    - Q&A focus on process and lessons learned rather than just outcomes
    - Explicit invitation for others to build upon or adapt approaches
-   - Documentation of spontaneous collaboration agreements
+   - Document spontaneous collaboration agreements
 
 2. **"Work-in-Progress Critiques"** (Bi-weekly, 45 minutes):
    - Architecture studio-style critique sessions adapted for software teams
@@ -118,8 +118,8 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 3. **"Failure Archaeology"** (Monthly, 60 minutes):
    - Dedicated sessions for displaying and discussing failed experiments
    - Emphasis on learning extraction and knowledge preservation
-   - Creation of "failure artifacts" that prevent repeating mistakes
-   - Celebration of intelligent failures that advanced team understanding
+   - Create "failure artifacts" that prevent repeating mistakes
+   - Celebrate intelligent failures that advanced team understanding
 
 *Technology-Enhanced Engagement:*
 
@@ -153,14 +153,14 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 - **Graduated disclosure**: Public displays focus on process and learning rather than proprietary details
 - **Safe-to-share guidelines**: Clear criteria for what can be displayed without IP concerns
 - **Anonymization techniques**: Methods for sharing learning without revealing sensitive information
-- **Time-delayed displays**: Showing work after IP protection or competitive advantages are secured
+- **Time-delayed displays**: Show work after IP protection or competitive advantages are secured
 
 ## Forces
 - Work visibility vs. intellectual property concerns
 - Polished display vs. authentic work-in-progress
 - Dedicated display space vs. workspace efficiency
 - Physical vs. digital display formats
-- **Social proof effects**: Visible evidence of sharing encourages more teams to display their work
+- **Social proof effects**: When teams see others sharing, they are more likely to display their work too
 - Maintenance effort vs. display freshness
 - Individual team displays vs. cross-team collaboration focus
 - Static displays vs. interactive engagement
@@ -169,10 +169,10 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 
 ### Positive
 - **Increased cross-pollination**: Teams discover unexpected connections and collaboration opportunities
-- **Knowledge sharing acceleration**: Visible work-in-progress reduces duplication of effort
+- **Faster knowledge sharing**: Visible work-in-progress reduces duplication of effort
 - **Innovation inspiration**: Seeing diverse approaches sparks creative problem-solving
-- **Cultural transformation**: Transparency and sharing become normalized organizational behaviors
-- **Institutional memory**: Important work and decisions remain visible beyond individual projects
+- **Cultural transformation**: Transparency and sharing become normal organizational behaviors
+- **Institutional memory**: Important work and decisions stay visible beyond individual projects
 - **Mentorship opportunities**: Junior team members learn from seeing senior work processes
 
 ### Negative
@@ -275,7 +275,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 
 1. **Space Assessment and Design**:
    - Identify high-traffic areas suitable for display installation
-   - Design display layouts optimizing sight lines and interaction zones
+   - Design display layouts that optimize sight lines and interaction zones
    - Install physical infrastructure (magnetic walls, pin-up boards, lighting)
    - Set up digital display systems with interactive capabilities
 

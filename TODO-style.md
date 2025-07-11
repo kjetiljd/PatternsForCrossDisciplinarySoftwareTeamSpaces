@@ -1,4 +1,3 @@
-./cross-disciplinary/display-of-work.md
 ./cross-disciplinary/index.md
 ./cross-disciplinary/kaizen-corner.md
 ./cross-disciplinary/lab-adjacency.md
