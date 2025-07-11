@@ -1,4 +1,3 @@
-./cross-disciplinary/pin-up-space.md
 ./cross-disciplinary/poster-sessions.md
 ./cross-disciplinary/shared-equipment-core.md
 ./cross-disciplinary/toolbelt-availability.md

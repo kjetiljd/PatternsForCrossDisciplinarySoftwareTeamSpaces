@@ -3,16 +3,16 @@
 # Pin-Up Space
 
 ## Summary
-Dedicate walls for displaying design work and making the creative process visible to support critique and collaboration through professional installation specifications, systematic curation practices, and structured interaction protocols.
+Dedicate walls for displaying design work and making the creative process visible. Support critique and collaboration through professional installation, systematic curation, and structured interaction protocols.
 
 ## Context
-Teams need ways to display and discuss visual work, design concepts, and process artifacts to facilitate feedback and collaborative refinement. Pin-up spaces serve as both working walls for active critique and gallery walls for inspiration, requiring careful balance between accessibility and presentation quality.
+Teams need ways to display and discuss visual work, design concepts, and process artifacts. This helps get feedback and collaborative refinement. Pin-up spaces serve as both working walls for active critique and gallery walls for inspiration. They require careful balance between accessibility and presentation quality.
 
 ## Problem
-Without dedicated display space, teams struggle to share visual work effectively and miss opportunities for collaborative critique and improvement. Poorly designed pin-up spaces become cluttered, damage work, or fail to encourage meaningful interaction and feedback.
+Without dedicated display space, teams struggle to share visual work effectively. They miss opportunities for collaborative critique and improvement. Poorly designed pin-up spaces become cluttered, damage work, or fail to encourage meaningful interaction and feedback.
 
 ## Solution
-Create professionally designed pin-up walls with systematic installation specifications, clear curation guidelines, and structured interaction protocols that facilitate high-quality critique and collaborative refinement.
+Create professionally designed pin-up walls with systematic installation specifications, clear curation guidelines, and structured interaction protocols. These facilitate high-quality critique and collaborative refinement.
 
 **Installation Specifications:**
 
