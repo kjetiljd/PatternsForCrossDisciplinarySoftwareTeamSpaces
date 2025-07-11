@@ -3,16 +3,16 @@
 # Environmental Comfort Patterns
 
 ## Summary
-Implement ergonomic furniture, proper lighting, acoustic zoning, and climate control to create physically comfortable work environments that support long-term health and productivity.
+Use ergonomic furniture, proper lighting, sound control, and climate systems. These create comfortable work spaces that support health and productivity over time.
 
 ## Context
-Software developers spend long hours at their workstations and need environments that support their physical health and cognitive performance over extended periods.
+Software developers spend long hours at their desks. They need work spaces that support their physical health and mental performance.
 
 ## Problem
-Poor environmental conditions - inadequate lighting, uncomfortable furniture, excessive noise, or poor air quality - can lead to fatigue, health issues, and reduced productivity.
+Poor work conditions cause problems. Bad lighting, uncomfortable furniture, too much noise, or poor air quality lead to fatigue, health issues, and lower productivity.
 
 ## Solution
-Design work environments with adjustable ergonomic furniture, multiple lighting options, acoustic treatments, and individual climate control to meet diverse comfort needs.
+Design work spaces with adjustable furniture, multiple lighting options, sound treatments, and climate control. This meets different comfort needs.
 
 **Collaborative Ergonomics:**
 - **Height-adjustable desks**: Sit-stand capabilities essential for pair programming and mob sessions
@@ -30,15 +30,15 @@ Design work environments with adjustable ergonomic furniture, multiple lighting 
 - **Sound containment**: Mobile acoustic panels and dividers to manage collaborative noise
 - **Conversation-friendly acoustics**: Sound absorption that contains team discussions without isolation
 - **Phone booth adjacency**: Quick access to quiet spaces when team members need private calls
-- **Noise management**: Materials and layout that support intensive discussion without disturbing neighbors
+- **Noise management**: Materials and layout that support team discussions without disturbing neighbors
 
 ## Forces
-- Individual comfort preferences vs. standardized solutions
+- Individual comfort preferences vs. standard solutions
 - Cost of high-quality furniture vs. long-term health benefits
-- Aesthetic considerations vs. functional requirements
+- Looks vs. function
 - Energy efficiency vs. individual climate control
-- Norwegian building regulations vs. international ergonomic standards
-- Team collaboration needs vs. individual comfort optimization
+- Norwegian building rules vs. international ergonomic standards
+- Team collaboration needs vs. individual comfort
 
 ## Comprehensive Measurement Standards
 
@@ -230,9 +230,9 @@ Design work environments with adjustable ergonomic furniture, multiple lighting 
 - **Override Capabilities**: Temporary individual adjustments for medical or comfort needs
 
 **Implementation Strategy:**
-1. **Assessment Phase**: Individual comfort surveys and ergonomic evaluations
+1. **Assessment Phase**: Survey individual comfort and do ergonomic evaluations
 2. **Base Configuration**: Set team defaults based on majority preferences and standards
-3. **Personal Adjustments**: Provide individual controls within acceptable ranges
+3. **Personal Adjustments**: Give individual controls within acceptable ranges
 4. **Monitoring Phase**: Track usage patterns and satisfaction over 3-month periods
 5. **Optimization**: Adjust standards based on real usage data and feedback
 
