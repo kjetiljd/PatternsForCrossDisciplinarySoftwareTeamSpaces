@@ -3,13 +3,13 @@
 # Half-Open, Half-Private Spaces
 
 ## Summary
-Create alcoves with precisely calibrated 60-75% enclosure that balance privacy with connection, using research-backed height specifications and acoustic materials to enable focused work while maintaining team awareness.
+Create work alcoves that are 60-75% enclosed. These spaces balance privacy with connection. Use research-backed height specs and acoustic materials. This enables focused work while keeping team awareness.
 
 ## Context
-Software developers need spaces that provide enough privacy for concentration while maintaining connection to their team and awareness of ongoing activities. Modern hybrid teams require workspaces that support both individual deep work and spontaneous collaboration without forcing a binary choice between isolation and distraction.
+Software developers need spaces that give them privacy to concentrate. They also need to stay connected to their team and aware of ongoing activities. Modern hybrid teams need workspaces that support individual deep work and spontaneous collaboration. Teams shouldn't have to choose between isolation and distraction.
 
 ## Problem
-Completely open spaces are too distracting for focused work, while fully enclosed spaces isolate team members and reduce spontaneous collaboration and osmotic communication. Most workspace designs fail to achieve the optimal balance, resulting in either productivity loss from distractions or team dysfunction from over-isolation.
+Completely open spaces are too distracting for focused work. Fully enclosed spaces isolate team members. They reduce spontaneous collaboration and osmotic communication. Most workspace designs fail to achieve the right balance. This causes productivity loss from distractions or team dysfunction from over-isolation.
 
 ## Solution
 Design work areas with precisely calculated partial enclosure using the following specifications:
@@ -33,7 +33,7 @@ Design work areas with precisely calculated partial enclosure using the followin
 - Acoustic isolation vs. ability to overhear relevant conversations
 - Individual preferences vs. team cohesion
 - Cost efficiency vs. spatial flexibility
-- Maintenance requirements vs. material performance
+- Maintenance needs vs. material performance
 
 ### Material Recommendations
 
@@ -42,7 +42,7 @@ Design work areas with precisely calculated partial enclosure using the followin
 **Premium Solutions (€150-300/m²)**
 - **Fabric-Wrapped Acoustic Panels**: NRC 0.85-1.00 for speech privacy barriers
   - Professional grade acoustic textiles (e.g., Armstrong, Kvadrat, or equivalent)
-  - 25-50mm thickness for optimal absorption
+  - 25-50mm thickness for best absorption
 - **Perforated Wood Panels**: NRC 0.60-0.80 for semi-transparent barriers
   - 15-25% perforation ratio with backing material
   - Sustainable options: FSC-certified birch or oak veneer
@@ -124,8 +124,8 @@ Design work areas with precisely calculated partial enclosure using the followin
 - **Collaboration Frequency**: Informal interaction tracking
 
 #### Common Failure Modes
-- **Under-enclosure** (< 50%): Insufficient privacy, continued distraction
-- **Over-enclosure** (> 80%): Team isolation, reduced collaboration
+- **Under-enclosure** (< 50%): Not enough privacy, continued distraction
+- **Over-enclosure** (> 80%): Team isolation, less collaboration
 - **Poor Acoustic Design**: Sound reflection, inadequate speech privacy
 - **Inflexible Systems**: Cannot adapt to changing team needs
 - **Maintenance Issues**: Difficult cleaning, wear patterns, system degradation
@@ -134,7 +134,7 @@ Design work areas with precisely calculated partial enclosure using the followin
 
 ### The Digital Translation Challenge
 
-Physical half-open spaces balance visual/acoustic privacy with team connection. Digital equivalents must achieve similar balance through interface design, notification systems, and virtual presence indicators while accounting for different cognitive loads and interaction patterns in digital environments.
+Physical half-open spaces balance visual and acoustic privacy with team connection. Digital versions must achieve similar balance through interface design, notification systems, and virtual presence indicators. They must also account for different cognitive loads in digital environments.
 
 ### Digital Privacy Gradient Framework
 
