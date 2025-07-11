@@ -1,4 +1,3 @@
-./architectural-spatial/call-booths.md
 ./architectural-spatial/environmental-comfort-patterns.md
 ./architectural-spatial/half-open-half-private-spaces.md
 ./architectural-spatial/index.md

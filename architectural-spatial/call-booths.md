@@ -3,10 +3,10 @@
 # Call Booths
 
 ## Summary
-Provide small, soundproof privacy pods within or adjacent to team work areas for individual phone calls, video conferences, and focused work that requires acoustic isolation without complete separation from the team.
+Create small, soundproof privacy pods near team work areas. These pods give team members a quiet space for phone calls, video conferences, and focused work. The pods provide acoustic isolation while keeping team members close to their team.
 
 ## Context
-Open team environments enable collaboration and osmotic communication but lack private spaces for individual phone calls, sensitive conversations, or tasks requiring complete focus. Traditional solutions like booking meeting rooms create barriers and scheduling overhead.
+Open team environments help teams collaborate and share information naturally. However, they lack private spaces for phone calls, sensitive conversations, or tasks that need full focus. Traditional solutions like booking meeting rooms create barriers and scheduling overhead.
 
 ## Problem
 Team members need occasional privacy for:
@@ -21,18 +21,18 @@ Current solutions create problems:
 - **Leaving the Office**: Breaks work flow and removes person from team availability
 
 ## Solution
-Install small, soundproof privacy pods within or immediately adjacent to team work areas:
+Install small, soundproof privacy pods within or right next to team work areas:
 
 **Physical Design:**
 - Single-person capacity (approximately 4x4 feet internal space)
-- Sound-dampening materials reducing noise transmission by 25-30 decibels
-- Clear sides or windows to maintain visual connection while providing acoustic privacy
+- Sound-dampening materials that reduce noise transmission by 25-30 decibels
+- Clear sides or windows to keep visual connection while providing acoustic privacy
 - Ventilation system for air circulation during extended use
-- Interior lighting optimized for video calls
+- Interior lighting set up for video calls
 
 **Technology Integration:**
 - Power outlets for device charging (minimum 2 standard outlets + 2 USB)
-- USB-C and USB-A connectivity with fast charging capabilities
+- USB-C and USB-A connectivity with fast charging
 - Small shelf or surface for laptop and notes with device management
 - Optional: integrated webcam and microphone for video calls
 - Wi-Fi signal boost if needed for connectivity
@@ -60,9 +60,9 @@ Install small, soundproof privacy pods within or immediately adjacent to team wo
 
 ## Evidence
 Research supports the need for acoustic privacy solutions:
-- **Productivity Impact**: Workers are typically 15% less productive in open office environments due to distractions
+- **Productivity Impact**: Workers are usually 15% less productive in open office environments due to distractions
 - **Focus Recovery**: It takes 20 minutes to regain focus after being interrupted by noise
-- **Phone Call Frequency**: Average knowledge worker takes 8-12 phone calls per day requiring some privacy
+- **Phone Call Frequency**: Average knowledge worker takes 8-12 phone calls per day that need some privacy
 - **Meeting Room Waste**: 30-40% of booked meeting rooms are used for individual calls that could use smaller spaces
 
 ## Examples
@@ -98,7 +98,7 @@ Research supports the need for acoustic privacy solutions:
 
 **Planning Phase:**
 1. **Assess Team Needs**: Survey current phone call and privacy requirements
-2. **Space Analysis**: Identify optimal locations that don't block light or circulation
+2. **Space Analysis**: Find the best locations that don't block light or circulation
 3. **Acoustic Testing**: Measure current noise levels and booth effectiveness
 4. **Technology Requirements**: Determine power, connectivity, and integration needs
 
@@ -109,8 +109,8 @@ Research supports the need for acoustic privacy solutions:
 4. **Safety Compliance**: Verify emergency egress and accessibility requirements
 
 **Team Integration:**
-1. **Usage Protocols**: Establish etiquette for booth access and time limits
-2. **Booking Systems**: Implement simple reservation system if needed
+1. **Usage Protocols**: Set rules for booth access and time limits
+2. **Booking Systems**: Add simple reservation system if needed
 3. **Maintenance Procedures**: Create cleaning and upkeep schedules
 4. **Feedback Collection**: Monitor usage patterns and satisfaction
 
@@ -229,9 +229,9 @@ Research supports the need for acoustic privacy solutions:
    - Desk surface, chair, door handles, light switches
    - Technology surfaces (monitor, keyboard, mouse if provided)
    - Phone/device charging areas
-2. **Ventilation Check**: Verify air circulation system functioning
+2. **Ventilation Check**: Check that air circulation system works
    - Check for any unusual odors or stuffiness
-   - Ensure ventilation fan operates when booth is occupied
+   - Make sure ventilation fan operates when booth is occupied
 3. **Technology Verification**: Quick test of key systems
    - Power outlets functionality
    - Internet connectivity (wired and wireless)
@@ -242,7 +242,7 @@ Research supports the need for acoustic privacy solutions:
 1. **Interior Deep Clean**: 
    - Vacuum carpet or clean flooring thoroughly
    - Clean glass panels inside and outside for visibility
-   - Wipe down walls and acoustic panels (manufacturer-specific methods)
+   - Wipe down walls and acoustic panels (follow manufacturer methods)
    - Check and clean any fabric surfaces on seating
 2. **Technology Maintenance**:
    - Clean monitor screens with appropriate cleaners
@@ -258,18 +258,18 @@ Research supports the need for acoustic privacy solutions:
 
 **System Performance Review (45 minutes per booth):**
 1. **Technology Audit**:
-   - Comprehensive test of all A/V equipment
-   - Network speed testing and Wi-Fi signal strength verification
-   - Software updates for any integrated platforms
-   - Backup system testing for power and connectivity
+   - Test all A/V equipment completely
+   - Test network speed and Wi-Fi signal strength
+   - Update software for any integrated platforms
+   - Test backup systems for power and connectivity
 2. **Physical Infrastructure Check**:
-   - Door and window mechanism inspection and lubrication
-   - Lighting system full functionality test and bulb replacement if needed
-   - Ventilation system performance testing and filter replacement
-   - Acoustic seal inspection for sound dampening effectiveness
+   - Check door and window mechanisms and lubricate
+   - Test lighting system fully and replace bulbs if needed
+   - Test ventilation system performance and replace filters
+   - Check acoustic seals for sound dampening effectiveness
 3. **Usage Analytics Review**:
    - Analyze booking patterns and usage statistics
-   - Identify high-wear areas for preventive maintenance
+   - Find high-wear areas for preventive maintenance
    - Review user feedback and complaints for improvement opportunities
    - Assess space utilization efficiency and recommend adjustments
 
@@ -277,20 +277,20 @@ Research supports the need for acoustic privacy solutions:
 
 **Professional Service Requirements (2 hours per booth):**
 1. **Acoustic Performance Testing**:
-   - Professional sound level measurement inside and outside booth
-   - Verify 25-30 decibel noise reduction performance standards
-   - Identify any acoustic seal degradation or sound leakage
+   - Measure sound levels inside and outside booth professionally
+   - Check that 25-30 decibel noise reduction meets standards
+   - Find any acoustic seal degradation or sound leakage
    - Recalibrate any noise-canceling or sound-masking systems
 2. **HVAC System Maintenance**:
-   - Professional cleaning of ventilation ducts and fans
-   - Air quality testing and filtration system optimization
-   - Energy efficiency audit of environmental control systems
-   - Safety system verification (emergency ventilation, fire systems)
+   - Clean ventilation ducts and fans professionally
+   - Test air quality and optimize filtration systems
+   - Audit energy efficiency of environmental control systems
+   - Check safety systems (emergency ventilation, fire systems)
 3. **Technology Infrastructure Upgrade**:
-   - Security updates and system patches for integrated technology
-   - Performance optimization for video conferencing and communication tools
-   - Hardware inspection and replacement of worn components
-   - Capacity planning for future technology needs
+   - Apply security updates and system patches for integrated technology
+   - Optimize performance for video conferencing and communication tools
+   - Inspect hardware and replace worn components
+   - Plan capacity for future technology needs
 
 ### Maintenance Cost Planning
 
