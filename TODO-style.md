@@ -1,5 +1,3 @@
-./cross-disciplinary/kaizen-corner.md
-./cross-disciplinary/lab-adjacency.md
 ./cross-disciplinary/materiality-texture.md
 ./cross-disciplinary/modular-furniture-reconfigurability.md
 ./cross-disciplinary/pin-up-space.md

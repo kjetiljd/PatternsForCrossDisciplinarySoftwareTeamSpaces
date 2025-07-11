@@ -3,16 +3,16 @@
 # Lab Adjacency
 
 ## Summary
-Position related teams near each other to spark collaboration and knowledge sharing through proximity and osmotic communication.
+Position related teams near each other to spark collaboration and knowledge sharing. This works through proximity and osmotic communication.
 
 ## Context
-Teams working on related technologies or serving similar domains can benefit from close physical proximity to enable spontaneous collaboration.
+Teams working on related technologies or serving similar domains can benefit from close physical proximity. This enables spontaneous collaboration.
 
 ## Problem
 Teams working on related problems but located far apart miss opportunities for knowledge sharing and collaborative problem-solving.
 
 ## Solution
-Arrange teams with complementary skills or related work domains in adjacent spaces using evidence-based spatial arrangements, systematic measurement methods, and hybrid work adaptations to maximize opportunities for informal collaboration and knowledge transfer.
+Arrange teams with complementary skills or related work domains in adjacent spaces. Use evidence-based spatial arrangements, systematic measurement methods, and hybrid work adaptations. This maximizes opportunities for informal collaboration and knowledge transfer.
 
 ### Optimal Spatial Arrangements
 
