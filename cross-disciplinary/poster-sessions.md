@@ -3,16 +3,16 @@
 # Poster Sessions
 
 ## Summary
-Create demo walls and science-fair style showcases for informal feedback and cross-team knowledge sharing.
+Create demo walls and science-fair style showcases. These help teams share knowledge and get feedback from other teams.
 
 ## Context
 Teams need ways to share their work progress and insights with other teams. They want to avoid formal presentations or lengthy meetings.
 
 ## Problem
-Without visible showcases of work, teams miss opportunities to learn from each other. They also miss chances to get feedback and discover collaboration opportunities.
+Without visible showcases of work, teams miss chances to learn from each other. They also miss opportunities to get feedback and find new ways to work together.
 
 ## Solution
-Establish regular poster sessions where teams display their work, prototypes, and findings. Use structured format templates, digital/physical integration, and facilitation techniques. These maximize knowledge transfer and cross-team collaboration.
+Set up regular poster sessions where teams display their work, prototypes, and findings. Use structured format templates and facilitation techniques. Mix digital and physical displays. This helps teams share knowledge and work together better.
 
 ### Format Templates
 
@@ -29,7 +29,7 @@ Establish regular poster sessions where teams display their work, prototypes, an
 
 *Design Specifications:*
 - **Size:** 36"×48" (91×122 cm) or A0 (841×1189 mm) for physical displays
-- **Font Size:** Title 72pt+, Headers 48pt+, Body 24pt+ for 3-foot reading distance
+- **Font Size:** Title 72pt+, Headers 48pt+, Body 24pt+ (readable from 3 feet away)
 - **Color Scheme:** High contrast with consistent organizational branding
 - **White Space:** 30-40% of poster surface for visual breathing room
 - **Logo Placement:** Team/organization logos in consistent corner placement
@@ -174,9 +174,9 @@ Establish regular poster sessions where teams display their work, prototypes, an
 *Active Facilitation Techniques:*
 - **Roving Facilitators:** Staff members who encourage questions and connect interested parties
 - **Question Prompts:** Prepared questions to spark deeper conversations about each poster
-- **Connection Making:** Actively linking people with similar interests or complementary expertise
+- **Connection Making:** Actively linking people with similar interests or matching expertise
 - **Feedback Quality:** Coaching viewers on providing specific, actionable feedback
-- **Energy Management:** Monitoring engagement levels and adjusting format as needed
+- **Energy Management:** Monitoring engagement levels and adjusting format when needed
 
 *Structured Interaction Methods:*
 - **Speed Dating:** Rapid 5-minute poster overviews followed by deeper exploration
@@ -317,15 +317,15 @@ Establish regular poster sessions where teams display their work, prototypes, an
 *Quantifiable Returns:*
 - **Time Savings:** Hours saved through adoption of showcased tools, methods, or solutions
 - **Quality Improvements:** Error reduction, performance gains, or user satisfaction improvements
-- **Innovation Acceleration:** Faster development cycles and time-to-market improvements
-- **Collaboration Efficiency:** Reduced coordination overhead and improved project outcomes
+- **Innovation Acceleration:** Faster development cycles and faster time-to-market
+- **Collaboration Efficiency:** Less coordination overhead and better project outcomes
 - **Knowledge Retention:** Reduced knowledge loss and improved organizational learning
 
 *Expected Payback Timeline:*
 - **Immediate (0-3 months):** Direct knowledge application and tool adoption
 - **Short-term (3-12 months):** Collaboration projects and innovation implementations
 - **Medium-term (1-3 years):** Cultural change and systematic innovation improvement
-- **Long-term (3+ years):** Sustained competitive advantage through superior learning capabilities
+- **Long-term (3+ years):** Sustained competitive advantage through better learning capabilities
 - **Total ROI:** Estimated 300-500% return on investment over 3-year period for well-implemented programs
 
 ### Lightweight Implementation for Smaller Organizations
