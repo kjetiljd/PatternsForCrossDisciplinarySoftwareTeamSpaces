@@ -6,13 +6,13 @@
 Create demo walls and science-fair style showcases for informal feedback and cross-team knowledge sharing.
 
 ## Context
-Teams need ways to share their work progress and insights with other teams without requiring formal presentations or lengthy meetings.
+Teams need ways to share their work progress and insights with other teams. They want to avoid formal presentations or lengthy meetings.
 
 ## Problem
-Without visible showcases of work, teams miss opportunities to learn from each other, get feedback, and discover collaboration opportunities.
+Without visible showcases of work, teams miss opportunities to learn from each other. They also miss chances to get feedback and discover collaboration opportunities.
 
 ## Solution
-Establish regular poster sessions where teams display their work, prototypes, and findings using structured format templates, digital/physical integration, and facilitation techniques that maximize knowledge transfer and cross-team collaboration.
+Establish regular poster sessions where teams display their work, prototypes, and findings. Use structured format templates, digital/physical integration, and facilitation techniques. These maximize knowledge transfer and cross-team collaboration.
 
 ### Format Templates
 

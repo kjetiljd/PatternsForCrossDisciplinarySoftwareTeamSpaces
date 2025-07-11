@@ -1,4 +1,3 @@
-./cross-disciplinary/poster-sessions.md
 ./cross-disciplinary/shared-equipment-core.md
 ./cross-disciplinary/toolbelt-availability.md
 ./cross-disciplinary/u-shape-team-layout.md
