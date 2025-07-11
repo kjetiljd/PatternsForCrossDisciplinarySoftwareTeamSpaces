@@ -3,16 +3,16 @@
 # U-Shape Team Layout
 
 ## Summary
-Arrange team workstations in U-shaped configurations with people sitting inside the U facing outward, enabling easy mobility and collaboration while maintaining individual focus.
+Arrange team workstations in U-shaped configurations with people sitting inside the U facing outward. This enables easy mobility and collaboration while maintaining individual focus.
 
 ## Context
-Teams need seating arrangements that enable effective communication and ensure all team members can participate equally in discussions and collaborative work.
+Teams need seating arrangements that enable effective communication. They also need to ensure all team members can participate equally in discussions and collaborative work.
 
 ## Problem
-Linear seating arrangements can create communication barriers and exclude some team members from discussions, while scattered seating makes group coordination difficult.
+Linear seating arrangements can create communication barriers and exclude some team members from discussions. Scattered seating makes group coordination difficult.
 
 ## Solution
-Arrange team workstations in U-shaped configurations with people sitting inside the U facing outward toward their screens, while using wheeled chairs for easy collaboration.
+Arrange team workstations in U-shaped configurations with people sitting inside the U facing outward toward their screens. Use wheeled chairs for easy collaboration.
 
 **Software Team Implementation:**
 - **Perimeter workstations**: Individual desks positioned around room perimeter facing walls, allowing easy swivel to face team center
