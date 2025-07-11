@@ -3,13 +3,13 @@
 # Shared Equipment Core
 
 ## Summary
-Centralize specialized tools and equipment that multiple teams can use, creating natural gathering points for knowledge sharing and collaboration.
+Centralize specialized tools and equipment that multiple teams can use. This creates natural gathering points for knowledge sharing and collaboration.
 
 ## Context
-Organizations with multiple teams that occasionally need specialized equipment or tools but can't justify individual ownership.
+Organizations with multiple teams that occasionally need specialized equipment or tools. These teams can't justify individual ownership.
 
 ## Problem
-Teams work in isolation and miss opportunities for cross-pollination. Expensive specialized equipment sits unused most of the time when owned by individual teams.
+Teams work in isolation and miss chances to share ideas with other teams. Expensive specialized equipment sits unused most of the time. Individual teams can't use it enough to justify the cost.
 
 ## Solution
 Create shared equipment cores:
@@ -215,7 +215,7 @@ UX Research Lab Equipment:
 ## Anti-Patterns and Pitfalls
 
 ### Common Failures
-**Tragedy of the Commons**: Equipment becomes neglected when no one feels ownership
+**Tragedy of the Commons**: Equipment becomes neglected when no one feels like they own it
 **Scheduling Conflicts**: High-demand equipment creates bottlenecks without proper governance
 **Skill Gaps**: Complex equipment sits unused due to lack of training or expertise
 **Maintenance Neglect**: Equipment degrades without clear maintenance responsibilities
