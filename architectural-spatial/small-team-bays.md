@@ -3,10 +3,10 @@
 # Small Team Bays
 
 ## Summary
-Create team bays for typically 4-6 people, with a maximum of a dozen achieved by joining two adjacent bays, featuring good sound dampening to encourage natural conversation.
+Create team bays for typically 4-6 people. A maximum of a dozen can be achieved by joining two adjacent bays. These bays feature good sound dampening to encourage natural conversation.
 
 ## Context
-Team workspace design that balances collaboration needs with focus requirements and human-scale social interaction.
+Team workspace design that balances collaboration needs with focus requirements. It also supports human-scale social interaction.
 
 ## Problem
 Large open offices create noise, distraction, and anonymity. People lose sense of team identity and struggle to concentrate or communicate effectively. Teams also need to feel comfortable talking naturally without worrying about disturbing others.
