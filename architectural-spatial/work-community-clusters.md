@@ -3,10 +3,10 @@
 # Work Community Clusters
 
 ## Summary
-Design workplaces as small communities of 20–25 workspaces grouped around a shared common area (courtyard or square) with amenities like coffee, presentation space, and greenspace.
+Design workplaces as small communities of 20–25 workspaces grouped around a shared common area. This could be a courtyard or square with amenities like coffee, presentation space, and greenspace.
 
 ## Context
-Creating human-scale workplace neighborhoods that foster informal interaction and team identity while maintaining connection to the larger organization.
+Creating human-scale workplace neighborhoods that foster informal interaction and team identity. These neighborhoods maintain connection to the larger organization.
 
 ## Problem
 Large open offices or isolated team spaces fail to create the right balance of community and focus. Teams need both identity and connection to other teams.
@@ -685,7 +685,7 @@ Longitudinal study of 2,400 employees across 45 organizations implementing neigh
 #### Google Bay View and Charleston East Campuses (2023-2024)
 
 **Implementation Approach**:
-Google's research revealed that employees work best when physically close to colleagues they collaborate with most, including both immediate team members and adjacent teams. Their "neighborhood" concept emerged from data showing that when teams are distributed across buildings, they lose casual interactions and organic connections.
+Google's research revealed that employees work best when physically close to colleagues they collaborate with most. This includes both immediate team members and adjacent teams. Their "neighborhood" concept emerged from data showing that when teams are distributed across buildings, they lose casual interactions and organic connections.
 
 **Design Strategy**:
 - Teams and team members housed under the same roof for community and belonging
@@ -704,7 +704,7 @@ Google's research revealed that employees work best when physically close to col
 #### Spotify Global Workplace Transformation (2023-2024)
 
 **Cultural Integration Strategy**:
-Spotify collaborated with creative studio Acrylicize to implement an experiential design strategy across 19 locations worldwide, infusing brand essence into office spaces covering over one million square feet.
+Spotify collaborated with creative studio Acrylicize to implement an experiential design strategy across 19 locations worldwide. This infused brand essence into office spaces covering over one million square feet.
 
 **Squad-Based Neighborhood Design**:
 - Small cross-functional teams ("Squads") each have dedicated spaces including lounge and meeting rooms
