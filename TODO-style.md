@@ -1,4 +1,3 @@
-./cross-disciplinary/index.md
 ./cross-disciplinary/kaizen-corner.md
 ./cross-disciplinary/lab-adjacency.md
 ./cross-disciplinary/materiality-texture.md
