@@ -3,26 +3,26 @@
 # One-Way vs Two-Way Door Decisions
 
 ## Summary
-Accelerate decision-making by categorizing decisions based on reversibility - empowering teams to move fast on reversible decisions while applying rigorous processes to irreversible ones.
+Speed up decisions by sorting them into two types. Move fast on decisions you can undo. Use careful processes for decisions you can't reverse.
 
 ## Context
-Software teams face constant decisions ranging from internal logic changes to public API modifications. The speed of decision-making directly impacts team velocity and market responsiveness, but inappropriate speed can lead to costly mistakes.
+Software teams make many decisions daily. These range from small code changes to major API updates. Fast decisions help teams move quickly and respond to markets. But moving too fast on big decisions can cause expensive mistakes.
 
 ## Problem
-Teams often apply the same decision-making weight to all choices, either creating bottlenecks by over-processing simple decisions or rushing through complex ones that require careful consideration. This leads to either paralysis or poor outcomes.
+Teams often treat all decisions the same way. They spend too much time on simple choices or rush through complex ones. This creates bottlenecks or poor outcomes.
 
 ## Solution
-Categorize decisions into two types:
-- **Two-Way Door Decisions**: Reversible choices where the cost of undoing is low. Handle these with speed and team empowerment.
-- **One-Way Door Decisions**: Irreversible or costly-to-reverse choices. Apply rigorous processes with stakeholder input and risk analysis.
+Sort decisions into two types:
+- **Two-Way Door Decisions**: Choices you can easily undo. Handle these fast and let teams decide.
+- **One-Way Door Decisions**: Choices that are hard or expensive to reverse. Use careful processes with input and risk analysis.
 
-Before making any decision, ask: "What kind of door is this?" and match the decision process to the reversibility.
+Before making any decision, ask: "What kind of door is this?" Then match your process to how easy it is to reverse.
 
 ## Forces
-- Speed vs. Risk - Fast decisions enable agility but may increase risk
-- Empowerment vs. Oversight - Teams want autonomy but need guidance on high-stakes choices
-- Learning vs. Consequences - Experimentation requires safety to fail
-- Resource Efficiency vs. Thoroughness - Time spent on decision-making must match decision importance
+- Speed vs. Risk - Fast decisions help agility but may increase risk
+- Freedom vs. Oversight - Teams want independence but need guidance on big choices
+- Learning vs. Results - Testing requires safety to fail
+- Efficiency vs. Care - Time spent on decisions must match how important they are
 
 ## Implementation
 
@@ -49,15 +49,15 @@ Before making any decision, ask: "What kind of door is this?" and match the deci
    - All or mostly "One-Way Door": Apply rigorous process
    - Mixed "Gray Zone": Use escalation criteria (see below)
 
-**Rapid Classification Questions:**
+**Quick Classification Questions:**
 
-*30-Second Assessment:*
-- **The Undo Test:** "Could we completely reverse this decision in under 2 weeks with minimal cost?"
-- **The Regret Test:** "If this goes wrong, would the consequences be acceptable learning experiences?"
-- **The Isolation Test:** "Can we contain the impact to our immediate team/system?"
-- **The Recovery Test:** "Do we have clear ways to recover if this doesn't work out?"
+*30-Second Check:*
+- **The Undo Test:** "Can we reverse this in under 2 weeks with low cost?"
+- **The Regret Test:** "If this goes wrong, are the results acceptable learning?"
+- **The Isolation Test:** "Can we keep the impact to our team/system?"
+- **The Recovery Test:** "Do we have clear ways to recover if this fails?"
 
-*If all answers are "Yes" → Two-Way Door. If any answer is "No" → Deeper analysis required.*
+*If all answers are "Yes" → Two-Way Door. If any answer is "No" → Need deeper analysis.*
 
 **Context-Specific Classification Guides:**
 
@@ -85,12 +85,12 @@ Before making any decision, ask: "What kind of door is this?" and match the deci
 
 **When Two-Way Door Decisions Become One-Way:**
 
-*Threshold Triggers for Escalation:*
-- **Scale Amplification:** Decision affects >50 people or >$500K in impact
-- **Precedent Setting:** Decision creates expectations for similar future choices
-- **External Visibility:** Decision becomes visible to customers, regulators, or media
-- **Irreversible Side Effects:** Decision creates dependencies that can't easily be undone
-- **Resource Commitment:** Decision requires dedicated staffing or infrastructure investment
+*When to Escalate:*
+- **Scale:** Decision affects over 50 people or over $500K in impact
+- **Precedent:** Decision creates expectations for similar future choices
+- **External Impact:** Decision becomes visible to customers, regulators, or media
+- **Side Effects:** Decision creates dependencies that can't easily be undone
+- **Resources:** Decision requires dedicated staffing or infrastructure investment
 
 *Escalation Process:*
 1. **Immediate Pause:** Stop execution and gather decision stakeholders
@@ -330,17 +330,17 @@ Before making any decision, ask: "What kind of door is this?" and match the deci
 
 **Decision Quality Improvement:**
 
-*Common Decision Traps and Cognitive Biases:*
-- **Classification Drift:** Two-way doors that gradually become one-way without recognition
-- **Optimism Bias:** Underestimating reversal costs and overestimating success probability
-- **Analysis Paralysis:** Treating two-way doors like one-way doors (perfectionism bias)
-- **Rush to Judgment:** Treating one-way doors like two-way doors (overconfidence bias)
-- **Stakeholder Blindness:** Missing affected parties in the decision process
-- **Sunk Cost Fallacy:** Continuing with poor one-way door decisions because of previous investment
-- **Availability Heuristic:** Overweighting recent examples when classifying decision reversibility
-- **Confirmation Bias:** Seeking information that supports preferred classification rather than objective assessment
-- **Anchoring Bias:** Over-relying on first classification without adequate reassessment
-- **Planning Fallacy:** Systematically underestimating time and cost required for reversal
+*Common Decision Mistakes:*
+- **Classification Drift:** Two-way doors that slowly become one-way without noticing
+- **Too Optimistic:** Underestimating reversal costs and overestimating success
+- **Analysis Paralysis:** Treating two-way doors like one-way doors (perfectionism)
+- **Rush to Judgment:** Treating one-way doors like two-way doors (overconfidence)
+- **Missing Stakeholders:** Not including affected parties in the decision process
+- **Sunk Cost Trap:** Continuing with poor decisions because of previous investment
+- **Recent Examples:** Overweighting recent examples when classifying decisions
+- **Confirmation Seeking:** Looking for info that supports preferred choice rather than objective assessment
+- **First Impression:** Over-relying on first classification without reassessment
+- **Planning Error:** Underestimating time and cost required for reversal
 
 *Quality Checkpoints:*
 - **Devil's Advocate Review:** Formally assign someone to argue against the decision
