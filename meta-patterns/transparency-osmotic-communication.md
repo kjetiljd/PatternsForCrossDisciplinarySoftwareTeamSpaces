@@ -3,16 +3,16 @@
 # Transparency and Osmotic Communication
 
 ## Summary
-Enable information flow through physical and cultural transparency that allows knowledge to spread naturally through the organization, creating environments where teams can absorb relevant information through proximity and open communication channels.
+Enable information flow through physical and cultural transparency. This allows knowledge to spread naturally through the organization. Create environments where teams can absorb relevant information through proximity and open communication.
 
 ## Context
-Effective software product teams need information to flow freely to enable good decision-making, rapid learning, and knowledge sharing across disciplines. In cross-disciplinary teams, different professional backgrounds often have different communication norms and information needs.
+Effective software product teams need information to flow freely. This enables good decisions, rapid learning, and knowledge sharing across disciplines. In cross-disciplinary teams, different professional backgrounds often have different communication styles and information needs.
 
 ## Problem
-Information silos and barriers to communication prevent organizations from learning and adapting effectively. Team members miss crucial context, duplicate work, and make decisions based on incomplete information. Traditional meeting-heavy communication creates bottlenecks and excludes those not explicitly invited.
+Information silos and barriers prevent organizations from learning and adapting effectively. Team members miss crucial context, duplicate work, and make decisions based on incomplete information. Traditional meeting-heavy communication creates bottlenecks and excludes those not invited.
 
 ## Solution
-Create both physical and cultural transparency that enables osmotic communication, where information flows naturally through the organization like ambient awareness. Design spaces and systems that make relevant information visible and accessible while protecting privacy and preventing overload.
+Create both physical and cultural transparency that enables osmotic communication. Information flows naturally through the organization like background awareness. Design spaces and systems that make relevant information visible and accessible. Protect privacy and prevent overload.
 
 ### Physical Transparency Implementation
 
@@ -52,18 +52,18 @@ Create both physical and cultural transparency that enables osmotic communicatio
 - Deploy team dashboards showing current work, blockers, and needs
 - Use calendar transparency to show when teams are available for collaboration
 - Create knowledge maps showing who knows what across the organization
-- Implement "working out loud" practices where teams share daily progress
+- Use "working out loud" practices where teams share daily progress
 
 ### Balancing Transparency with Privacy
 
 **Information Hierarchy**
-- Public: Project progress, technical decisions, team composition, general challenges
-- Team-internal: Detailed implementation discussions, individual performance concerns, sensitive customer data
+- Public: Project progress, technical decisions, team makeup, general challenges
+- Team-internal: Detailed implementation talks, individual performance concerns, sensitive customer data
 - Leadership-only: Personnel decisions, strategic planning, confidential business information
 
 **Opt-in Transparency**
 - Allow individuals to control their calendar visibility and availability status
-- Provide options for teams to mark certain discussions as private
+- Provide options for teams to mark certain talks as private
 - Create clear guidelines for what information should be shared at each level
 - Respect cultural differences in comfort with transparency
 
@@ -72,13 +72,13 @@ Create both physical and cultural transparency that enables osmotic communicatio
 **Technical Controls**
 - Channel permissions that automatically expire (temporary project channels)
 - Data loss prevention tools that detect sensitive information in shared spaces
-- Calendar blocking for private discussions with clear "private work" indicators
+- Calendar blocking for private talks with clear "private work" indicators
 - Document classification systems that require justification for private marking
 
 **Policy Guidelines (Concrete Examples)**
-- *Always Private*: Individual performance reviews, personal health information, pre-approval competitive intelligence
-- *Team Private*: Internal team conflicts, individual skill development plans, sensitive customer conversations
-- *Public by Default*: Technical decisions, project status, learning and development opportunities, general customer feedback
+- *Always Private*: Individual performance reviews, personal health information, competitive intelligence
+- *Team Private*: Internal team conflicts, individual skill development plans, sensitive customer talks
+- *Public by Default*: Technical decisions, project status, learning opportunities, general customer feedback
 - *Leadership Only*: Strategic planning before announcement, legal matters, personnel decisions
 
 **Regular Privacy Audits**
