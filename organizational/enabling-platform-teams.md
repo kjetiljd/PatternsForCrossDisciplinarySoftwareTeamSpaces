@@ -21,14 +21,14 @@ Deploy two types of supporting teams:
 - Focus on reducing cognitive load for stream-aligned teams
 
 **Enabling Teams:**
-- Small groups of experts (security, data, UX) that temporarily engage with stream teams
-- Provide coaching to help teams acquire new capabilities
+- Small groups of experts (security, data, UX) that work with stream teams temporarily
+- Give coaching to help teams learn new skills
 - Move on once teams are skilled up, avoiding permanent dependencies
-- Foster learning culture across the organization
+- Build learning culture across the organization
 
 ## Forces
 - **Expertise vs. Focus**: Teams need specialized knowledge but should focus on customer value
-- **Self-service vs. Support**: Balancing autonomy with access to expertise
+- **Self-service vs. Support**: Balance autonomy with access to expertise
 - **Efficiency vs. Bottlenecks**: Centralizing common needs without creating delays
 - **Learning vs. Dependency**: Building capability without creating permanent reliance
 
@@ -37,7 +37,7 @@ Deploy two types of supporting teams:
 ### Positive
 - **Reduced cognitive load**: Stream teams focus on their domain while platforms handle complexity
 - **Faster delivery**: Self-service platforms eliminate waiting for infrastructure
-- **Consistent standards**: Platform and enabling teams ensure quality across organization
+- **Consistent standards**: Platform and enabling teams ensure quality across the organization
 - **Capability building**: Enabling teams spread knowledge rather than hoarding it
 - **Decoupled dependencies**: Clear service boundaries enable team autonomy
 
@@ -73,13 +73,13 @@ Deploy two types of supporting teams:
 - **Documentation:** 
   - API documentation updated within 24 hours of changes
   - Runbooks and troubleshooting guides maintained with 95% accuracy
-  - Self-service onboarding documentation with <30 minute setup time
+  - Self-service onboarding docs with <30 minute setup time
 
 *Data Platform SLA:*
 - **Data Freshness:** Batch data updated within 4 hours of source changes
 - **Query Performance:** 95% of analytical queries complete within 30 seconds
 - **Data Quality:** 99.5% accuracy with automated validation and alerting
-- **Schema Evolution:** 48-hour notice for breaking changes, backward compatibility for 30 days
+- **Schema Evolution:** 48-hour notice for breaking changes. Backward compatibility for 30 days
 - **Access Control:** User access provisioned within 2 hours of request
 
 *Security Platform SLA:*
@@ -113,14 +113,14 @@ Deploy two types of supporting teams:
 - **Secure Coding:** Language-specific security patterns and anti-patterns
 - **Tool Integration:** Security scanning tools integrated into CI/CD pipeline
 - **Incident Response:** Basic incident response procedures and escalation paths
-- **Success Criteria:** Team can identify and fix basic security vulnerabilities independently
+- **Success Criteria:** Team can identify and fix basic security vulnerabilities on their own
 
 *Phase 2: Intermediate (Month 3-4)*
 - **Architecture Security:** Secure design patterns and architectural reviews
 - **Compliance:** Understanding regulatory requirements (GDPR, SOC2, etc.)
 - **Penetration Testing:** Basic penetration testing techniques and tools
 - **Security Monitoring:** Log analysis and security alerting setup
-- **Success Criteria:** Team can conduct security reviews and respond to security incidents
+- **Success Criteria:** Team can conduct security reviews and respond to incidents
 
 *Phase 3: Advanced (Month 5-6)*
 - **Zero-Trust Architecture:** Implementation of zero-trust principles
@@ -143,7 +143,7 @@ Deploy two types of supporting teams:
 - **SQL Mastery:** Advanced SQL for data analysis and reporting
 - **Data Modeling:** Dimensional modeling and schema design
 - **Visualization:** Creating effective dashboards and reports
-- **Success Criteria:** Team can independently analyze and report on their product metrics
+- **Success Criteria:** Team can analyze and report on their product metrics on their own
 
 *Phase 2: Data Engineering (Month 3-4)*
 - **ETL/ELT Pipelines:** Building and maintaining data transformation workflows
@@ -157,7 +157,7 @@ Deploy two types of supporting teams:
 - **Statistical Analysis:** A/B testing and statistical significance
 - **Predictive Analytics:** Forecasting and trend analysis
 - **Data Science Tools:** Python/R for advanced data analysis
-- **Success Criteria:** Team can conduct sophisticated data analysis and experimentation
+- **Success Criteria:** Team can conduct advanced data analysis and experimentation
 
 *Phase 4: Data Product Management (Month 7-9)*
 - **Data Strategy:** Aligning data initiatives with business objectives
@@ -172,9 +172,9 @@ Deploy two types of supporting teams:
 
 *Customer Satisfaction (Stream-Aligned Teams):*
 - **Net Promoter Score (NPS):** Quarterly surveys measuring team satisfaction with platform services
-- **Self-Service Adoption:** Percentage of tasks completed without platform team intervention
+- **Self-Service Adoption:** Percentage of tasks completed without platform team help
 - **Time to Value:** Average time from service request to productive use
-- **Support Ticket Volume:** Trend analysis of support requests (decreasing indicates better self-service)
+- **Support Ticket Volume:** Trend analysis of support requests. Decreasing indicates better self-service
 - **API Usage Growth:** Increasing API usage indicates platform value and adoption
 
 *Operational Excellence:*
@@ -194,8 +194,8 @@ Deploy two types of supporting teams:
 **Enabling Team Effectiveness Metrics:**
 
 *Capability Transfer Success:*
-- **Skill Assessment Scores:** Before/after capability assessments using standardized frameworks
-- **Independence Timeline:** Time to achieve independent capability (target: 3-6 months)
+- **Skill Assessment Scores:** Before/after capability assessments using standard frameworks
+- **Independence Timeline:** Time to achieve independent capability. Target: 3-6 months
 - **Knowledge Retention:** Post-engagement assessments after 6 months
 - **Capability Scaling:** Number of teams successfully mentored by previously enabled teams
 - **Reduced Dependency:** Decrease in requests for help after engagement ends
