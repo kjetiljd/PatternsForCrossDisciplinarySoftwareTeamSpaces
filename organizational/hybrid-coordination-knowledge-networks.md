@@ -3,13 +3,13 @@
 # Hybrid Coordination and Knowledge Networks
 
 ## Summary
-Adopt explicit strategies for coordination in hybrid teams, leveraging both asynchronous tools and planned in-person interactions to maintain cohesion and effectiveness.
+Use explicit strategies for coordination in hybrid teams. Use both async tools and planned in-person interactions. This maintains cohesion and effectiveness.
 
 ## Context
-Hybrid teams (combining remote and on-site work) face coordination challenges that pure co-located or fully distributed teams don't experience. Different team members may be working from different locations on any given day.
+Hybrid teams (combining remote and on-site work) face coordination challenges. Pure co-located or fully distributed teams don't experience these challenges. Different team members may be working from different locations on any given day.
 
 ## Problem
-Hybrid teams risk communication gaps, "us vs them" dynamics between remote and on-site members, and reduced spontaneous knowledge sharing. Coordination becomes complex when team members are distributed across locations and time zones.
+Hybrid teams risk communication gaps and "us vs them" dynamics between remote and on-site members. They also have reduced spontaneous knowledge sharing. Coordination becomes complex when team members are distributed across locations and time zones.
 
 ## Solution
 Implement explicit hybrid coordination strategies:
