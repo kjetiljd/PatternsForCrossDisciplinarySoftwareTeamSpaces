@@ -3,31 +3,31 @@
 # Architecture Decision Records (ADR)
 
 ## Summary
-Document key architectural decisions with context, rationale, and consequences to maintain clarity, alignment, and institutional memory across the team.
+Write down key architecture decisions with context, reasons, and results. This keeps the team clear, aligned, and helps remember why choices were made.
 
 ## Context
-Software teams make numerous architectural decisions that affect system design, team coordination, and long-term maintenance. These decisions often involve important trade-offs and require explanation to stakeholders.
+Software teams make many architecture decisions that affect system design, team work, and long-term care. These decisions often involve important trade-offs and need clear explanations.
 
 ## Problem
-Important architectural decisions go undocumented, half-remembered, or miscommunicated, leading to confusion, repeated discussions, and loss of context over time. Teams struggle to understand why certain approaches were chosen and whether they're still valid.
+Important architecture decisions often go unwritten, half-remembered, or get mixed up in communication. This leads to confusion, repeated talks, and lost context over time. Teams struggle to understand why certain approaches were picked and if they still make sense.
 
 ## Solution
-Create Architecture Decision Records (ADRs) for decisions with significant consequences, trade-offs, or that require people to change their behavior. Use a collaborative process involving open discussion within the team and with stakeholders.
+Create Architecture Decision Records (ADRs) for decisions with big results, trade-offs, or that require people to change how they work. Use a team process with open discussion among the team and with stakeholders.
 
 ## Forces
-- Memory vs. Overhead - Documentation takes time but prevents context loss
-- Shared Understanding vs. Individual Knowledge - Decisions need to be accessible to all team members
+- Memory vs. Overhead - Writing docs takes time but prevents losing context
+- Shared Knowledge vs. Individual Knowledge - Decisions need to be accessible to all team members
 - Current Relevance vs. Historical Context - Must capture reasoning while decisions are fresh
 - Transparency vs. Efficiency - Open ADR process improves quality but requires coordination
 
 ## Implementation
-1. **Sense the Need**: Identify decisions that have significant consequences or require behavior changes
+1. **Sense the Need**: Find decisions that have big results or require behavior changes
 2. **Create ADR Document**: Use consistent template with Title, Status, Context, Decision, Consequences
 3. **Research and Gather Input**: Ask around for input, capture relevant context and constraints
-4. **Propose Decision**: Think through consequences and document both positive and negative impacts
-5. **Decide with Participants**: Involve necessary stakeholders in the decision process
+4. **Propose Decision**: Think through results and document both positive and negative impacts
+5. **Decide with Participants**: Include necessary stakeholders in the decision process
 6. **Communicate Decision**: Share the ADR with affected teams and store it with the code
-7. **Maintain Under Version Control**: Keep ADRs discoverable and up-to-date
+7. **Maintain Under Version Control**: Keep ADRs findable and up-to-date
 
 ## When NOT to Create an ADR
 
@@ -62,8 +62,8 @@ Date: [Decision date]
 Supersedes: [ADR-YYYY if replacing previous decision]
 
 ## Context
-[Value-neutral factual description of the challenge. What forces 
-(technical, political, social) influence the decision? What is 
+[Neutral factual description of the challenge. What forces 
+(technical, political, social) affect the decision? What is 
 the current situation?]
 
 ## Decision
