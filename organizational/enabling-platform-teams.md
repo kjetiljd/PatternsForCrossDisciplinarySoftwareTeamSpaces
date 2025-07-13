@@ -3,13 +3,13 @@
 # Enabling and Platform Teams
 
 ## Summary
-Establish specialized teams that reduce complexity for stream-aligned teams: Platform Teams provide self-service infrastructure, while Enabling Teams offer temporary coaching and capability building.
+Set up specialized teams that reduce complexity for stream-aligned teams. Platform Teams provide self-service infrastructure. Enabling Teams offer temporary coaching and capability building.
 
 ## Context
-Not every product team can have every expertise. Stream-aligned teams need to focus on delivering customer value, but they face dependencies for specialized knowledge and common infrastructure services.
+Not every product team can have every expertise. Stream-aligned teams need to focus on delivering customer value. But they face dependencies for specialized knowledge and common infrastructure services.
 
 ## Problem
-Product teams need specialty knowledge (security, data, infrastructure) and common services, but traditional functional silos create bottlenecks and hand-off delays. Teams can't be experts in everything, yet dependencies slow delivery.
+Product teams need specialty knowledge (security, data, infrastructure) and common services. But traditional functional silos create bottlenecks and hand-off delays. Teams can't be experts in everything. Yet dependencies slow delivery.
 
 ## Solution
 Deploy two types of supporting teams:
