@@ -3,20 +3,20 @@
 # Hybrid Coordination and Knowledge Networks
 
 ## Summary
-Use explicit strategies for coordination in hybrid teams. Use both async tools and planned in-person interactions. This maintains cohesion and effectiveness.
+Use clear strategies to coordinate hybrid teams. Use both async tools and planned in-person meetings. This keeps teams working well together.
 
 ## Context
-Hybrid teams (combining remote and on-site work) face coordination challenges. Pure co-located or fully distributed teams don't experience these challenges. Different team members may be working from different locations on any given day.
+Hybrid teams mix remote and on-site work. This creates coordination challenges. Teams that are all remote or all co-located don't have these problems. Team members may work from different places each day.
 
 ## Problem
-Hybrid teams risk communication gaps and "us vs them" dynamics between remote and on-site members. They also have reduced spontaneous knowledge sharing. Coordination becomes complex when team members are distributed across locations and time zones.
+Hybrid teams risk communication gaps and "us vs them" feelings between remote and on-site members. They also have less spontaneous knowledge sharing. Coordination gets complex when team members are spread across different locations and time zones.
 
 ## Solution
-Implement explicit hybrid coordination strategies:
+Use clear hybrid coordination strategies:
 
 **Location-Matched Work:**
-- Collaborative, ambiguous tasks when team members are co-located
-- Individual, focus-intensive work when working remotely
+- Collaborative, unclear tasks when team members are together
+- Individual, focus work when working remotely
 - Creative brainstorming and design sessions in person
 - Routine updates and status meetings kept virtual
 
@@ -33,29 +33,29 @@ Implement explicit hybrid coordination strategies:
 - Planned in-person sessions for relationship building
 
 ## Forces
-- **Flexibility vs. Coordination**: Balancing work-from-anywhere benefits with team cohesion
-- **Synchronous vs. Asynchronous**: Optimizing for both real-time and time-shifted collaboration
-- **Inclusion vs. Efficiency**: Ensuring remote members aren't disadvantaged
-- **Spontaneity vs. Structure**: Maintaining informal interactions while providing clear processes
+- **Flexibility vs. Coordination**: Balance work-from-anywhere benefits with team cohesion
+- **Live vs. Async**: Optimize for both real-time and time-shifted collaboration
+- **Inclusion vs. Efficiency**: Make sure remote members aren't disadvantaged
+- **Spontaneity vs. Structure**: Keep informal interactions while providing clear processes
 
 ## Consequences
 
 ### Positive
 - **Inclusive coordination**: All team members have equal access to information and decisions
-- **Optimized work matching**: Tasks align with optimal work environments
-- **Maintained relationships**: Deliberate in-person time strengthens team bonds
-- **Enhanced documentation**: Hybrid requirements improve knowledge sharing practices
+- **Better work matching**: Tasks align with the best work environments
+- **Stronger relationships**: Planned in-person time strengthens team bonds
+- **Better documentation**: Hybrid requirements improve knowledge sharing practices
 - **Flexible talent access**: Can hire and retain talent regardless of location
 
 ### Negative
-- **Coordination overhead**: Requires more explicit processes and tools
+- **Coordination overhead**: Requires more clear processes and tools
 - **Technology dependency**: Relies heavily on digital collaboration tools
 - **Scheduling complexity**: Coordinating across locations and time zones
 - **Discipline requirements**: Teams must maintain hybrid practices consistently
 
 ## Examples
-- **Virtual co-working sessions**: Always-on video calls for ambient collaboration
-- **Hybrid design sprints**: In-person ideation with remote implementation
+- **Virtual co-working sessions**: Always-on video calls for background collaboration
+- **Hybrid design sprints**: In-person brainstorming with remote implementation
 - **Async-first documentation**: All decisions and context captured in writing
 - **Quarterly team gatherings**: Regular in-person connection and planning
 
@@ -65,14 +65,14 @@ Implement explicit hybrid coordination strategies:
 
 **High-Context Information (In-Person/Video):**
 - Strategic decisions and direction setting
-- Complex problem-solving requiring rapid iteration
+- Complex problem-solving that needs rapid iteration
 - Conflict resolution and sensitive conversations
 - Team culture and relationship building
 - Creative brainstorming and design sessions
 
 **Medium-Context Information (Synchronous Chat/Calls):**
 - Daily coordination and quick decisions
-- Clarification of ambiguous requirements
+- Clarification of unclear requirements
 - Real-time troubleshooting and support
 - Spontaneous knowledge sharing and questions
 - Time-sensitive updates and blockers
@@ -82,7 +82,7 @@ Implement explicit hybrid coordination strategies:
 - Technical specifications and requirements
 - Meeting notes and decision records
 - Process documentation and guidelines
-- Long-form analysis and recommendations
+- Detailed analysis and recommendations
 
 **Persistent Knowledge (Searchable Archives):**
 - Historical decisions and their rationale
@@ -189,16 +189,16 @@ Implement explicit hybrid coordination strategies:
 - **Inclusion Perception**: Team member satisfaction with hybrid coordination
 - **Relationship Quality**: Strength of connections across location boundaries
 - **Knowledge Confidence**: Team certainty about shared understanding
-- **Adaptation Capability**: Responsiveness to changing coordination needs
+- **Adaptation Capability**: How well teams respond to changing coordination needs
 
 ## Implementation Steps
 
 1. **Assessment Phase**: Evaluate current coordination challenges and team hybrid work patterns
-2. **Channel Mapping**: Establish communication frameworks appropriate for different information types
+2. **Channel Mapping**: Set up communication frameworks for different information types
 3. **Synchronization Design**: Create rhythms that keep remote and in-person work aligned
 4. **Knowledge Architecture**: Build systems for capturing and sharing insights across locations
-5. **Tool Integration**: Implement technology stack supporting hybrid coordination
-6. **Process Training**: Develop team capabilities in hybrid coordination techniques
+5. **Tool Integration**: Set up technology stack supporting hybrid coordination
+6. **Process Training**: Develop team skills in hybrid coordination techniques
 7. **Continuous Improvement**: Regular evaluation and refinement of coordination practices
 
 ## Related Patterns
