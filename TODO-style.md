@@ -1,4 +1,3 @@
-./organizational/async-collaboration-norms.md
 ./organizational/blameless-post-mortems.md
 ./organizational/cross-team-synchronization.md
 ./organizational/cynefin-based-decision-framework.md

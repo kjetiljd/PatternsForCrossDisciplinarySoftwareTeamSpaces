@@ -3,16 +3,16 @@
 # Asynchronous Collaboration Norms
 
 ## Summary
-Establish writing-first workflows and meeting protocols for distributed teams to enable effective collaboration across time zones and schedules.
+Create writing-first workflows and meeting rules for distributed teams to work well together across time zones and schedules.
 
 ## Context
-Hybrid and distributed teams need to collaborate effectively despite being in different locations and time zones, requiring new approaches to communication and coordination.
+Hybrid and distributed teams need to work together well despite being in different places and time zones. This requires new approaches to communication and coordination.
 
 ## Problem
-Synchronous collaboration requirements create bottlenecks for distributed teams and exclude team members who can't participate in real-time meetings.
+When teams require everyone to work at the same time, it creates bottlenecks for distributed teams and leaves out team members who can't join real-time meetings.
 
 ## Solution
-Establish comprehensive norms for asynchronous collaboration with communication templates, response time expectations, and appropriate tool selection for different types of interactions.
+Create clear rules for working together without being online at the same time. Include communication templates, response time expectations, and the right tool choices for different types of interactions.
 
 ### Communication Templates
 
@@ -218,7 +218,7 @@ Establish comprehensive norms for asynchronous collaboration with communication 
 3. **Evaluate features**: Does it support async workflows?
 4. **Check integration**: Does it work with existing tools?
 5. **Test with team**: Run pilot before full adoption
-6. **Measure success**: Are people using it? Is it effective?
+6. **Measure success**: Are people using it? Is it working?
 
 **Tool Consolidation Principles**:
 - **Minimize tools**: Each new tool has adoption and maintenance costs
@@ -228,12 +228,12 @@ Establish comprehensive norms for asynchronous collaboration with communication 
 - **Accessibility**: Consider team members with different abilities
 
 ## Forces
-- Synchronous collaboration richness vs. asynchronous accessibility
-- Decision-making speed vs. inclusive participation
+- Rich real-time collaboration vs. accessible async work
+- Fast decisions vs. including everyone
 - Communication overhead vs. thorough documentation
-- Time zone constraints vs. team cohesion
-- Tool proliferation vs. workflow simplicity
-- Immediate response vs. thoughtful response
+- Time zone limits vs. team connection
+- Too many tools vs. simple workflows
+- Quick response vs. thoughtful response
 - Individual productivity vs. team coordination
 
 ## Implementation Examples
