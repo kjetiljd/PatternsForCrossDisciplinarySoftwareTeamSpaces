@@ -3,10 +3,10 @@
 # Anchor Days
 
 ## Summary
-Designate regular days where the whole team comes on-site together for purposeful connection, relationship-building, and collaborative work.
+Set regular days where the whole team comes on-site together. Focus on connection, relationship-building, and collaborative work.
 
 ## Context
-Hybrid work environments where teams are distributed but need regular in-person connection to maintain trust and collaboration.
+Hybrid work environments where teams are spread out but need regular in-person connection. This helps maintain trust and collaboration.
 
 ## Problem
 Rigid "3 days in office" mandates often result in people coming in just to sit on Zoom calls. Teams lose the benefits of in-person interaction without gaining focus time.
@@ -105,9 +105,9 @@ Implement purposeful anchor days with structured frameworks:
 - Allow for early departure without social pressure
 
 **Cultural Adaptations**:
-- Food choices that accommodate dietary restrictions and preferences
+- Food choices that fit dietary needs and preferences
 - Activity styles that match team culture (formal vs. informal)
-- Time allocations based on team's natural collaboration patterns
+- Time splits based on team's natural work patterns
 - Respect for different comfort levels with social interaction
 
 ## Forces
