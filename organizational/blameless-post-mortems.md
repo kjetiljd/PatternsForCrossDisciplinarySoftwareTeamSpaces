@@ -3,13 +3,13 @@
 # Blameless Post-Mortems
 
 ## Summary
-Focus on learning from incidents and failures by examining systems and processes rather than assigning blame to individuals.
+Learn from incidents and failures. Look at systems and processes, not individual blame.
 
 ## Context
-Teams that experience incidents, outages, bugs, or project failures and need to learn from these experiences to prevent future occurrences.
+Teams face incidents, outages, bugs, or project failures. They need to learn from these events to prevent them happening again.
 
 ## Problem
-Traditional post-incident reviews often focus on finding someone to blame, which creates fear, reduces transparency, and prevents teams from learning the real systemic causes of problems.
+Traditional post-incident reviews focus on finding someone to blame. This creates fear and reduces transparency. It stops teams from learning the real causes of problems.
 
 ## Solution
 Implement blameless post-mortem practices with structured facilitation and follow-through:
@@ -24,40 +24,40 @@ Implement blameless post-mortem practices with structured facilitation and follo
 
 ### Facilitation Guide
 
-**For Hybrid/Remote Teams**: All guidance below includes specific adaptations for distributed teams. When teams are distributed, use collaborative digital tools (Miro, Mural) for timeline building and ensure all participants can contribute equally.
+**For Hybrid/Remote Teams**: All guidance below works for distributed teams. Use collaborative digital tools (Miro, Mural) for timeline building. Make sure all participants can contribute equally.
 
 **Pre-Meeting Preparation (24-48 hours before)**
 1. **Gather artifacts**: Logs, metrics, communications, deployment records
-2. **Create initial timeline**: Draft chronological sequence of events
+2. **Create initial timeline**: Draft the sequence of events in time order
 3. **Identify participants**: Include all stakeholders who were involved or affected
 4. **Set meeting logistics**: Schedule 60-90 minutes, book comfortable room (or set up video call with breakout rooms for distributed teams)
-5. **Prepare digital workspace**: For hybrid teams, set up shared timeline tool (Miro board, collaborative doc) where remote participants can contribute equally
+5. **Prepare digital workspace**: For hybrid teams, set up a shared timeline tool (Miro board, collaborative doc) so remote participants can contribute equally
 6. **Share agenda**: Send template and artifacts to participants in advance
 
 **Meeting Structure (60-90 minutes)**
 1. **Opening (5 minutes)**
    - Reiterate blameless principles: "We're here to learn, not blame"
    - Establish psychological safety: "Everyone acted rationally with the information they had"
-   - Review agenda and expected outcomes
+   - Review agenda and what we expect to achieve
 
 2. **Timeline Building (25-35 minutes)**
    - Start with factual events in chronological order
    - Use "What happened next?" rather than "Why did you do that?"
-   - Capture what information each person had at each decision point
-   - Note assumptions that turned out to be incorrect
-   - Identify when and how people learned about the situation
+   - Record what information each person had at each decision point
+   - Note assumptions that turned out wrong
+   - Find out when and how people learned about the situation
 
 3. **Systems Analysis (20-30 minutes)**
    - **Contributing factors**: What conditions enabled this incident?
    - **Decision points**: What information would have changed decisions?
    - **Communication patterns**: How did information flow? Where did it break down?
    - **Tool and process gaps**: What tools or processes could have prevented this?
-   - **Environmental factors**: What pressures or constraints influenced actions?
+   - **Environmental factors**: What pressures or limits affected actions?
 
 4. **Learning and Actions (15-20 minutes)**
    - **Key insights**: What did we learn about our system?
    - **Action items**: Specific, time-bound improvements (assign owners)
-   - **Priority assessment**: Which actions will have the most impact?
+   - **Priority check**: Which actions will have the most impact?
    - **Success metrics**: How will we know if our improvements work?
 
 5. **Closing (5 minutes)**
@@ -152,22 +152,22 @@ Implement blameless post-mortem practices with structured facilitation and follo
 ### Follow-Up Protocols
 
 **Immediate Follow-Up (Within 1 week)**
-- **Document publication**: Share post-mortem document with broader organization
-- **Action item tracking**: Add all action items to team backlog with clear ownership
-- **Stakeholder communication**: Brief leadership on key learnings and planned improvements
-- **Related team notification**: Share learnings with teams who might face similar risks
+- **Publish document**: Share post-mortem document with broader organization
+- **Track action items**: Add all action items to team backlog with clear ownership
+- **Brief stakeholders**: Tell leadership about key learnings and planned improvements
+- **Notify related teams**: Share learnings with teams who might face similar risks
 
 **Short-term Follow-Up (2-4 weeks)**
 - **Progress review**: Check action item completion status
-- **Effectiveness measurement**: Assess whether implemented changes are working
-- **Additional insights**: Capture any new learnings that emerged during implementation
-- **Process refinement**: Improve post-mortem process based on this experience
+- **Check effectiveness**: See if implemented changes are working
+- **Capture new insights**: Record any new learnings that came up during implementation
+- **Improve process**: Make the post-mortem process better based on this experience
 
 **Long-term Follow-Up (2-3 months)**
-- **Impact assessment**: Measure whether similar incidents have been prevented
-- **Pattern recognition**: Look for connections with other incidents or near-misses
-- **Knowledge sharing**: Present learnings at team retrospectives or engineering all-hands
-- **Documentation update**: Update team runbooks and procedures based on learnings
+- **Check impact**: Measure whether similar incidents have been prevented
+- **Find patterns**: Look for connections with other incidents or near-misses
+- **Share knowledge**: Present learnings at team retrospectives or engineering all-hands
+- **Update docs**: Update team runbooks and procedures based on learnings
 
 ### Facilitation Best Practices
 
@@ -198,11 +198,11 @@ Implement blameless post-mortem practices with structured facilitation and follo
 - **Escalation approach**: If consensus can't be reached, document multiple perspectives and focus on future prevention
 
 **Measuring Post-Mortem Effectiveness**
-- **Participation metrics**: Are all relevant people attending and contributing?
-- **Learning metrics**: Are we identifying novel insights (not just obvious fixes)?
+- **Participation**: Are all relevant people attending and contributing?
+- **Learning**: Are we finding new insights (not just obvious fixes)?
 - **Action follow-through**: What percentage of action items get completed?
-- **Incident prevention**: Are we seeing fewer similar incidents over time?
-- **Cultural indicators**: Do people feel safe raising concerns and sharing mistakes?
+- **Prevention**: Are we seeing fewer similar incidents over time?
+- **Cultural signs**: Do people feel safe raising concerns and sharing mistakes?
 - **Process feedback**: Regular retrospectives on the post-mortem process itself
 
 **Common Facilitation Pitfalls to Avoid**
