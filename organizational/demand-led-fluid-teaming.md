@@ -3,35 +3,35 @@
 # Demand-Led Fluid Teaming
 
 ## Summary
-Reorganize teams periodically based on demand rather than maintaining rigid, permanent team structures. Team composition adapts to strategic needs each quarter.
+Reorganize teams regularly based on what work needs doing. Don't keep the same team structures forever. Team makeup changes to match strategic needs each quarter.
 
 ## Context
-Mid-sized hybrid-first software organizations face rapidly changing product priorities and market demands. Traditional stable teams may become misaligned with current business needs, creating skill silos and reducing strategic agility.
+Mid-sized software organizations face fast-changing product priorities and market demands. Traditional stable teams may not match current business needs. This creates skill silos. It also reduces how quickly the organization can adapt.
 
 ## Problem
-Fixed team structures optimized for past priorities may not serve current strategic needs. Individuals desire variety and growth opportunities, while organizations need to remain adaptable to changing market conditions without constant top-down restructuring.
+Fixed team structures built for past priorities may not serve current needs. People want variety and growth opportunities. Organizations need to adapt to changing markets. But they don't want constant restructuring from above.
 
 ## Solution
-Implement regular re-teaming cycles (typically quarterly) where teams reform based on current strategic priorities rather than historical assignments. This involves:
+Set up regular re-teaming cycles (usually every quarter). Teams reform based on current strategic priorities, not past assignments. This involves:
 
 - **Quarterly reformation**: Teams dissolve and reform based on upcoming product priorities
 - **Demand-led planning**: Align 20-200 people around most important work each cycle
-- **Strategic alignment**: Let team composition follow strategic needs rather than forcing work through fixed structures
-- **Growth opportunities**: Provide individuals with variety and new challenges through regular team changes
+- **Strategic alignment**: Let team makeup follow strategic needs instead of forcing work through fixed structures
+- **Growth opportunities**: Give people variety and new challenges through regular team changes
 
 ## Forces
-- **Adaptability vs. Stability**: Need to respond to changing priorities while maintaining team effectiveness
-- **Individual growth vs. Team cohesion**: Balancing personal development with team relationships
-- **Strategic alignment vs. Operational continuity**: Ensuring work flows smoothly during transitions
-- **Trust vs. Control**: Requiring high organizational trust to avoid perception of chaos
+- **Adaptability vs. Stability**: Need to respond to changing priorities while keeping teams effective
+- **Individual growth vs. Team cohesion**: Balance personal development with team relationships
+- **Strategic alignment vs. Operational continuity**: Make sure work flows smoothly during transitions
+- **Trust vs. Control**: Requires high organizational trust to avoid looking chaotic
 
 ## Consequences
 
 ### Positive
-- **Increased strategic alignment**: Teams directly serve current business priorities
-- **Enhanced employee engagement**: People see clear purpose in their current assignment
-- **Optimal resource allocation**: "People around the work" rather than work forced through fixed structures
-- **Organizational resilience**: Regular adaptation prevents accumulation of "organizational debt"
+- **Better strategic alignment**: Teams directly serve current business priorities
+- **Higher employee engagement**: People see clear purpose in their current assignment
+- **Better resource allocation**: "People around the work" rather than work forced through fixed structures
+- **Organizational resilience**: Regular adaptation prevents buildup of "organizational debt"
 
 ### Negative
 - **Transition overhead**: Time and energy required for team reformation
