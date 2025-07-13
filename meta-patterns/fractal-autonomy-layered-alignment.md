@@ -3,21 +3,21 @@
 # Fractal Autonomy, Layered Alignment
 
 ## Summary
-Create self-managing units at every scale with thin coordination layers that maintain alignment without constraining autonomy, enabling organizations to scale without losing agility or innovation capacity.
+Create self-managing units at every scale. Use thin coordination layers to maintain alignment without limiting autonomy. This helps organizations scale while keeping their agility and ability to innovate.
 
 ## Context
-Organizations need to balance autonomy at multiple scales while maintaining coherence and alignment toward shared goals. This is particularly crucial for cross-disciplinary software teams where different domains (design, engineering, product, research) need to operate with their own methodologies while contributing to unified outcomes. In hybrid work environments, fractal autonomy becomes even more important as traditional management oversight becomes less feasible and teams must be more self-directed.
+Organizations need to balance autonomy at multiple scales while staying aligned toward shared goals. This matters especially for cross-disciplinary software teams. Different domains (design, engineering, product, research) need to work with their own methods while contributing to shared outcomes. In hybrid work environments, fractal autonomy becomes even more important. Traditional management oversight works less well, so teams must be more self-directed.
 
 ## Problem
-Traditional hierarchies can stifle autonomy, creativity, and speed of decision-making, while complete autonomy can lead to fragmentation, duplication of effort, and misalignment with organizational goals. Cross-disciplinary teams face additional challenges as different disciplines have different working styles, decision-making processes, and success metrics. Without proper coordination mechanisms, autonomous units can:
+Traditional hierarchies can stifle autonomy, creativity, and quick decisions. But complete autonomy can lead to fragmentation, duplicate work, and misalignment with company goals. Cross-disciplinary teams face extra challenges because different disciplines have different working styles, decision processes, and success measures. Without proper coordination mechanisms, autonomous units can:
 - Develop conflicting approaches or duplicate effort
-- Make decisions that optimize locally but harm global objectives
+- Make decisions that help locally but harm global goals
 - Lose sight of shared vision and customer value
 - Create knowledge silos that prevent learning and innovation
 - Struggle to coordinate dependencies and handoffs
 
 ## Solution
-Create fractal patterns of autonomy where self-managing units exist at every scale—from individuals to teams to departments to divisions—connected by thin layers of coordination that maintain alignment without micromanagement. Each unit operates with maximum autonomy within a clear framework of constraints and coordination mechanisms.
+Create fractal patterns of autonomy where self-managing units exist at every scale—from individuals to teams to departments to divisions. Connect them with thin coordination layers that maintain alignment without micromanagement. Each unit operates with maximum autonomy within a clear framework of constraints and coordination tools.
 
 ### Fractal Structure Visualization
 
@@ -36,22 +36,22 @@ Individual Level: Daily Decisions, Execution
 ### Thin Coordination Layers: Specific Mechanisms
 
 #### Information Flow Mechanisms
-- **OKRs (Objectives and Key Results)**: Quarterly goal-setting that cascades from organization → division → team → individual, providing alignment while leaving implementation autonomy
-- **Architecture Decision Records (ADRs)**: Shared decision documentation that prevents conflicting technical choices without requiring approval processes
+- **OKRs (Objectives and Key Results)**: Quarterly goal-setting that flows from organization → division → team → individual. This provides alignment while leaving teams free to choose how they implement.
+- **Architecture Decision Records (ADRs)**: Shared decision documentation that prevents conflicting technical choices without needing approval processes
 - **Weekly Cross-Team Syncs**: Brief status updates focusing on dependencies and blockers, not detailed work management
-- **Shared Metrics Dashboards**: Real-time visibility into progress without requiring reporting overhead
+- **Shared Metrics Dashboards**: Real-time visibility into progress without extra reporting work
 
 #### Decision Authority Frameworks
-- **RACI Matrices**: Clear ownership of decisions at each level, preventing overlap and ensuring someone can act quickly
-- **Decision Trees**: Pre-defined escalation paths that specify when decisions move up the fractal hierarchy
-- **"I Intend To" Protocols**: Lightweight notification system where teams announce decisions before acting, allowing input without requiring approval
+- **RACI Matrices**: Clear ownership of decisions at each level. This prevents overlap and ensures someone can act quickly
+- **Decision Trees**: Pre-defined escalation paths that specify when decisions move up the hierarchy
+- **"I Intend To" Protocols**: Lightweight notification system where teams announce decisions before acting. This allows input without needing approval
 - **Bounded Authority**: Clear spending limits, technical decisions, and policy changes that each level can make independently
 
 #### Constraint Propagation Systems
-- **Design Principles**: High-level guidelines that shape local decisions without prescribing specific implementations
+- **Design Principles**: High-level guidelines that shape local decisions without dictating specific implementations
 - **Platform Services**: Shared infrastructure that provides capabilities while allowing teams to choose how to use them
-- **Quality Gates**: Automated checks that ensure global standards while allowing teams to innovate within those boundaries
-- **Resource Allocation Rules**: Transparent formulas for distributing budget, people, and tools based on outcomes rather than politics
+- **Quality Gates**: Automated checks that ensure global standards while allowing teams to innovate within those limits
+- **Resource Allocation Rules**: Clear formulas for distributing budget, people, and tools based on outcomes rather than politics
 
 ### Organizational Examples
 
@@ -135,9 +135,9 @@ The goal is maximum autonomy with minimum necessary coordination.
 
 #### Phase 1: Foundation (Months 1-3)
 1. **Map Current Decision Points**: Use tools like Miro or LucidChart to identify where decisions are made and by whom
-2. **Define Autonomy Boundaries**: Create RACI matrices and decision authority documents clarifying what each level can decide independently
-3. **Establish Basic Coordination**: Weekly syncs using tools like Slack or Teams, monthly objective alignment with OKR platforms like Lattice or 15Five
-4. **Create Transparency Systems**: Implement dashboards using tools like Grafana, Looker, or custom solutions showing progress and blockers
+2. **Define Autonomy Boundaries**: Create RACI matrices and decision authority documents. These clarify what each level can decide independently
+3. **Establish Basic Coordination**: Weekly syncs using tools like Slack or Teams. Monthly objective alignment with OKR platforms like Lattice or 15Five
+4. **Create Transparency Systems**: Implement dashboards using tools like Grafana, Looker, or custom solutions. These show progress and blockers
 
 #### Phase 2: Structure (Months 4-6)
 1. **Implement OKRs**: Quarterly goal-setting that connects levels
@@ -148,7 +148,7 @@ The goal is maximum autonomy with minimum necessary coordination.
 #### Phase 3: Optimization (Months 7-12)
 1. **Automate Coordination**: Tools that provide visibility without manual overhead
 2. **Refine Boundaries**: Adjust autonomy levels based on what's working
-3. **Scale Patterns**: Apply successful coordination mechanisms to other areas
+3. **Scale Patterns**: Apply successful coordination patterns to other areas
 4. **Measure Effectiveness**: Track both autonomy and alignment metrics
 
 ### Measurement Framework
@@ -166,7 +166,7 @@ The goal is maximum autonomy with minimum necessary coordination.
 - **Cross-Team Collaboration**: Frequency and effectiveness of inter-team projects
 
 #### Coordination Effectiveness
-- **Overhead Ratio**: Time spent in coordination activities vs. productive work (target: <20% of total time)
+- **Overhead Ratio**: Time spent in coordination activities vs. productive work (target: less than 20% of total time)
 - **Information Flow**: Speed of important information reaching relevant teams (target: critical info reaches 90% of affected teams within 24 hours)
 - **Conflict Resolution**: Time to resolve cross-team disagreements (target: 80% resolved within one week)
 - **Knowledge Sharing**: Spread of successful practices across the organization (measured via surveys and adoption metrics)
@@ -175,16 +175,16 @@ The goal is maximum autonomy with minimum necessary coordination.
 - **Autonomy vs. Alignment**: Teams need freedom to innovate while contributing to shared goals
 - **Local Optimization vs. Global Coherence**: Individual units optimizing their performance while maintaining overall system effectiveness  
 - **Coordination Overhead vs. Self-Management Benefits**: Minimizing coordination costs while preventing harmful fragmentation
-- **Scalability vs. Personal Relationships**: Maintaining human connection and trust as the organization grows
-- **Innovation vs. Consistency**: Encouraging experimentation while maintaining quality and brand standards
+- **Scalability vs. Personal Relationships**: Keeping human connection and trust as the organization grows
+- **Innovation vs. Consistency**: Encouraging experimentation while keeping quality and brand standards
 - **Speed vs. Quality**: Moving fast at local levels while maintaining system-wide quality standards
 
 ## Anti-Patterns to Avoid
 
 ### Over-Coordination
 - **Meeting-Heavy Culture**: Using meetings to solve coordination problems instead of designing better systems
-- **Approval Bottlenecks**: Requiring permission for decisions that could be made autonomously with proper constraints
-- **Micromanagement Disguised**: Using coordination mechanisms to control rather than align
+- **Approval Bottlenecks**: Requiring permission for decisions that could be made independently with proper constraints
+- **Disguised Micromanagement**: Using coordination tools to control rather than align
 
 ### Under-Coordination  
 - **Silo Formation**: Teams operating with no awareness of impact on others
@@ -192,8 +192,8 @@ The goal is maximum autonomy with minimum necessary coordination.
 - **Conflicting Customer Experience**: Different teams creating inconsistent customer interactions
 
 ### False Fractal Structures
-- **Hierarchy Relabeling**: Calling traditional management layers "autonomous units" without actual decision authority
-- **Coordination Theater**: Creating coordination activities that don't actually improve alignment or autonomy
+- **Hierarchy Relabeling**: Calling traditional management layers "autonomous units" without real decision authority
+- **Coordination Theater**: Creating coordination activities that don't really improve alignment or autonomy
 
 ## Related Patterns
 - [Aligned Autonomy](../organizational/aligned-autonomy.md) - Specific techniques for balancing autonomy and alignment at team level
