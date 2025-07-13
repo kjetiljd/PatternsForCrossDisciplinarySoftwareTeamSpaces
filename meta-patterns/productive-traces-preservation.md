@@ -2,19 +2,19 @@
 ---
 # Productive Traces Preservation
 
-**Summary**: Distinguish between beneficial signs of use and actual problems, preserving evidence of successful adaptations while addressing genuine issues.
+**Summary**: Tell the difference between beneficial signs of use and actual problems. Preserve evidence of successful adaptations while addressing genuine issues.
 
 ## Context
 
-Facilities management often treats all deviations from original design as problems to be corrected. This can eliminate valuable evidence of how teams have successfully adapted their environment to work better.
+Facilities management often treats all changes from original design as problems to fix. This can eliminate valuable evidence of how teams have successfully adapted their environment to work better.
 
 ## Problem
 
-Over-zealous cleaning and "restoration" to original state can erase the accumulated wisdom of team adaptations. When maintenance removes all traces of use, teams lose social signals about what modifications are acceptable and beneficial.
+Over-zealous cleaning and "restoration" to original state can erase the accumulated wisdom of team adaptations. When maintenance removes all traces of use, teams lose social signals about what changes are acceptable and beneficial.
 
 ## Solution
 
-**Develop nuanced maintenance practices** that preserve beneficial traces while addressing genuine problems. Train facilities teams to recognize the difference between productive adaptations and actual issues requiring correction.
+**Develop nuanced maintenance practices** that preserve beneficial traces while addressing genuine problems. Train facilities teams to recognize the difference between productive adaptations and actual issues that need correction.
 
 **Preserve beneficial traces:**
 - Wear patterns that indicate efficient movement routes
@@ -50,14 +50,14 @@ Over-zealous cleaning and "restoration" to original state can erase the accumula
 1. **Document first** - Photo and note the trace before any action
 2. **Investigate purpose** - Ask the team why this modification exists
 3. **Evaluate safety** - Check for genuine safety or code concerns  
-4. **Assess adoption** - Look for evidence of other teams copying the modification
+4. **Assess adoption** - Look for evidence of other teams copying the change
 5. **Consider preservation** - Decide if this represents valuable organizational learning
 
 **Critical Implementation Notes:**
 - This framework only works if facilities management has genuine decision-making authority and budget flexibility
 - Teams must have real influence in preservation decisions, not just consultation
 - Insurance and liability constraints may override the assessment matrix
-- Union agreements about workspace modifications take precedence over this framework
+- Union agreements about workspace changes take precedence over this framework
 
 **Decision Tree:**
 ```
@@ -88,10 +88,10 @@ Natural approaches that respect team autonomy:
 
 **Preservation Decision Dialogue:**
 - **For teams:** "We'd like to preserve this as an example for other teams. Would you be willing to document how and why you made this change?"
-- **For facilities:** "This modification appears to be working well and isn't creating safety issues. How can we preserve the functionality while maintaining building standards?"
+- **For facilities:** "This change appears to be working well and isn't creating safety issues. How can we preserve the functionality while maintaining building standards?"
 
 **Removal Discussion Script:**
-"We need to modify this change because [specific reason]. Before we do:
+"We need to change this because [specific reason]. Before we do:
 - Can you walk us through what you were trying to achieve?
 - What aspects of this solution are most important to preserve?
 - How can we help you find an alternative that meets your needs while addressing our concerns?"
@@ -116,19 +116,19 @@ Natural approaches that respect team autonomy:
 
 **Code Repository Adaptations:**
 - Preserve team-created build scripts and automation that solve common problems
-- Maintain innovative project structure patterns that improve collaboration
+- Keep innovative project structure patterns that improve collaboration
 - Document and share successful integration approaches between systems
 
 *Focus on meaningful adaptations that represent genuine innovation, not routine configuration management.*
 
 **Collaboration Tool Modifications:**
 - Preserve custom Slack workflows and channel structures that improve communication
-- Maintain team-created dashboard and information radiator configurations
+- Keep team-created dashboard and information radiator configurations
 - Document successful integration patterns between tools
 
 **Knowledge Management Evolution:**
 - Preserve team-created documentation structures that improve knowledge sharing
-- Maintain successful meeting formats and agenda templates
+- Keep successful meeting formats and agenda templates
 - Document and share effective asynchronous collaboration patterns
 
 ### Digital Documentation Systems
@@ -148,11 +148,11 @@ Outcome: Team reports easier system visualization, 2 other teams copied setup
 Facilities: Fire egress maintained, requires monthly deep cleaning
 ```
 
-*Note: Avoid false precision in outcomes. "40% faster" claims without rigorous measurement methodology undermine credibility. Focus on qualitative benefits and adoption patterns.*
+*Note: Avoid false precision in outcomes. "40% faster" claims without rigorous measurement methods undermine credibility. Focus on qualitative benefits and adoption patterns.*
 
 **Virtual Trace Analytics:**
 - Track which digital adaptations spread between teams
-- Measure correlation between physical and digital workspace modifications
+- Measure correlation between physical and digital workspace changes
 - Identify successful patterns for future space design
 
 ### Hybrid Physical-Digital Preservation
@@ -185,29 +185,29 @@ Facilities: Fire egress maintained, requires monthly deep cleaning
 
 ## Addressing the Core Tension
 
-**The fundamental conflict:** Teams want to adapt their environment to work better; facilities management wants to minimize maintenance, liability, and complexity. This pattern only works when this tension is explicitly acknowledged and managed.
+**The fundamental conflict:** Teams want to adapt their environment to work better. Facilities management wants to minimize maintenance, liability, and complexity. This pattern only works when this tension is explicitly acknowledged and managed.
 
 **Prerequisites for Success:**
 - Facilities budget includes line items for preserving beneficial adaptations
-- Clear liability and insurance guidelines about acceptable modifications
+- Clear liability and insurance guidelines about acceptable changes
 - Teams have formal input into preservation decisions, not just consultation
 - Maintenance staff understand the distinction between beneficial traces and problems
 - Leadership explicitly supports controlled experimentation with space
 
 **When This Pattern Fails:**
 - Facilities operates under "restore to original state" mandates
-- Insurance policies prohibit any modifications to designed spaces
+- Insurance policies prohibit any changes to designed spaces
 - Budget constraints make preservation maintenance impossible
 - Teams and facilities have no regular communication channels
 - Organizational culture prioritizes uniformity over effectiveness
 
 ## Examples
 
-**Toyota Production System**: Preserves worker improvements to workstations while maintaining safety and quality standards.
+**Toyota Production System**: Preserves worker improvements to workstations while keeping safety and quality standards.
 
-**Research laboratories**: Distinguish between productive modifications that improve research capability and changes that create safety risks.
+**Research laboratories**: Tell the difference between productive changes that improve research capability and changes that create safety risks.
 
-**University libraries**: Preserve student-created study configurations that improve space utilization while maintaining accessibility and safety.
+**University libraries**: Preserve student-created study configurations that improve space use while keeping accessibility and safety.
 
 **Software development spaces**: Keep team-created information radiators and workflow adaptations while addressing ergonomic or electrical safety issues.
 
