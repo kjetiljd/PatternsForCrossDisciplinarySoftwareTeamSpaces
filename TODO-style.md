@@ -1,5 +1,3 @@
-./meta-patterns/transparency-osmotic-communication.md
-./organizational/aligned-autonomy.md
 ./organizational/anchor-days.md
 ./organizational/architecture-decision-records.md
 ./organizational/async-collaboration-norms.md

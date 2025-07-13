@@ -3,30 +3,30 @@
 # Aligned Autonomy
 
 ## Summary
-Balance team independence with organizational alignment through enabling constraints, shared goals, and outcome-focused guidance that allows teams to autonomously determine "how" while staying aligned on "why" and "what."
+Balance team independence with company alignment. Use clear goals and guidance focused on outcomes. This lets teams decide "how" to work while staying aligned on "why" and "what."
 
 ## Context
-Software teams need autonomy to respond quickly to changing requirements and make decisions about their work, while organizations need alignment to ensure teams work toward common goals. Modern research shows specific practices that enable this balance.
+Software teams need freedom to respond quickly to changes and make decisions about their work. Organizations need teams to work toward common goals. Modern research shows specific ways to balance these needs.
 
 ## Problem
-Too much autonomy can lead to fragmentation and teams working at cross-purposes, while too much control stifles innovation and responsiveness. Traditional scaling approaches often reduce team autonomy through detailed planning and coordination overhead.
+Too much freedom can split teams apart and make them work against each other. Too much control stops innovation and slows response times. Traditional scaling often reduces team freedom. It adds detailed planning and extra coordination work.
 
 ## Solution
-Create aligned autonomy through multiple reinforcing practices:
+Create aligned freedom through several supporting practices:
 
-**Outcome-Focused Leadership:**
+**Leadership Focused on Results:**
 - Measure outcomes and flow, not individual output
 - Track lead time, quality metrics, and customer satisfaction
 - Communicate clear intent (why and what) while leaving "how" to teams
-- Focus on minimal essential constraints (compliance, security) rather than detailed methods
+- Focus on essential limits (compliance, security) rather than detailed methods
 
-**Continuous Knowledge Sharing:**
+**Ongoing Knowledge Sharing:**
 - Informal on-demand knowledge sharing between teams
 - Regular internal sharing sessions and demos
 - Communities of practice for cross-team learning
-- Transparent decision-making and lessons learned
+- Open decision-making and shared lessons learned
 
-**Collective Ownership:**
+**Shared Ownership:**
 - Shared code ownership across teams for common components
 - Teams can improve any part of the system they touch
 - Open-source approach to internal modules and tools
@@ -36,32 +36,32 @@ Create aligned autonomy through multiple reinforcing practices:
 - Teams validate ideas against user metrics and business outcomes
 - Mandate to find novel ways to reach agreed outcomes
 - Regular experimentation with fast feedback loops
-- Autonomy to pivot based on evidence, not just build features
+- Freedom to change direction based on evidence, not just build features
 
 ## Forces
-- **Autonomy vs. Alignment**: Teams need freedom while serving organizational purpose
+- **Freedom vs. Alignment**: Teams need freedom while serving company purpose
 - **Innovation vs. Consistency**: Encouraging creativity while maintaining standards
 - **Local vs. Global**: Optimizing team effectiveness while serving broader goals
-- **Speed vs. Coordination**: Fast decision-making without fragmenting effort
+- **Speed vs. Coordination**: Fast decisions without splitting efforts
 - **Trust vs. Control**: Empowering teams while ensuring accountability
 
 ## Consequences
 
 ### Positive
-- **Strategic cohesion**: Teams innovate while naturally converging on business goals
-- **Reduced coordination overhead**: Less need for heavy synchronization meetings
+- **Strategic unity**: Teams innovate while naturally working toward business goals
+- **Less coordination work**: Less need for heavy sync meetings
 - **Higher engagement**: Teams feel their work matters to the company mission
 - **Faster adaptation**: Teams can respond to change without waiting for approval
-- **Quality improvement**: Collective ownership and peer review raise standards
+- **Better quality**: Shared ownership and peer review raise standards
 
 ### Negative
 - **Requires discipline**: Teams must maintain communication and feedback practices
-- **Trust dependency**: Leadership must genuinely trust teams and resist micromanagement
-- **Potential misalignment**: Risk of drift if communication channels fail
-- **Complexity**: More complex than pure autonomy or pure control approaches
+- **Needs trust**: Leadership must truly trust teams and avoid micromanaging
+- **Risk of misalignment**: Teams may drift apart if communication fails
+- **Complexity**: More complex than pure freedom or pure control approaches
 
 ## Examples
-- **OKRs with team autonomy**: Quarterly outcomes with team freedom on implementation
+- **OKRs with team freedom**: Quarterly outcomes with team freedom on how to implement
 - **Inner source practices**: Teams contribute to each other's codebases
 - **Lean Startup at scale**: Teams run experiments while serving broader strategy
 - **Communities of practice**: Cross-team knowledge sharing without hierarchy
