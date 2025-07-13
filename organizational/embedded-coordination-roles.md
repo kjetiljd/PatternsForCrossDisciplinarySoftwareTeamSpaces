@@ -3,16 +3,16 @@
 # Embedded Coordination Roles
 
 ## Summary
-Use ambassador or liaison roles to create human bridges between teams and facilitate smooth inter-team coordination.
+Use ambassador or liaison roles to create human bridges between teams. This helps facilitate smooth inter-team coordination.
 
 ## Context
-Teams need to coordinate with other teams but don't want to interrupt their work flow with constant coordination meetings and discussions.
+Teams need to coordinate with other teams. But they don't want to interrupt their work flow with constant coordination meetings and discussions.
 
 ## Problem
-Without dedicated coordination roles, teams either under-coordinate and miss important dependencies, or over-coordinate and create inefficiencies.
+Without dedicated coordination roles, teams face problems. They either under-coordinate and miss important dependencies. Or they over-coordinate and create inefficiencies.
 
 ## Solution
-Establish rotating ambassador roles where team members serve as liaisons to other teams, facilitating coordination without requiring full team participation. Create clear role definitions, rotation schedules, and handover protocols to ensure effective coordination continuity.
+Set up rotating ambassador roles where team members serve as liaisons to other teams. This helps coordination without requiring full team participation. Create clear role definitions, rotation schedules, and handover protocols. This ensures effective coordination continuity.
 
 ## Forces
 - Coordination efficiency vs. full team involvement
