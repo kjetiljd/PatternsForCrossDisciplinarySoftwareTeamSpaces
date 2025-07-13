@@ -3,22 +3,22 @@
 # Nominal Group Technique
 
 ## Summary
-Improve decision-making quality by gathering individual opinions independently before group discussion, reducing bias and ensuring diverse input while focusing meetings on meaningful disagreements.
+Make better decisions by collecting individual opinions first. Then focus group meetings on areas where people disagree. This approach reduces bias and ensures all voices are heard.
 
 ## Context
-Group decision-making often suffers from social dynamics where dominant personalities, hierarchical pressure, or groupthink suppress diverse viewpoints. Teams need to make decisions that incorporate everyone's perspectives while managing meeting time effectively.
+Group decisions often fail because of social pressure. Loud people, bosses, or group thinking can silence different views. Teams need decisions that include everyone's input while using meeting time well.
 
 ## Problem
-Traditional group brainstorming and decision-making can be dominated by the loudest voices, first ideas, or social pressure to conform. This leads to suboptimal decisions that don't reflect the full range of available expertise and perspectives.
+Group brainstorming often gets taken over by the loudest voices, first ideas, or pressure to agree. This creates poor decisions that miss the full range of expertise and viewpoints available.
 
 ## Solution
-Separate the collection of individual opinions from group discussion by gathering input independently and anonymously before meetings. Use group time to focus on areas of disagreement and diverse perspectives rather than trying to achieve false consensus.
+Collect individual opinions separately from group discussion. Gather input independently and anonymously before meetings. Use meeting time to focus on disagreements and different views instead of forcing fake agreement.
 
 ## Forces
 - Individual Thinking vs. Group Dynamics - People think differently alone than in groups
-- Diverse Perspectives vs. Social Pressure - Need all viewpoints but groups tend toward conformity
-- Efficiency vs. Thoroughness - Want quick decisions but need quality input
-- Disagreement vs. Alignment - Healthy disagreement improves decisions but feels uncomfortable
+- Different Views vs. Social Pressure - Need all viewpoints but groups push toward agreement
+- Speed vs. Quality - Want quick decisions but need good input
+- Disagreement vs. Comfort - Healthy disagreement improves decisions but feels uncomfortable
 
 ## Implementation
 
@@ -26,50 +26,50 @@ Separate the collection of individual opinions from group discussion by gatherin
 
 **Phase 1: Preparation and Design (1-3 days before session)**
 
-*Step 1: Define Clear Objectives*
-- **Decision Scope**: Specify exactly what needs to be decided or explored
-- **Success Criteria**: Define what constitutes a good outcome
-- **Time Boundaries**: Set deadlines for input collection and decision-making
-- **Stakeholder Identification**: Identify who needs to provide input vs. who needs to be informed
-- **Expertise Mapping**: Understand what unique perspectives each participant brings
+*Step 1: Define Clear Goals*
+- **Decision Scope**: State exactly what needs to be decided
+- **Success Criteria**: Define what makes a good outcome
+- **Time Limits**: Set deadlines for input and decisions
+- **People Involved**: Identify who gives input vs. who gets informed
+- **Expertise Map**: Know what unique views each person brings
 
 *Step 2: Design Input Collection*
-- **Question Framework**: Create 3-7 specific questions that elicit valuable perspectives
-- **Input Format**: Choose between rankings, ratings, open text, or structured responses
-- **Anonymity Level**: Decide on full anonymity vs. attributed but private responses
-- **Response Requirements**: Specify expected detail and rationale for responses
-- **Tool Selection**: Choose appropriate digital tools based on team comfort and features needed
+- **Question Framework**: Create 3-7 specific questions that get valuable views
+- **Input Format**: Choose rankings, ratings, open text, or structured answers
+- **Privacy Level**: Decide on full privacy vs. named but private responses
+- **Response Details**: Specify expected detail and reasoning for answers
+- **Tool Choice**: Pick digital tools based on team comfort and needed features
 
 *Step 3: Pre-Communication*
-- **Context Setting**: Share background information and decision criteria with all participants
-- **Process Explanation**: Explain NGT process and why it's being used
-- **Timeline Communication**: Clear deadlines and expectations for participation
-- **Technology Instructions**: Provide guidance on tools and access requirements
-- **Question Clarity**: Offer opportunity to clarify questions before input collection begins
+- **Context Setting**: Share background info and decision criteria with everyone
+- **Process Explanation**: Explain NGT process and why we're using it
+- **Timeline Communication**: Clear deadlines and expectations for taking part
+- **Technology Instructions**: Give guidance on tools and access needs
+- **Question Clarity**: Let people clarify questions before input starts
 
 **Phase 2: Independent Input Collection (24-72 hours)**
 
 *Step 1: Individual Response Process*
-- **Private Reflection**: Participants respond individually without consulting others
-- **Structured Format**: Use consistent templates or forms for comparable responses
-- **Rationale Requirement**: Ask for reasoning behind rankings or preferences
-- **Time Investment**: Expect 15-45 minutes per participant depending on complexity
+- **Private Thinking**: People respond alone without talking to others
+- **Structured Format**: Use the same templates or forms for similar responses
+- **Reasoning Required**: Ask for reasoning behind rankings or choices
+- **Time Investment**: Expect 15-45 minutes per person depending on complexity
 - **Quality Over Speed**: Encourage thoughtful responses rather than quick reactions
 
 *Step 2: Response Monitoring*
-- **Participation Tracking**: Monitor who has responded without revealing content
-- **Gentle Reminders**: Send follow-up communications to non-responders
-- **Technical Support**: Assist participants with tool-related issues
-- **Deadline Management**: Be firm on deadlines while accommodating genuine conflicts
-- **Quality Assurance**: Review responses for completeness and clarity
+- **Participation Tracking**: Track who responded without showing content
+- **Gentle Reminders**: Send follow-ups to people who haven't responded
+- **Technical Support**: Help people with tool problems
+- **Deadline Management**: Be firm on deadlines while helping with real conflicts
+- **Quality Check**: Review responses for completeness and clarity
 
 **Phase 3: Synthesis and Analysis (2-4 hours before meeting)**
 
 *Step 1: Data Organization*
-- **Response Compilation**: Aggregate all individual inputs into analyzable format
-- **Pattern Recognition**: Identify areas of strong agreement and disagreement
-- **Perspective Mapping**: Note unique viewpoints that might otherwise be missed
-- **Priority Ranking**: Calculate aggregate rankings or ratings where applicable
+- **Response Compilation**: Put all individual inputs into a format for analysis
+- **Pattern Recognition**: Find areas of strong agreement and disagreement
+- **Perspective Mapping**: Note unique viewpoints that might get missed
+- **Priority Ranking**: Calculate combined rankings or ratings where needed
 - **Theme Extraction**: Pull out common themes and concerns across responses
 
 *Step 2: Meeting Preparation*
@@ -207,7 +207,7 @@ Separate the collection of individual opinions from group discussion by gatherin
 - **Decision Authority Clarity**: Separate input collection from decision authority
 
 *Cultural Considerations:*
-- **Communication Style Adaptation**: Accommodate high-context vs. low-context communication preferences
+- **Communication Style Changes**: Adjust for different communication styles
 - **Conflict Comfort**: Adjust process for teams with different comfort levels around disagreement
 - **Time Orientation**: Allow for different preferences around decision timeline and reflection time
 - **Individual vs. Collective**: Balance individual input with collective harmony needs
@@ -230,11 +230,11 @@ Separate the collection of individual opinions from group discussion by gatherin
 - **Integration Enhancement**: Better integrate NGT with existing team decision-making processes
 
 **When NOT to Use NGT:**
-- **Urgent Decisions**: When decisions must be made in <24 hours, use faster techniques
-- **Small Decisions**: For low-impact choices, the process overhead exceeds benefits
-- **Very Small Groups**: With <4 participants, direct discussion may be more effective
-- **Frequent Use**: Overuse leads to **participant fatigue** and process gaming - limit to 1-2 times per month
-- **Technology Barriers**: When participants lack digital literacy or reliable internet access
+- **Urgent Decisions**: When decisions must be made in under 24 hours, use faster methods
+- **Small Decisions**: For low-impact choices, the process takes too much effort
+- **Very Small Groups**: With under 4 people, direct discussion works better
+- **Frequent Use**: Too much use causes participant fatigue and gaming - limit to 1-2 times per month
+- **Technology Problems**: When people lack digital skills or reliable internet
 
 ## Examples
 **Product Roadmap Prioritization:**
