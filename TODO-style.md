@@ -1,3 +1,4 @@
+./organizational/meeting-room-anti-pattern.md
 ./organizational/near-far-specialist-guilds.md
 ./organizational/nominal-group-technique.md
 ./organizational/one-way-two-way-door-decisions.md
