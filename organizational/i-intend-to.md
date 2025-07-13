@@ -3,22 +3,22 @@
 # I Intend To
 
 ## Summary
-Build ownership and alignment through intentional communication by clearly stating planned actions and rationale before taking them, creating opportunities for feedback and support.
+Build ownership and team alignment by stating planned actions and reasons before taking them. This creates chances for feedback and support.
 
 ## Context
-Software teams need to move quickly while maintaining coordination. Team members often take actions that affect others without prior communication, leading to surprises, conflicts, or missed opportunities for collaboration.
+Software teams need to move quickly while staying coordinated. Team members often act without telling others first. This leads to surprises, conflicts, or missed chances to work together.
 
 ## Problem
-Silent execution creates misalignment, reduces learning opportunities, and can lead to duplicated or conflicting work. Teams struggle to balance individual initiative with collective awareness.
+Working silently creates misalignment and reduces learning chances. It can lead to duplicate or conflicting work. Teams struggle to balance individual action with team awareness.
 
 ## Solution
-Adopt "I intend to..." as a communication pattern where team members declare their planned actions, purpose, and expected outcomes before proceeding. This promotes transparency, accountability, and creates space for coaching or course correction.
+Use "I intend to..." as a way to communicate. Team members state their planned actions, purpose, and expected results before starting. This promotes transparency and accountability. It also creates space for coaching or course changes.
 
 ## Forces
-- Individual Autonomy vs. Team Coordination - People want to work independently but need alignment
-- Speed vs. Consultation - Stopping to communicate may slow immediate action but prevents later conflicts
+- Individual Work vs. Team Coordination - People want to work alone but need alignment
+- Speed vs. Consultation - Stopping to communicate may slow action but prevents later conflicts
 - Ownership vs. Micromanagement - Clear intent builds trust rather than requiring approval
-- Proactive vs. Reactive Communication - Preventing problems through early communication
+- Early vs. Late Communication - Preventing problems by communicating early
 
 ## Implementation
 1. **State Intent Before Acting**: Communicate planned actions and rationale out loud or in writing
@@ -31,7 +31,7 @@ Adopt "I intend to..." as a communication pattern where team members declare the
 ## Phrase Variations and Context
 
 ### Technical Decision Making
-- **Investigation**: "I intend to investigate the performance bottleneck in the search service because user complaints have increased 40% this week."
+- **Investigation**: "I intend to investigate the slow search service because user complaints increased 40% this week."
 - **Implementation**: "I intend to implement the caching layer we discussed yesterday, starting with the user profile endpoints."
 - **Experimentation**: "I intend to run a spike on the new testing framework to see if it reduces our build times."
 
@@ -42,12 +42,12 @@ Adopt "I intend to..." as a communication pattern where team members declare the
 
 ### Cross-Team Coordination
 - **Dependency Management**: "I intend to coordinate with the platform team about the API changes needed for our Q3 features."
-- **Information Sharing**: "I intend to present our team's learnings from the microservices migration at next week's engineering all-hands."
+- **Information Sharing**: "I intend to present what our team learned from the microservices migration at next week's engineering meeting."
 - **Resource Allocation**: "I intend to request additional AWS credits for our performance testing environment."
 
 ### Strategic and Learning
 - **Skill Development**: "I intend to spend Friday morning learning about the new monitoring tools so I can help with the rollout."
-- **Research**: "I intend to research alternatives to our current CI/CD pipeline because our build times are affecting productivity."
+- **Research**: "I intend to research alternatives to our current CI/CD pipeline because slow build times hurt productivity."
 - **Strategic Planning**: "I intend to draft a proposal for splitting our monolithic service based on the domain boundaries we identified."
 
 ## Response Frameworks
@@ -164,22 +164,22 @@ Teams can use "We intend to..." statements for sprint commitments, making team-l
 ## Measuring Success
 
 ### Individual Level
-- **Coordination Efficiency**: Reduction in rework due to misalignment
-- **Feedback Quality**: Increase in helpful input received before starting work
-- **Learning Opportunities**: Growth in skills through collaborative planning
-- **Confidence**: Increased certainty about work direction and priorities
+- **Better Coordination**: Less rework due to misalignment
+- **Better Feedback**: More helpful input received before starting work
+- **More Learning**: Skills grow through planning together
+- **More Confidence**: Greater certainty about work direction and priorities
 
 ### Team Level
-- **Transparency**: Improved visibility into team member priorities and plans
-- **Collaboration**: More frequent and effective peer consultation
-- **Alignment**: Better coordination between individual and team goals
-- **Trust**: Increased confidence in team member decision-making
+- **More Transparency**: Better visibility into team member priorities and plans
+- **More Collaboration**: More frequent and effective peer consultation
+- **Better Alignment**: Better coordination between individual and team goals
+- **More Trust**: Greater confidence in team member decisions
 
 ### Organizational Level
-- **Coordination Overhead**: Reduced need for status meetings and check-ins
-- **Innovation**: More experimentation due to transparent communication
-- **Knowledge Sharing**: Increased cross-pollination of ideas and approaches
-- **Adaptability**: Faster response to changing priorities and requirements
+- **Less Coordination Overhead**: Reduced need for status meetings and check-ins
+- **More Innovation**: More experimentation due to transparent communication
+- **More Knowledge Sharing**: Ideas and approaches spread more between teams
+- **Better Adaptability**: Faster response to changing priorities and requirements
 
 ## Implementation Tips
 
@@ -209,7 +209,7 @@ Teams can use "We intend to..." statements for sprint commitments, making team-l
 
 **Architecture Decisions:**
 - "I intend to create an ADR for the database migration approach, since this affects multiple teams. I'll share the draft by end of day."
-- "I intend to spike the GraphQL integration this week to test our assumptions about client performance."
+- "I intend to test the GraphQL integration this week to check our assumptions about client performance."
 
 **Team Coordination:**
 - "I intend to schedule a design review for the new feature next Tuesday, including the mobile team since they'll need to implement the client side."

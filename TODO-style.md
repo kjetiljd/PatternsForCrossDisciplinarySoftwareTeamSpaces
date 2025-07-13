@@ -1,17 +1,3 @@
-./organizational/cross-team-synchronization.md
-./organizational/cynefin-based-decision-framework.md
-./organizational/daily-stand-ups.md
-./organizational/decision-making-patterns.md
-./organizational/demand-led-fluid-teaming.md
-./organizational/desire-path-recognition.md
-./organizational/digital-campfires-virtual-watercoolers.md
-./organizational/distributed-whiteboards.md
-./organizational/embedded-coordination-roles.md
-./organizational/embedded-telepresence-team-spaces.md
-./organizational/enabling-platform-teams.md
-./organizational/handbook-first-documentation.md
-./organizational/hybrid-coordination-knowledge-networks.md
-./organizational/i-intend-to.md
 ./organizational/in-zone-collaboration.md
 ./organizational/index.md
 ./organizational/meeting-room-anti-pattern.md
