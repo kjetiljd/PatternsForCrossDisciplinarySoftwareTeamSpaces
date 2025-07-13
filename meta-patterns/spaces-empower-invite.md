@@ -3,16 +3,16 @@
 # Spaces that Empower and Invite
 
 ## Summary
-Design environments that give people control and encourage contribution, creating spaces that feel welcoming and empowering rather than constraining through specific design elements, measurable outcomes, and cultural sensitivity.
+Design environments that give people control and encourage contribution. Create spaces that feel welcoming and empowering rather than constraining. Use specific design elements, measurable outcomes, and cultural sensitivity.
 
 ## Context
-Work environments can either empower people to do their best work or create barriers that limit effectiveness and engagement. In cross-disciplinary software teams, where diverse perspectives and autonomous contribution are essential, the physical and digital environment must actively signal empowerment and invitation. This is particularly critical in hybrid settings where team members need to feel equally empowered whether they're physically present or participating remotely.
+Work environments can either empower people to do their best work or create barriers that limit effectiveness and engagement. In cross-disciplinary software teams, diverse perspectives and autonomous contribution are essential. The physical and digital environment must actively signal empowerment and invitation. This is particularly critical in hybrid settings where team members need to feel equally empowered whether they're physically present or participating remotely.
 
 ## Problem
-Spaces that feel controlling, unwelcoming, or exclusive can reduce motivation, creativity, and collaboration. Many traditional office environments unconsciously signal hierarchy, conformity, or exclusion through their design choices. Team members from different cultural backgrounds may interpret spatial cues differently, leading to unintended barriers to participation. Without intentional design for empowerment and invitation, environments can inadvertently suppress the diverse contributions that cross-disciplinary teams need to thrive.
+Spaces that feel controlling, unwelcoming, or exclusive can reduce motivation, creativity, and collaboration. Many traditional office environments unconsciously signal hierarchy, conformity, or exclusion through their design choices. Team members from different cultural backgrounds may interpret spatial cues differently. This leads to unintended barriers to participation. Without intentional design for empowerment and invitation, environments can inadvertently suppress the diverse contributions that cross-disciplinary teams need to thrive.
 
 ## Solution
-Design spaces that give people control over their environment and clearly invite participation and contribution through thoughtful, culturally-sensitive design choices. Create environments where every team member—regardless of their role, background, or location—feels they have agency and are welcomed to contribute their unique perspective.
+Design spaces that give people control over their environment and clearly invite participation and contribution. Use thoughtful, culturally-sensitive design choices. Create environments where every team member—regardless of their role, background, or location—feels they have agency and are welcomed to contribute their unique perspective.
 
 ### Concrete Implementation Tactics
 
@@ -49,13 +49,13 @@ Design spaces that give people control over their environment and clearly invite
 #### Qualitative Assessment Methods
 - **Empowerment Survey**: Regular pulse checks asking team members whether they feel they have control over their work environment
 - **Cultural Safety Assessment**: Interviews focusing on whether the space feels welcoming to people from different backgrounds
-- **Participation Observation**: Ethnographic observation of how people actually use empowerment features in practice
+- **Participation Observation**: Watch how people actually use empowerment features in practice
 - **Story Collection**: Gather narratives about specific moments when the environment enabled or hindered someone's contribution
 
 #### Success Metrics
 - **Agency Score**: Team members report high levels of control over their work environment (target: >4.0 on 5-point scale)
 - **Inclusion Index**: Equal participation rates across different demographic groups and cultural backgrounds
-- **Adaptation Rate**: Regular use of adjustable features indicates active environmental control (target: >60% of features used weekly)
+- **Adaptation Rate**: Regular use of adjustable features shows active environmental control (target: >60% of features used weekly)
 - **Contribution Volume**: Increase in unsolicited ideas, feedback, and contributions across the team
 
 ### Cultural Considerations
@@ -63,7 +63,7 @@ Design spaces that give people control over their environment and clearly invite
 #### Power Distance Sensitivity
 - **High Power Distance Cultures**: May need more explicit permission and modeling to feel comfortable modifying environments
 - **Low Power Distance Cultures**: May naturally embrace empowerment features but might inadvertently dominate shared spaces
-- **Mitigation Strategy**: Provide structured opportunities for all team members to shape their environment, with facilitated discussions about preferences and boundaries
+- **Mitigation Strategy**: Provide structured opportunities for all team members to shape their environment. Include facilitated discussions about preferences and boundaries
 
 #### Communication Style Variations
 - **Direct Communication Cultures**: May appreciate explicit empowerment messaging and clear boundaries
