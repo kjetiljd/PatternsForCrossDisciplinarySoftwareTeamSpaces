@@ -3,10 +3,10 @@
 # In-Zone Collaboration
 
 ## Summary
-Conduct team discussions and collaborative work within the team's designated work area rather than moving to separate meeting rooms, preserving work context and enabling natural transitions between individual and group activities.
+Conduct team discussions and collaborative work within the team's work area. Don't move to separate meeting rooms. This preserves work context and enables natural transitions between individual and group activities.
 
 ## Context
-Cross-disciplinary software teams need frequent collaboration that builds on shared context, work artifacts, and domain knowledge. Traditional approaches separate collaborative work from individual work both physically and temporally.
+Cross-disciplinary software teams need frequent collaboration. This builds on shared context, work artifacts, and domain knowledge. Traditional approaches separate collaborative work from individual work both physically and in time.
 
 ## Problem
 Moving collaboration to formal meeting spaces creates several barriers:
@@ -237,6 +237,7 @@ Establish team practices and norms for conducting collaborative work within the 
    - Minimum 15-20 sq ft per person for collaborative activities
    - 8-foot radius clear space for impromptu stand-up meetings
    - Flexible furniture arrangements for 2-8 person discussions
+
 2. **Acoustic Design**: Install appropriate acoustic treatment to contain conversations
    - Sound-absorbing panels on 60% of vertical surfaces
    - Acoustic ceiling tiles with NRC rating of 0.85 or higher
@@ -262,6 +263,7 @@ Establish team practices and norms for conducting collaborative work within the 
    - Structured conversation techniques (timeboxing, round-robin, parking lot)
    - Conflict resolution and decision-making frameworks
    - Inclusive participation strategies for introverted team members
+
 2. **Noise Management Mastery**: Establish and practice volume control protocols
    - Decibel awareness training using sound level meters
    - Voice projection techniques for different space configurations
@@ -288,6 +290,7 @@ Establish team practices and norms for conducting collaborative work within the 
    - Require justification for booking formal meeting rooms for team activities
    - Measure and reward effective in-zone collaboration
    - Train managers to model in-zone collaboration behavior
+
 2. **Escalation Protocols**: Define clear triggers for moving to formal meeting spaces
    - Confidential HR discussions
    - Client meetings requiring formal presentation setup

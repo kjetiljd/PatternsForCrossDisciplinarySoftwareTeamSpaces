@@ -1,4 +1,3 @@
-./organizational/in-zone-collaboration.md
 ./organizational/index.md
 ./organizational/meeting-room-anti-pattern.md
 ./organizational/near-far-specialist-guilds.md
