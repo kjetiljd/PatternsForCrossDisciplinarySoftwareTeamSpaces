@@ -3,16 +3,16 @@
 # Near/Far Specialist Guilds
 
 ## Summary
-Blend embedded specialists with central guilds to share expertise. "Near" specialists work closely with delivery teams while "Far" specialists form communities of practice for deep knowledge sharing.
+Blend embedded specialists with central guilds to share expertise. "Near" specialists work closely with delivery teams. "Far" specialists form communities of practice for deep knowledge sharing.
 
 ## Context
-Cross-functional teams need access to specialized expertise (security, database, UX) but scarce experts cannot be fully embedded in every team. Pure centralization creates bottlenecks and slow hand-offs.
+Cross-functional teams need specialized expertise in security, database, and UX. However, organizations cannot fully embed scarce experts in every team. Pure centralization creates bottlenecks and slow hand-offs.
 
 ## Problem
-Highly specialized roles create a dilemma: embedding experts in every team is inefficient and isolating, while centralizing all experts creates coordination delays and context switching overhead.
+Highly specialized roles create a dilemma. Organizations find embedding experts in every team inefficient and isolating. However, centralizing all experts creates coordination delays. It also creates context switching overhead.
 
 ## Solution
-Create a sophisticated dual structure for specialist expertise using evidence-based guild formation, structured knowledge sharing frameworks, and clear career progression paths that bridge individual development with organizational knowledge management.
+Create a dual structure for specialist expertise. Use evidence-based guild formation. Create structured knowledge sharing frameworks. Develop clear career progression paths. These elements bridge individual development with organizational knowledge.
 
 **Near Specialists:**
 - Embedded within or closely aligned to specific delivery teams
@@ -31,21 +31,21 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 **Phase 1: Foundation and Charter Development (Weeks 1-4)**
 
 *Guild Charter Creation:*
-- **Purpose Statement:** Clear articulation of the guild's mission and value proposition to the organization
+- **Purpose Statement:** Clear guild mission and value to the organization
 - **Scope Definition:** Specific domains, technologies, or practices the guild will address
-- **Success Metrics:** Quantifiable measures of guild effectiveness and member value
-- **Governance Structure:** Decision-making processes, leadership roles, and conflict resolution mechanisms
-- **Resource Allocation:** Time commitments, budgets, and organizational support required
+- **Success Metrics:** Measurable guild effectiveness and member value
+- **Governance Structure:** Decision-making processes, leadership roles, and conflict resolution
+- **Resource Allocation:** Time commitments, budgets, and organizational support needed
 
 *Stakeholder Engagement:*
-- **Executive Sponsorship:** Securing leadership support and organizational mandate
-- **Near Specialist Identification:** Mapping existing embedded specialists and their teams
-- **Team Leader Buy-in:** Ensuring delivery team leaders understand and support the dual structure
-- **Cross-Functional Alignment:** Coordinating with related guilds and organizational functions
-- **Cultural Assessment:** Understanding organizational readiness for guild structures
+- **Executive Sponsorship:** Secure leadership support and organizational mandate
+- **Near Specialist Identification:** Map existing embedded specialists and their teams
+- **Team Leader Buy-in:** Ensure delivery team leaders understand and support the dual structure
+- **Cross-Functional Alignment:** Coordinate with related guilds and organizational functions
+- **Cultural Assessment:** Understand organizational readiness for guild structures
 
 *Legal and Administrative Setup:*
-- **Communication Channels:** Establishing primary and secondary communication platforms
+- **Communication Channels:** Establish primary and secondary communication platforms
 - **Meeting Rhythms:** Regular guild meetings, working sessions, and community events
 - **Documentation Infrastructure:** Shared knowledge repositories, templates, and best practice libraries
 - **Measurement Systems:** Tools and processes for tracking guild effectiveness and member engagement
@@ -54,24 +54,24 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 **Phase 2: Member Recruitment and Onboarding (Weeks 5-8)**
 
 *Specialist Recruitment Strategy:*
-- **Competency Mapping:** Identifying required skills, experience levels, and domain expertise
-- **Diversity and Inclusion:** Ensuring diverse perspectives, backgrounds, and approaches within the guild
-- **Geographic Distribution:** Balancing local proximity with distributed expertise access
-- **Experience Balance:** Mixing senior practitioners with emerging specialists for knowledge transfer
-- **Passion Assessment:** Identifying individuals genuinely interested in community building and knowledge sharing
+- **Competency Mapping:** Identify required skills, experience levels, and domain expertise
+- **Diversity and Inclusion:** Ensure diverse perspectives, backgrounds, and approaches within the guild
+- **Geographic Distribution:** Balance local proximity with distributed expertise access
+- **Experience Balance:** Mix senior practitioners with emerging specialists for knowledge transfer
+- **Passion Assessment:** Identify individuals genuinely interested in community building and knowledge sharing
 
 *Onboarding Framework:*
 - **Guild Orientation:** Introduction to charter, expectations, and operating principles
-- **Skill Assessment:** Understanding each member's expertise, interests, and development goals
-- **Mentorship Pairing:** Connecting new members with experienced guild participants
+- **Skill Assessment:** Understand each member's expertise, interests, and development goals
+- **Mentorship Pairing:** Connect new members with experienced guild participants
 - **Initial Contribution:** Meaningful first projects that demonstrate guild value and build confidence
-- **Integration Support:** Helping members balance guild participation with team responsibilities
+- **Integration Support:** Help members balance guild participation with team responsibilities
 
 *Team Integration Process:*
-- **Near Specialist Assignment:** Strategic placement of embedded specialists based on team needs and specialist skills
+- **Near Specialist Assignment:** Strategic placement of embedded specialists based on team needs and skills
 - **Team Introduction:** Formal introduction of guild members to their assigned teams
 - **Expectation Setting:** Clear communication of roles, responsibilities, and time allocation
-- **Success Criteria:** Establishing measurable goals for both team contribution and guild participation
+- **Success Criteria:** Establish measurable goals for team contribution and guild participation
 - **Feedback Mechanisms:** Regular check-ins to ensure successful integration and address challenges
 
 **Phase 3: Operating Rhythm Establishment (Weeks 9-16)**
@@ -118,27 +118,27 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 **Structured Knowledge Transfer Protocols:**
 
 *Individual Knowledge Capture:*
-- **Expertise Mapping:** Systematic documentation of each specialist's unique knowledge, experience, and capabilities
-- **Knowledge Artifacts:** Creation of reusable templates, checklists, decision trees, and reference materials
-- **Experience Narratives:** Structured storytelling to capture tacit knowledge, lessons learned, and contextual insights
-- **Skill Demonstration:** Video tutorials, live coding sessions, and hands-on workshops to transfer practical capabilities
-- **Mentorship Documentation:** Formal recording of mentoring conversations, advice, and guidance patterns
+- **Expertise Mapping:** Document each specialist's unique knowledge, experience, and capabilities
+- **Knowledge Artifacts:** Create reusable templates, checklists, decision trees, and reference materials
+- **Experience Narratives:** Use structured storytelling to capture tacit knowledge, lessons learned, and insights
+- **Skill Demonstration:** Video tutorials, live coding sessions, and hands-on workshops to transfer skills
+- **Mentorship Documentation:** Record mentoring conversations, advice, and guidance patterns
 
 *Collective Intelligence Development:*
-- **Community Problem-Solving:** Structured approaches to tackle complex challenges using guild collective expertise
-- **Best Practice Synthesis:** Combining individual experiences into organizational standards and recommendations
+- **Community Problem-Solving:** Use structured approaches to tackle complex challenges with guild expertise
+- **Best Practice Synthesis:** Combine individual experiences into organizational standards and recommendations
 - **Innovation Laboratories:** Collaborative experimentation to develop new approaches and solutions
 - **Cross-Pollination Sessions:** Structured knowledge exchange between different specialist domains
-- **Failure Analysis:** Systematic review of unsuccessful approaches to extract learning and prevent repetition
+- **Failure Analysis:** Review unsuccessful approaches to extract learning and prevent repetition
 
 **Knowledge Distribution Mechanisms:**
 
 *Push-Based Knowledge Sharing:*
-- **Weekly Guild Bulletins:** Curated updates on important developments, new practices, and emerging trends
-- **Skill Spotlight Series:** Regular presentations by guild members on specialized techniques or domain insights
+- **Weekly Guild Bulletins:** Curated updates on important developments, new practices, and trends
+- **Skill Spotlight Series:** Regular presentations by guild members on specialized techniques or insights
 - **Just-in-Time Learning:** Targeted knowledge delivery based on project needs and team challenges
-- **Proactive Consultation:** Guild members identifying and addressing potential issues before they become problems
-- **Standards Communication:** Clear dissemination of updated practices, policies, and recommendations
+- **Proactive Consultation:** Guild members identify and address potential issues before they become problems
+- **Standards Communication:** Clear updates on practices, policies, and recommendations
 
 *Pull-Based Knowledge Access:*
 - **Expert Consultation Network:** On-demand access to guild expertise for specific questions or challenges
@@ -170,7 +170,7 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 *Technical Excellence Track:*
 - **Junior Specialist (0-2 years):** Focus on fundamental skills and basic team integration
   - **Guild Participation:** Regular attendance at community events and learning sessions
-  - **Team Contribution:** Supporting senior specialists with routine tasks and implementation work
+  - **Team Contribution:** Support senior specialists with routine tasks and implementation work
   - **Skill Development:** Formal training, certification, and hands-on practice in specialty domain
   - **Mentorship:** Paired with experienced guild member for guidance and support
   - **Success Metrics:** Technical competency assessments, positive team feedback, active guild participation
@@ -285,7 +285,7 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 - **Cross-Guild Representation:** Guild leaders participate in other guilds to prevent insularity
 - **Transparency Requirements:** Guild decisions and processes must be open and documented
 - **External Oversight:** Regular review by uninvolved organizational leaders
-- **Objective Success Metrics:** Performance measures that can't be easily manipulated or gamed
+- **Objective Success Metrics:** Performance measures that cannot be easily manipulated or gamed
 
 *Managing Exclusive Club Tendencies:*
 - **Open Membership:** Clear criteria for guild participation with appeal processes
@@ -324,7 +324,7 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 - **Behind-the-Scenes Recognition:** Credit for mentoring, support, and other less visible contributions
 - **Failure Learning:** Explicit value placed on sharing unsuccessful experiments and lessons learned
 - **Question Quality:** Recognition for asking good questions, not just providing answers
-- **Cultural Change Indicators:** Measurement of genuine collaboration improvement, not just activity counts
+- **Cultural Change Indicators:** Measure genuine collaboration improvement, not just activity counts
 
 **Cultural Misfit and Resistance Management:**
 
@@ -401,12 +401,12 @@ Create a sophisticated dual structure for specialist expertise using evidence-ba
 - **Echo Chamber Formation:** Guild members only talking to each other, not engaging with broader organization
 - **Process Over Purpose:** Focus on guild procedures rather than knowledge sharing and member value
 - **Exclusivity Signals:** Barriers to entry or culture that makes new members feel unwelcome
-- **Resource Hoarding:** Guild accumulating resources without demonstrating proportional value
+- **Resource Hoarding:** Guild accumulates resources without demonstrating proportional value
 
 *Organizational Antibody Responses:*
-- **Manager Resistance:** Team leaders viewing guild participation as competitive with team priorities
-- **Budget Attacks:** Finance or leadership targeting guild resources during cost-cutting
-- **Parallel Structure Creation:** Other parts of organization creating competing knowledge-sharing structures
+- **Manager Resistance:** Team leaders view guild participation as competitive with team priorities
+- **Budget Attacks:** Finance or leadership target guild resources during cost-cutting
+- **Parallel Structure Creation:** Other parts of organization create competing knowledge-sharing structures
 - **Participation Mandates:** Attempts to force guild participation through policy rather than value
 - **Success Metric Gaming:** Focus on easily measured but less meaningful indicators of guild success
 
