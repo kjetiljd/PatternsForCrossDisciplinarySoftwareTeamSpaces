@@ -1,4 +1,3 @@
-./organizational/index.md
 ./organizational/meeting-room-anti-pattern.md
 ./organizational/near-far-specialist-guilds.md
 ./organizational/nominal-group-technique.md
