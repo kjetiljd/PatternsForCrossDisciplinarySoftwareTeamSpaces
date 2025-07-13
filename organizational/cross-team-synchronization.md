@@ -3,16 +3,16 @@
 # Cross-Team Synchronization
 
 ## Summary
-Establish lightweight coordination routines like Scrum of Scrums and Open Space events to maintain alignment across multiple teams.
+Set up simple coordination routines like Scrum of Scrums and Open Space events. These help multiple teams stay aligned.
 
 ## Context
-Multiple autonomous teams need to coordinate work, share information, and resolve dependencies without heavy coordination overhead.
+Multiple independent teams need to coordinate work and share information. They must solve dependencies without creating too much coordination work.
 
 ## Problem
-Without coordination mechanisms, teams can work at cross-purposes or miss opportunities for collaboration, while too much coordination can slow teams down.
+Without coordination methods, teams can work against each other or miss chances to collaborate. But too much coordination slows teams down.
 
 ## Solution
-Implement lightweight coordination practices such as Scrum of Scrums, cross-team retrospectives, and Open Space events that maintain alignment without excessive overhead.
+Use simple coordination practices like Scrum of Scrums, cross-team retrospectives, and Open Space events. These keep teams aligned without too much extra work.
 
 ### Cadence Options
 
@@ -45,16 +45,16 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
 **Standard Cross-Team Sync Agenda (30-45 minutes)**
 ```
 1. Quick Round-Robin (10 min)
-   - Each team: Last sprint accomplishments, next sprint priorities
+   - Each team: What we finished last sprint, what we plan next sprint
    - Flag any blockers or dependencies
 
-2. Dependency Resolution (15 min)
+2. Solve Dependencies (15 min)
    - Review cross-team dependencies
    - Assign owners and timelines
-   - Identify escalation needs
+   - Identify what needs escalating
 
-3. Information Sharing (10 min)
-   - Architecture changes affecting multiple teams
+3. Share Information (10 min)
+   - Architecture changes that affect multiple teams
    - Resource availability updates
    - Upcoming deadlines or events
 
@@ -70,10 +70,10 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
    - Each team reports current blockers
    - Categorize: technical, resource, decision, external
 
-2. Rapid Resolution (10 min)
-   - Address blockers that can be resolved immediately
+2. Quick Fixes (10 min)
+   - Address blockers we can solve right now
    - Assign owners for complex blockers
-   - Set timelines for resolution
+   - Set timelines to solve them
 
 3. Escalation Path (5 min)
    - Identify issues requiring leadership involvement
@@ -116,10 +116,10 @@ Implement lightweight coordination practices such as Scrum of Scrums, cross-team
 1. **Default to Async**: Use synchronous meetings only for complex discussions
 2. **Time-Box Ruthlessly**: Respect everyone's time with strict time limits
 3. **Document Decisions**: Capture outcomes for teams not present
-4. **Rotate Facilitation**: Distribute coordination responsibility
-5. **Measure Effectiveness**: Track resolution time and team satisfaction
-6. **Psychological Safety First**: Create conditions where teams feel safe to surface real blockers
-7. **Align Incentives**: Ensure team goals support rather than compete with coordination efforts
+4. **Rotate Facilitation**: Share the job of running coordination
+5. **Measure Effectiveness**: Track how fast we solve problems and how happy teams are
+6. **Psychological Safety First**: Make sure teams feel safe to share real problems
+7. **Align Incentives**: Make sure team goals help rather than fight against coordination
 
 **Organizational Prerequisites**
 Before implementing cross-team coordination, ensure:
@@ -159,22 +159,22 @@ Some teams should maintain intentional distance:
 - **Innovation Teams**: Early-stage exploration teams may need isolation to avoid premature optimization
 - **Security Teams**: May need independence to maintain adversarial mindset
 - **Competitive Teams**: Internal competition can be healthy; coordination might reduce beneficial tension
-- **Different Time Horizons**: Teams with fundamentally different planning cycles may coordinate poorly
+- **Different Time Horizons**: Teams that plan on very different timescales may coordinate poorly
 
 ## Forces
-- Team autonomy vs. organizational alignment
-- Coordination overhead vs. collaboration benefits
-- Scheduled synchronization vs. organic coordination
+- Team independence vs. organizational alignment
+- Coordination work vs. collaboration benefits  
+- Scheduled sync vs. natural coordination
 - Formal processes vs. informal communication
-- Synchronous collaboration vs. asynchronous coordination
-- Centralized decision-making vs. distributed authority
+- Live collaboration vs. async coordination
+- Central decisions vs. distributed authority
 
 ## Implementation
 **Getting Started**
 1. Map current cross-team dependencies and pain points
-2. Choose appropriate cadence based on coupling level
-3. Establish clear escalation criteria and paths
-4. Create shared documentation and decision-making tools
+2. Choose the right meeting frequency based on how coupled teams are
+3. Set clear rules for when and how to escalate problems
+4. Create shared docs and decision-making tools
 5. Start with weekly sync and adjust based on effectiveness
 
 **Success Metrics**
@@ -197,7 +197,7 @@ Some teams should maintain intentional distance:
 - **Knowledge Sharing**: Teams actively share learnings and best practices
 
 *Warning Signal Metrics*
-- **Coordination Overhead**: Time spent in coordination meetings vs. productive work
+- **Coordination Overhead**: Time spent in coordination meetings vs. useful work
 - **Autonomy Erosion**: Teams report feeling less empowered over time
 - **Process Compliance Theater**: High process adherence scores but poor business outcomes
 - **Blame Attribution**: Increase in finger-pointing when cross-team issues arise
