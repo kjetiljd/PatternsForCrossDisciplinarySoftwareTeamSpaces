@@ -3,7 +3,7 @@
 # Meeting Room Anti-Pattern
 
 ## Summary
-Avoid using traditional meeting rooms for core collaborative work. Meeting rooms create barriers to spontaneous interaction, fragment work context, and inhibit the natural flow of collaboration that drives innovation in cross-disciplinary software teams.
+Avoid using traditional meeting rooms for core collaborative work. Meeting rooms create barriers to spontaneous interaction. They fragment work context and inhibit the natural flow of collaboration that drives innovation in cross-disciplinary software teams.
 
 ## Context
 Software product teams need frequent, fluid collaboration that builds on shared context and domain knowledge. Traditional corporate environments often default to scheduling meetings in separate conference rooms for any multi-person discussion.
@@ -81,7 +81,7 @@ Research consistently demonstrates the problems with formal meeting approaches:
 
 ### Phase 1: Assessment and Pilot (Months 1-2)
 **Current State Analysis:**
-- **Meeting audit**: Track all conference room usage for 2 weeks - categorize by purpose (administrative, creative collaboration, client-facing, decision-making)
+- **Meeting audit**: Track all conference room usage for 2 weeks. Categorize by purpose (administrative, creative collaboration, client-facing, decision-making)
 - **Effectiveness assessment**: Survey participants on which meetings actually produced valuable outcomes vs. those that felt wasteful
 - **Cultural readiness**: Assess organizational comfort with informal collaboration and spontaneous interaction
 
