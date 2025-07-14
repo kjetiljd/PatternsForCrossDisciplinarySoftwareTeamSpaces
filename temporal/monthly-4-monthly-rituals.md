@@ -3,22 +3,22 @@
 # Monthly/4-Month Period Rituals
 
 ## Summary
-Innovation days, hackathons, and Open Space events for learning and improvement that break routine and encourage experimentation.
+Innovation days, hackathons, and Open Space events help teams learn and improve. They break routine and encourage trying new things.
 
 ## Context
-Teams need regular opportunities to step back from routine work, experiment with new ideas, and engage in learning and improvement activities.
+Teams need regular chances to step back from routine work. They need to try new ideas and engage in learning activities.
 
 ## Problem
-Without regular breaks from routine work, teams can become stagnant, miss innovation opportunities, and lose motivation for continuous improvement.
+Without regular breaks from routine work, teams become stagnant. They miss chances to innovate and lose drive for continuous improvement.
 
 ## Solution
-Establish monthly or 4-month period rituals like innovation days, hackathons, and Open Space events that encourage experimentation and learning.
+Set up monthly or 4-month rituals like innovation days, hackathons, and Open Space events. These encourage trying new things and learning.
 
 ## Forces
 - Routine productivity vs. innovation time
 - Individual vs. collective learning
-- Structured vs. organic experimentation
-- Work delivery vs. improvement investment
+- Structured vs. organic trying new things
+- Work delivery vs. improvement time
 
 ## Related Patterns
 - [Weekly Cadence](weekly-cadence.md)
