@@ -3,16 +3,16 @@
 # Weekly Cadence
 
 ## Summary
-Regular planning on Mondays and demos/retrospectives on Fridays to create predictable rhythm and closure for work cycles.
+Regular planning on Mondays and demos/retrospectives on Fridays. This creates predictable rhythm and closure for work cycles.
 
 ## Context
-Teams need predictable rhythms to plan work effectively and create closure for completed work while maintaining flexibility for responsive development.
+Teams need predictable rhythms to plan work well and create closure for completed work. They also need to maintain flexibility for responsive development.
 
 ## Problem
-Without weekly structure, teams can lose momentum, miss planning opportunities, and fail to reflect on and improve their work practices.
+Without weekly structure, teams lose momentum and miss planning chances. They fail to reflect on and improve their work practices.
 
 ## Solution
-Establish weekly rhythms with planning activities early in the week and reflection/demo activities at the end to create natural work cycles.
+Set up weekly rhythms with planning activities early in the week and reflection/demo activities at the end. This creates natural work cycles.
 
 ### Alternative Cadence Models
 
