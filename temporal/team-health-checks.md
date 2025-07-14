@@ -3,16 +3,16 @@
 # Team Health Checks
 
 ## Summary
-Regular surveys and discussions about team well-being and collaboration to identify and address issues before they become problems.
+Regular surveys and talks about team well-being and teamwork. These identify and address issues before they become problems.
 
 ## Context
-Team dynamics and well-being can degrade over time without regular attention, affecting productivity and job satisfaction.
+Team dynamics and well-being can get worse over time without regular attention. This affects productivity and job satisfaction.
 
 ## Problem
-Without regular health checks, teams may not notice declining dynamics, increasing stress, or collaboration issues until they become serious problems.
+Without regular health checks, teams may not notice declining dynamics, increasing stress, or teamwork issues. They only see them when they become serious problems.
 
 ## Solution
-Implement regular team health assessments through surveys, retrospectives, and discussions that identify issues early and create action plans for improvement.
+Use regular team health checks through surveys, retrospectives, and talks. These identify issues early and create action plans for improvement.
 
 ### Assessment Templates
 
