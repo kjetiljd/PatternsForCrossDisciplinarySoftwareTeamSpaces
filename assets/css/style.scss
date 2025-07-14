@@ -2,3 +2,119 @@
 ---
 
 @import "{{ site.theme }}";
+
+/* Navigation Styles */
+.site-nav {
+  background: rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin-bottom: 20px;
+}
+
+.nav-container {
+  position: relative;
+  max-width: 640px;
+  padding: 0 10px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.nav-item {
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 20px;
+  display: block;
+  transition: background-color 0.3s ease;
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+
+.nav-item:hover,
+.nav-item.active {
+  background: rgba(255, 255, 255, 0.1);
+  border-bottom-color: #64ffda;
+}
+
+.nav-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: #2e3440;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1000;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  top: 100%;
+  left: 0;
+}
+
+.dropdown-content a {
+  color: #fff;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dropdown-content a:last-child {
+  border-bottom: none;
+}
+
+.dropdown-content a:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.nav-dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-toggle::after {
+  content: "";
+  margin-left: 5px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    align-items: stretch;
+    max-width: 480px;
+  }
+  
+  .nav-item {
+    text-align: center;
+    padding: 12px 15px;
+  }
+  
+  .nav-dropdown {
+    width: 100%;
+  }
+  
+  .dropdown-content {
+    position: static;
+    display: none;
+    background: rgba(0, 0, 0, 0.2);
+    box-shadow: none;
+    border: none;
+    border-radius: 0;
+    width: 100%;
+  }
+  
+  .nav-dropdown:hover .dropdown-content,
+  .nav-dropdown:focus-within .dropdown-content {
+    display: block;
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-container {
+    max-width: 320px;
+  }
+}

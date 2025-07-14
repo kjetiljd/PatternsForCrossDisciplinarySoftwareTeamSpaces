@@ -1,0 +1,17 @@
+<nav class="site-nav">
+  <div class="nav-container">
+    <a href="{{ '/' | relative_url }}" class="nav-item {% if page.url == '/' %}active{% endif %}">Home</a>
+    <a href="{{ '/Pattern-Index' | relative_url }}" class="nav-item {% if page.url contains 'Pattern-Index' %}active{% endif %}">Pattern Index</a>
+    <a href="{{ '/Pattern-Relationship-Network-Analysis' | relative_url }}" class="nav-item {% if page.url contains 'Pattern-Relationship-Network-Analysis' %}active{% endif %}">Pattern Network</a>
+    <div class="nav-dropdown">
+      <a href="#" class="nav-item dropdown-toggle">Pattern Areas ▼</a>
+      <div class="dropdown-content">
+        <a href="{{ '/meta-patterns/' | relative_url }}">Meta-Patterns</a>
+        <a href="{{ '/architectural-spatial/' | relative_url }}">Architectural/Spatial</a>
+        <a href="{{ '/organizational/' | relative_url }}">Organizational</a>
+        <a href="{{ '/cross-disciplinary/' | relative_url }}">Cross-Disciplinary</a>
+        <a href="{{ '/temporal/' | relative_url }}">Temporal</a>
+      </div>
+    </div>
+  </div>
+</nav>
