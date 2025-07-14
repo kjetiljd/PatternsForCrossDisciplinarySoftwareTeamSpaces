@@ -1,4 +1,3 @@
-./organizational/psychological-safety-practices.md
 ./organizational/ranked-voting.md
 ./organizational/right-sized-stream-aligned-teams.md
 ./organizational/self-governing-teams.md
