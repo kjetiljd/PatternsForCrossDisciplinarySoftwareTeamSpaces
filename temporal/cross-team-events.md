@@ -3,22 +3,22 @@
 # Cross-Team Events
 
 ## Summary
-Regular demo days and science fairs that bring teams together in common spaces to share work and discover collaboration opportunities.
+Regular demo days and science fairs bring teams together in common spaces. Teams share work and discover ways to collaborate.
 
 ## Context
-Multiple teams working in parallel need opportunities to share their work, learn from each other, and discover collaboration opportunities.
+Multiple teams work in parallel. They need chances to share their work, learn from each other, and discover ways to collaborate.
 
 ## Problem
-Without regular cross-team events, teams can become isolated and miss opportunities for knowledge sharing and collaboration.
+Without regular cross-team events, teams become isolated. They miss chances to share knowledge and collaborate.
 
 ## Solution
-Establish regular events like demo days, science fairs, and showcase events that bring teams together to share work and discover connections.
+Set up regular events like demo days, science fairs, and showcase events. These bring teams together to share work and discover connections.
 
 ## Forces
 - Team autonomy vs. cross-team learning
 - Presentation overhead vs. sharing benefits
 - Formal vs. informal sharing formats
-- Time investment vs. collaboration opportunities
+- Time spent vs. collaboration chances
 
 ## Related Patterns
 - [Cross-Team Synchronization](../organizational/cross-team-synchronization.md)
