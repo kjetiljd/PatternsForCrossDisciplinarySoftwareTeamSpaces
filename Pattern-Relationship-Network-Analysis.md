@@ -2,7 +2,7 @@
 ---
 # Pattern Relationship Network
 
-A comprehensive visualization of interconnections across all 50+ patterns in the Cross-Disciplinary Software Team Spaces pattern language.
+A complete visualization of connections across all 50+ patterns in the Cross-Disciplinary Software Team Spaces pattern language.
 
 ## Complete Pattern Network
 
@@ -487,7 +487,7 @@ The most connected patterns that serve as integration points:
 Patterns that strongly connect different categories:
 
 - **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** → Bridges physical design with team wellbeing
-- **[Daily Rituals](temporal/daily-rituals.md)** → Connects temporal patterns with organizational practices
+- **[Daily Rituals](temporal/daily-rituals.md)** → Connects timing patterns with organizational practices
 - **[Display of Work](cross-disciplinary/display-of-work.md)** → Links cross-disciplinary practices with organizational transparency
 - **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** → Connects cross-disciplinary flexibility with spatial adaptability
 
@@ -537,4 +537,4 @@ Patterns that strongly connect different categories:
 
 ---
 
-*This network visualization reveals the pattern language as a complex adaptive system where individual patterns gain strength through their interconnections. Use this map to understand dependencies, identify implementation sequences, and discover unexpected pattern combinations that might benefit your team environment.*
+*This network visualization shows the pattern language as a complex adaptive system where individual patterns gain strength through their connections. Use this map to understand dependencies, identify implementation sequences, and discover unexpected pattern combinations that might benefit your team environment.*
