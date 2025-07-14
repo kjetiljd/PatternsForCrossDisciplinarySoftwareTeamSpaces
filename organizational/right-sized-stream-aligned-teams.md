@@ -3,13 +3,13 @@
 # Right-Sized Stream-Aligned Teams
 
 ## Summary
-Form small, mission-focused teams of 5-8 members that own a product value stream end-to-end, following the "you build it, you run it" principle.
+Form small, mission-focused teams of 5-8 members that own a product value stream end-to-end. Follow the "you build it, you run it" principle.
 
 ## Context
-Organizations need cross-functional teams that can deliver value independently while maintaining agility. There's tension between having diverse skills (requiring larger teams) and maintaining fast communication (favoring smaller teams).
+Organizations need cross-functional teams that can deliver value independently while maintaining agility. There's tension between having diverse skills and maintaining fast communication. Diverse skills require larger teams. Fast communication favors smaller teams.
 
 ## Problem
-High-performing teams need diverse skills (business, development, operations, UX) to own a product end-to-end, but large teams suffer from communication overhead and reduced agility. Dependencies between teams slow delivery and dilute accountability.
+High-performing teams need diverse skills (business, development, operations, UX) to own a product end-to-end. However, large teams suffer from communication overhead and reduced agility. Dependencies between teams slow delivery and dilute accountability.
 
 ## Solution
 Create stream-aligned teams that are:
