@@ -3,22 +3,22 @@
 # Communal Eating
 
 ## Summary
-Shared meals as social equalizers and spaces for informal idea exchange that build relationships and foster collaboration.
+Shared meals bring people together as equals. They create spaces for informal talk and idea sharing. This builds relationships and helps collaboration.
 
 ## Context
-Teams need opportunities for informal relationship building and idea exchange outside of formal work contexts.
+Teams need chances for informal relationship building and idea sharing outside of formal work.
 
 ## Problem
-Without informal interaction opportunities, teams can remain task-focused and miss opportunities for relationship building and serendipitous collaboration.
+Without informal interactions, teams stay focused only on tasks. They miss chances to build relationships and find unexpected collaboration.
 
 ## Solution
-Create opportunities for shared meals and communal eating that serve as social equalizers and spaces for informal conversation and idea exchange.
+Create chances for shared meals and eating together. These meals bring people together as equals. They give spaces for informal talk and idea sharing.
 
 ## Forces
 - Work focus vs. social connection
 - Individual meal preferences vs. communal benefits
-- Time investment vs. relationship building
-- Inclusivity vs. participation preferences
+- Time spent vs. relationship building
+- Including everyone vs. personal preferences
 
 ## Related Patterns
 - [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md)
