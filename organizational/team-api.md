@@ -3,69 +3,69 @@
 # Team API
 
 ## Summary
-Treat each team as a service with a clear interface describing team ownership, communication preferences, practices, and principles - especially critical for hybrid-first organizations.
+Treat each team like a service. Give each team a clear interface. Show what they own, how they like to communicate, their work methods, and their values. This is especially important for teams working from different locations.
 
 ## Context
-Software teams need to collaborate with other teams but lack clear agreements about how to work together effectively. In hybrid/distributed environments, informal "tap on the shoulder" interactions become impossible.
+Software teams need to work with other teams. But they often lack clear agreements about how to work together well. When teams work from different places, informal chats become impossible.
 
 ## Problem
-Without explicit interfaces, teams waste time figuring out how to ask for help or whom to contact. Inter-team coordination creates bottlenecks and cognitive load as people navigate unclear responsibilities and communication preferences.
+When teams don't have clear interfaces, they waste time figuring out how to ask for help or who to contact. Working across teams creates bottlenecks and stress. People have to navigate unclear responsibilities and different ways of communicating.
 
 ## Solution
-Each team publishes a lightweight Team API document that includes:
+Each team creates a simple Team API document that includes:
 
 **Core Information:**
-- Team mission and domain ownership
-- Current work in progress and near-term roadmap
-- Key services or capabilities the team provides
-- Dependencies and upstream/downstream relationships
+- Team mission and what they own
+- Current work and short-term plans
+- Key services or skills the team provides
+- What they depend on and which teams they connect to
 
-**Communication Protocols:**
-- Preferred communication channels (Slack, email, etc.)
-- Core hours and availability for live collaboration
-- Expected response times for different types of requests
-- Who to contact for various concerns (technical, product, support)
+**Communication Rules:**
+- How they like to communicate (Slack, email, etc.)
+- Working hours and when they're available for live collaboration
+- How quickly they respond to different types of requests
+- Who to contact for different issues (technical, product, support)
 
-**Interaction Modes:**
-- How other teams can consume the team's services
-- Support and troubleshooting procedures
-- Collaboration preferences and meeting protocols
-- Escalation paths for urgent issues
+**How to Work Together:**
+- How other teams can use the team's services
+- Support and problem-solving procedures
+- Meeting preferences and collaboration styles
+- How to escalate urgent issues
 
 ## Forces
-- **Autonomy vs. Coordination**: Teams need independence while enabling smooth collaboration
-- **Flexibility vs. Predictability**: Balancing adaptability with clear expectations
+- **Independence vs. Coordination**: Teams need freedom while working smoothly with others
+- **Flexibility vs. Predictability**: Balancing change with clear expectations
 - **Formal vs. Informal**: Structured interfaces versus relationship-based coordination
-- **Maintenance vs. Value**: Keeping APIs current without bureaucratic overhead
-- **Visibility vs. Cognitive Load**: Making information findable without overwhelming consumers
+- **Maintenance vs. Value**: Keeping APIs current without too much bureaucracy
+- **Visibility vs. Mental Load**: Making information easy to find without overwhelming people
 
 ## Consequences
 
 ### Positive
-- **Faster inter-team coordination**: Clear interfaces eliminate time spent figuring out how to engage
-- **Reduced cognitive load**: Standard format makes interacting with any team feel familiar
-- **Better service quality**: Teams think about their external impact and customer experience
-- **Increased autonomy**: Clear boundaries enable teams to work independently
-- **Improved scalability**: New teams can quickly understand the organizational landscape
+- **Faster team coordination**: Clear interfaces save time spent figuring out how to work together
+- **Less mental effort**: Standard format makes working with any team feel familiar
+- **Better service quality**: Teams think about their impact and customer experience
+- **More independence**: Clear boundaries help teams work on their own
+- **Better growth**: New teams can quickly understand how the organization works
 
 ### Negative
-- **Maintenance overhead**: Team APIs need regular updates to remain useful
-- **Potential bureaucracy**: Risk of creating process for process's sake
-- **Coordination complexity**: More teams mean more APIs to discover and understand
-- **Version control**: Managing changes to team boundaries and responsibilities
+- **Maintenance work**: Team APIs need regular updates to stay useful
+- **Possible bureaucracy**: Risk of creating process for its own sake
+- **Coordination complexity**: More teams mean more APIs to find and understand
+- **Change management**: Managing changes to team boundaries and responsibilities
 
 ## Examples
 - **Internal service catalog**: Searchable directory of all team APIs
-- **Team dashboard**: Visual representation of team mission, status, and contact info
-- **Slack bot integration**: Automated responses to common team queries
+- **Team dashboard**: Visual display of team mission, status, and contact info
+- **Slack bot integration**: Automated answers to common team questions
 - **Quarterly API reviews**: Regular updates to team interfaces and responsibilities
 
 ## Implementation
-1. Create standard Team API template for consistency
-2. Establish central repository or dashboard for all Team APIs
-3. Make Team API creation part of team formation process
-4. Schedule regular reviews and updates (quarterly or when major changes occur)
-5. Integrate Team API information into daily workflow tools
+1. Create a standard Team API template for consistency
+2. Set up a central place or dashboard for all Team APIs
+3. Have teams create their Team API when they start
+4. Schedule regular reviews and updates (quarterly or when major changes happen)
+5. Add Team API information to daily workflow tools
 6. Train teams on how to write effective, user-friendly APIs
 
 ## Related Patterns
