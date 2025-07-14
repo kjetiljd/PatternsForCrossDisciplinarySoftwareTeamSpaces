@@ -6,7 +6,7 @@
 A complete measurement system for assessing how well pattern implementations work across all categories of the cross-disciplinary software team spaces pattern language.
 
 ## Purpose
-This framework provides standardized metrics, assessment methods, and success criteria for validating pattern implementations. It enables organizations to measure the impact of design decisions and continuously improve their team environments.
+The framework provides standardized metrics, assessment methods, and success criteria for validating pattern implementations. It enables organizations to measure the impact of design decisions and continuously improve their team environments.
 
 ## Validation Categories
 

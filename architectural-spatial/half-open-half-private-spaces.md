@@ -3,13 +3,13 @@
 # Half-Open, Half-Private Spaces
 
 ## Summary
-Create work alcoves that are 60-75% enclosed. These spaces balance privacy with connection. Use research-backed height specs and acoustic materials. This enables focused work while keeping team awareness.
+Create work alcoves that are 60-75% enclosed to balance privacy with connection. Use research-backed height specs and acoustic materials that enable focused work while keeping team awareness.
 
 ## Context
-Software developers need spaces that give them privacy to concentrate. They also need to stay connected to their team and aware of ongoing activities. Modern hybrid teams need workspaces that support individual deep work and spontaneous collaboration. Teams shouldn't have to choose between isolation and distraction.
+Software developers need spaces that give them privacy to concentrate while staying connected to their team and aware of ongoing activities. Modern hybrid teams need workspaces that support individual deep work and spontaneous collaboration. Teams shouldn't have to choose between isolation and distraction.
 
 ## Problem
-Completely open spaces are too distracting for focused work. Fully enclosed spaces isolate team members. They reduce spontaneous collaboration and osmotic communication. Most workspace designs fail to achieve the right balance. This causes productivity loss from distractions or team dysfunction from over-isolation.
+Completely open spaces are too distracting for focused work. Fully enclosed spaces isolate team members and reduce spontaneous collaboration and osmotic communication. Most workspace designs fail to achieve the right balance, causing productivity loss from distractions or team dysfunction from over-isolation.
 
 ## Solution
 Design work areas with precisely calculated partial enclosure using the following specifications:
@@ -134,7 +134,7 @@ Design work areas with precisely calculated partial enclosure using the followin
 
 ### The Digital Translation Challenge
 
-Physical half-open spaces balance visual and acoustic privacy with team connection. Digital versions must achieve similar balance through interface design, notification systems, and virtual presence indicators. They must also account for different cognitive loads in digital environments.
+Physical half-open spaces balance visual and acoustic privacy with team connection. Digital versions must achieve similar balance through interface design, notification systems, and virtual presence indicators while accounting for different cognitive loads in digital environments.
 
 ### Digital Privacy Gradient Framework
 

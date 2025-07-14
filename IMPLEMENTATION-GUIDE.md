@@ -4,7 +4,7 @@
 
 ## Quick Start: Choose Your Implementation Path
 
-This guide provides step-by-step checklists for implementing patterns from this cross-disciplinary pattern language. Choose your starting point based on your primary need:
+The following guide provides step-by-step checklists for implementing patterns from this cross-disciplinary pattern language. Choose your starting point based on your primary need:
 
 - **🏢 Designing New Workspace** → [Architectural/Spatial Implementation](#architectural-spatial-implementation)
 - **🤝 Improving Team Effectiveness** → [Organizational Implementation](#organizational-implementation)  

@@ -6,13 +6,13 @@
 Use ergonomic furniture, proper lighting, sound control, and climate systems. These create comfortable work spaces that support health and productivity over time.
 
 ## Context
-Software developers spend long hours at their desks. They need work spaces that support their physical health and mental performance.
+Software developers spend long hours at their desks and need work spaces that support their physical health and mental performance.
 
 ## Problem
 Poor work conditions cause problems. Bad lighting, uncomfortable furniture, too much noise, or poor air quality lead to fatigue, health issues, and lower productivity.
 
 ## Solution
-Design work spaces with adjustable furniture, multiple lighting options, sound treatments, and climate control. This meets different comfort needs.
+Design work spaces with adjustable furniture, multiple lighting options, sound treatments, and climate control to meet different comfort needs.
 
 **Collaborative Ergonomics:**
 - **Height-adjustable desks**: Sit-stand capabilities essential for pair programming and mob sessions

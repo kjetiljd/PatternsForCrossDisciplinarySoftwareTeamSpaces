@@ -6,10 +6,10 @@
 Design spaces that everyone can use. Include daylight access, universal accessibility, and healthy indoor climate. Create inclusive work environments that support neurodiversity and varying abilities while meeting legal requirements.
 
 ## Context
-Software team spaces must follow building codes and accessibility rules. They also need to promote health, well-being, and inclusivity for all team members. Modern teams include people with diverse physical, cognitive, and sensory needs. Design should accommodate these needs from the start, not add them later as afterthoughts.
+Software team spaces must follow building codes and accessibility rules while promoting health, well-being, and inclusivity for all team members. Modern teams include people with diverse physical, cognitive, and sensory needs. Design should accommodate these needs from the start, not add them later as afterthoughts.
 
 ## Problem
-Workspaces that don't meet accessibility standards exclude potential team members. Poor indoor climate and lack of daylight hurt productivity and well-being. Many organizations treat accessibility as an afterthought. This creates segregated or compromised solutions instead of truly inclusive environments. Organizations often overlook sensory accessibility needs, which creates barriers for neurodiverse team members.
+Workspaces that don't meet accessibility standards exclude potential team members. Poor indoor climate and lack of daylight hurt productivity and well-being. Many organizations treat accessibility as an afterthought, creating segregated or compromised solutions instead of truly inclusive environments. Organizations often overlook sensory accessibility needs, which creates barriers for neurodiverse team members.
 
 ## Solution
 Design all team spaces to exceed accessibility requirements. Use universal design principles. Include abundant natural light with controllable systems. Maintain optimal air quality and temperature with individual control options. Create inclusive environments that accommodate diverse physical, cognitive, and sensory needs from the start.

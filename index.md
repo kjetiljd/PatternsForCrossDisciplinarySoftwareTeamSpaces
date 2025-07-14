@@ -4,7 +4,7 @@
 
 Software development is changing. Hybrid work has become the norm and cross-functional teams are essential for delivering complex products. Traditional office design and organizational structures often fall short. This pattern language bridges the gap between the physical environments where software teams work and the organizational patterns that enable them to thrive.
 
-This collection draws inspiration from Christopher Alexander's foundational work "A Pattern Language." It synthesizes insights from architecture, organizational psychology, software engineering, interior design, product management, and epistemology. The result is a comprehensive framework for creating environments that support the unique needs of modern software product teams.
+The collection draws inspiration from Christopher Alexander's foundational work "A Pattern Language." The collection synthesizes insights from architecture, organizational psychology, software engineering, interior design, product management, and epistemology. The result is a comprehensive framework for creating environments that support the unique needs of modern software product teams.
 
 ## A Living System of Interconnected Patterns
 
@@ -32,13 +32,13 @@ The complete catalog of patterns can be found in the [Pattern Index](Pattern-Ind
 
 The true power of this pattern language emerges from the relationships between patterns. The [Pattern Relationship Network Analysis](Pattern-Relationship-Network-Analysis.md) provides a comprehensive visualization of how patterns connect across categories, revealing key insights about implementation pathways and pattern clusters.
 
-This network analysis identifies central hub patterns like [Small Team Bays](architectural-spatial/small-team-bays.md) and [Psychological Safety Practices](organizational/psychological-safety-practices.md). These serve as integration points, connecting multiple other patterns. It also reveals powerful pattern clusters. These are groups of related patterns that reinforce each other when implemented together. For example, the high-autonomy cluster combines [Self-Governing Teams](organizational/self-governing-teams.md), [Small Team Bays](architectural-spatial/small-team-bays.md), and [Aligned Autonomy](organizational/aligned-autonomy.md). This creates environments where teams can operate independently while remaining organizationally aligned.
+The network analysis identifies central hub patterns like [Small Team Bays](architectural-spatial/small-team-bays.md) and [Psychological Safety Practices](organizational/psychological-safety-practices.md). These patterns serve as integration points, connecting multiple other patterns. The analysis also reveals powerful pattern clusters. Pattern clusters are groups of related patterns that reinforce each other when implemented together. For example, the high-autonomy cluster combines [Self-Governing Teams](organizational/self-governing-teams.md), [Small Team Bays](architectural-spatial/small-team-bays.md), and [Aligned Autonomy](organizational/aligned-autonomy.md). The high-autonomy cluster creates environments where teams can operate independently while remaining organizationally aligned.
 
 The relationship network also provides practical guidance for implementation. Rather than attempting to adopt all patterns simultaneously, [the relationship network](Pattern-Relationship-Network-Analysis.md) reveals natural sequences. Foundational patterns enable others. Start with [meta-patterns](meta-patterns/) for philosophical alignment. Then establish spatial support for team autonomy. Follow with communication and coordination practices. Finally add hybrid work integration. This provides a proven pathway for transformation.
 
 ## A Pattern Language for Modern Software Teams
 
-This pattern language addresses a critical gap in how we think about software team environments. We have extensive literature on agile methodologies and software engineering practices. We have growing research on remote work and hybrid collaboration. However, there has been little systematic exploration of how [physical spaces](architectural-spatial/), [organizational structures](organizational/), and [temporal rhythms](temporal/) interact. This interaction creates environments where software teams can thrive.
+The pattern language addresses a critical gap in how we think about software team environments. We have extensive literature on agile methodologies and software engineering practices. We have growing research on remote work and hybrid collaboration. However, there has been little systematic exploration of how [physical spaces](architectural-spatial/), [organizational structures](organizational/), and [temporal rhythms](temporal/) interact. The interaction between these elements creates environments where software teams can thrive.
 
 The patterns collected here are grounded in both research and practice. They synthesize insights from academic studies on team effectiveness and environmental psychology. They also draw from case studies from successful tech companies. [Cross-disciplinary approaches](cross-disciplinary/) from fields where creative and technical work flourish provide additional insights. Each pattern has been validated through real-world application and refined based on observed outcomes.
 
@@ -46,7 +46,7 @@ The pattern language is particularly valuable for mid-size organizations. These 
 
 Software development continues to evolve. Artificial intelligence is augmenting human capabilities and new forms of distributed collaboration are emerging. The need for thoughtfully designed team environments becomes even more critical. The patterns in this language provide a foundation that can adapt to these changes. They preserve the human elements that make software development both effective and fulfilling.
 
-This pattern language offers a systematic approach to creating environments where software teams can do their best work. Whether you are an architect designing software company offices, a team lead seeking to improve collaboration, a facilities manager adapting spaces for hybrid work, or an organizational leader thinking about team structures, these patterns can help.
+The pattern language offers a systematic approach to creating environments where software teams can do their best work. Whether you are an architect designing software company offices, a team lead seeking to improve collaboration, a facilities manager adapting spaces for hybrid work, or an organizational leader thinking about team structures, these patterns can help.
 
 ---
 
