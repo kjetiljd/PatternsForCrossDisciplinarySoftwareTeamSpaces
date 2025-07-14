@@ -3,16 +3,16 @@
 # Transparent Artifacts
 
 ## Summary
-Make work progress visible through information radiators and shared dashboards that provide real-time visibility into team activities and system status.
+Make work progress visible through information displays and shared dashboards. These provide real-time visibility into team activities and system status.
 
 ## Context
-Software teams need visibility into each other's work to coordinate effectively and identify opportunities for collaboration or assistance.
+Software teams need to see each other's work. This helps them coordinate well and find opportunities to collaborate or help each other.
 
 ## Problem
-When work is invisible, team members miss opportunities to help each other, duplicate efforts, or fail to coordinate dependencies effectively.
+When work is invisible, team members miss opportunities to help each other. They may duplicate efforts or fail to coordinate dependencies well.
 
 ## Solution
-Create visible displays of work progress, system status, and team metrics using dashboards, task boards, and information radiators that everyone can see and understand.
+Create visible displays of work progress, system status, and team metrics. Use dashboards, task boards, and information displays that everyone can see and understand.
 
 ## Forces
 - Transparency vs. privacy
