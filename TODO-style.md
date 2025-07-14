@@ -1,3 +1,7 @@
+./Pattern-Index.md
+./Pattern-Relationship-Network-Analysis.md
+./Pattern-Validation-Framework.md
+./index.md
 ./organizational/right-sized-stream-aligned-teams.md
 ./organizational/self-governing-teams.md
 ./organizational/structured-experiments.md
@@ -12,13 +16,8 @@
 ./temporal/core-hours-temporal-zoning.md
 ./temporal/cross-team-events.md
 ./temporal/daily-rituals.md
-./temporal/index.md
 ./temporal/monthly-4-monthly-rituals.md
 ./temporal/no-meeting-time.md
 ./temporal/rituals-spatial-anchors.md
 ./temporal/team-health-checks.md
 ./temporal/weekly-cadence.md
-./index.md
-./Pattern-Index.md
-./Pattern-Relationship-Network-Analysis.md
-./Pattern-Validation-Framework.md
