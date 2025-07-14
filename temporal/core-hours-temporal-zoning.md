@@ -3,13 +3,13 @@
 # Core Hours & Temporal Zoning
 
 ## Summary
-Establish core collaboration hours when everyone is available for real-time interaction, and protect other times for deep work and flexibility.
+Set up core collaboration hours when everyone is available for real-time interaction. Protect other times for deep work and flexibility.
 
 ## Context
-Hybrid and flexible work environments where team members may have different schedules, time zones, or work preferences.
+Hybrid and flexible work environments. Team members have different schedules, time zones, or work preferences.
 
 ## Problem
-Without coordination, teams struggle to find time for synchronous collaboration. Constant availability expectations prevent deep work and create stress.
+Without coordination, teams struggle to find time for working together. Always being available prevents deep work and creates stress.
 
 ## Solution
 Implement temporal zoning:
@@ -17,14 +17,14 @@ Implement temporal zoning:
 - **Protected time**: Designate hours for deep work (e.g., mornings before 10am)
 - **No-meeting blocks**: Specific times when meetings are prohibited
 - **Flexible boundaries**: Allow personal scheduling outside core hours
-- **Maker vs. manager schedules**: Recognize different work patterns and batch meetings accordingly
+- **Maker vs. manager schedules**: Recognize different work patterns and group meetings together
 
 ## Forces
-- Distributed teams need coordination for effective collaboration
+- Distributed teams need coordination for good teamwork
 - Deep work requires uninterrupted time blocks
-- Different roles have different optimal work patterns
+- Different roles have different work patterns
 - Personal life needs vary across team members
-- Time zone differences complicate scheduling
+- Time zone differences make scheduling hard
 
 ## Global Team Considerations
 
@@ -34,7 +34,7 @@ Implement temporal zoning:
 - **Asia-Pacific Focus**: 9am-1pm AEST (5pm-9pm PST previous day, 1am-5am CET)
 - **Europe-Americas Focus**: 2pm-6pm CET (8am-12pm EST, 5am-9am PST)
 - **Americas-Pacific Focus**: 10am-2pm PST (1pm-5pm EST, 7pm-11pm CET)
-- **Implementation**: Rotate focus every 2-3 months to share timezone burden
+- **Implementation**: Rotate focus every 2-3 months to share time zone burden
 
 **Cascade Communication:**
 - **Morning Handoff**: Asia-Pacific team shares updates for Europe team
