@@ -3,13 +3,13 @@
 # Swarm Reviews & Pairing
 
 ## Summary
-Collective code reviews and pair/mob programming for knowledge sharing, quality improvement, and reducing knowledge silos. Enhanced with regular cross-team review sessions and just-in-time swarming practices.
+Collective code reviews and pair/mob programming for knowledge sharing, quality improvement, and reducing knowledge silos. This is enhanced with regular cross-team review sessions and just-in-time swarming practices.
 
 ## Context
-Software teams need to maintain code quality and share knowledge effectively while balancing individual productivity with collective learning. Modern distributed teams require both synchronous collaboration and asynchronous review practices.
+Software teams need to maintain code quality and share knowledge effectively. They must balance individual productivity with collective learning. Modern distributed teams require both synchronous collaboration and asynchronous review practices.
 
 ## Problem
-Individual code reviews can be perfunctory and miss important issues, while knowledge silos create risks when team members are unavailable. Long review backlogs slow down delivery and reduce quality feedback.
+Individual code reviews can be perfunctory and miss important issues. Knowledge silos create risks when team members are unavailable. Long review backlogs slow down delivery and reduce quality feedback.
 
 ## Solution
 Use multiple collaborative practices:
