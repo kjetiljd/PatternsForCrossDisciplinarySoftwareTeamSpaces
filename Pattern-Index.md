@@ -2,54 +2,54 @@
 ---
 # Pattern Index: Cross-Disciplinary Software Team Spaces
 
-A comprehensive catalog of patterns for designing effective physical and organizational environments for software product teams in the hybrid work era.
+A complete catalog of patterns for designing effective physical and organizational environments for software teams in hybrid work settings.
 
 ## [Architectural/Spatial Patterns](architectural-spatial/index.md)
 
 ### Macro-Scale Space Patterns
 
-- **[Work Community Clusters](architectural-spatial/work-community-clusters.md)** - Create neighborhood-like clusters of 10-20 workspaces around shared amenities and common areas
+- **[Work Community Clusters](architectural-spatial/work-community-clusters.md)** - Create neighborhood-like clusters of 10-20 workspaces around shared amenities
 - **[Scattered Work and Campus Layout](architectural-spatial/scattered-work-campus-layout.md)** - Distribute teams across mixed-use areas rather than isolated office parks
-- **[Office Connections & Team War Rooms](architectural-spatial/office-connections-team-war-rooms.md)** - Co-locate frequently collaborating teams and provide dedicated spaces for each cross-functional team
-- **[Accessible & Code-Compliant Design](architectural-spatial/accessible-code-compliant-design.md)** - Ensure daylight access, universal accessibility, and healthy indoor climate by design
-- **[Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)** - Design common areas and circulation paths to encourage informal cross-team encounters
+- **[Office Connections & Team War Rooms](architectural-spatial/office-connections-team-war-rooms.md)** - Co-locate collaborating teams and provide dedicated spaces for each team
+- **[Accessible & Code-Compliant Design](architectural-spatial/accessible-code-compliant-design.md)** - Ensure daylight access, universal accessibility, and healthy indoor climate
+- **[Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)** - Design common areas and paths to encourage informal cross-team encounters
 
 ### Micro-Scale Workspace Patterns
 
-- **[Small Team Bays](architectural-spatial/small-team-bays.md)** - Create team bays for typically 4-6 people with good sound dampening to encourage natural conversation
-- **[Workspace Enclosure & Personal Space](architectural-spatial/workspace-enclosure-personal-space.md)** - Provide ~60 sq ft per person with partial walls and window views for psychological comfort
+- **[Small Team Bays](architectural-spatial/small-team-bays.md)** - Create team bays for 4-6 people with good sound dampening
+- **[Workspace Enclosure & Personal Space](architectural-spatial/workspace-enclosure-personal-space.md)** - Provide ~60 sq ft per person with partial walls and window views
 - **[Half-Open, Half-Private Spaces](architectural-spatial/half-open-half-private-spaces.md)** - Create alcoves with 50-75% enclosure that balance privacy with connection
 - **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** - Implement ergonomic furniture, proper lighting, acoustic zoning, and climate control
-- **[Personalization and Human Scale](architectural-spatial/personalization-human-scale.md)** - Enable teams to shape their space with artifacts, varied textures, and comfortable seating
-- **[Visible Evolution Traces](architectural-spatial/visible-evolution-traces.md)** - Design spaces to show their history of adaptation and use, making team modifications visible to encourage further beneficial changes
+- **[Personalization and Human Scale](architectural-spatial/personalization-human-scale.md)** - Enable teams to shape their space with artifacts, textures, and seating
+- **[Visible Evolution Traces](architectural-spatial/visible-evolution-traces.md)** - Design spaces to show their history of adaptation and use
 
 ### Collaborative Workspace Patterns
 
-- **[Pair Programming Workstations](architectural-spatial/pair-programming-workstations.md)** - Design dedicated desks for two people to comfortably work at one machine with dual peripherals
-- **[Mob Programming Corner](architectural-spatial/mob-programming-corner.md)** - Create spaces where entire teams can collaborate on one task with large displays and flexible seating
-- **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)** - Create small collaboration alcoves immediately adjacent to team work zones for context-preserving discussions
-- **[Call Booths](architectural-spatial/call-booths.md)** - Provide soundproof privacy pods for individual calls and focused work without complete team separation
+- **[Pair Programming Workstations](architectural-spatial/pair-programming-workstations.md)** - Design dedicated desks for two people to work at one machine with dual peripherals
+- **[Mob Programming Corner](architectural-spatial/mob-programming-corner.md)** - Create spaces where entire teams can collaborate on one task with large displays
+- **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)** - Create small collaboration alcoves adjacent to team work zones
+- **[Call Booths](architectural-spatial/call-booths.md)** - Provide soundproof privacy pods for individual calls and focused work
 
 ## [Organizational Patterns](organizational/index.md)
 
 ### Team Structure and Autonomy
 
-- **[Self-Governing Teams](organizational/self-governing-teams.md)** - Empower cross-functional teams of 5-12 people with autonomy over their work style and organization
-- **[Aligned Autonomy](organizational/aligned-autonomy.md)** - Balance team independence with organizational alignment through enabling constraints and shared goals
-- **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance to enable distributed decision-making with context-sensitive frameworks
+- **[Self-Governing Teams](organizational/self-governing-teams.md)** - Empower cross-functional teams of 5-12 people with autonomy over their work style
+- **[Aligned Autonomy](organizational/aligned-autonomy.md)** - Balance team independence with organizational alignment through shared goals
+- **[Decision-Making Patterns](organizational/decision-making-patterns.md)** - Use advice process and consent-based governance for distributed decision-making
 - **[Team Composition and Size](organizational/team-composition-size.md)** - Maintain stable, cross-functional teams small enough to be "fed by two pizzas"
-- **[Right-Sized Stream-Aligned Teams](organizational/right-sized-stream-aligned-teams.md)** - Form small, mission-focused teams of 5-8 members that own a product value stream end-to-end
+- **[Right-Sized Stream-Aligned Teams](organizational/right-sized-stream-aligned-teams.md)** - Form small teams of 5-8 members that own a product value stream end-to-end
 - **[Demand-Led Fluid Teaming](organizational/demand-led-fluid-teaming.md)** - Reorganize teams periodically based on strategic demand rather than fixed structures
 
 ### Advanced Decision-Making Patterns
 
-- **[One-Way vs Two-Way Door Decisions](organizational/one-way-two-way-door-decisions.md)** - Accelerate decision-making by categorizing decisions based on reversibility and applying appropriate process weight
-- **[Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)** - Match decision-making approaches to situation complexity using the Cynefin sensemaking framework
-- **[Structured Experiments](organizational/structured-experiments.md)** - Use deliberate, time-bounded experiments to gather evidence before making irreversible decisions
-- **[Trying Out Options](organizational/trying-out-options.md)** - Test multiple approaches in parallel to surface better solutions through direct comparison
-- **[Nominal Group Technique](organizational/nominal-group-technique.md)** - Improve decision quality by gathering individual opinions independently before group discussion
-- **[Ranked Voting](organizational/ranked-voting.md)** - Make group decisions through preference ranking to identify broadly acceptable solutions
-- **[Architecture Decision Records](organizational/architecture-decision-records.md)** - Document key architectural decisions with context, rationale, and consequences for team alignment
+- **[One-Way vs Two-Way Door Decisions](organizational/one-way-two-way-door-decisions.md)** - Accelerate decision-making by categorizing decisions based on reversibility
+- **[Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)** - Match decision-making approaches to situation complexity using the Cynefin framework
+- **[Structured Experiments](organizational/structured-experiments.md)** - Use deliberate, time-bounded experiments to gather evidence before major decisions
+- **[Trying Out Options](organizational/trying-out-options.md)** - Test multiple approaches in parallel to surface better solutions
+- **[Nominal Group Technique](organizational/nominal-group-technique.md)** - Improve decision quality by gathering individual opinions independently first
+- **[Ranked Voting](organizational/ranked-voting.md)** - Make group decisions through preference ranking to identify acceptable solutions
+- **[Architecture Decision Records](organizational/architecture-decision-records.md)** - Document key architectural decisions with context, rationale, and consequences
 
 ### Communication and Collaboration
 
@@ -58,30 +58,30 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Transparent Artifacts](organizational/transparent-artifacts.md)** - Make work progress visible through information radiators and shared dashboards
 - **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** - Cultivate blameless culture and explicit norms that encourage speaking up
 - **[Open Space Swarm Cadence](organizational/open-space-swarm-cadence.md)** - Use Open Space Technology for continuous self-organization of work in short cycles
-- **[Thinking Out Loud](organizational/thinking-out-loud.md)** - Create clarity and trust by voicing reasoning, assumptions, and uncertainties before taking action
-- **[I Intend To](organizational/i-intend-to.md)** - Build ownership and alignment by clearly stating planned actions and rationale before proceeding
-- **[Desire Path Recognition](organizational/desire-path-recognition.md)** - Observe natural patterns of team behavior and space usage before formalizing processes or layouts
-- **[Meeting Room Anti-Pattern](organizational/meeting-room-anti-pattern.md)** - Avoid using traditional meeting rooms for core collaborative work to prevent barriers to spontaneous interaction
-- **[In-Zone Collaboration](organizational/in-zone-collaboration.md)** - Conduct team discussions within work areas rather than separate meeting spaces to preserve context
+- **[Thinking Out Loud](organizational/thinking-out-loud.md)** - Create clarity and trust by voicing reasoning and assumptions before taking action
+- **[I Intend To](organizational/i-intend-to.md)** - Build ownership and alignment by clearly stating planned actions and rationale
+- **[Desire Path Recognition](organizational/desire-path-recognition.md)** - Observe natural patterns of team behavior and space usage before formalizing processes
+- **[Meeting Room Anti-Pattern](organizational/meeting-room-anti-pattern.md)** - Avoid using traditional meeting rooms for core collaborative work
+- **[In-Zone Collaboration](organizational/in-zone-collaboration.md)** - Conduct team discussions within work areas rather than separate meeting spaces
 
 ### Cross-Team Coordination
 
 - **[Platform Teams & Communities of Practice](organizational/platform-teams-communities.md)** - Create service teams for shared infrastructure and voluntary guilds for knowledge sharing
 - **[Cross-Team Synchronization](organizational/cross-team-synchronization.md)** - Establish lightweight coordination routines like Scrum of Scrums and Open Space events
-- **[Team API](organizational/team-api.md)** - Treat each team as a service with clear interfaces for ownership, communication, and collaboration
+- **[Team API](organizational/team-api.md)** - Treat each team as a service with clear interfaces for ownership and collaboration
 - **[Embedded Coordination Roles](organizational/embedded-coordination-roles.md)** - Use ambassador or liaison roles to create human bridges between teams
-- **[Enabling and Platform Teams](organizational/enabling-platform-teams.md)** - Specialized teams that reduce complexity for stream-aligned teams through services and coaching
+- **[Enabling and Platform Teams](organizational/enabling-platform-teams.md)** - Specialized teams that reduce complexity for stream-aligned teams through services
 - **[Near/Far Specialist Guilds](organizational/near-far-specialist-guilds.md)** - Blend embedded specialists with central guilds for expertise sharing
 
 ### Hybrid Work Patterns
 
 - **[Handbook First Documentation](organizational/handbook-first-documentation.md)** - Create comprehensive, accessible documentation to enable asynchronous work
 - **[Asynchronous Collaboration Norms](organizational/async-collaboration-norms.md)** - Establish writing-first workflows and meeting protocols for distributed teams
-- **[Synchronous/Asynchronous Balance Framework](organizational/sync-async-balance-framework.md)** - Systematic approach to choosing between sync and async work modes based on task characteristics and team dynamics
+- **[Synchronous/Asynchronous Balance Framework](organizational/sync-async-balance-framework.md)** - Systematic approach to choosing between sync and async work modes
 - **[Anchor Days](organizational/anchor-days.md)** - Designate regular days for whole-team in-person gathering focused on connection
 - **[Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)** - Create informal virtual spaces for casual interaction and relationship building
 - **[Distributed Whiteboards](organizational/distributed-whiteboards.md)** - Use shared visual workspaces to maintain democratic brainstorming and design sessions
-- **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams leveraging both async tools and planned in-person interactions
+- **[Hybrid Coordination and Knowledge Networks](organizational/hybrid-coordination-knowledge-networks.md)** - Explicit strategies for coordination in hybrid teams using async tools and in-person interactions
 - **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)** - Integrate always-ready video conferencing into collaboration areas for seamless hybrid participation
 
 ## [Cross-Disciplinary Patterns](cross-disciplinary/index.md)
@@ -140,16 +140,16 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 - **[Transparency and Osmotic Communication](meta-patterns/transparency-osmotic-communication.md)** - Enable information flow through physical and cultural transparency
 - **[Rhythms of Collaboration and Focus](meta-patterns/rhythms-collaboration-focus.md)** - Alternate between convergent team time and divergent individual work
 - **[Human-Centric Design](meta-patterns/human-centric-design.md)** - Design work environments around human needs rather than rigid systems
-- **[Productive Traces Preservation](meta-patterns/productive-traces-preservation.md)** - Distinguish between beneficial signs of use and actual problems, preserving evidence of successful adaptations
+- **[Productive Traces Preservation](meta-patterns/productive-traces-preservation.md)** - Distinguish between beneficial signs of use and actual problems
 
 ## Implementation Sequences
 
-*These sequences provide recommended implementation paths based on organizational context and readiness. Each sequence assumes progressive capability building - later patterns depend on earlier ones being established.*
+*These sequences provide recommended implementation paths based on organizational context and readiness. Each sequence assumes progressive capability building.*
 
 ### Quick Start: Essential Team Autonomy Stack
 **Prerequisites:** Leadership support for team autonomy, willingness to change traditional management practices  
 **Timeline:** 3-6 months  
-**For teams beginning their journey toward autonomous, cross-disciplinary collaboration:**
+**For teams beginning their journey toward autonomous collaboration:**
 
 1. **[Human-Centric Design](meta-patterns/human-centric-design.md)** → **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** → **[Self-Governing Teams](organizational/self-governing-teams.md)**
 2. **[Small Team Bays](architectural-spatial/small-team-bays.md)** → **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** → **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)**
@@ -158,7 +158,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 ### Hybrid-First Integration Sequence
 **Prerequisites:** Existing team autonomy, basic collaboration tools, commitment to async-first culture  
 **Timeline:** 2-4 months  
-**For organizations transitioning to hybrid work patterns:**
+**For organizations transitioning to hybrid work:**
 
 1. **[Core Hours & Temporal Zoning](temporal/core-hours-temporal-zoning.md)** → **[Anchor Days](organizational/anchor-days.md)** → **[Async Collaboration Norms](organizational/async-collaboration-norms.md)**
 2. **[Handbook First Documentation](organizational/handbook-first-documentation.md)** → **[Distributed Whiteboards](organizational/distributed-whiteboards.md)** → **[Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)**
@@ -167,7 +167,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 ### Advanced Collaboration Infrastructure
 **Prerequisites:** Stable team composition, mature collaboration practices, physical space modification capability  
 **Timeline:** 4-8 months  
-**For teams ready to implement sophisticated collaboration patterns:
+**For teams ready to implement sophisticated collaboration patterns:**
 
 1. **[U-Shape Team Layout](cross-disciplinary/u-shape-team-layout.md)** → **[Pair Programming Workstations](architectural-spatial/pair-programming-workstations.md)** → **[Mob Programming Corner](architectural-spatial/mob-programming-corner.md)**
 2. **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** → **[Display of Work](cross-disciplinary/display-of-work.md)** → **[Pin-Up Space](cross-disciplinary/pin-up-space.md)**
@@ -176,7 +176,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 ### Decision Quality and Learning Culture
 **Prerequisites:** Psychological safety, documented processes, leadership commitment to experimentation  
 **Timeline:** 6-12 months  
-**For teams focusing on decision-making and continuous improvement:
+**For teams focusing on decision-making and continuous improvement:**
 
 1. **[One-Way vs Two-Way Door Decisions](organizational/one-way-two-way-door-decisions.md)** → **[Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)** → **[Structured Experiments](organizational/structured-experiments.md)**
 2. **[Blameless Post-Mortems](organizational/blameless-post-mortems.md)** → **[Team Health Checks](temporal/team-health-checks.md)** → **[Kaizen Corner](cross-disciplinary/kaizen-corner.md)**
@@ -185,7 +185,7 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 ### Social Proof and Evolution Culture
 **Prerequisites:** Organizational trust, space modification permission, culture of experimentation  
 **Timeline:** 3-9 months  
-**For creating environments that encourage beneficial adaptation:
+**For creating environments that encourage beneficial adaptation:**
 
 1. **[Desire Path Recognition](organizational/desire-path-recognition.md)** → **[Visible Evolution Traces](architectural-spatial/visible-evolution-traces.md)** → **[Productive Traces Preservation](meta-patterns/productive-traces-preservation.md)**
 2. **[Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)** → **[Poster Sessions](cross-disciplinary/poster-sessions.md)** → **[Communal Eating](temporal/communal-eating.md)**
@@ -193,4 +193,4 @@ A comprehensive catalog of patterns for designing effective physical and organiz
 
 ---
 
-*This pattern index is derived from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language now includes 80 patterns with enhanced focus on sophisticated decision-making frameworks, intensive collaboration practices, spatial alternatives to traditional meeting rooms, and social proof mechanisms that encourage beneficial space evolution and team engagement.*
+*This pattern index draws from comprehensive research across architecture, organizational psychology, agile methodologies, decision-making theory, and cross-disciplinary case studies. Each pattern is grounded in literature and real-world practice, adapted for the hybrid work era. The pattern language includes 80 patterns with enhanced focus on sophisticated decision-making frameworks, intensive collaboration practices, spatial alternatives to traditional meeting rooms, and social proof mechanisms that encourage beneficial space evolution and team engagement.*

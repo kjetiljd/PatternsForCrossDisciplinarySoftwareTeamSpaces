@@ -1,4 +1,3 @@
-./Pattern-Index.md
 ./Pattern-Relationship-Network-Analysis.md
 ./Pattern-Validation-Framework.md
 ./index.md
