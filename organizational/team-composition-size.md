@@ -3,48 +3,48 @@
 # Team Composition and Size
 
 ## Summary
-Maintain stable, cross-functional teams of 5-9 people with complementary skills, diverse perspectives, and clear role coverage, optimized for communication effectiveness and collective capability.
+Keep stable, cross-functional teams of 5-9 people. These teams need skills that work together, different viewpoints, and clear roles. Design them for good communication and strong teamwork.
 
 ## Context
-Software product development requires teams that can function autonomously while maintaining high quality. Team composition affects communication patterns, decision-making speed, knowledge sharing, and overall effectiveness. The optimal team balances skill coverage, communication efficiency, and psychological diversity.
+Software product development needs teams that can work on their own while keeping high quality. How you build teams affects how people talk to each other. It affects how fast they make decisions, how they share knowledge, and how well they work overall. The best team balances skill coverage, good communication, and different ways of thinking.
 
 ## Problem
 **Size-related challenges:**
-- **Teams too large** (10+ people): Communication overhead grows exponentially, coordination becomes complex, individual contribution decreases, social loafing increases
-- **Teams too small** (3-4 people): Limited skill coverage, insufficient resilience when people are unavailable, lacks diversity of perspectives, higher bus factor risk
+- **Teams too large** (10+ people): Communication takes too much time, coordination gets complex, people contribute less, some people slack off
+- **Teams too small** (3-4 people): Limited skills, problems when people are away, lacks different viewpoints, higher risk when someone leaves
 
 **Composition-related challenges:**
-- **Missing critical skills**: Teams lack essential capabilities needed for autonomous operation
-- **Homogeneous thinking**: Similar backgrounds and perspectives limit creativity and problem-solving effectiveness
-- **Unclear role boundaries**: Team members' responsibilities overlap inefficiently or leave gaps in coverage
-- **Unstable membership**: Frequent team changes prevent development of trust, shared context, and effective working relationships
+- **Missing critical skills**: Teams lack key abilities needed to work independently
+- **Similar thinking**: People with similar backgrounds limit creativity and problem-solving
+- **Unclear role boundaries**: Team members' jobs overlap badly or leave gaps
+- **Unstable membership**: Frequent team changes prevent building trust, shared understanding, and good working relationships
 
 ## Solution
-Form cross-functional teams optimized for both skill coverage and communication effectiveness, with explicit attention to diversity and role clarity.
+Create cross-functional teams designed for both good skill coverage and effective communication. Pay clear attention to diversity and role clarity.
 
-**Optimal Team Size: 5-9 People**
+**Best Team Size: 5-9 People**
 - **Sweet spot: 6-7 people** for most product development teams
-- **Minimum viable: 5 people** with essential skill coverage
-- **Maximum effective: 9 people** before communication overhead becomes problematic
-- **Communication channels**: Formula n(n-1)/2 means 6 people = 15 communication paths, 9 people = 36 paths
+- **Minimum: 5 people** with essential skills
+- **Maximum: 9 people** before communication becomes too hard
+- **Communication paths**: 6 people = 15 communication paths, 9 people = 36 paths
 
-**Essential Skill Coverage Framework:**
+**Essential Skills Framework:**
 
 ### Core Technical Skills (3-5 people)
-- **Full-stack development capability**: Team can handle frontend, backend, and data layer work
-- **Testing and quality assurance**: Automated testing, manual testing, quality practices embedded in team
-- **DevOps and deployment**: CI/CD, infrastructure, monitoring, and operational concerns
+- **Full-stack development**: Team can handle frontend, backend, and data layer work
+- **Testing and quality**: Automated testing, manual testing, quality practices built into the team
+- **DevOps and deployment**: CI/CD, infrastructure, monitoring, and operations
 - **Security awareness**: At least one team member with security mindset and practices
 
 ### Product and Design Skills (1-2 people)
 - **Product ownership**: Understanding user needs, business requirements, prioritization
-- **User experience design**: User research, interaction design, visual design capabilities  
-- **Domain expertise**: Deep knowledge of the business domain or user problem space
+- **User experience design**: User research, interaction design, visual design skills
+- **Domain expertise**: Deep knowledge of the business area or user problems
 
-### Collaborative and Support Skills (distributed across team)
+### Collaborative and Support Skills (across team)
 - **Technical communication**: Writing, documentation, knowledge sharing
-- **Facilitation and coordination**: Meeting facilitation, project coordination, stakeholder management
-- **Mentoring and learning**: Capability development, onboarding, knowledge transfer
+- **Facilitation and coordination**: Meeting facilitation, project coordination, managing stakeholders
+- **Mentoring and learning**: Building skills, onboarding, knowledge transfer
 
 ## Team Formation Strategies
 
@@ -59,16 +59,16 @@ Form cross-functional teams optimized for both skill coverage and communication 
 4. **Evaluate development potential** of existing team members to grow into needed roles
 
 **Phase 2: People Selection and Matching**
-1. **Individual skill assessment**: Technical capabilities, domain knowledge, collaborative skills
-2. **Working style compatibility**: Communication preferences, decision-making approaches, conflict resolution styles
+1. **Individual skill assessment**: Technical skills, domain knowledge, collaboration skills
+2. **Working style compatibility**: Communication preferences, decision-making styles, conflict resolution approaches
 3. **Motivation and goal alignment**: Career interests, learning goals, commitment to team success
-4. **Availability and stability**: Current commitments, anticipated changes, long-term availability
+4. **Availability and stability**: Current commitments, expected changes, long-term availability
 
 **Phase 3: Team Chemistry and Integration**
-1. **Gradual integration**: Add new members one at a time when possible to preserve team dynamics
-2. **Explicit norm setting**: Establish working agreements, communication protocols, decision-making processes
+1. **Gradual integration**: Add new members one at a time when possible to keep team dynamics
+2. **Clear norm setting**: Set up working agreements, communication rules, decision-making processes
 3. **Relationship building**: Structured activities to build trust and understanding between team members
-4. **Capability mapping**: Document each member's strengths, interests, and development areas
+4. **Skill mapping**: Document each member's strengths, interests, and development areas
 
 ### Practical Formation Approaches
 
@@ -214,15 +214,15 @@ Form cross-functional teams optimized for both skill coverage and communication 
 4. **Cultural adaptation skills**: Evaluate ability to work across different cultural contexts
 
 **Phase 2: Hybrid-Aware People Selection**
-1. **Timezone distribution**: Plan team composition to optimize for target collaboration patterns
-2. **Communication complementarity**: Balance strong synchronous and asynchronous communicators
-3. **Digital collaboration experience**: Prioritize experience with remote/hybrid team success
-4. **Independence and collaboration balance**: Find people who can work autonomously but collaborate effectively
+1. **Timezone planning**: Plan team makeup to work well with target collaboration patterns
+2. **Communication balance**: Balance strong real-time and delayed communicators
+3. **Digital collaboration experience**: Focus on experience with remote/hybrid team success
+4. **Independence and collaboration balance**: Find people who can work alone but collaborate well
 
 **Phase 3: Virtual Team Chemistry Building**
 1. **Digital relationship building**: Structured virtual activities to build trust and understanding
-2. **Hybrid norm establishment**: Create explicit agreements for hybrid work practices
-3. **Technology onboarding**: Ensure all team members are proficient with collaboration tools
+2. **Hybrid norm setting**: Create clear agreements for hybrid work practices
+3. **Technology onboarding**: Make sure all team members are skilled with collaboration tools
 4. **Cultural integration**: Address different cultural approaches to communication and collaboration
 
 #### Measuring Hybrid Team Effectiveness
@@ -234,10 +234,10 @@ Form cross-functional teams optimized for both skill coverage and communication 
 - **Digital collaboration quality**: Effective use of async tools, meeting facilitation skills
 
 **Hybrid Team Health Indicators:**
-- **Location bias**: Are in-person team members inadvertently prioritized over remote members?
-- **Communication gaps**: Are some team members consistently missing important information?
-- **Timezone burden**: Are some team members consistently accommodating others' schedules?
-- **Technology barriers**: Are technical issues preventing effective collaboration?
+- **Location bias**: Do in-person team members get priority over remote members?
+- **Communication gaps**: Do some team members keep missing important information?
+- **Timezone burden**: Do some team members always accommodate others' schedules?
+- **Technology barriers**: Do technical issues prevent good collaboration?
 
 **Measurement Approaches:**
 - **Weekly inclusion pulse**: Quick check on whether all team members feel heard and included
@@ -283,7 +283,7 @@ Form cross-functional teams optimized for both skill coverage and communication 
 
 ## Forces
 - Skill coverage vs. team size
-- Communication efficiency vs. capability breadth
+- Communication efficiency vs. broad capabilities
 - Team stability vs. organizational flexibility
 - Specialization vs. generalization
 
