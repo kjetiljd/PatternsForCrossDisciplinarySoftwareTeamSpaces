@@ -1,4 +1,3 @@
-./Pattern-Validation-Framework.md
 ./index.md
 ./organizational/right-sized-stream-aligned-teams.md
 ./organizational/self-governing-teams.md
