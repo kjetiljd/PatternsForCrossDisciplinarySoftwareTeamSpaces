@@ -3,20 +3,20 @@
 # Daily Rituals
 
 ## Summary
-Morning check-ins, walking meetings, and shutdown rituals to structure the day and create boundaries between work and personal time.
+Morning check-ins, walking meetings, and shutdown rituals structure the day. They create boundaries between work and personal time.
 
 ## Context
-Software teams need structure to maintain focus and well-being while working in flexible environments that can blur boundaries between work and personal time.
+Software teams need structure to maintain focus and well-being. They work in flexible environments that can blur boundaries between work and personal time.
 
 ## Problem
-Without daily structure, team members can experience poor work-life boundaries, reduced focus, and missed opportunities for connection and coordination.
+Without daily structure, team members have poor work-life boundaries and reduced focus. They miss chances to connect and coordinate.
 
 ## Solution
-Establish daily rituals that create structure, such as morning check-ins, walking meetings for certain discussions, and shutdown rituals to end the workday.
+Set up daily rituals that create structure. Examples include morning check-ins, walking meetings for certain talks, and shutdown rituals to end the workday.
 
 ## Forces
 - Structure vs. flexibility
-- Individual preferences vs. team coordination
+- Individual preferences vs. team needs
 - Work-life boundaries vs. availability
 - Ritual overhead vs. benefits of routine
 
