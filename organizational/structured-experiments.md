@@ -3,16 +3,16 @@
 # Structured Experiments
 
 ## Summary
-Use deliberate, time-bounded experiments to gather real-world evidence before making irreversible decisions, reducing risk through small-scale testing.
+Use deliberate, time-bounded experiments to gather real-world evidence before making irreversible decisions. This reduces risk through small-scale testing.
 
 ## Context
-Software teams frequently face decisions involving uncertainty, conflicting opinions, or high stakes. Pure analysis and debate often cannot resolve these situations, while full-scale implementation may be too risky or expensive.
+Software teams frequently face decisions involving uncertainty, conflicting opinions, or high stakes. Pure analysis and debate often cannot resolve these situations. Meanwhile, full-scale implementation may be too risky or expensive.
 
 ## Problem
-Teams either commit to major decisions without sufficient evidence (risking costly mistakes) or get stuck in endless analysis and debate without making progress. Both approaches waste resources and slow down delivery.
+Teams either commit to major decisions without sufficient evidence or get stuck in endless analysis and debate without making progress. The first approach risks costly mistakes. Both approaches waste resources and slow down delivery.
 
 ## Solution
-Design small, controlled experiments to test key assumptions before making irreversible commitments. Structure experiments with clear hypotheses, success criteria, and time boundaries to generate actionable evidence.
+Design small, controlled experiments to test key assumptions before making irreversible commitments. Structure experiments with clear hypotheses, success criteria, and time boundaries. This generates actionable evidence.
 
 ## Forces
 - Uncertainty vs. Commitment - Need evidence before major decisions but can't delay indefinitely

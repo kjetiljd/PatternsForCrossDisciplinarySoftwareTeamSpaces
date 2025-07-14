@@ -1,4 +1,3 @@
-./organizational/structured-experiments.md
 ./organizational/swarm-reviews-pairing.md
 ./organizational/team-api.md
 ./organizational/team-composition-size.md
