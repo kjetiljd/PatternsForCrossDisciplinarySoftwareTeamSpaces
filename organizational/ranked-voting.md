@@ -3,31 +3,31 @@
 # Ranked Voting
 
 ## Summary
-Make group decisions by having participants rank options instead of selecting a single favorite, capturing nuanced preferences and identifying broadly acceptable solutions.
+Make group decisions by having people rank options instead of picking just one favorite. This captures detailed preferences and finds solutions most people can accept.
 
 ## Context
-Teams need to make decisions involving multiple viable options where simple majority voting or loudest voice approaches may not reflect the full range of team preferences or lead to optimal outcomes.
+Teams need to make decisions with multiple good options. Simple majority voting or loudest voice approaches may not show what the whole team wants or lead to the best outcomes.
 
 ## Problem
-Traditional single-choice voting can lead to polarization, strategic voting, or solutions that satisfy only a narrow majority while creating strong opposition from others. This approach misses opportunities for solutions that have broader acceptability.
+Traditional single-choice voting can lead to polarization, strategic voting, or solutions that satisfy only a small majority while creating strong opposition from others. This approach misses chances for solutions that more people can accept.
 
 ## Solution
-Have participants rank all options in order of preference, then use aggregation methods to identify the option with the strongest overall support. This captures the full range of preferences and tends to surface solutions that are broadly acceptable rather than just strongly preferred by some.
+Have people rank all options in order of preference, then use counting methods to find the option with the strongest overall support. This captures the full range of preferences and tends to find solutions that are broadly acceptable rather than just strongly preferred by some.
 
 ## Forces
-- Individual Preferences vs. Group Consensus - Need to respect diverse viewpoints while making decisions
-- Simplicity vs. Nuance - Simple voting is faster but ranked voting captures more information
+- Individual Preferences vs. Group Consensus - Need to respect different viewpoints while making decisions
+- Simplicity vs. Detail - Simple voting is faster but ranked voting captures more information
 - Majority vs. Broad Acceptance - Majority winners may create losers, broad acceptance builds commitment
-- Strategic vs. Honest Voting - Ranking systems reduce incentive for strategic manipulation
+- Strategic vs. Honest Voting - Ranking systems reduce reasons for strategic manipulation
 
 ## Implementation
-1. **Present Options**: Define a clear, mutually exclusive list of options to evaluate
-2. **Independent Ranking**: Each participant ranks all options in order of preference
-3. **Anonymous Submission**: Collect rankings individually to minimize influence
-4. **Aggregate Results**: Use counting method appropriate for the situation
-5. **Communicate Results**: Share how the winning option emerged from the collective preferences
+1. **Present Options**: Define a clear list of options that don't overlap
+2. **Independent Ranking**: Each person ranks all options in order of preference
+3. **Anonymous Submission**: Collect rankings individually to reduce influence
+4. **Count Results**: Use counting method right for the situation
+5. **Share Results**: Explain how the winning option came from everyone's preferences
 
-## Common Aggregation Methods
+## Common Counting Methods
 **Instant Runoff Voting (IRV):**
 - Eliminate option with fewest first-choice votes
 - Reassign those votes to next preferences
