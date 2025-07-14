@@ -3,13 +3,13 @@
 # Self-Governing Teams
 
 ## Summary
-Empower cross-functional teams of 5-12 people with autonomy over their work style and organization, supported by trust, clear boundaries, and emergent internal leadership roles.
+Empower cross-functional teams of 5-12 people with autonomy over their work style and organization. Support them with trust, clear boundaries, and emergent internal leadership roles.
 
 ## Context
-Cross-functional product teams that need to move quickly and adapt to changing requirements without bureaucratic overhead. Modern research emphasizes the critical enablers of true autonomy.
+Cross-functional product teams need to move quickly and adapt to changing requirements without bureaucratic overhead. Modern research emphasizes the critical enablers of true autonomy.
 
 ## Problem
-Traditional hierarchical structures create bottlenecks and reduce ownership. Teams become dependent on constant handoffs and external decisions, while managers fear losing control.
+Traditional hierarchical structures create bottlenecks and reduce ownership. Teams become dependent on constant handoffs and external decisions. Meanwhile, managers fear losing control.
 
 ## Solution
 Create autonomous teams that:
