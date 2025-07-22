@@ -4,7 +4,7 @@ layout: null
 [
   {% assign first = true %}
   {% for page in site.pages %}
-    {% if page.title != null and page.url != "/search.json" %}
+    {% if page.title != null and page.url != "/search.json" and page.url contains "/research/" == false %}
       {% unless first %},{% endunless %}
       {
         "title": "{{ page.title | escape }}",
