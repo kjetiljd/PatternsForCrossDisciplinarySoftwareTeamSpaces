@@ -12,7 +12,24 @@ Mob programming (or ensemble programming) brings the entire team together to wor
 Standard office layouts lack spaces where 4-6 people can comfortably gather around one shared screen for extended periods. Conference rooms are too formal and isolated. Open desk areas lack the focus and equipment needed for intensive collaborative coding sessions.
 
 ## Solution
-Design dedicated mob programming stations with:
+Design dedicated mob programming stations with large shared displays, flexible seating arrangements, and wireless input devices to support 4-6 person collaborative coding sessions. Create open-yet-defined spaces with acoustic treatment and mobile furniture for easy reconfiguration.
+
+## Forces
+- **Visibility vs. Intimacy:** Large displays must be visible to all while maintaining team connection
+- **Focus vs. Accessibility:** Space needs definition without creating barriers to participation
+- **Comfort vs. Energy:** Long sessions require comfort while maintaining engagement
+- **Inclusion vs. Distraction:** Open design invites stakeholder involvement but can create noise
+
+## Related Patterns
+- [Pair Programming Workstations](pair-programming-workstations.md) - Can be combined or scaled up for mob sessions
+- [Small Team Bays](small-team-bays.md) - May contain or be adjacent to mob programming corners
+- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Enables flexible mob space configuration
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Critical for sustained team collaboration
+- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Provides foundation for mob seating arrangements
+
+## Further details
+
+### Basic Configuration Requirements
 
 **Display and Table Setup:**
 - Large shared display (46" minimum) positioned for visibility from multiple rows
@@ -37,21 +54,6 @@ Design dedicated mob programming stations with:
 - Mix of seating options: task chairs, bar stools, lounge chairs
 - Mobile furniture allowing quick reconfiguration
 - Nearby whiteboard space for sketching and note-taking
-
-## Forces
-- **Visibility vs. Intimacy:** Large displays must be visible to all while maintaining team connection
-- **Focus vs. Accessibility:** Space needs definition without creating barriers to participation
-- **Comfort vs. Energy:** Long sessions require comfort while maintaining engagement
-- **Inclusion vs. Distraction:** Open design invites stakeholder involvement but can create noise
-
-## Related Patterns
-- [Pair Programming Workstations](pair-programming-workstations.md) - Can be combined or scaled up for mob sessions
-- [Small Team Bays](small-team-bays.md) - May contain or be adjacent to mob programming corners
-- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Enables flexible mob space configuration
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Critical for sustained team collaboration
-- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Provides foundation for mob seating arrangements
-
-## Further details
 
 ### Detailed Equipment Specifications
 
@@ -128,9 +130,9 @@ Design dedicated mob programming stations with:
 - **Quick Setup**: Color-coded cables and equipment for rapid room reconfiguration
 - **Storage**: Retractable or fold-down surfaces for temporary expansion
 
-## Comprehensive Facilitation Guidelines
+### Comprehensive Facilitation Guidelines
 
-### Effective Mob Session Management
+#### Effective Mob Session Management
 
 **Session Structure and Timing:**
 - **Duration**: 90-120 minute maximum sessions with 10-minute breaks
@@ -150,7 +152,7 @@ Design dedicated mob programming stations with:
 - **Observer Positions**: Arranged for optimal screen visibility and participation
 - **Movement Guidelines**: Smooth rotation protocols minimizing disruption
 
-### Communication and Participation Techniques
+#### Communication and Participation Techniques
 
 **Inclusive Participation Strategies:**
 - **Think-Aloud Protocol**: Driver verbalizes their thought process continuously
@@ -170,7 +172,7 @@ Design dedicated mob programming stations with:
 - **Voting Mechanisms**: Quick polls for multiple solution approaches
 - **Escalation Path**: Clear protocol for when mob cannot reach consensus
 
-### Technology and Tool Integration
+#### Technology and Tool Integration
 
 **Development Environment Setup:**
 - **Shared IDE Configuration**: Standardized settings, plugins, and shortcuts across team
@@ -184,9 +186,9 @@ Design dedicated mob programming stations with:
 - **Digital Whiteboard**: Shared virtual space for sketching and note-taking
 - **Presence Awareness**: Visual indicators of who is currently driving/navigating
 
-## Digital Equivalents for Virtual Mob Programming
+### Digital Equivalents for Virtual Mob Programming
 
-### Real-Time Collaborative Development Platforms
+#### Real-Time Collaborative Development Platforms
 
 **VS Code Live Share (Microsoft):**
 - **Capabilities**: Real-time collaborative code editing, shared debugging sessions, integrated terminal sharing
@@ -223,7 +225,7 @@ Design dedicated mob programming stations with:
 - **Setup**: Plugin installation with immediate sharing capabilities
 - **Driver Rotation**: Live code sharing with seamless control transfer
 
-### Virtual Mob Programming Session Structure
+#### Virtual Mob Programming Session Structure
 
 **Pre-Session Setup (15 minutes):**
 1. **Tool Testing**: Verify all participants can access shared environment
@@ -243,7 +245,7 @@ Design dedicated mob programming stations with:
 - **Sentiment Monitoring**: Digital indicators for "slow down," "question," or energy levels
 - **Documentation Capture**: Automated decision logging and architectural note-taking
 
-### Advanced Virtual Setup Configurations
+#### Advanced Virtual Setup Configurations
 
 **Hybrid Physical-Digital Spaces:**
 - **Always-On Displays**: Large screens in physical space showing remote participants
@@ -263,7 +265,7 @@ Design dedicated mob programming stations with:
 - **Code Quality Metrics**: Live feedback on collaborative code quality
 - **Session Effectiveness**: Automated retrospective data collection
 
-### Technology Infrastructure Requirements
+#### Technology Infrastructure Requirements
 
 **Network and Connectivity:**
 - **Minimum Bandwidth**: 50 Mbps upload per physical location for 5K video streaming
@@ -289,7 +291,7 @@ Design dedicated mob programming stations with:
 - **Performance Monitoring**: Real-time performance feedback during development
 - **Documentation Update**: Live updating of technical documentation and decisions
 
-### Space Transition and Multi-Use Protocols
+#### Space Transition and Multi-Use Protocols
 
 **Session Preparation (10 minutes):**
 1. **Environment Setup**: Boot systems, load project, test all input devices
@@ -309,7 +311,7 @@ Design dedicated mob programming stations with:
 - **Documentation Capture**: Save session notes, decisions, and code commits
 - **Next Session Prep**: Calendar booking and context preparation for continuation
 
-### Measuring Mob Programming Effectiveness
+#### Measuring Mob Programming Effectiveness
 
 **Session Quality Metrics:**
 - **Participation Balance**: Track speaking time and contribution distribution
@@ -329,9 +331,9 @@ Design dedicated mob programming stations with:
 - **Team Size Patterns**: Optimal team sizes for different types of work
 - **Equipment Usage**: Which tools and configurations are most/least used
 
-## Examples and Case Studies
+### Examples and Case Studies
 
-### Successful Mob Programming Environments
+#### Successful Mob Programming Environments
 
 **Hunter Industries - Automated Systems Division:**
 - **Setup**: 65" displays with height-adjustable tables seating 4-6 developers
@@ -353,13 +355,13 @@ Design dedicated mob programming stations with:
 
 ## Sources
 
-### Foundational Research
+#### Foundational Research
 - "Mob Programming: A Whole Team Approach" by Woody Zuill
 - Hunter Industries case study on mob programming spaces
 - Agile workspace design research on team collaboration areas
 - Ergonomic guidelines for multi-person workstation design
 
-### Virtual Collaboration Tools and Research (2024)
+#### Virtual Collaboration Tools and Research (2024)
 - Microsoft VS Code Live Share documentation and best practices
 - CodeTogether developer collaboration platform analysis
 - Tuple remote pair programming effectiveness studies
@@ -370,7 +372,7 @@ Design dedicated mob programming stations with:
 - Remote mob programming GitHub community tools and practices
 - Cross-platform collaboration tool comparison matrices (2024)
 
-### Hybrid Work Infrastructure
+#### Hybrid Work Infrastructure
 - Professional display technology specifications for collaborative environments
 - Network latency and bandwidth requirements for real-time collaboration
 - Security and compliance frameworks for distributed development
