@@ -1,4 +1,3 @@
-./organizational/thinking-out-loud.md
 ./organizational/transparent-artifacts.md
 ./organizational/trying-out-options.md
 ./temporal/annual-seasonal-patterns.md
