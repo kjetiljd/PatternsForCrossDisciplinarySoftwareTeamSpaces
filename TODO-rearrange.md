@@ -1,4 +1,3 @@
-./organizational/sync-async-balance-framework.md
 ./organizational/team-api.md
 ./organizational/team-composition-size.md
 ./organizational/thinking-out-loud.md
