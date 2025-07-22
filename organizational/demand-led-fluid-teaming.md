@@ -25,28 +25,36 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
 - **Strategic alignment vs. Operational continuity**: Make sure work flows smoothly during transitions
 - **Trust vs. Control**: Requires high organizational trust to avoid looking chaotic
 
-## Consequences
+## Related Patterns
+- [Aligned Autonomy](aligned-autonomy.md) - Ensures teams remain strategically aligned
+- [Communities of Practice](platform-teams-communities.md) - Provides continuity across team changes
+- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Defines optimal team composition
+- [Open Space Swarm Cadence](open-space-swarm-cadence.md) - Supports rapid team formation
 
-### Positive
+## Further details
+
+### Consequences
+
+#### Positive
 - **Better strategic alignment**: Teams directly serve current business priorities
 - **Higher employee engagement**: People see clear purpose in their current assignment
 - **Better resource allocation**: "People around the work" rather than work forced through fixed structures
 - **Organizational resilience**: Regular adaptation prevents buildup of "organizational debt"
 
-### Negative
+#### Negative
 - **Transition overhead**: Time and energy required for team reformation
 - **Potential anxiety**: May create uncertainty if not managed transparently
 - **Knowledge transfer challenges**: Risk of losing institutional memory between cycles
 - **Requires maturity**: Demands high trust and strong onboarding processes
 
-## Examples
+### Examples
 - **FAST Agile**: Quarterly reformation of entire programs based on product priorities
 - **Spotify-style tribes**: Regular adjustment of squad composition within tribes
 - **Consulting firms**: Project-based team formation following client demands
 
-## Implementation
+### Implementation
 
-### Transition Playbooks
+#### Transition Playbooks
 
 **Pre-Reformation Phase (Weeks 11-12 of Quarter)**
 1. **Current State Assessment**
@@ -93,7 +101,7 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
    - Establish new team rhythms and practices
    - Begin work on new strategic initiatives
 
-### Knowledge Preservation Strategies
+#### Knowledge Preservation Strategies
 
 **Institutional Memory Systems**
 - **Decision Logs**: Maintain searchable records of major decisions and rationale
@@ -113,7 +121,7 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
 - **Mentorship Programs**: Pair experienced practitioners with newer team members
 - **Internal Conferences**: Quarterly knowledge sharing events
 
-### Team Formation Exercises
+#### Team Formation Exercises
 
 **Skills and Interests Mapping**
 1. **Competency Matrix Creation**
@@ -154,7 +162,7 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
    - Agree on work-life balance expectations
    - Create conflict resolution procedures
 
-### Transition Risk Management
+#### Transition Risk Management
 
 **Common Failure Modes**
 - **Knowledge Silos**: Critical information trapped with departing team members
