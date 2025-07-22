@@ -14,6 +14,24 @@ Teams lack clear criteria for deciding when synchronous collaboration is essenti
 ## Solution
 Implement a systematic framework that categorizes work activities and provides clear decision criteria for choosing collaboration modes based on task characteristics, team context, and desired outcomes.
 
+## Forces
+- **Efficiency vs. Inclusion**: Sync can be efficient but excludes some participants
+- **Speed vs. Quality**: Async enables thoughtful responses but can slow decision-making
+- **Relationship vs. Productivity**: Sync builds connections, async enables deep work
+- **Flexibility vs. Coordination**: Async provides flexibility but can make coordination harder
+- **Individual vs. Team**: People have different preferences for sync/async collaboration
+- **Urgency vs. Sustainability**: High-sync approaches aren't sustainable long-term
+- **Complexity vs. Simplicity**: More options can create decision fatigue
+
+## Related Patterns
+- [Asynchronous Collaboration Norms](async-collaboration-norms.md) - Detailed async communication templates
+- [Anchor Days](anchor-days.md) - Regular sync time for hybrid teams
+- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Time coordination frameworks
+- [Hybrid Coordination Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Information flow patterns
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Async social connection
+
+## Further details
+
 ### The Sync/Async Decision Matrix
 
 **Use this framework to evaluate each collaboration need:**
@@ -381,18 +399,9 @@ Implement a systematic framework that categorizes work activities and provides c
 - **Cultural norms**: Team-specific practices and expectations
 - **Feedback mechanisms**: How to suggest improvements to sync/async balance
 
-## Forces
-- **Efficiency vs. Inclusion**: Sync can be efficient but excludes some participants
-- **Speed vs. Quality**: Async enables thoughtful responses but can slow decision-making
-- **Relationship vs. Productivity**: Sync builds connections, async enables deep work
-- **Flexibility vs. Coordination**: Async provides flexibility but can make coordination harder
-- **Individual vs. Team**: People have different preferences for sync/async collaboration
-- **Urgency vs. Sustainability**: High-sync approaches aren't sustainable long-term
-- **Complexity vs. Simplicity**: More options can create decision fatigue
+### Implementation Examples
 
-## Implementation Examples
-
-### Software Engineering Team (12 people, 4 time zones)
+#### Software Engineering Team (12 people, 4 time zones)
 **Sync/Async Balance**: 70% async, 30% sync
 
 **Async-First Activities**:
@@ -412,7 +421,7 @@ Implement a systematic framework that categorizes work activities and provides c
 - Feature planning: Async research, sync alignment, async implementation
 - Mentoring: Async preparation, sync sessions, async follow-up
 
-### Product Design Team (6 people, 2 time zones)
+#### Product Design Team (6 people, 2 time zones)
 **Sync/Async Balance**: 60% async, 40% sync
 
 **Async-First Activities**:
@@ -432,7 +441,7 @@ Implement a systematic framework that categorizes work activities and provides c
 - User journey mapping: Async research, sync synthesis
 - Prototyping: Individual work with sync collaboration points
 
-### Customer Success Team (8 people, 3 time zones)
+#### Customer Success Team (8 people, 3 time zones)
 **Sync/Async Balance**: 50% async, 50% sync
 
 **Async-First Activities**:
@@ -452,38 +461,31 @@ Implement a systematic framework that categorizes work activities and provides c
 - Feature feedback: Async collection, sync synthesis
 - Onboarding: Async materials, sync check-ins
 
-## Common Pitfalls and Solutions
+### Common Pitfalls and Solutions
 
-### Pitfall: Defaulting to Sync for Everything
+#### Pitfall: Defaulting to Sync for Everything
 **Symptoms**: Meeting fatigue, timezone complaints, lack of deep work
 **Solution**: Implement async-first policy with clear escalation criteria
 
-### Pitfall: Going Fully Async Without Sync Touch Points
+#### Pitfall: Going Fully Async Without Sync Touch Points
 **Symptoms**: Team disconnection, misalignment, decision paralysis
 **Solution**: Schedule regular sync connection time, use hybrid approaches
 
-### Pitfall: Not Adapting to Team Changes
+#### Pitfall: Not Adapting to Team Changes
 **Symptoms**: Sync/async balance feels wrong after team changes
 **Solution**: Reassess balance when team size, composition, or goals change
 
-### Pitfall: Inconsistent Application
+#### Pitfall: Inconsistent Application
 **Symptoms**: Some team members use sync, others async for same activities
 **Solution**: Create explicit team agreements, provide training
 
-### Pitfall: Technology Barriers
+#### Pitfall: Technology Barriers
 **Symptoms**: Tools don't support desired collaboration modes
 **Solution**: Invest in proper async collaboration tools, train team
 
-## Related Patterns
-- [Asynchronous Collaboration Norms](async-collaboration-norms.md) - Detailed async communication templates
-- [Anchor Days](anchor-days.md) - Regular sync time for hybrid teams
-- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Time coordination frameworks
-- [Hybrid Coordination Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Information flow patterns
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Async social connection
+### Research Foundation
 
-## Research Foundation
-
-### Empirical Evidence for Sync/Async Effectiveness
+#### Empirical Evidence for Sync/Async Effectiveness
 
 **Microsoft Teams Research (2021)**:
 - Teams using structured async communication showed 25% faster decision-making
@@ -509,7 +511,7 @@ Implement a systematic framework that categorizes work activities and provides c
 - 73% of remote workers prefer async communication for daily updates
 - Source: "State of Remote Work 2023" - Buffer
 
-### Cognitive Science Research
+#### Cognitive Science Research
 
 **Deep Work Effectiveness**:
 - Async-heavy environments enable average of 3.2 hours of deep work per day vs. 1.8 hours in sync-heavy environments
