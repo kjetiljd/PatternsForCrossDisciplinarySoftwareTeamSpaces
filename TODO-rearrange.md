@@ -1,4 +1,3 @@
-./meta-patterns/human-centric-design.md
 ./meta-patterns/productive-traces-preservation.md
 ./meta-patterns/rhythms-collaboration-focus.md
 ./meta-patterns/spaces-empower-invite.md
