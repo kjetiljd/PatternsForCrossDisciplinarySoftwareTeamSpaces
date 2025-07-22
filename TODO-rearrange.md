@@ -1,4 +1,3 @@
-./organizational/one-way-two-way-door-decisions.md
 ./organizational/open-space-swarm-cadence.md
 ./organizational/platform-teams-communities.md
 ./organizational/psychological-safety-practices.md
