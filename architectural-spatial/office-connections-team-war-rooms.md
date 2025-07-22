@@ -14,6 +14,24 @@ Teams that collaborate frequently but are physically separated waste time coordi
 ## Solution
 Create strategically connected office spaces using research-backed adjacency principles. Provide each team with dedicated war rooms configured for their specific size, work style, and hybrid patterns.
 
+## Forces
+- Need for team focus vs. inter-team collaboration
+- Space efficiency vs. team autonomy  
+- Noise management vs. communication flow
+- Fixed layouts vs. changing team compositions
+- In-person collaboration vs. remote team member inclusion
+- Privacy for sensitive discussions vs. transparency and osmotic communication
+
+## Related Patterns
+- [Small Team Bays](small-team-bays.md) - Individual team workspace design
+- [Work Community Clusters](work-community-clusters.md) - Broader organizational spatial clustering
+- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Privacy/openness balance principles
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Collaboration space design
+- [Embedded Telepresence Team Spaces](../organizational/embedded-telepresence-team-spaces.md) - Hybrid work technology
+- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Flexible space adaptation
+
+## Further details
+
 ### Optimal Spatial Relationships
 
 #### Team Adjacency Principles
@@ -55,14 +73,6 @@ Create strategically connected office spaces using research-backed adjacency pri
 - **Layout**: Multi-zone with breakout areas
 - **Technology**: Multiple displays, advanced A/V system
 - **Furniture**: Configurable furniture for sub-team work
-
-## Forces
-- Need for team focus vs. inter-team collaboration
-- Space efficiency vs. team autonomy  
-- Noise management vs. communication flow
-- Fixed layouts vs. changing team compositions
-- In-person collaboration vs. remote team member inclusion
-- Privacy for sensitive discussions vs. transparency and osmotic communication
 
 ### Hybrid Work Integration
 
@@ -141,14 +151,6 @@ Create strategically connected office spaces using research-backed adjacency pri
 - **Noise Pollution**: Poor acoustic design → Retrofit with sound absorption, adjust layouts
 - **Technology Failures**: Poor A/V experience → Redundant systems, regular maintenance
 - **Territorial Behavior**: Teams become protective → Rotate assignments, shared ownership
-
-## Related Patterns
-- [Small Team Bays](small-team-bays.md) - Individual team workspace design
-- [Work Community Clusters](work-community-clusters.md) - Broader organizational spatial clustering
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Privacy/openness balance principles
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Collaboration space design
-- [Embedded Telepresence Team Spaces](../organizational/embedded-telepresence-team-spaces.md) - Hybrid work technology
-- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Flexible space adaptation
 
 ## Sources
 - Allen, T. & Henn, G. (2007). "The Organization and Architecture of Innovation"
