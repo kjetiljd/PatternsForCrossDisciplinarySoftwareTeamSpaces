@@ -1,4 +1,3 @@
-./meta-patterns/rhythms-collaboration-focus.md
 ./meta-patterns/spaces-empower-invite.md
 ./meta-patterns/transparency-osmotic-communication.md
 ./organizational/aligned-autonomy.md
