@@ -12,18 +12,29 @@ Teams working on related technologies or serving similar domains can benefit fro
 Teams working on related problems but located far apart miss opportunities for knowledge sharing and collaborative problem-solving.
 
 ## Solution
-Arrange teams with complementary skills or related work domains in adjacent spaces. Use evidence-based spatial arrangements, systematic measurement methods, and hybrid work adaptations. This maximizes opportunities for informal collaboration and knowledge transfer.
+Arrange teams with complementary skills or related work domains in adjacent spaces. Use evidence-based spatial arrangements that maximize opportunities for informal collaboration and knowledge transfer while adapting for hybrid work environments.
 
-### Optimal Spatial Arrangements
+## Forces
+- Collaboration benefits vs. space constraints
+- Related work domains vs. team autonomy
+- Planned adjacency vs. organic team evolution
+- Noise and interruption vs. knowledge sharing
+
+## Related Patterns
+- [Shared Equipment Core](shared-equipment-core.md)
+- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md)
+- [Work Community Clusters](../architectural-spatial/work-community-clusters.md)
+
+## Further details
 
 **Research-Based Adjacency Principles:**
 
 *Distance and Interaction Research Findings:*
 - **Propinquity Effect:** Interaction probability decreases exponentially with distance
 - **Allen Curve:** Communication frequency drops dramatically beyond 50-meter separation
-- **Critical Thresholds:** 
+- **Critical Thresholds:**
   - <10 meters: Daily informal interaction (>80% probability)
-  - 10-30 meters: Weekly interaction (40-60% probability)  
+  - 10-30 meters: Weekly interaction (40-60% probability)
   - 30-50 meters: Monthly interaction (20-30% probability)
   - >50 meters: Rare interaction (<10% probability)
 
@@ -380,18 +391,7 @@ Arrange teams with complementary skills or related work domains in adjacent spac
 - **Platform Migration:** Coordinated adjacency during major technology transitions
 - **Legacy System Maintenance:** Different adjacency needs for teams maintaining vs. building new systems
 
-## Forces
-- Collaboration benefits vs. space constraints
-- Related work domains vs. team autonomy
-- Planned adjacency vs. organic team evolution
-- Noise and interruption vs. knowledge sharing
-
-## Related Patterns
-- [Shared Equipment Core](shared-equipment-core.md)
-- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md)
-- [Work Community Clusters](../architectural-spatial/work-community-clusters.md)
-
-## Implementation Case Studies
+### Implementation Case Studies
 
 ### Case Study 1: Spotify's Tribe and Squad Adjacency (Stockholm, 2015-2018)
 
@@ -553,7 +553,7 @@ Arrange teams with complementary skills or related work domains in adjacent spac
 - **Medium-term:** 25-45% increase in innovation transfer and knowledge sharing within 12 months
 - **Long-term:** 40-80% improvement in organizational learning and problem-solving capabilities within 24 months
 
-## When Lab Adjacency Fails: Critical Analysis
+### When Lab Adjacency Fails: Critical Analysis
 
 ### Failed Implementation Case Studies
 
@@ -752,6 +752,7 @@ Arrange teams with complementary skills or related work domains in adjacent spac
 - **Voluntary Participation:** Opt-in adjacency for willing teams
 - **Hybrid Models:** Partial adjacency with individual workspace options
 - **Temporal Adjacency:** Coordinated in-person days without permanent co-location
+
 
 ## Sources
 - Research lab organization principles
