@@ -21,35 +21,7 @@ Current solutions create problems:
 - **Leaving the Office**: Breaks work flow and removes person from team availability
 
 ## Solution
-Install small, soundproof privacy pods within or right next to team work areas:
-
-**Physical Design:**
-- Single-person capacity (approximately 4x4 feet internal space)
-- Sound-dampening materials that reduce noise transmission by 25-30 decibels
-- Clear sides or windows to keep visual connection while providing acoustic privacy
-- Ventilation system for air circulation during extended use
-- Interior lighting set up for video calls
-
-**Technology Integration:**
-- Power outlets for device charging (minimum 2 standard outlets + 2 USB)
-- USB-C and USB-A connectivity with fast charging
-- Small shelf or surface for laptop and notes with device management
-- Optional: integrated webcam and microphone for video calls
-- Wi-Fi signal boost if needed for connectivity
-- Ethernet port for stable internet connection during critical calls
-- Cable management system to prevent clutter and tripping hazards
-
-**Spatial Integration:**
-- Located within 10-15 steps of team work area
-- Multiple pods per team cluster to avoid queuing
-- Positioned to not block natural light or emergency egress
-- Clear sight lines from team area for availability awareness
-
-**Ergonomic Features:**
-- Comfortable seating for calls up to 30-45 minutes
-- Adjustable height desk surface
-- Adequate interior space to avoid claustrophobia
-- Easy entry/exit without awkward maneuvering
+Install small, soundproof privacy pods within or right next to team work areas. Provide single-person capacity with sound-dampening materials that significantly reduce noise transmission. Include ventilation, lighting, and technology integration for video calls. Position within steps of team work area while maintaining visual connection.
 
 ## Forces
 - **Privacy vs. Accessibility**: Acoustic isolation balanced with team integration
@@ -94,7 +66,46 @@ Research supports the need for acoustic privacy solutions:
 - **Psychological Barriers**: Some people may feel claustrophobic in small enclosed spaces
 - **Usage Conflicts**: Teams may need protocols for fair access during busy periods
 
-## Implementation
+## Related Patterns
+- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Complementary privacy solutions
+- [Small Team Bays](small-team-bays.md) - Primary work areas that booths support
+- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Alternative to formal meeting rooms
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Team collaboration privacy
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and climate considerations
+- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Privacy needs align with temporal patterns of collaboration and focus time
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md) - Call booths enable private synchronous communication while maintaining async-first culture
+
+## Implementation notes
+
+### Physical Design
+- Single-person capacity (approximately 4x4 feet internal space)
+- Sound-dampening materials that reduce noise transmission by 25-30 decibels
+- Clear sides or windows to keep visual connection while providing acoustic privacy
+- Ventilation system for air circulation during extended use
+- Interior lighting set up for video calls
+
+### Technology Integration
+- Power outlets for device charging (minimum 2 standard outlets + 2 USB)
+- USB-C and USB-A connectivity with fast charging
+- Small shelf or surface for laptop and notes with device management
+- Optional: integrated webcam and microphone for video calls
+- Wi-Fi signal boost if needed for connectivity
+- Ethernet port for stable internet connection during critical calls
+- Cable management system to prevent clutter and tripping hazards
+
+### Spatial Integration
+- Located within 10-15 steps of team work area
+- Multiple pods per team cluster to avoid queuing
+- Positioned to not block natural light or emergency egress
+- Clear sight lines from team area for availability awareness
+
+### Ergonomic Features
+- Comfortable seating for calls up to 30-45 minutes
+- Adjustable height desk surface
+- Adequate interior space to avoid claustrophobia
+- Easy entry/exit without awkward maneuvering
+
+### Implementation
 
 **Planning Phase:**
 1. **Assess Team Needs**: Survey current phone call and privacy requirements
@@ -114,9 +125,18 @@ Research supports the need for acoustic privacy solutions:
 3. **Maintenance Procedures**: Create cleaning and upkeep schedules
 4. **Feedback Collection**: Monitor usage patterns and satisfaction
 
-## Detailed Technology Integration Specifications
+### Usage Guidelines
+- **Time Limits**: 30-45 minute maximum sessions to ensure availability
+- **Visual Availability**: Keep booth visible to team for awareness
+- **Emergency Protocol**: Clear exit procedures and emergency communication
+- **Hygiene Standards**: Regular cleaning and ventilation maintenance
+- **Conflict Resolution**: Fair usage policies during high-demand periods
+- **Technology Etiquette**: Test equipment before important calls, report issues immediately
+- **Space Respect**: Leave booth clean and ready for next user
 
-### Audio/Visual Equipment for Small Enclosed Spaces
+### Detailed Technology Integration Specifications
+
+#### Audio/Visual Equipment for Small Enclosed Spaces
 
 **Microphone Systems:**
 - **Recommended**: Shure MV7 or Audio-Technica AT2020USB+ with boom arm
@@ -146,7 +166,7 @@ Research supports the need for acoustic privacy solutions:
   - Fresh air intake with HEPA filtration
   - CO2 monitoring with automatic ventilation adjustment
 
-### Software Integration Requirements
+#### Software Integration Requirements
 
 **Booking and Management Platform:**
 - Integration with existing calendar systems (Outlook, Google Calendar, Slack)
@@ -160,9 +180,9 @@ Research supports the need for acoustic privacy solutions:
 - Automatic microphone and camera testing before calls
 - Screen sharing optimization for small display environments
 
-## Lightweight Booking Systems and Protocols
+### Lightweight Booking Systems and Protocols
 
-### Quick-Reserve Approaches (No Administrative Overhead)
+#### Quick-Reserve Approaches (No Administrative Overhead)
 
 **Visual Status Systems:**
 - **Traffic Light Indicator**: Green/Yellow/Red LED visible from team area
@@ -178,7 +198,7 @@ Research supports the need for acoustic privacy solutions:
 - **Mobile App**: Company app with booth finder and one-tap booking
 - **Smart Badge Integration**: RFID badge tap for automatic 30-minute reservation
 
-### Booking Protocols and Etiquette
+#### Booking Protocols and Etiquette
 
 **Time-Based Guidelines:**
 - **Default Sessions**: 30 minutes maximum for standard calls
@@ -200,7 +220,7 @@ Research supports the need for acoustic privacy solutions:
 - **Usage Monitoring**: Weekly review of booking patterns to identify needs and abuse
 - **Feedback Integration**: Monthly team feedback on booking fairness and availability
 
-### Booking System Implementation Options
+#### Booking System Implementation Options
 
 **Option 1: Calendar Integration System**
 - **Technology**: Microsoft Bookings or Google Calendar room scheduling
@@ -220,9 +240,9 @@ Research supports the need for acoustic privacy solutions:
 - **Benefits**: Seamless integration, usage analytics, automatic availability updates
 - **Drawbacks**: Higher initial investment, dependency on building systems
 
-## Comprehensive Maintenance Protocols
+### Comprehensive Maintenance Protocols
 
-### Daily Maintenance Procedures
+#### Daily Maintenance Procedures
 
 **End-of-Day Cleaning (10 minutes per booth):**
 1. **Surface Sanitization**: Wipe all touchable surfaces with approved disinfectant
@@ -254,7 +274,7 @@ Research supports the need for acoustic privacy solutions:
    - Check filter conditions and replace if needed
    - Test automatic humidity and CO2 sensing systems
 
-### Monthly Technical Maintenance
+#### Monthly Technical Maintenance
 
 **System Performance Review (45 minutes per booth):**
 1. **Technology Audit**:
@@ -273,7 +293,7 @@ Research supports the need for acoustic privacy solutions:
    - Review user feedback and complaints for improvement opportunities
    - Assess space utilization efficiency and recommend adjustments
 
-### Quarterly Comprehensive Service
+#### Quarterly Comprehensive Service
 
 **Professional Service Requirements (2 hours per booth):**
 1. **Acoustic Performance Testing**:
@@ -292,7 +312,7 @@ Research supports the need for acoustic privacy solutions:
    - Inspect hardware and replace worn components
    - Plan capacity for future technology needs
 
-### Maintenance Cost Planning
+#### Maintenance Cost Planning
 
 **Annual Budget Estimates per Booth:**
 - **Daily/Weekly Cleaning**: $800-1,200/year (staff time and supplies)
@@ -307,7 +327,7 @@ Research supports the need for acoustic privacy solutions:
 - **Structural Elements**: 10+ year lifespan for booth shell and acoustic materials
 - **Ventilation Systems**: 7-10 year replacement cycle for mechanical components
 
-### Preventive Maintenance Indicators
+#### Preventive Maintenance Indicators
 
 **Early Warning Systems:**
 - **Usage Analytics**: Monitor for unusual usage patterns that might indicate problems
@@ -320,24 +340,6 @@ Research supports the need for acoustic privacy solutions:
 - **Air Quality**: Increase filter replacement frequency if CO2 levels exceed 1000ppm during use
 - **Technology Issues**: Replace components if failure rate exceeds 10% of usage sessions
 - **Physical Wear**: Refurbish booth interior if user satisfaction drops below 85%
-
-## Usage Guidelines
-- **Time Limits**: 30-45 minute maximum sessions to ensure availability
-- **Visual Availability**: Keep booth visible to team for awareness
-- **Emergency Protocol**: Clear exit procedures and emergency communication
-- **Hygiene Standards**: Regular cleaning and ventilation maintenance
-- **Conflict Resolution**: Fair usage policies during high-demand periods
-- **Technology Etiquette**: Test equipment before important calls, report issues immediately
-- **Space Respect**: Leave booth clean and ready for next user
-
-## Related Patterns
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Complementary privacy solutions
-- [Small Team Bays](small-team-bays.md) - Primary work areas that booths support
-- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Alternative to formal meeting rooms
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Team collaboration privacy
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and climate considerations
-- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Privacy needs align with temporal patterns of collaboration and focus time
-- [Async Collaboration Norms](../organizational/async-collaboration-norms.md) - Call booths enable private synchronous communication while maintaining async-first culture
 
 ## Sources
 - Office productivity research on open plan environments
