@@ -12,7 +12,25 @@ Software developers need spaces that give them privacy to concentrate while stay
 Completely open spaces are too distracting for focused work. Fully enclosed spaces isolate team members and reduce spontaneous collaboration and osmotic communication. Most workspace designs fail to achieve the right balance, causing productivity loss from distractions or team dysfunction from over-isolation.
 
 ## Solution
-Design work areas with precisely calculated partial enclosure using the following specifications:
+Design work areas with precisely calculated partial enclosure. Use 60-75% visual barriers with heights between 1.2-1.4m for visual privacy while maintaining team connection. Include acoustic treatment appropriate for the activity type. Position barriers to create psychological territory while preserving accessibility and air circulation.
+
+## Forces
+- Focus and concentration needs vs. team communication
+- Personal privacy vs. team awareness  
+- Acoustic isolation vs. ability to overhear relevant conversations
+- Individual preferences vs. team cohesion
+- Cost efficiency vs. spatial flexibility
+- Maintenance needs vs. material performance
+
+## Related Patterns
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Individual workspace privacy design
+- [Small Team Bays](small-team-bays.md) - Team-level privacy and enclosure
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and lighting considerations
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Collaboration spaces with similar privacy principles
+- [Call Booths](call-booths.md) - Complementary individual privacy solution
+- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Flexible barrier systems
+
+## Further details
 
 ### Optimal Enclosure Dimensions
 - **Visual Privacy Height**: 1.2-1.4m (48-55 inches) - blocks visual distractions while seated, allows standing interaction
@@ -26,14 +44,6 @@ Design work areas with precisely calculated partial enclosure using the followin
 - **Pair Programming**: 60-65% enclosure with 1.2m barriers for easy collaboration
 - **Code Review/Quick Discussions**: 50-60% enclosure with 1.0-1.2m barriers
 - **Research/Learning**: 65-70% enclosure with moderate acoustic treatment
-
-## Forces
-- Focus and concentration needs vs. team communication
-- Personal privacy vs. team awareness  
-- Acoustic isolation vs. ability to overhear relevant conversations
-- Individual preferences vs. team cohesion
-- Cost efficiency vs. spatial flexibility
-- Maintenance needs vs. material performance
 
 ### Material Recommendations
 
@@ -323,14 +333,6 @@ Physical half-open spaces balance visual and acoustic privacy with team connecti
 - **Cognitive Accessibility**: Simple interfaces, clear navigation, predictable patterns
 - **Motor Accessibility**: Voice control options, gesture alternatives, assistive technology integration
 - **Cultural Accessibility**: Multiple language support, cultural norm recognition, flexible social protocols
-
-## Related Patterns
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Individual workspace privacy design
-- [Small Team Bays](small-team-bays.md) - Team-level privacy and enclosure
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and lighting considerations
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Collaboration spaces with similar privacy principles
-- [Call Booths](call-booths.md) - Complementary individual privacy solution
-- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Flexible barrier systems
 
 ## Sources
 - Acoustic performance standards: ASTM E1130, ISO 354
