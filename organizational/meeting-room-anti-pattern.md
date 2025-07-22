@@ -31,14 +31,6 @@ Meeting rooms create several anti-patterns that hurt teamwork:
 - Pre-planned meetings miss chances for key experts to join talks naturally
 - Physical isolation reduces cross-field views and input
 
-## Evidence
-Research shows the problems with formal meeting approaches:
-
-- **Meeting Problems**: 71% of senior managers consider meetings unproductive and inefficient (Harvard Business Review)
-- **Lost New Ideas**: Spontaneous meetings (18% of all meetings) are more effective for new ideas than formal scheduled meetings
-- **Distance Effect**: MIT's Allen Curve research shows teamwork drops with physical distance. Even one floor separation dramatically reduces communication
-- **Switching Costs**: Broken schedules force people to work early, late, or weekends to find uninterrupted time for creative work
-
 ## Solution
 **Reserve meeting rooms for non-core team activities:**
 - Admin meetings that don't require creative teamwork
@@ -60,26 +52,43 @@ Research shows the problems with formal meeting approaches:
 - **Space Efficiency vs. Teamwork Quality**: Meeting rooms seem efficient but often hurt teamwork effectiveness
 - **Hierarchy vs. Equality**: Traditional meeting rooms reinforce power structures that block psychological safety
 
-## Consequences
+## Related Patterns
+- [Adjacent Semi-Private Spaces](../architectural-spatial/adjacent-semi-private-spaces.md) - Primary alternative to meeting rooms
+- [Call Booths](../architectural-spatial/call-booths.md) - Privacy solution that maintains team connection
+- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md) - Supports spontaneous encounters
+- [In-Zone Collaboration](../organizational/in-zone-collaboration.md) - Process pattern for team-area discussions
+- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Alternative collaboration practices
 
-### Positive (when anti-pattern is avoided)
+## Further details
+
+### Evidence
+Research shows the problems with formal meeting approaches:
+
+- **Meeting Problems**: 71% of senior managers consider meetings unproductive and inefficient (Harvard Business Review)
+- **Lost New Ideas**: Spontaneous meetings (18% of all meetings) are more effective for new ideas than formal scheduled meetings
+- **Distance Effect**: MIT's Allen Curve research shows teamwork drops with physical distance. Even one floor separation dramatically reduces communication
+- **Switching Costs**: Broken schedules force people to work early, late, or weekends to find uninterrupted time for creative work
+
+### Consequences
+
+#### Positive (when anti-pattern is avoided)
 - **Enhanced Spontaneous Teamwork**: Work happens naturally in context without scheduling overhead
 - **Preserved Work Flow**: No artificial breaks in the rhythm of creative work
 - **Increased Cross-Disciplinary Input**: Experts can naturally join relevant conversations
 - **Better Context Use**: Teams have access to their artifacts, boards, and reference materials
 - **Reduced Meeting Overhead**: Less time spent in formal, structured meetings
 
-### Negative (risks to monitor)
+#### Negative (risks to monitor)
 - **Lack of Privacy**: Some discussions truly require confidential settings
 - **Informal Documentation**: Important decisions may not be properly recorded
 - **Noise and Distraction**: Team discussions may disturb individual work
 - **Client Expectations**: External stakeholders may expect formal meeting environments
 
-## Transition Strategies for Meeting-Dependent Organizations
+### Transition Strategies for Meeting-Dependent Organizations
 
 *Organizations with ingrained meeting cultures need structured approaches to reduce dependence on formal meeting rooms.*
 
-### Phase 1: Assessment and Pilot (Months 1-2)
+#### Phase 1: Assessment and Pilot (Months 1-2)
 **Current State Analysis:**
 - **Meeting audit**: Track all conference room usage for 2 weeks. Categorize by purpose (admin, creative teamwork, client-facing, decisions)
 - **Effectiveness assessment**: Survey participants on which meetings produced valuable outcomes vs. those that felt wasteful
@@ -91,7 +100,7 @@ Research shows the problems with formal meeting approaches:
 - Provide alternative teamwork spaces before removing meeting room access
 - Set 8-week pilot period with weekly feedback collection
 
-### Phase 2: Alternative Development (Months 2-4)
+#### Phase 2: Alternative Development (Months 2-4)
 **Space Modification:**
 - **Convert 50% of meeting rooms** to adjacent semi-private spaces within team areas
 - **Relocate remaining meeting rooms** away from core work areas (different floor if possible)
@@ -104,7 +113,7 @@ Research shows the problems with formal meeting approaches:
 - **Implement "meeting-free mornings"** or afternoons to protect focus time
 - **Create escalation criteria** for when formal meeting rooms are actually necessary
 
-### Phase 3: Organizational Rollout (Months 4-8)
+#### Phase 3: Organizational Rollout (Months 4-8)
 **Gradual Expansion:**
 - **Team-by-team adoption** based on readiness and space availability
 - **Manager training** on facilitating in-zone teamwork vs. formal meetings
@@ -117,11 +126,11 @@ Research shows the problems with formal meeting approaches:
 - **Assess space use** to optimize layout and furniture placement
 - **Document failure modes** and develop solutions for common challenges
 
-## Cultural Factors in Implementation
+### Cultural Factors in Implementation
 
 *Different cultural contexts require adapted approaches to reducing meeting room dependence.*
 
-### High-Context Cultures (East Asian, Arab, Latin American)
+#### High-Context Cultures (East Asian, Arab, Latin American)
 **Challenges:**
 - Formal meetings signal respect and importance to stakeholders
 - Hierarchy considerations make informal teamwork feel disrespectful
@@ -133,7 +142,7 @@ Research shows the problems with formal meeting approaches:
 - **Establish explicit protocols** for when informal vs. formal teamwork is appropriate
 - **Use cultural bridges** - senior team members who model informal teamwork to legitimize it
 
-### Individualistic Cultures (North American, Northern European)
+#### Individualistic Cultures (North American, Northern European)
 **Challenges:**
 - Strong preference for individual autonomy and private work space
 - Resistance to "open" teamwork that feels intrusive
@@ -145,7 +154,7 @@ Research shows the problems with formal meeting approaches:
 - **Allow team-level experimentation** rather than organization-wide mandates
 - **Frame as efficiency improvement** rather than cultural change
 
-### Egalitarian Cultures (Scandinavian, Dutch)
+#### Egalitarian Cultures (Scandinavian, Dutch)
 **Challenges:**
 - Consensus-building traditions may initially favor formal meeting structures
 - Concern about ensuring all voices are heard in informal settings
@@ -157,7 +166,7 @@ Research shows the problems with formal meeting approaches:
 - **Establish rotation of facilitation roles** to maintain egalitarian participation
 - **Document informal decisions** to maintain transparency and accountability
 
-### Power Distance Considerations
+#### Power Distance Considerations
 **High Power Distance Environments:**
 - **Maintain hierarchical seating options** within team spaces
 - **Preserve senior-level meeting rooms** for leadership decisions
@@ -168,7 +177,7 @@ Research shows the problems with formal meeting approaches:
 - **Encourage cross-level informal interaction** through space layout and cultural norms
 - **Use flat team structures** to model effective informal teamwork
 
-## Implementation
+### Implementation Steps
 
 1. **Audit Current Meeting Use**: Track what types of meetings actually happen in conference rooms
 2. **Check Cultural Context**: Understand how company and national culture affects teamwork choices
@@ -177,17 +186,10 @@ Research shows the problems with formal meeting approaches:
 5. **Establish New Norms**: Train teams to default to in-zone teamwork for creative work while respecting cultural needs
 6. **Monitor Teamwork Quality**: Measure how often and how well spontaneous vs. formal interactions work
 
-## Examples
+### Examples
 - **Basecamp**: Uses "library rules" in open office with quiet focus areas rather than meeting rooms for teamwork
 - **MIT Buildings**: Designed common areas and circulation to maximize spontaneous interactions rather than formal meeting spaces
 - **Spotify Squads**: Teams work in dedicated areas with adjacent team spaces rather than booking separate rooms
-
-## Related Patterns
-- [Adjacent Semi-Private Spaces](../architectural-spatial/adjacent-semi-private-spaces.md) - Primary alternative to meeting rooms
-- [Call Booths](../architectural-spatial/call-booths.md) - Privacy solution that maintains team connection
-- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md) - Supports spontaneous encounters
-- [In-Zone Collaboration](../organizational/in-zone-collaboration.md) - Process pattern for team-area discussions
-- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Alternative collaboration practices
 
 ## Sources
 - Harvard Business Review: "Stop the Meeting Madness" (2017)
