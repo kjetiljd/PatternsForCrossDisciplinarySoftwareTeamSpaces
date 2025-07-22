@@ -46,11 +46,27 @@ Create cross-functional teams designed for both good skill coverage and effectiv
 - **Facilitation and coordination**: Meeting facilitation, project coordination, managing stakeholders
 - **Mentoring and learning**: Building skills, onboarding, knowledge transfer
 
-## Team Formation Strategies
+## Forces
+- Skill coverage vs. team size
+- Communication efficiency vs. broad capabilities
+- Team stability vs. organizational flexibility
+- Specialization vs. generalization
+
+## Related Patterns
+- [Self-Governing Teams](self-governing-teams.md)
+- [Small Team Bays](../architectural-spatial/small-team-bays.md)
+- [Cross-Team Synchronization](cross-team-synchronization.md)
+- [Synchronous/Asynchronous Balance Framework](sync-async-balance-framework.md) - Communication patterns for hybrid teams
+- [Hybrid Coordination Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Information flow in distributed teams
+- [Anchor Days](anchor-days.md) - In-person connection for hybrid teams
+
+## Further details
+
+### Team Formation Strategies
 
 *Specific approaches for assembling effective cross-functional teams that balance skills, personalities, and working styles.*
 
-### Formation Process Framework
+#### Formation Process Framework
 
 **Phase 1: Skills Assessment and Gap Analysis**
 1. **Map required capabilities** against current team composition using skill coverage framework
@@ -70,7 +86,7 @@ Create cross-functional teams designed for both good skill coverage and effectiv
 3. **Relationship building**: Structured activities to build trust and understanding between team members
 4. **Skill mapping**: Document each member's strengths, interests, and development areas
 
-### Practical Formation Approaches
+#### Practical Formation Approaches
 
 **Strategy 1: Core Team Expansion**
 - Start with 3-4 high-performing individuals who work well together
@@ -96,18 +112,18 @@ Create cross-functional teams designed for both good skill coverage and effectiv
 - Use clear protocols for integrating temporary members
 - Best for: Variable project needs, scarce specialized skills
 
-## Diversity Considerations for Team Effectiveness
+### Diversity Considerations for Team Effectiveness
 
 *How diversity of background, experience, and thinking styles strengthens team performance and decision-making.*
 
-### Cognitive Diversity Benefits
+#### Cognitive Diversity Benefits
 **Problem-Solving Enhancement:**
 - **Diverse perspectives** lead to more creative solutions and better identification of potential problems
 - **Different mental models** help teams avoid groupthink and challenge assumptions
 - **Varied experience** provides broader knowledge base for decision-making and risk assessment
 - **Complementary thinking styles** (analytical, creative, practical, strategic) improve solution quality
 
-### Types of Beneficial Diversity
+#### Types of Beneficial Diversity
 
 **Professional Background Diversity:**
 - **Industry experience**: Team members from different industries bring varied approaches to common problems
@@ -127,7 +143,7 @@ Create cross-functional teams designed for both good skill coverage and effectiv
 - **User perspective**: Team members who represent or understand different user segments
 - **Risk tolerance**: Combination of risk-averse and risk-taking personality types
 
-### Implementing Diversity Effectively
+#### Implementing Diversity Effectively
 
 **Inclusive Team Formation:**
 - **Bias awareness**: Recognize unconscious bias in team selection and actively counteract it
@@ -280,20 +296,6 @@ Create cross-functional teams designed for both good skill coverage and effectiv
 - **Rotation practices**: Rotate meeting times, pairing assignments, facilitation roles
 - **Skill development**: Continuous improvement of hybrid collaboration skills
 - **Cultural reinforcement**: Regularly reinforce inclusive hybrid team norms
-
-## Forces
-- Skill coverage vs. team size
-- Communication efficiency vs. broad capabilities
-- Team stability vs. organizational flexibility
-- Specialization vs. generalization
-
-## Related Patterns
-- [Self-Governing Teams](self-governing-teams.md)
-- [Small Team Bays](../architectural-spatial/small-team-bays.md)
-- [Cross-Team Synchronization](cross-team-synchronization.md)
-- [Synchronous/Asynchronous Balance Framework](sync-async-balance-framework.md) - Communication patterns for hybrid teams
-- [Hybrid Coordination Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Information flow in distributed teams
-- [Anchor Days](anchor-days.md) - In-person connection for hybrid teams
 
 ## Sources
 - Amazon's two-pizza team rule
