@@ -12,7 +12,39 @@ Hybrid work environments where teams are spread out but need regular in-person c
 Rigid "3 days in office" mandates often result in people coming in just to sit on Zoom calls. Teams lose the benefits of in-person interaction without gaining focus time.
 
 ## Solution
-Implement purposeful anchor days with structured frameworks:
+Implement purposeful anchor days where the whole team commits to being present on-site together for relationship-building and collaborative work that benefits from in-person interaction.
+
+## Forces
+- Remote work can erode team relationships and trust
+- Spontaneous collaboration requires critical mass of people
+- Hybrid schedules need coordination to be effective
+- Teams need face-to-face time for complex problem-solving
+- Forced office time without purpose feels punitive
+
+
+## Examples
+
+**Mid-size SaaS Company (50 people)**:
+- Monthly anchor days, first Thursday of each month
+- 9AM coffee/check-ins, 10AM-12PM cross-team workshops, shared lunch, 2PM-4PM focused pair work
+- Measured 40% increase in cross-team collaboration, 15% improvement in team satisfaction scores
+
+**Distributed Engineering Team (8 people)**:
+- Quarterly 2-day intensives, rotating between team member cities
+- Day 1: Technical deep dives and architecture planning; Day 2: Social activities and relationship building
+- Challenge: $3K travel costs per intensive; Success: Reduced async communication delays by 60%
+
+**Hybrid Consulting Firm (25 people)**:
+- Bi-weekly anchor Tuesdays with optional attendance
+- Morning client work, afternoon internal collaboration, optional after-work social
+- Adaptation: Shortened format during busy client periods, extended during proposal seasons
+
+## Related Patterns
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md)
+- [Communal Eating](../temporal/communal-eating.md)
+- [Cross-Team Events](../temporal/cross-team-events.md)
+
+## Further details
 
 ### Scheduling Frameworks
 
@@ -110,13 +142,6 @@ Implement purposeful anchor days with structured frameworks:
 - Time splits based on team's natural work patterns
 - Respect for different comfort levels with social interaction
 
-## Forces
-- Remote work can erode team relationships and trust
-- Spontaneous collaboration requires critical mass of people
-- Hybrid schedules need coordination to be effective
-- Teams need face-to-face time for complex problem-solving
-- Forced office time without purpose feels punitive
-
 ### Measurement Methods
 
 **Attendance & Participation Metrics**:
@@ -180,28 +205,6 @@ Implement purposeful anchor days with structured frameworks:
 **Cultural Resistance**:
 - Problem: Team prefers pure remote work
 - Solution: Start small (half-day trial), emphasize voluntary participation, focus on specific collaboration needs rather than general "team building"
-
-## Examples
-
-**Mid-size SaaS Company (50 people)**:
-- Monthly anchor days, first Thursday of each month
-- 9AM coffee/check-ins, 10AM-12PM cross-team workshops, shared lunch, 2PM-4PM focused pair work
-- Measured 40% increase in cross-team collaboration, 15% improvement in team satisfaction scores
-
-**Distributed Engineering Team (8 people)**:
-- Quarterly 2-day intensives, rotating between team member cities
-- Day 1: Technical deep dives and architecture planning; Day 2: Social activities and relationship building
-- Challenge: $3K travel costs per intensive; Success: Reduced async communication delays by 60%
-
-**Hybrid Consulting Firm (25 people)**:
-- Bi-weekly anchor Tuesdays with optional attendance
-- Morning client work, afternoon internal collaboration, optional after-work social
-- Adaptation: Shortened format during busy client periods, extended during proposal seasons
-
-## Related Patterns
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md)
-- [Communal Eating](../temporal/communal-eating.md)
-- [Cross-Team Events](../temporal/cross-team-events.md)
 
 ## Sources
 - Hybrid work research from MIT Sloan Management Review
