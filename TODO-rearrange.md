@@ -1,5 +1,3 @@
-./organizational/daily-stand-ups.md
-./organizational/decision-making-patterns.md
 ./organizational/desire-path-recognition.md
 ./organizational/digital-campfires-virtual-watercoolers.md
 ./organizational/distributed-whiteboards.md

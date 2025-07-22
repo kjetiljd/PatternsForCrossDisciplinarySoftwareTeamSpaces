@@ -19,6 +19,29 @@ Implement a multi-layered approach to decision-making:
 3. **Context-Sensitive Frameworks**: Match decision processes to the type and complexity of the decision
 4. **Transparent Documentation**: Record important decisions with rationale and consequences
 
+## Forces
+- Speed of decision-making vs. quality of decisions
+- Individual accountability vs. collective wisdom
+- Stakeholder involvement vs. decision-making efficiency
+- Domain expertise vs. local knowledge
+- Complexity vs. simplicity in decision processes
+- Reversibility vs. permanence of choices
+
+## Related Patterns
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Assess decision reversibility
+- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Match process to complexity
+- [Structured Experiments](structured-experiments.md) - Reduce uncertainty before deciding
+- [Nominal Group Technique](nominal-group-technique.md) - Gather diverse input without bias
+- [Ranked Voting](ranked-voting.md) - Aggregate preferences fairly
+- [Architecture Decision Records](architecture-decision-records.md) - Document decision rationale
+- [Thinking Out Loud](thinking-out-loud.md) - Share reasoning process
+- [I Intend To](i-intend-to.md) - Communicate planned actions
+- [Aligned Autonomy](aligned-autonomy.md) - Balance freedom with alignment
+- [Self-Governing Teams](self-governing-teams.md) - Team-level decision authority
+- [Transparent Artifacts](transparent-artifacts.md) - Make decisions visible
+
+## Further details
+
 ### Decision Framework Selection
 
 **Decision Type Flowchart:**
@@ -69,29 +92,6 @@ graph TD
 - **Complexity Assessment**: Apply [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) to choose appropriate approach
 - **Evidence Gathering**: Use [Structured Experiments](structured-experiments.md) when uncertainty is high
 - **Group Input**: Apply [Nominal Group Technique](nominal-group-technique.md) and [Ranked Voting](ranked-voting.md) for team decisions
-
-## Forces
-- Speed of decision-making vs. quality of decisions
-- Individual accountability vs. collective wisdom
-- Stakeholder involvement vs. decision-making efficiency
-- Domain expertise vs. local knowledge
-- Complexity vs. simplicity in decision processes
-- Reversibility vs. permanence of choices
-
-## Related Patterns
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Assess decision reversibility
-- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Match process to complexity
-- [Structured Experiments](structured-experiments.md) - Reduce uncertainty before deciding
-- [Nominal Group Technique](nominal-group-technique.md) - Gather diverse input without bias
-- [Ranked Voting](ranked-voting.md) - Aggregate preferences fairly
-- [Architecture Decision Records](architecture-decision-records.md) - Document decision rationale
-- [Thinking Out Loud](thinking-out-loud.md) - Share reasoning process
-- [I Intend To](i-intend-to.md) - Communicate planned actions
-- [Aligned Autonomy](aligned-autonomy.md) - Balance freedom with alignment
-- [Self-Governing Teams](self-governing-teams.md) - Team-level decision authority
-- [Transparent Artifacts](transparent-artifacts.md) - Make decisions visible
-
-## Further details
 
 ### Hybrid Team Decision-Making Strategies
 
