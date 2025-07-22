@@ -12,7 +12,20 @@ Software teams need mechanisms to address quality issues quickly. They also need
 When quality issues are ignored or passed along, they accumulate and create larger problems later. Team members may hesitate to raise concerns about quality.
 
 ## Solution
-Establish cultural norms and mechanisms that enable any team member to stop work when quality issues are identified. This ensures immediate attention to problems.
+Establish cultural norms and mechanisms that enable any team member to stop work when quality issues are identified. This ensures immediate attention to problems and creates a culture of shared quality responsibility.
+
+## Forces
+- Quality vs. delivery pressure
+- Individual vs. collective responsibility
+- Immediate fixes vs. systemic improvements
+- Psychological safety vs. performance pressure
+
+## Related Patterns
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
+- [Swarm Reviews & Pairing](../organizational/swarm-reviews-pairing.md)
+- [Kaizen Corner](kaizen-corner.md)
+
+## Further details
 
 ### Core Principles
 - **Everyone's responsibility**: Quality is everyone's job, not just QA or senior developers
@@ -242,17 +255,6 @@ Establish cultural norms and mechanisms that enable any team member to stop work
 - **Assertiveness training**: Training on how to effectively raise quality concerns
 - **Response protocols**: Clear procedures for how to respond to safety calls
 - **Just culture**: Balance accountability with learning-focused investigation
-
-## Forces
-- Quality vs. delivery pressure
-- Individual vs. collective responsibility
-- Immediate fixes vs. systemic improvements
-- Psychological safety vs. performance pressure
-
-## Related Patterns
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
-- [Swarm Reviews & Pairing](../organizational/swarm-reviews-pairing.md)
-- [Kaizen Corner](kaizen-corner.md)
 
 ## Sources
 - Toyota Production System principles
