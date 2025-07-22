@@ -139,6 +139,10 @@ Allow teams to personalize their spaces using structured frameworks that balance
 - Individual preferences vs. team cohesion
 - Maintenance and cleaning requirements vs. personalization
 - Cost control vs. allowing customization
+- **Organizational standardization vs. local adaptation**: Institutional drives for consistency can conflict with team-specific needs and individual optimization
+- **Operational efficiency vs. contextual choice**: Standardized solutions may reduce costs and complexity but limit access to tools and arrangements that improve team effectiveness
+- **Management simplicity vs. diverse accommodation**: Uniform policies simplify oversight but may not address varied needs across different teams, roles, and work styles
+- **Compliance requirements vs. adaptive boundaries**: Regulatory, safety, and corporate policies may restrict modifications that teams view as essential for their work
 - **Social proof effects**: Visible evidence of others' modifications signals that personalization is acceptable and beneficial
 
 ## Related Patterns
@@ -147,6 +151,7 @@ Allow teams to personalize their spaces using structured frameworks that balance
 - [Display of Work](../cross-disciplinary/display-of-work.md)
 - [Visible Evolution Traces](visible-evolution-traces.md) - Making team modifications visible encourages further beneficial adaptations
 - [Productive Traces Preservation](../meta-patterns/productive-traces-preservation.md) - Maintaining beneficial modifications while addressing genuine issues
+- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for balancing standardization with team autonomy
 
 ## Sources
 - Environmental psychology research on workspace personalization

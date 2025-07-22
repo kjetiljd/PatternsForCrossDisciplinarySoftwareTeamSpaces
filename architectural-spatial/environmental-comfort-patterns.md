@@ -39,6 +39,10 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - Energy efficiency vs. individual climate control
 - Norwegian building rules vs. international ergonomic standards
 - Team collaboration needs vs. individual comfort
+- **Standardization efficiency vs. ergonomic optimization**: Organizational drives for uniform solutions may conflict with individual physical needs and comfort requirements
+- **Procurement consistency vs. specialized accommodation**: Bulk purchasing and standard specifications can limit access to equipment and arrangements that improve individual performance
+- **Administrative simplicity vs. diverse needs**: Standardized environmental controls simplify management but may not address varied ergonomic requirements across different body types and work patterns
+- **Policy uniformity vs. adaptive accommodation**: Corporate policies and building standards may restrict environmental modifications that individuals find essential for health and productivity
 
 ## Comprehensive Measurement Standards
 
@@ -289,6 +293,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - [Small Team Bays](small-team-bays.md) - Provides framework for team-scale environmental comfort
 - [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Physical comfort creates foundation for psychological safety and risk-taking
 - [Team Health Checks](../temporal/team-health-checks.md) - Environmental comfort directly impacts team well-being and energy levels
+- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for equipment and environment standardization vs. individual choice
 
 ## Sources
 - Ergonomic research and workplace health studies
