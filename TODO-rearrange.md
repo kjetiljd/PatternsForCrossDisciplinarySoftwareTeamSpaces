@@ -1,4 +1,3 @@
-./architectural-spatial/workspace-enclosure-personal-space.md
 ./cross-disciplinary/andon-cord-stop-line.md
 ./cross-disciplinary/critique-rituals.md
 ./cross-disciplinary/display-of-work.md
