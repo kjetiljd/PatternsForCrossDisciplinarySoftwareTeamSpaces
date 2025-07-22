@@ -1,4 +1,3 @@
-./organizational/daily-stand-ups.md
 ./organizational/decision-making-patterns.md
 ./organizational/demand-led-fluid-teaming.md
 ./organizational/desire-path-recognition.md

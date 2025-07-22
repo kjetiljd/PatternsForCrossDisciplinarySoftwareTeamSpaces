@@ -274,6 +274,10 @@ Implement daily stand-ups adapted to your team's context, size, and working arra
 - [Psychological Safety Practices](psychological-safety-practices.md)
 - [Anchor Days](anchor-days.md)
 
+
+## Further details
+
+
 ## Sources
 - Scrum framework and agile methodologies
 - Research on team coordination and communication
