@@ -2,7 +2,8 @@
 ---
 # Visible Evolution Traces
 
-**Summary**: Design spaces to show their history of adaptation and use. Make team modifications visible to encourage further beneficial changes.
+## Summary
+Design spaces to show their history of adaptation and use. Make team modifications visible to encourage further beneficial changes.
 
 ## Context
 
@@ -14,41 +15,7 @@ When spaces appear pristine and untouched, they signal that modification is disc
 
 ## Solution
 
-**Preserve and amplify evidence of beneficial space adaptations.** Let successful modifications remain visible as social proof that improvement is encouraged. Create ways to document and display the evolution of spaces over time.
-
-**Design for visible adaptation:**
-- Use materials that show beneficial wear gracefully
-- Create designated areas where teams can make visible modifications
-- Document before/after photos of successful space adaptations
-- Display team modifications as positive examples for others
-
-**Preserve productive traces:**
-- Don't immediately remove evidence of team customizations
-- Distinguish between beneficial adaptations and actual problems
-- Clean around modifications rather than removing them
-- Let desire paths and usage patterns inform formal design changes
-
-**Documentation methods for capturing evolution:**
-- **Threshold moment photography**: Capture spaces at moments of significant change, not on arbitrary schedules—when teams are actively debating or implementing modifications
-- **Intervention narratives**: Document the specific problem that prompted each change and the team's hypothesis about why this modification would help
-- **Behavioral observation**: Notice and record changes in how people actually use spaces—not just how they say they use them
-- **Critical incident documentation**: Record both successful adaptations and failed modifications, focusing on what each taught about space-behavior relationships
-- **Desire path mapping**: Track the informal modifications teams make (cable routing, furniture angles, personal space markers) before formalizing or removing them
-
-**Storytelling frameworks for communicating evolution:**
-- **Problem-solution narratives**: Frame space changes as responses to specific team challenges, showing the reasoning process that led to each adaptation
-- **Failure-learning cycles**: Highlight modifications that didn't work as expected and what the team learned, normalizing experimentation and iteration
-- **Cross-team translation stories**: Document how one team's successful adaptation was modified and applied by another team with different constraints
-- **Invisible work revelation**: Make visible the often-hidden work of space adaptation—the conversations, experiments, and iterations that led to final configurations
-- **Temporal layering displays**: Show how spaces accumulate meaning and functionality over time, with each layer building on or responding to previous adaptations
-
-**Preservation guidelines for determining which traces to maintain:**
-- **Evidence of collective intelligence**: Preserve modifications that emerged from team collaboration rather than individual preference—these often represent deeper insights about group dynamics
-- **Adaptive value demonstration**: Keep traces that show teams successfully responding to changing work patterns or external pressures
-- **Teaching moments**: Maintain examples that help others understand the relationship between spatial configuration and team performance
-- **Authentic wear patterns**: Preserve evidence of genuine use (worn paths, naturally arranged furniture, accumulated tools) that reveals how spaces actually function
-- **Graceful degradation vs. dysfunction**: Remove traces that create safety hazards or accessibility barriers, but preserve those that show beneficial wear or adaptive modification
-- **Cultural memory preservation**: Keep traces that embody important organizational values or represent significant moments in team development, even if their functional benefit is unclear
+Preserve and amplify evidence of beneficial space adaptations. Let successful modifications remain visible as social proof that improvement is encouraged. Create ways to document and display the evolution of spaces over time.
 
 ## Forces
 
@@ -57,6 +24,47 @@ When spaces appear pristine and untouched, they signal that modification is disc
 - **Efficiency seeking**: People assume well-worn patterns represent more effective solutions
 - **Risk reduction**: Following established patterns feels safer than pioneering new approaches
 - **Knowledge transfer**: Visible adaptations teach other teams about possible improvements
+
+## Related Patterns
+- **[Personalization and Human Scale](personalization-human-scale.md)** - Teams need permission to modify spaces before traces can form
+- **[Display of Work](../cross-disciplinary/display-of-work.md)** - Visible work-in-progress creates beneficial traces of team activity
+- **[Kaizen Corner](../cross-disciplinary/kaizen-corner.md)** - Dedicated spaces for tracking and displaying improvements
+
+## Further details
+
+### Design for Visible Adaptation
+- Use materials that show beneficial wear gracefully
+- Create designated areas where teams can make visible modifications
+- Document before/after photos of successful space adaptations
+- Display team modifications as positive examples for others
+
+### Preserve Productive Traces
+- Don't immediately remove evidence of team customizations
+- Distinguish between beneficial adaptations and actual problems
+- Clean around modifications rather than removing them
+- Let desire paths and usage patterns inform formal design changes
+
+### Documentation Methods for Capturing Evolution
+- **Threshold moment photography**: Capture spaces at moments of significant change, not on arbitrary schedules—when teams are actively debating or implementing modifications
+- **Intervention narratives**: Document the specific problem that prompted each change and the team's hypothesis about why this modification would help
+- **Behavioral observation**: Notice and record changes in how people actually use spaces—not just how they say they use them
+- **Critical incident documentation**: Record both successful adaptations and failed modifications, focusing on what each taught about space-behavior relationships
+- **Desire path mapping**: Track the informal modifications teams make (cable routing, furniture angles, personal space markers) before formalizing or removing them
+
+### Storytelling Frameworks for Communicating Evolution
+- **Problem-solution narratives**: Frame space changes as responses to specific team challenges, showing the reasoning process that led to each adaptation
+- **Failure-learning cycles**: Highlight modifications that didn't work as expected and what the team learned, normalizing experimentation and iteration
+- **Cross-team translation stories**: Document how one team's successful adaptation was modified and applied by another team with different constraints
+- **Invisible work revelation**: Make visible the often-hidden work of space adaptation—the conversations, experiments, and iterations that led to final configurations
+- **Temporal layering displays**: Show how spaces accumulate meaning and functionality over time, with each layer building on or responding to previous adaptations
+
+### Preservation Guidelines for Determining Which Traces to Maintain
+- **Evidence of collective intelligence**: Preserve modifications that emerged from team collaboration rather than individual preference—these often represent deeper insights about group dynamics
+- **Adaptive value demonstration**: Keep traces that show teams successfully responding to changing work patterns or external pressures
+- **Teaching moments**: Maintain examples that help others understand the relationship between spatial configuration and team performance
+- **Authentic wear patterns**: Preserve evidence of genuine use (worn paths, naturally arranged furniture, accumulated tools) that reveals how spaces actually function
+- **Graceful degradation vs. dysfunction**: Remove traces that create safety hazards or accessibility barriers, but preserve those that show beneficial wear or adaptive modification
+- **Cultural memory preservation**: Keep traces that embody important organizational values or represent significant moments in team development, even if their functional benefit is unclear
 
 ## Examples
 
@@ -73,12 +81,6 @@ When spaces appear pristine and untouched, they signal that modification is disc
 **Startup offices**: Early-stage companies frequently preserve evidence of their spatial experiments. This ranges from initial folding tables to graduated workspace configurations. They use this as both practical knowledge and cultural storytelling about the team's growth and adaptation.
 
 **University research groups**: Academic labs maintain visible layers of previous work. This includes equipment modifications, storage solutions, and workflow adaptations. These communicate effective practices to new students and visiting researchers.
-
-## Related Patterns
-
-- **[Personalization and Human Scale](personalization-human-scale.md)** - Teams need permission to modify spaces before traces can form
-- **[Display of Work](../cross-disciplinary/display-of-work.md)** - Visible work-in-progress creates beneficial traces of team activity
-- **[Kaizen Corner](../cross-disciplinary/kaizen-corner.md)** - Dedicated spaces for tracking and displaying improvements
 
 ## Sources
 
