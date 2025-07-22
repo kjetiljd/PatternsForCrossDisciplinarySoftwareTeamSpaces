@@ -27,7 +27,13 @@ Implement practices that build psychological safety:
 - Power dynamics can suppress honest feedback
 - Trust takes time to build but can be quickly destroyed
 
-## Examples
+## Related Patterns
+- [Blameless Post-Mortems](blameless-post-mortems.md) - Systematic approach to learning from failures without blame
+- [Team Health Checks](../temporal/team-health-checks.md) - Regular assessment depends on psychological safety for honest feedback
+- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Foundational meta-pattern supporting psychological safety
+- [Environmental Comfort Patterns](../architectural-spatial/environmental-comfort-patterns.md) - Physical comfort creates foundation for psychological safety and risk-taking
+
+## Further details
 
 ### Research-Backed Implementations
 
@@ -49,7 +55,7 @@ Implement practices that build psychological safety:
 - **Key Practices**: Adapted Agile to fit team culture, focused on team mental health with technical skills
 - **Numbers**: Strong link between psychological safety scores and team speed/quality
 
-## Detailed Case Studies
+### Detailed Case Studies
 
 ### Case Study 1: Healthcare System Transformation
 
@@ -153,12 +159,6 @@ Implement practices that build psychological safety:
 - **Cross-Functional Trust**: Team trust scores increased from 4.2 to 8.1 (out of 10)
 - **Innovation**: 80% increase in cross-disciplinary feature proposals
 - **Employee Engagement**: 91% report feeling safe to challenge ideas from other disciplines
-
-## Related Patterns
-- [Blameless Post-Mortems](blameless-post-mortems.md) - Systematic approach to learning from failures without blame
-- [Team Health Checks](../temporal/team-health-checks.md) - Regular assessment depends on psychological safety for honest feedback
-- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Foundational meta-pattern supporting psychological safety
-- [Environmental Comfort Patterns](../architectural-spatial/environmental-comfort-patterns.md) - Physical comfort creates foundation for psychological safety and risk-taking
 
 ## Sources
 
