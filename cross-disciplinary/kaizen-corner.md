@@ -12,7 +12,15 @@ Teams need ways to track and celebrate continuous improvement efforts while maki
 Without visible tracking of improvement efforts, teams lose momentum on continuous improvement initiatives and miss opportunities to celebrate progress.
 
 ## Solution
-Establish dedicated spaces for displaying improvement goals, tracking progress, and celebrating achievements in continuous improvement efforts.
+Establish dedicated spaces for displaying improvement goals, tracking progress, and celebrating achievements in continuous improvement efforts. Create both physical and digital formats that emphasize visible progress, regular rhythms, celebration of incremental wins, and team ownership of improvement initiatives.
+
+## Forces
+- Public visibility vs. team privacy
+- Formal tracking vs. organic improvement
+- Individual vs. team improvements
+- Progress celebration vs. problem focus
+
+## Further details
 
 ### Core Principles
 - **Visible progress**: Make improvement efforts and results clearly visible to the team
@@ -351,12 +359,6 @@ IMPACT: 57% time reduction, 3.2 extra hours per week for development
 - Focus on improvements that directly impact business goals
 - Adapt quickly to changing priorities and team composition
 - Use improvements to build sustainable practices as the team grows
-
-## Forces
-- Public visibility vs. team privacy
-- Formal tracking vs. organic improvement
-- Individual vs. team improvements
-- Progress celebration vs. problem focus
 
 ## Related Patterns
 - [Transparent Artifacts](../organizational/transparent-artifacts.md)
