@@ -12,29 +12,54 @@ Teams create valuable artifacts, prototypes, and work-in-progress. These could i
 When teams hide their work, they miss opportunities to learn from each other's approaches. They also miss unexpected connections between projects. Empty display spaces send a signal that sharing work is not expected or valued.
 
 ## Solution
-Create dedicated spaces for displaying current work, prototypes, and visual artifacts. Team members can see and be inspired by each other's progress. Use systematic display design, rotation protocols, and engagement techniques to maintain fresh, accessible displays.
+Create dedicated spaces for displaying current work, prototypes, and visual artifacts. Team members can see and be inspired by each other's progress. Use systematic display design, rotation protocols, and engagement techniques to maintain fresh, accessible displays that foster cross-team learning and collaboration.
+
+## Forces
+- Work visibility vs. intellectual property concerns
+- Polished display vs. authentic work-in-progress
+- Dedicated display space vs. workspace efficiency
+- Physical vs. digital display formats
+- **Social proof effects**: When teams see others sharing, they are more likely to display their work too
+- Maintenance effort vs. display freshness
+- Individual team displays vs. cross-team collaboration focus
+- Static displays vs. interactive engagement
+
+
+## Related Patterns
+- [Poster Sessions](poster-sessions.md)
+- [Pin-Up Space](pin-up-space.md)
+- [Transparent Artifacts](../organizational/transparent-artifacts.md)
+- [Visible Evolution Traces](../architectural-spatial/visible-evolution-traces.md) - How displays create beneficial traces that encourage more sharing
+- [Productive Traces Preservation](../meta-patterns/productive-traces-preservation.md) - Maintaining active displays while refreshing content
+
+## Further details
+
+### Display Design Guidelines
+
+#### Physical Display Infrastructure
+- **Magnetic walls**: 4'x8' steel-backed surfaces with magnetic strips for easy repositioning
 - **Pin-up boards**: High-quality cork or fabric surfaces that don't damage when pinned
 - **Rotating display stands**: Mobile units that can be repositioned based on foot traffic patterns
 - **Integrated lighting**: 3000K LED strips or track lighting to eliminate shadows and glare
 - **Accessibility compliance**: All displays positioned between 15" and 48" from floor level
 
-*Digital Display Integration:*
+#### Digital Display Integration
 - **Interactive touchscreens**: 55" 4K displays for digital artifacts and collaborative annotation
 - **QR code linking**: Physical displays include QR codes linking to digital documentation
 - **Live project feeds**: Real-time updates from development tools and progress tracking
 - **Multi-format support**: Displays accommodate both physical prototypes and digital outputs
 - **Remote viewing capability**: Camera integration for distributed team access
 
-*Display Layout Principles:*
+#### Display Layout Principles
 - **Proximity grouping**: Related work items displayed within 6-foot visual clusters
 - **Sight line optimization**: Displays positioned along natural walking paths and gathering areas
 - **Hierarchical organization**: Current work at eye level, historical context above, detail views below
 - **Interaction zones**: 3-foot minimum clearance around displays for comfortable viewing and discussion
 - **Visual breathing space**: 20% of display area kept clear to avoid cognitive overload
 
-**Rotation Protocols:**
+### Rotation Protocols
 
-*Content Lifecycle Management:*
+#### Content Lifecycle Management
 
 1. **Active Display Phase (2-4 weeks)**:
    - Current work-in-progress prominently featured
@@ -54,21 +79,21 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Impact stories and collaboration outcomes documented
    - Space prepared for incoming work displays
 
-*Rotation Schedule Framework:*
+#### Rotation Schedule Framework
 - **Monday Morning Review**: Teams assess current displays and plan updates
 - **Mid-Week Fresh Content**: New work items added, outdated content flagged
 - **Friday Afternoon Harvest**: Weekly reflection on what displays generated most engagement
 - **Monthly Deep Refresh**: Major reorganization based on foot traffic and interaction patterns
 
-*Curator Role Implementation:*
+#### Curator Role Implementation
 - **Display Stewards**: Rotating 2-week assignments for maintaining specific display areas
 - **Content Shepherds**: Team members responsible for documenting and transitioning their work
 - **Community Curators**: Cross-team volunteers who facilitate connections between displayed work
 - **Archive Maintainers**: Long-term keepers of institutional memory and searchable collections
 
-**Engagement Techniques:**
+### Engagement Techniques
 
-*Interactive Elements:*
+#### Interactive Elements
 
 1. **Annotation Opportunities**:
    - Sticky note parking lots for questions and observations
@@ -82,7 +107,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - **Quarterly "Innovation Archaeology"**: Deep dives into how displayed work evolved over time
    - **"Maker Rounds"**: Peer review of work-in-progress (like medical rounds)
 
-*Social Proof Mechanisms:*
+#### Social Proof Mechanisms
 
 1. **Visibility Metrics**:
    - **Engagement tracking**: Simple dot voting for "this inspired me" or "I learned from this"
@@ -96,7 +121,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - **"Process Transparency Champions"**: Celebrating teams that share authentic work-in-progress
    - **"Evolution Stories"**: Show how displayed work changed based on community feedback
 
-*Structured Engagement Events:*
+#### Structured Engagement Events
 
 1. **"Demo Derby" Sessions** (Weekly, 30 minutes):
    - Rapid-fire 3-minute presentations of newly displayed work
@@ -116,7 +141,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Create "failure artifacts" that prevent repeating mistakes
    - Celebrate intelligent failures that advanced team understanding
 
-*Technology-Enhanced Engagement:*
+#### Technology-Enhanced Engagement
 
 1. **Augmented Reality Integration**:
    - AR markers on physical displays that reveal digital layers when viewed through mobile apps
@@ -130,39 +155,29 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Serendipity algorithms: suggest connections between seemingly unrelated displayed work
    - Knowledge graph building: automatic tagging and linking of displayed artifacts
 
-**Content Guidelines:**
+### Content Guidelines
 
-*Authentic Work-in-Progress:*
+#### Authentic Work-in-Progress
 - **Messy middle documentation**: Sketches, failed prototypes, and iteration attempts
 - **Decision archaeology**: Visible traces of why certain approaches were chosen or abandoned
 - **Learning artifacts**: Documentation of what teams discovered during development
 - **Process transparency**: Time-lapse photography, iteration sequences, and evolution narratives
 
-*Balanced Information Architecture:*
+#### Balanced Information Architecture
 - **Context setting**: Brief background on project goals and constraints
 - **Current status**: Clear indication of what's complete, in-progress, or planned
 - **Invitation to engage**: Specific questions or areas where team seeks input
 - **Connection opportunities**: Explicit links to related work and collaboration possibilities
 
-*Intellectual Property Considerations:*
+#### Intellectual Property Considerations
 - **Graduated disclosure**: Public displays focus on process and learning rather than proprietary details
 - **Safe-to-share guidelines**: Clear criteria for what can be displayed without IP concerns
 - **Anonymization techniques**: Methods for sharing learning without revealing sensitive information
 - **Time-delayed displays**: Show work after IP protection or competitive advantages are secured
 
-## Forces
-- Work visibility vs. intellectual property concerns
-- Polished display vs. authentic work-in-progress
-- Dedicated display space vs. workspace efficiency
-- Physical vs. digital display formats
-- **Social proof effects**: When teams see others sharing, they are more likely to display their work too
-- Maintenance effort vs. display freshness
-- Individual team displays vs. cross-team collaboration focus
-- Static displays vs. interactive engagement
+### Consequences
 
-## Consequences
-
-### Positive
+#### Positive
 - **Increased cross-pollination**: Teams discover unexpected connections and collaboration opportunities
 - **Faster knowledge sharing**: Visible work-in-progress reduces duplication of effort
 - **Innovation inspiration**: Seeing diverse approaches sparks creative problem-solving
@@ -170,7 +185,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 - **Institutional memory**: Important work and decisions stay visible beyond individual projects
 - **Mentorship opportunities**: Junior team members learn from seeing senior work processes
 
-### Negative
+#### Negative
 - **Maintenance overhead**: Requires ongoing curation and content management
 - **Potential IP exposure**: Risk of revealing sensitive information through displays
 - **Display fatigue**: Over-saturation can reduce engagement and attention
@@ -178,7 +193,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 - **Resource requirements**: Significant investment in display infrastructure and maintenance
 - **Cultural resistance**: Some teams may resist transparency and visible work sharing
 
-## Examples
+### Examples
 
 **Architecture and Design Studios:**
 
@@ -264,9 +279,9 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
 - **Interaction Design**: Physical and digital affordances for annotation and response increased collaboration
 - **Cultural Integration**: Displays became successful when integrated with existing team rituals and practices
 
-## Implementation
+### Implementation
 
-**Phase 1: Infrastructure and Guidelines (2-4 weeks)**
+#### Phase 1: Infrastructure and Guidelines (2-4 weeks)
 
 1. **Space Assessment and Design**:
    - Identify high-traffic areas suitable for display installation
@@ -280,7 +295,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Establish IP and confidentiality guidelines for safe sharing
    - Define curator roles and rotation schedules
 
-**Phase 2: Pilot Implementation (4-8 weeks)**
+#### Phase 2: Pilot Implementation (4-8 weeks)
 
 1. **Early Adopter Engagement**:
    - Recruit 2-3 volunteer teams for initial display pilots
@@ -294,7 +309,7 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Begin structured engagement events (gallery walks, critique sessions)
    - Track engagement metrics and collaboration outcomes
 
-**Phase 3: Scaling and Optimization (8-16 weeks)**
+#### Phase 3: Scaling and Optimization (8-16 weeks)
 
 1. **Organization-Wide Rollout**:
    - Expand display infrastructure to all team areas
@@ -307,13 +322,6 @@ Create dedicated spaces for displaying current work, prototypes, and visual arti
    - Establish recognition systems and success celebrations
    - Create advanced facilitation techniques for cross-team collaboration
    - Develop analytics and measurement systems for continuous improvement
-
-## Related Patterns
-- [Poster Sessions](poster-sessions.md)
-- [Pin-Up Space](pin-up-space.md)
-- [Transparent Artifacts](../organizational/transparent-artifacts.md)
-- [Visible Evolution Traces](../architectural-spatial/visible-evolution-traces.md) - How displays create beneficial traces that encourage more sharing
-- [Productive Traces Preservation](../meta-patterns/productive-traces-preservation.md) - Maintaining active displays while refreshing content
 
 ## Sources
 - Maker space and fabrication lab practices
