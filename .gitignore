@@ -1,0 +1,15 @@
+# Obsidian workspace files (device-specific)
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/graph.json
+
+# Obsidian cache and temporary files
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+.obsidian/themes/*/
+
+# Local configuration files
+CLAUDE.local.md
+*.local.*
