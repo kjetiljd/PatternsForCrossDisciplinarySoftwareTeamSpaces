@@ -33,7 +33,7 @@ Design small collaboration alcoves immediately adjacent to team work areas. Prov
 - [Flexible Common Areas](../cross-disciplinary/modular-furniture-reconfigurability.md) - Furniture and layout flexibility
 - [Call Booths](call-booths.md) - Complement for individual privacy needs
 
-## Implementation notes
+## Further details
 
 ### Physical Design
 - 4-6 person capacity for small team discussions (15-25 m² / 160-270 sq ft)
@@ -78,7 +78,7 @@ Design small collaboration alcoves immediately adjacent to team work areas. Prov
 #### Standard Configuration (4-6 people)
 **Layout A: Circular Discussion**
 - Round or oval table (1.2-1.5m diameter) with 4-6 mobile task chairs
-- Height-adjustable (680-1100mm) for sitting/standing flexibility  
+- Height-adjustable (680-1100mm) for sitting/standing flexibility
 - Mobile whiteboard (1.2m × 0.9m) positioned for all participants to see
 - Side table or credenza for materials and personal items
 
