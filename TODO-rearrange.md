@@ -1,4 +1,3 @@
-./organizational/enabling-platform-teams.md
 ./organizational/handbook-first-documentation.md
 ./organizational/hybrid-coordination-knowledge-networks.md
 ./organizational/i-intend-to.md
