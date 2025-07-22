@@ -1,4 +1,3 @@
-./organizational/cross-team-synchronization.md
 ./organizational/cynefin-based-decision-framework.md
 ./organizational/daily-stand-ups.md
 ./organizational/decision-making-patterns.md
