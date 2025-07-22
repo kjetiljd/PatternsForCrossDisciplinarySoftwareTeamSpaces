@@ -1,4 +1,3 @@
-./organizational/hybrid-coordination-knowledge-networks.md
 ./organizational/i-intend-to.md
 ./organizational/in-zone-collaboration.md
 ./organizational/meeting-room-anti-pattern.md
