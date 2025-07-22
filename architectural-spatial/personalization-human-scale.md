@@ -14,6 +14,27 @@ Sterile, corporate environments can feel impersonal and uninspiring. This reduce
 ## Solution
 Allow teams to personalize their spaces using structured frameworks that balance individual expression with team identity and professional requirements. Account for cultural differences in personalization preferences.
 
+## Forces
+- Personal expression vs. professional appearance
+- Individual preferences vs. team cohesion
+- Maintenance and cleaning requirements vs. personalization
+- Cost control vs. allowing customization
+- **Organizational standardization vs. local adaptation**: Institutional drives for consistency can conflict with team-specific needs and individual optimization
+- **Operational efficiency vs. contextual choice**: Standardized solutions may reduce costs and complexity but limit access to tools and arrangements that improve team effectiveness
+- **Management simplicity vs. diverse accommodation**: Uniform policies simplify oversight but may not address varied needs across different teams, roles, and work styles
+- **Compliance requirements vs. adaptive boundaries**: Regulatory, safety, and corporate policies may restrict modifications that teams view as essential for their work
+- **Social proof effects**: Visible evidence of others' modifications signals that personalization is acceptable and beneficial
+
+## Related Patterns
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md)
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md)
+- [Display of Work](../cross-disciplinary/display-of-work.md)
+- [Visible Evolution Traces](visible-evolution-traces.md) - Making team modifications visible encourages further beneficial adaptations
+- [Productive Traces Preservation](../meta-patterns/productive-traces-preservation.md) - Maintaining beneficial modifications while addressing genuine issues
+- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for balancing standardization with team autonomy
+
+## Further details
+
 ### Personalization Framework
 
 #### Three-Layer Personalization Model
@@ -133,25 +154,6 @@ Allow teams to personalize their spaces using structured frameworks that balance
 - Permission for teams to define their own aesthetic within professional bounds
 - Respect for cultural and religious personal items
 - Support for accessibility-related personalization needs
-
-## Forces
-- Personal expression vs. professional appearance
-- Individual preferences vs. team cohesion
-- Maintenance and cleaning requirements vs. personalization
-- Cost control vs. allowing customization
-- **Organizational standardization vs. local adaptation**: Institutional drives for consistency can conflict with team-specific needs and individual optimization
-- **Operational efficiency vs. contextual choice**: Standardized solutions may reduce costs and complexity but limit access to tools and arrangements that improve team effectiveness
-- **Management simplicity vs. diverse accommodation**: Uniform policies simplify oversight but may not address varied needs across different teams, roles, and work styles
-- **Compliance requirements vs. adaptive boundaries**: Regulatory, safety, and corporate policies may restrict modifications that teams view as essential for their work
-- **Social proof effects**: Visible evidence of others' modifications signals that personalization is acceptable and beneficial
-
-## Related Patterns
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md)
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md)
-- [Display of Work](../cross-disciplinary/display-of-work.md)
-- [Visible Evolution Traces](visible-evolution-traces.md) - Making team modifications visible encourages further beneficial adaptations
-- [Productive Traces Preservation](../meta-patterns/productive-traces-preservation.md) - Maintaining beneficial modifications while addressing genuine issues
-- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for balancing standardization with team autonomy
 
 ## Sources
 - Environmental psychology research on workspace personalization
