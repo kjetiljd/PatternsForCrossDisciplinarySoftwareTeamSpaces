@@ -12,9 +12,43 @@ Creating human-scale workplace neighborhoods that foster informal interaction an
 Large open offices or isolated team spaces fail to create the right balance of community and focus. Teams need both identity and connection to other teams.
 
 ## Solution
-Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster should accommodate 20-25 workstations (typically 2-4 teams) with a central common area, shared amenities, and semi-autonomous feel while connected to the larger organization.
+Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster accommodates 20-25 workstations (typically 2-4 teams) with a central common area, shared amenities, and semi-autonomous feel while connected to the larger organization.
 
 ## Forces
+- **Community vs. Focus**: People need both belonging to a small group and connection to the larger community
+- **Formal vs. Informal**: Informal interaction drives innovation, but formal structures prevent chaos
+- **Identity vs. Integration**: Teams need identity and focus without isolation from other teams
+- **Privacy vs. Transparency**: Balancing visual/acoustic privacy with collaborative transparency
+- **Static vs. Adaptive**: Spaces must accommodate changing team sizes and compositions
+- **Cultural Sensitivity**: Different cultures have varying preferences for social interaction patterns
+- **Compliance**: Norwegian regulations require daylight access for all workstations
+- **Accessibility**: Universal design principles must be met throughout all areas
+- **Economic**: Balance investment in commons amenities with space efficiency
+
+## Related Patterns
+
+### Essential Spatial Combinations
+- **Team Territories**: Each cluster contains multiple team territories with clear boundaries
+- **Central Commons**: Shared community space at the heart of each cluster
+- **Light on Two Sides**: Natural light access from multiple directions
+- **Modular Furniture Reconfigurability**: Flexible arrangements for changing needs
+
+### Community and Interaction Patterns
+- **Coffee Station Collaboration**: Social catalyst within the commons area
+- **Pin-up Space**: Display and discussion areas for team work
+- **Cross-Team Pollination**: Structured opportunities for inter-team learning
+- **Hybrid Commons**: Physical-digital integration for distributed team members
+
+### Organizational Support Patterns
+- **Aligned Autonomy**: Supporting team independence while maintaining organizational coherence
+- **Labs and Studios Adjacency**: Proximity to specialized work environments
+- **Kaizen Corner**: Continuous improvement spaces for team reflection
+
+### Meta-Pattern Alignment
+- **Human-Scale Organization**: Maintaining human connections at all scales
+- **Adaptive Workspace Evolution**: Responding to changing team and organizational needs
+
+## Further details
 
 ### Dimensional Specifications
 
@@ -281,48 +315,37 @@ TOP VIEW (showing acoustic treatment):
 └───────────────────────────┘    white noise
 ```
 
-## Implementation Checklist
+### Implementation Checklist
 
-### Pre-Implementation (Week -4 to 0)
+#### Pre-Implementation (Week -4 to 0)
 - [ ] Measure current cross-team interaction frequency (baseline)
 - [ ] Survey team preferences for commons amenities and activities
 - [ ] Assess space constraints and natural light access
 - [ ] Plan acoustic treatment and visual privacy solutions
 - [ ] Identify team "commons stewards" for ongoing governance
 
-### Phase 1: Basic Cluster (Week 1-4)
+#### Phase 1: Basic Cluster (Week 1-4)
 - [ ] Establish 2-3 team adjacency with basic commons area
 - [ ] Install essential amenities: coffee station, whiteboard, basic seating
 - [ ] Create shared calendar for commons booking/activities
 - [ ] Measure: commons usage hours, cross-team conversations per day
 - [ ] Weekly retrospective: what's working, what's missing?
 
-### Phase 2: Enhanced Community (Week 5-12)
+#### Phase 2: Enhanced Community (Week 5-12)
 - [ ] Add presentation capabilities and flexible furniture
 - [ ] Implement shared resource library (equipment, books, tools)
 - [ ] Establish commons governance (usage norms, cleaning responsibilities)
 - [ ] Measure: knowledge sharing incidents, innovation metrics
 - [ ] Monthly review: space optimization based on usage patterns
 
-### Phase 3: Mature Ecosystem (Week 13+)
+#### Phase 3: Mature Ecosystem (Week 13+)
 - [ ] Connect to other clusters via shared events/spaces
 - [ ] Optimize layout based on 3 months of usage data
 - [ ] Implement advanced amenities based on community needs
 - [ ] Measure: overall team satisfaction, retention, performance metrics
 - [ ] Quarterly evolution: adapt space to changing team needs
 
-## Forces
-- **Community vs. Focus**: People need both belonging to a small group and connection to the larger community
-- **Formal vs. Informal**: Informal interaction drives innovation, but formal structures prevent chaos
-- **Identity vs. Integration**: Teams need identity and focus without isolation from other teams
-- **Privacy vs. Transparency**: Balancing visual/acoustic privacy with collaborative transparency
-- **Static vs. Adaptive**: Spaces must accommodate changing team sizes and compositions
-- **Cultural Sensitivity**: Different cultures have varying preferences for social interaction patterns
-- **Compliance**: Norwegian regulations require daylight access for all workstations
-- **Accessibility**: Universal design principles must be met throughout all areas
-- **Economic**: Balance investment in commons amenities with space efficiency
-
-## Real-World Implementation Examples
+### Real-World Implementation Examples
 
 ### Successful Implementations
 
@@ -373,7 +396,7 @@ TOP VIEW (showing acoustic treatment):
 - Adaptation to cultural expectation of work-life integration
 - Added wellness amenities, outdoor connection, 24/7 access
 
-## Hybrid Work Adaptation and Integration
+### Hybrid Work Adaptation and Integration
 
 ### Hybrid-First Cluster Design Principles
 
@@ -602,31 +625,7 @@ Digital Workers:  😵‍💫 Frustrated by poor audio, frozen video, technical 
 - Cluster identity transcends physical/remote boundaries
 - New hybrid interaction patterns emerge organically
 
-## Related Patterns
-
-### Essential Spatial Combinations
-- [Small Team Bays](small-team-bays.md) - The individual team spaces within each cluster
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Balancing privacy within the cluster
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Ensuring basic comfort in shared spaces
-
-### Community and Interaction Patterns
-- [Neighborhood Effect and Serendipity](neighborhood-effect-serendipity.md) - Maximizing beneficial chance encounters
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Transition zones within clusters
-- [Pin-Up Space](../cross-disciplinary/pin-up-space.md) - Dedicated areas for sharing work
-
-### Organizational Support Patterns
-- [Self-Governing Teams](../organizational/self-governing-teams.md) - Team autonomy within community structure
-- [Cross-Team Synchronization](../organizational/cross-team-synchronization.md) - Coordination between cluster teams
-- [Embedded Coordination Roles](../organizational/embedded-coordination-roles.md) - Commons stewardship
-
-### Meta-Pattern Alignment
-- [Transparency and Osmotic Communication](../meta-patterns/transparency-osmotic-communication.md) - Information flow facilitation
-- [Spaces that Empower and Invite](../meta-patterns/spaces-empower-invite.md) - Creating welcoming community areas
-- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Designing for human psychology and behavior
-
-## Further details
-
-## Measurement and Success Metrics
+### Measurement and Success Metrics
 
 ### Quantitative Metrics
 - **Space Utilization**: Commons area occupied 40-70% of work hours (optimal range)
@@ -649,7 +648,7 @@ Digital Workers:  😵‍💫 Frustrated by poor audio, frozen video, technical 
 - No cross-team collaboration despite physical proximity
 - Commons becomes storage area or dumping ground
 
-## Detailed Case Studies and Research Evidence (2023-2024)
+### Detailed Case Studies and Research Evidence (2023-2024)
 
 ### Academic Research on Work Community Clusters
 

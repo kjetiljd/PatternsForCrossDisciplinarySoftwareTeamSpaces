@@ -1,3 +1,8 @@
+./architectural-spatial/small-team-bays.md
+./architectural-spatial/half-open-half-private-spaces.md
+./cross-disciplinary/modular-furniture-reconfigurability.md
+./cross-disciplinary/pin-up-space.md
+./cross-disciplinary/kaizen-corner.md
 ./cross-disciplinary/toolbelt-availability.md
 ./cross-disciplinary/u-shape-team-layout.md
 ./meta-patterns/fractal-autonomy-layered-alignment.md
