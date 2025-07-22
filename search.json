@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+  {% assign first = true %}
+  {% for page in site.pages %}
+    {% if page.title != null and page.url != "/search.json" %}
+      {% unless first %},{% endunless %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.url }}",
+        "content": "{{ page.content | strip_html | strip_newlines | truncatewords: 400 | escape }}"
+      }
+      {% assign first = false %}
+    {% endif %}
+  {% endfor %}
+]

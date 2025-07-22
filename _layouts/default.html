@@ -176,6 +176,109 @@
 
         // Run the function after DOM is loaded
         wrapFurtherDetails();
+        
+        // Initialize Simple Jekyll Search
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '{{ site.baseurl }}/search.json',
+            searchResultTemplate: '<li><a href="{url}?highlight={query}" style="display: block; padding: 8px; border-bottom: 1px solid #eee; color: #333; text-decoration: none;" onclick="hideSearchResults()">{title}</a></li>',
+            noResultsText: '<li style="padding: 8px; color: #666;">No results found</li>',
+            limit: 10,
+            fuzzy: false
+        });
+        
+        // Highlight search terms on page load
+        function highlightSearchTerms() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const highlight = urlParams.get('highlight');
+            
+            if (highlight) {
+                const terms = highlight.split(' ').filter(term => term.length > 2);
+                const content = document.getElementById('main_content');
+                
+                if (content && terms.length > 0) {
+                    highlightInElement(content, terms);
+                }
+            }
+        }
+        
+        function highlightInElement(element, terms) {
+            const walker = document.createTreeWalker(
+                element,
+                NodeFilter.SHOW_TEXT,
+                null,
+                false
+            );
+            
+            const textNodes = [];
+            let node;
+            while (node = walker.nextNode()) {
+                textNodes.push(node);
+            }
+            
+            textNodes.forEach(textNode => {
+                let text = textNode.textContent;
+                let hasMatch = false;
+                
+                terms.forEach(term => {
+                    const regex = new RegExp(`(${term})`, 'gi');
+                    if (regex.test(text)) {
+                        text = text.replace(regex, '<mark style="background-color: yellow; padding: 1px 2px;">$1</mark>');
+                        hasMatch = true;
+                    }
+                });
+                
+                if (hasMatch) {
+                    const wrapper = document.createElement('span');
+                    wrapper.innerHTML = text;
+                    textNode.parentNode.replaceChild(wrapper, textNode);
+                }
+            });
+        }
+        
+        // Run highlighting after page loads
+        highlightSearchTerms();
+        
+        // Show/hide search results
+        const searchInput = document.getElementById('search-input');
+        const resultsContainer = document.getElementById('results-container');
+        
+        if (searchInput) {
+            searchInput.addEventListener('input', function() {
+                if (this.value.length > 0) {
+                    resultsContainer.style.display = 'block';
+                } else {
+                    resultsContainer.style.display = 'none';
+                }
+            });
+            
+            searchInput.addEventListener('blur', function() {
+                setTimeout(() => resultsContainer.style.display = 'none', 150);
+            });
+        }
+        
+        // Hide search results function
+        window.hideSearchResults = function() {
+            resultsContainer.style.display = 'none';
+        };
+        
+        // Remove highlighting on Escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                const highlights = document.querySelectorAll('mark');
+                highlights.forEach(mark => {
+                    const parent = mark.parentNode;
+                    parent.replaceChild(document.createTextNode(mark.textContent), mark);
+                    parent.normalize();
+                });
+                
+                // Also hide search results
+                if (resultsContainer) {
+                    resultsContainer.style.display = 'none';
+                }
+            }
+        });
     });
 </script>
 </body>
