@@ -1,4 +1,3 @@
-./organizational/decision-making-patterns.md
 ./organizational/demand-led-fluid-teaming.md
 ./organizational/desire-path-recognition.md
 ./organizational/digital-campfires-virtual-watercoolers.md
