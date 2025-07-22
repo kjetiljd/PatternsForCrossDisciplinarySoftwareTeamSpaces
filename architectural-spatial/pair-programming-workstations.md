@@ -31,7 +31,21 @@ Create dedicated pair programming workstations with:
 - Optional bar-height stools for standing collaboration
 - Adequate legroom and personal space for extended sessions
 
-## Visual Layout
+## Forces
+- **Collaboration vs. Individual Work:** Stations must support intensive pairing while remaining usable for solo development
+- **Physical Comfort:** Extended pairing sessions require ergonomic consideration for both participants
+- **Equipment Sharing:** Technical setup must enable smooth role transitions between driver and navigator
+- **Space Efficiency:** Dedicated pairing stations require more floor space than individual workstations
+
+## Related Patterns
+- [Small Team Bays](small-team-bays.md) - Can house multiple pair programming workstations
+- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Supports flexible pairing arrangements
+- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Can incorporate pairing pods within team clusters
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Ensures physical comfort during extended collaboration
+
+## Further details
+
+### Visual Layout
 
 ### Optimal Pair Programming Desk Configuration
 ```
@@ -146,22 +160,10 @@ graph TD
     but enables intensive collaboration when needed
 ```
 
-## Forces
-- **Collaboration vs. Individual Work:** Stations must support intensive pairing while remaining usable for solo development
-- **Physical Comfort:** Extended pairing sessions require ergonomic consideration for both participants
-- **Equipment Sharing:** Technical setup must enable smooth role transitions between driver and navigator
-- **Space Efficiency:** Dedicated pairing stations require more floor space than individual workstations
-
-## Examples
+### Examples
 - **Fog Creek Software:** Used extra-long rectangular desks instead of L-shaped ones to invite pairing partners without awkward positioning
 - **Thoughtworks:** Implemented wide bench-style desks that could accommodate two developers comfortably
 - **Modern Agile Offices:** Mobile workstations on wheels that can be combined for pairing or separated for focus work
-
-## Related Patterns
-- [Small Team Bays](small-team-bays.md) - Can house multiple pair programming workstations
-- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Supports flexible pairing arrangements
-- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Can incorporate pairing pods within team clusters
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Ensures physical comfort during extended collaboration
 
 ## Sources
 - Beck, Kent. "Extreme Programming Explained: Embrace Change"
