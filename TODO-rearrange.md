@@ -1,4 +1,3 @@
-./organizational/embedded-telepresence-team-spaces.md
 ./organizational/enabling-platform-teams.md
 ./organizational/handbook-first-documentation.md
 ./organizational/hybrid-coordination-knowledge-networks.md
