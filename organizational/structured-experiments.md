@@ -20,7 +20,15 @@ Design small, controlled experiments to test key assumptions before making irrev
 - Cost vs. Risk - Small experiment costs must be justified by risk reduction
 - Learning vs. Execution - Must balance discovery with delivery
 
-## Implementation
+## Related Patterns
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Experiments help convert one-way doors to two-way doors
+- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Experiments are key tool for complex domain decisions
+- [Trying Out Options](trying-out-options.md) - Testing multiple approaches in parallel
+- [Architecture Decision Records](architecture-decision-records.md) - Document experiment results and decisions
+
+## Further details
+
+### Implementation
 1. **Clarify the Uncertainty**: Identify the key assumption or question that needs testing
 2. **Formulate Hypothesis**: Create testable statements: "If we do X, we expect Y to happen"
 3. **Design the Probe**: Make it small, time-bounded, and safe-to-fail with limited scope and cost
@@ -28,7 +36,7 @@ Design small, controlled experiments to test key assumptions before making irrev
 5. **Execute and Observe**: Run the test, collect meaningful data, watch for unintended effects
 6. **Adapt Decisions**: Use findings to inform architecture choices, strategy, or further experiments
 
-## Examples
+### Examples
 **Pair Programming Trial:**
 - Uncertainty: Will pair programming improve code quality without slowing delivery?
 - Hypothesis: Pair programming on complex modules will reduce production bugs without increasing lead time
@@ -46,12 +54,6 @@ Design small, controlled experiments to test key assumptions before making irrev
 - Hypothesis: Reorganizing one feature team to include all needed skills will reduce handoffs
 - Experiment: Pilot cross-functional structure for one quarter on specific feature set
 - Success Criteria: Reduced cycle time, improved team satisfaction, maintained quality
-
-## Related Patterns
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Experiments help convert one-way doors to two-way doors
-- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Experiments are key tool for complex domain decisions
-- [Trying Out Options](trying-out-options.md) - Testing multiple approaches in parallel
-- [Architecture Decision Records](architecture-decision-records.md) - Document experiment results and decisions
 
 ## Sources
 - Lean Startup methodology and validated learning

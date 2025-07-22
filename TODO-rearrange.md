@@ -1,4 +1,3 @@
-./organizational/structured-experiments.md
 ./organizational/swarm-reviews-pairing.md
 ./organizational/sync-async-balance-framework.md
 ./organizational/team-api.md
