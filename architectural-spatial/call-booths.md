@@ -30,14 +30,26 @@ Install small, soundproof privacy pods within or right next to team work areas. 
 - **Space Efficiency vs. Availability**: Limited pods must serve multiple team members
 - **Aesthetics vs. Function**: Professional appearance balanced with acoustic performance
 
-## Evidence
+
+## Related Patterns
+- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Complementary privacy solutions
+- [Small Team Bays](small-team-bays.md) - Primary work areas that booths support
+- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Alternative to formal meeting rooms
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Team collaboration privacy
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and climate considerations
+- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Privacy needs align with temporal patterns of collaboration and focus time
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md) - Call booths enable private synchronous communication while maintaining async-first culture
+
+## Further details
+
+### Evidence
 Research supports the need for acoustic privacy solutions:
 - **Productivity Impact**: Workers are usually 15% less productive in open office environments due to distractions
 - **Focus Recovery**: It takes 20 minutes to regain focus after being interrupted by noise
 - **Phone Call Frequency**: Average knowledge worker takes 8-12 phone calls per day that need some privacy
 - **Meeting Room Waste**: 30-40% of booked meeting rooms are used for individual calls that could use smaller spaces
 
-## Examples
+### Examples
 
 **Technology Companies:**
 - **Zendesk**: Phone booths throughout open office floors for individual calls
@@ -50,32 +62,23 @@ Research supports the need for acoustic privacy solutions:
 - **Custom Built**: Acoustic booths designed specifically for office integration
 - **Steelcase Pods**: Furniture-based privacy solutions with sound dampening
 
-## Consequences
+### Consequences
 
-### Positive
+#### Positive
 - **Reduced Open Area Noise**: Phone calls and video conferences don't disturb team work
 - **Maintained Privacy**: Confidential conversations can happen without booking formal rooms
 - **Preserved Team Connection**: Visual connection maintains awareness and availability
 - **Improved Focus**: Acoustic isolation enables concentrated work when needed
 - **Flexibility**: No scheduling required for individual privacy needs
 
-### Negative
+#### Negative
 - **Limited Availability**: Pods may be occupied when needed
 - **Space Investment**: Requires dedicated square footage and equipment investment
 - **Maintenance Needs**: Ventilation, cleaning, and technology upkeep required
 - **Psychological Barriers**: Some people may feel claustrophobic in small enclosed spaces
 - **Usage Conflicts**: Teams may need protocols for fair access during busy periods
 
-## Related Patterns
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Complementary privacy solutions
-- [Small Team Bays](small-team-bays.md) - Primary work areas that booths support
-- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Alternative to formal meeting rooms
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Team collaboration privacy
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Acoustic and climate considerations
-- [Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md) - Privacy needs align with temporal patterns of collaboration and focus time
-- [Async Collaboration Norms](../organizational/async-collaboration-norms.md) - Call booths enable private synchronous communication while maintaining async-first culture
-
-## Implementation notes
+### Implementation notes
 
 ### Physical Design
 - Single-person capacity (approximately 4x4 feet internal space)
