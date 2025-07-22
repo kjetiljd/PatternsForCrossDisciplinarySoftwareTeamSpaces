@@ -1,4 +1,3 @@
-./architectural-spatial/neighborhood-effect-serendipity.md
 ./architectural-spatial/pair-programming-workstations.md
 ./architectural-spatial/personalization-human-scale.md
 ./architectural-spatial/small-team-bays.md
