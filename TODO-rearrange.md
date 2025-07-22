@@ -1,4 +1,3 @@
-./architectural-spatial/pair-programming-workstations.md
 ./architectural-spatial/personalization-human-scale.md
 ./architectural-spatial/small-team-bays.md
 ./architectural-spatial/visible-evolution-traces.md
