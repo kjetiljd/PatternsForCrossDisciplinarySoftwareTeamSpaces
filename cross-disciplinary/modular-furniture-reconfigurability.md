@@ -14,6 +14,25 @@ Fixed furniture layouts can't adapt to different work modes and team activities.
 ## Solution
 Provide movable furniture with flexible power and data connections. This allows teams to quickly change their space for different activities.
 
+## Forces
+- Need for flexible arrangements vs. stability and safety
+- Investment in modular systems vs. fixed furniture costs
+- Time to reconfigure vs. productivity benefits
+- Individual work needs vs. collaborative requirements
+- Technology integration vs. simple mobility
+
+## Examples
+- Manufacturing workstation layouts
+- Studio reconfiguration practices
+- Laboratory bench modularity
+
+## Related Patterns
+- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md)
+- [Collaborative Zones](../organizational/collaborative-zones.md)
+- [Prototype and Test Workflows](prototype-test-workflows.md)
+
+## Further details
+
 ### Specification Guidelines
 
 **Modular Desk Systems:**
@@ -271,16 +290,6 @@ Provide movable furniture with flexible power and data connections. This allows 
 - **Talent Retention:** Mixed impact - attracts flexibility-seeking employees, may lose routine-preferring employees
 - **Innovation Catalyst:** Enhanced collaboration for teams that successfully adapt to reconfiguration patterns
 
-## Forces
-- Reconfiguration flexibility vs. setup overhead
-- Furniture durability vs. mobility
-- Cost of modular systems vs. benefits of adaptability
-- Standardization vs. customization
-- **Change adaptation vs. predictability needs** (especially for neurodivergent employees)
-- **Shared spaces vs. territorial behavior** (cultural and psychological factors)
-- **Maintenance complexity vs. functionality** (facilities management burden)
-- **Acoustic privacy vs. collaboration** (constant reconfiguration creates noise pollution)
-
 ### Human Factors and Organizational Realities
 
 **Neurodiversity Considerations:**
@@ -320,18 +329,6 @@ Provide movable furniture with flexible power and data connections. This allows 
 - **Vision Considerations:** Color-coding and tactile indicators for **vision-impaired employees**
 - **Cognitive Accessibility:** Simple, consistent connection methods that don't require **complex spatial reasoning**
 - **Fine Motor Skills:** Connection mechanisms accessible to employees with **limited dexterity**
-
-## Examples
-- **Agile Offices:** Mobile workstations that can be recombined for pair programming or separated for focus work
-- **Modern Co-working Spaces:** Modular desk systems with traveling whiteboards and acoustic panels
-- **Spotify Office Design:** Flexible furniture systems supporting rapid team reconfiguration
-
-## Related Patterns
-- [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Benefits from modular desk systems
-- [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Uses mobile furniture for flexible arrangement  
-- [Display of Work](display-of-work.md) - Enhanced by mobile display surfaces
-- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md) - Supports team customization
-- [U-Shape Team Layout](u-shape-team-layout.md) - Enabled by reconfigurable furniture
 
 ## Sources
 - Maker space design principles
