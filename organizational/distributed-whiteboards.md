@@ -14,6 +14,18 @@ Without shared visual workspaces, distributed teams struggle to collaborate effe
 ## Solution
 Implement shared digital whiteboarding tools and establish practices for inclusive visual collaboration that enable all team members to participate equally, regardless of their physical location.
 
+## Forces
+- Visual collaboration richness vs. tool complexity
+- Simultaneous editing vs. coordination overhead
+- Accessibility vs. feature completeness
+- Synchronous vs. asynchronous visual work
+- Physical presence vs. digital capability
+- Creative freedom vs. structured frameworks
+- Real-time collaboration vs. thoughtful contribution
+- Tool consistency vs. specialized functionality
+
+## Further details
+
 ### Tool Comparison Matrix
 
 | Tool | Best For | Simultaneous Users | Integration | Learning Curve | Pricing Model |
@@ -173,16 +185,6 @@ Implement shared digital whiteboarding tools and establish practices for inclusi
 - **Participation Inequality**: Use structured activities to ensure equal contribution
 - **Cultural Resistance**: Acknowledge that some team members may prefer traditional methods
 - **Skill Gaps**: Provide ongoing training and support for visual collaboration skills
-
-## Forces
-- Visual collaboration richness vs. tool complexity
-- Simultaneous editing vs. coordination overhead
-- Accessibility vs. feature completeness
-- Synchronous vs. asynchronous visual work
-- Physical presence vs. digital capability
-- Creative freedom vs. structured frameworks
-- Real-time collaboration vs. thoughtful contribution
-- Tool consistency vs. specialized functionality
 
 ## Related Patterns
 - [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Supports collaborative code review and design sessions
