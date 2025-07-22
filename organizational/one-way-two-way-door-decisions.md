@@ -24,7 +24,15 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 - Learning vs. Results - Testing requires safety to fail
 - Efficiency vs. Care - Time spent on decisions must match how important they are
 
-## Implementation
+## Related Patterns
+- [Structured Experiments](structured-experiments.md) - Testing before irreversible decisions
+- [Decision-Making Patterns](decision-making-patterns.md) - Overall decision framework
+- [Aligned Autonomy](aligned-autonomy.md) - Balancing team freedom with organizational alignment
+- [Architecture Decision Records](architecture-decision-records.md) - Documenting important one-way door decisions
+
+## Further details
+
+### Implementation
 
 ### Decision Classification Tools
 
@@ -124,24 +132,24 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 **Decider(s):** [Name(s) and Role(s)]
 **Status:** [Proposed/Decided/Implemented/Reversed]
 
-## Decision Summary
+### Decision Summary
 [1-2 sentences describing what was decided]
 
-## Rationale
+### Rationale
 [Brief explanation of why this decision was made]
 
-## Reversibility Assessment
+### Reversibility Assessment
 - **Financial Cost to Reverse:** $[amount] or [percentage]% of budget
 - **Time to Reverse:** [timeframe]
 - **Dependencies Created:** [list any new dependencies]
 - **Exit Strategy:** [how we would undo this if needed]
 
-## Implementation Plan
+### Implementation Plan
 - **Timeline:** [when this will be implemented]
 - **Success Metrics:** [how we'll know it's working]
 - **Review Date:** [when we'll reassess this decision]
 
-## Risk Mitigation
+### Risk Mitigation
 - **What could go wrong:** [potential negative outcomes]
 - **Early warning signs:** [indicators we should reverse course]
 - **Monitoring approach:** [how we'll track impact]
@@ -156,63 +164,63 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 **Stakeholders Consulted:** [List all consulted parties]
 **Status:** [Proposed/Under Review/Decided/Implemented]
 
-## Executive Summary
+### Executive Summary
 [2-3 sentences capturing the decision and its significance]
 
-## Problem Statement
+### Problem Statement
 [Detailed description of the problem this decision addresses]
 
-## Options Considered
-### Option 1: [Name]
+### Options Considered
+#### Option 1: [Name]
 - **Pros:** [advantages]
 - **Cons:** [disadvantages]  
 - **Cost:** [financial and resource implications]
 - **Risk:** [potential negative outcomes]
 
-### Option 2: [Name]
+#### Option 2: [Name]
 [Repeat format]
 
-### Option 3: [Name]
+#### Option 3: [Name]
 [Repeat format]
 
-## Decision Rationale
+### Decision Rationale
 [Detailed explanation of why the chosen option was selected]
 
-## Irreversibility Analysis
+### Irreversibility Analysis
 - **Why this is one-way:** [specific factors that make reversal difficult/impossible]
 - **Cost of reversal:** [detailed breakdown of reversal costs]
 - **Point of no return:** [when reversal becomes impossible]
 - **Mitigation strategies:** [how we're reducing irreversibility where possible]
 
-## Risk Assessment
-### High-Impact Risks
+### Risk Assessment
+#### High-Impact Risks
 - **Risk:** [description]
 - **Probability:** [High/Medium/Low]
 - **Impact:** [description of consequences]
 - **Mitigation:** [how we're addressing this risk]
 
-### Medium-Impact Risks
+#### Medium-Impact Risks
 [Repeat format]
 
-## Implementation Plan
+### Implementation Plan
 - **Phase 1:** [initial steps and timeline]
 - **Phase 2:** [subsequent steps and timeline]
 - **Dependencies:** [what must happen before we can proceed]
 - **Success Criteria:** [how we'll measure success]
 - **Monitoring Plan:** [ongoing oversight and adjustment mechanisms]
 
-## Stakeholder Impact
+### Stakeholder Impact
 - **Team 1:** [how this affects them]
 - **Team 2:** [how this affects them]
 - **Customers:** [customer impact]
 - **Partners:** [partner/vendor impact]
 
-## Communication Plan
+### Communication Plan
 - **Internal Announcement:** [how and when we'll communicate internally]
 - **External Communication:** [any required external communication]
 - **Training/Support:** [what support people will need]
 
-## Review and Learning
+### Review and Learning
 - **6-month review:** [what we'll assess]
 - **1-year review:** [longer-term evaluation]
 - **Success metrics:** [quantitative measures]
@@ -228,31 +236,31 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 **Escalation Trigger:** [What caused the escalation]
 **Current Status:** [Under Review/Reclassified/Decided]
 
-## Original Classification
+### Original Classification
 [What the decision was originally thought to be and why]
 
-## Escalation Reason
+### Escalation Reason
 [Specific factors that triggered reclassification]
 
-## Expanded Assessment
-### Stakeholder Analysis
+### Expanded Assessment
+#### Stakeholder Analysis
 - **Additional stakeholders identified:** [who else is affected]
 - **Impact expansion:** [how the impact is broader than originally thought]
 
-### Risk Reassessment
+#### Risk Reassessment
 - **New risks identified:** [risks not apparent in original assessment]
 - **Risk magnitude changes:** [how risk assessment has changed]
 
-### Reversibility Reanalysis
+#### Reversibility Reanalysis
 - **New irreversibility factors:** [what makes this harder to reverse than thought]
 - **Cost updates:** [revised estimates of reversal costs]
 
-## Final Classification
+### Final Classification
 - **New classification:** [Two-Way Door/One-Way Door]
 - **Justification:** [why this is the correct classification]
 - **Process to follow:** [which decision process applies]
 
-## Lessons Learned
+### Lessons Learned
 [What this teaches us about classification for future decisions]
 ```
 
@@ -390,7 +398,7 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 - **Process Innovation:** Identify opportunities to improve decision-making approaches
 - **Culture Assessment:** Evaluate how decision-making culture has evolved
 
-## Examples
+### Examples
 **Two-Way Door Decisions:**
 - Changes to internal application logic
 - Creating new development teams
@@ -402,12 +410,6 @@ Before making any decision, ask: "What kind of door is this?" Then match your pr
 - Modifying public API contracts
 - Selecting core technology stack for new products
 - Major architectural decisions affecting system design
-
-## Related Patterns
-- [Structured Experiments](structured-experiments.md) - Testing before irreversible decisions
-- [Decision-Making Patterns](decision-making-patterns.md) - Overall decision framework
-- [Aligned Autonomy](aligned-autonomy.md) - Balancing team freedom with organizational alignment
-- [Architecture Decision Records](architecture-decision-records.md) - Documenting important one-way door decisions
 
 ## Sources
 - Jeff Bezos 1997 Amazon Shareholder Letter
