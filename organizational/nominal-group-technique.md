@@ -20,9 +20,16 @@ Collect individual opinions separately from group discussion. Gather input indep
 - Speed vs. Quality - Want quick decisions but need good input
 - Disagreement vs. Comfort - Healthy disagreement improves decisions but feels uncomfortable
 
-## Implementation
+## Related Patterns
+- [Ranked Voting](ranked-voting.md) - Method for prioritizing options generated through nominal group technique
+- [One-Way Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Framework for deciding when to use nominal group technique
+- [Psychological Safety Practices](psychological-safety-practices.md) - Creates environment where nominal group technique works effectively
 
-### Detailed Facilitation Guide
+## Further details
+
+### Implementation Guide
+
+#### Detailed Facilitation Guide
 
 **Phase 1: Preparation and Design (1-3 days before session)**
 
@@ -236,7 +243,7 @@ Collect individual opinions separately from group discussion. Gather input indep
 - **Frequent Use**: Too much use causes participant fatigue and gaming - limit to 1-2 times per month
 - **Technology Problems**: When people lack digital skills or reliable internet
 
-## Examples
+### Examples
 **Product Roadmap Prioritization:**
 - Independent Input: Team members individually rank potential features with rationale
 - Synthesis: Product lead aggregates rankings and identifies divergent priorities
@@ -254,12 +261,6 @@ Collect individual opinions separately from group discussion. Gather input indep
 - Synthesis: Facilitator identifies common themes and unique perspectives
 - Discussion: Focus on areas where experiences differ significantly
 - Decision: Team lead implements changes addressing the most impactful issues
-
-## Related Patterns
-- [Ranked Voting](ranked-voting.md) - Complementary technique for aggregating preferences
-- [Psychological Safety Practices](psychological-safety-practices.md) - Creates environment where honest input is safe
-- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - NGT particularly useful for complicated and complex decisions
-- [Structured Experiments](structured-experiments.md) - Can use NGT to design experiments addressing disagreements
 
 ## Sources
 - Nominal Group Technique research and methodology
