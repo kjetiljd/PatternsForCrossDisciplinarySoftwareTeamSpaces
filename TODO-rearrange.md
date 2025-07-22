@@ -1,4 +1,3 @@
-./organizational/open-space-swarm-cadence.md
 ./organizational/platform-teams-communities.md
 ./organizational/psychological-safety-practices.md
 ./organizational/ranked-voting.md

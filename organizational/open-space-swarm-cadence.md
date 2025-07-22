@@ -21,9 +21,23 @@ Implement continuous Open Space marketplace for work allocation through structur
 - **Regular reconvening**: Teams share progress and reform as needed each cycle
 - **Self-organization**: Continuous emergence of who works on what based on interest and system needs
 
-**Facilitation Framework:**
+## Forces
+- **Uncertainty vs. Planning**: High uncertainty environments need flexibility over detailed planning
+- **Skill utilization vs. Team stability**: Balancing optimal skill use with team cohesion
+- **Innovation vs. Control**: Encouraging innovation while maintaining coordination
+- **Individual autonomy vs. System needs**: Allowing choice while serving organizational goals
 
-*Opening Ceremony (15-20 minutes):*
+## Related Patterns
+- [Aligned Autonomy](aligned-autonomy.md) - Provides strategic direction for self-organization
+- [Demand-Led Fluid Teaming](demand-led-fluid-teaming.md) - Supports regular team reformation
+- [Self-Governing Teams](self-governing-teams.md) - Builds foundation for autonomous operation
+- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Complements swarming with review practices
+
+## Further details
+
+### Facilitation Framework
+
+**Opening Ceremony (15-20 minutes):**
 1. **Marketplace Setup**: Display all available work items with clear descriptions and constraints
 2. **Energy Check**: Quick pulse on team energy levels and capacity for different types of work
 3. **Context Sharing**: Brief updates on organizational priorities and dependencies
@@ -33,21 +47,21 @@ Implement continuous Open Space marketplace for work allocation through structur
    - When it starts is the right time
    - When it's over, it's over
 
-*During Swarm Cycles:*
+**During Swarm Cycles:**
 1. **Progress Indicators**: Visual tracking of swarm progress (Kanban boards, progress walls)
 2. **Impediment Escalation**: Clear protocols for removing blockers quickly
 3. **Cross-Swarm Coordination**: Lightweight synchronization between related swarms
 4. **Individual Check-ins**: Brief daily touches with isolated or struggling participants
 
-*Closing/Reconvening (20-30 minutes):*
+**Closing/Reconvening (20-30 minutes):**
 1. **Harvest Session**: Each swarm shares progress, learnings, and next steps
 2. **Work Item Status**: Update marketplace with completed, continued, or orphaned items
 3. **Reflection Cycle**: Brief retrospective on swarm effectiveness and system improvements
 4. **Preparation for Next Cycle**: Seed new work items and preview upcoming marketplace
 
-**Work Item Formats:**
+### Work Item Formats
 
-*Standard Work Item Template:*
+**Standard Work Item Template:**
 ```
 Title: [Clear, Action-Oriented Name]
 Size: [Small/Medium/Large - 1-2 day completion target]
@@ -59,21 +73,21 @@ Constraints: [Time, resource, or technical limitations]
 Champion: [Person who proposed/sponsors this work]
 ```
 
-*Work Item Categories:*
+**Work Item Categories:**
 - **Feature Swarms**: User-facing functionality requiring cross-functional collaboration
 - **Technical Debt Swarms**: Code quality, architecture, or infrastructure improvements
 - **Learning Swarms**: Exploration, research, or skill development initiatives
 - **Crisis Swarms**: Urgent issues requiring immediate attention and rapid response
 - **Innovation Swarms**: Experimental ideas with high uncertainty but potential impact
 
-*Work Item Sizing Guidelines:*
+**Work Item Sizing Guidelines:**
 - **Small (1-2 people, 1-2 days)**: Bug fixes, minor enhancements, documentation updates
 - **Medium (2-4 people, 2-3 days)**: Feature additions, architecture improvements, complex investigations
 - **Large (4-6 people, 3-5 days)**: Major features, system redesigns, significant integrations
 
-**Team Formation Exercises:**
+### Team Formation Exercises
 
-*Pre-Swarm Formation Activities:*
+**Pre-Swarm Formation Activities:**
 
 1. **Skill Mapping Exercise (5 minutes)**: 
    - Each person writes their current skills and learning interests on sticky notes
@@ -90,7 +104,7 @@ Champion: [Person who proposed/sponsors this work]
    - People announce work areas they're excited about or want to avoid
    - Helps prevent assignment to demoralizing work and increases intrinsic motivation
 
-*Swarm Formation Process:*
+**Swarm Formation Process:**
 
 1. **Work Item Presentation (2 minutes per item)**:
    - Champion briefly presents each work item
@@ -112,14 +126,14 @@ Champion: [Person who proposed/sponsors this work]
    - Balance team sizes based on work complexity
    - Address any orphaned work items through renegotiation
 
-*Swarm Formation Troubleshooting:*
+**Swarm Formation Troubleshooting:**
 
 - **Oversubscribed Work Items**: Use dot voting to gauge true interest levels, split into parallel swarms, or negotiate priorities
 - **Undersubscribed Critical Work**: Champion advocates for importance, facilitator helps find volunteer participants, consider breaking into smaller items
 - **Skill Gaps**: Identify opportunities for learning pairs, bring in external expertise, or defer work until skills are available
 - **Conflict Resolution**: Use consent-based decision making, time-boxed discussion, or facilitator-mediated negotiation
 
-*Team Bonding Micro-Practices:*
+**Team Bonding Micro-Practices:**
 
 1. **Swarm Charter (5 minutes)**: Each new swarm quickly defines their working agreements
    - Communication preferences and frequency
@@ -138,28 +152,22 @@ Champion: [Person who proposed/sponsors this work]
    - Work session schedules and breaks
    - Progress sharing and help-seeking protocols
 
-## Forces
-- **Uncertainty vs. Planning**: High uncertainty environments need flexibility over detailed planning
-- **Skill utilization vs. Team stability**: Balancing optimal skill use with team cohesion
-- **Innovation vs. Control**: Encouraging innovation while maintaining coordination
-- **Individual autonomy vs. System needs**: Allowing choice while serving organizational goals
+### Consequences
 
-## Consequences
-
-### Positive
+#### Positive
 - **Rapid adaptation**: Continuous adjustment to changing needs and priorities
 - **Knowledge spreading**: Rotation through different problem domains increases learning
 - **High motivation**: Self-selection boosts ownership and engagement
 - **Resilience**: No single points of failure as people can swarm on critical issues
 - **Innovation**: "Near the border of chaos" operation can yield spontaneous order
 
-### Negative
+#### Negative
 - **Potential confusion**: May feel unstable without proper facilitation
 - **Lack of ownership**: Risk of reduced long-term accountability for outcomes
 - **Cultural requirements**: Demands mature, self-managing (Teal) organizational culture
 - **Coordination overhead**: Requires skilled facilitation to avoid thrashing
 
-## Examples
+### Examples
 
 **Successful Implementations:**
 
@@ -247,7 +255,7 @@ Champion: [Person who proposed/sponsors this work]
   - Result: Productivity drops and conflict increases
   - Learning: Investment in facilitation skills is essential for swarm success
 
-## Implementation
+### Implementation
 
 **Phase 1: Foundation Building (4-6 weeks)**
 
@@ -360,12 +368,6 @@ Champion: [Person who proposed/sponsors this work]
 2. **Quarterly Reviews**: Major process adjustments and expansion decisions
 3. **Annual Assessment**: Strategic evaluation of swarm impact on organizational effectiveness
 4. **External Benchmarking**: Comparison with other organizations using similar approaches
-
-## Related Patterns
-- [Aligned Autonomy](aligned-autonomy.md) - Provides strategic direction for self-organization
-- [Demand-Led Fluid Teaming](demand-led-fluid-teaming.md) - Supports regular team reformation
-- [Self-Governing Teams](self-governing-teams.md) - Builds foundation for autonomous operation
-- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Complements swarming with review practices
 
 ## Sources
 - FAST Agile by Ron Quartel
