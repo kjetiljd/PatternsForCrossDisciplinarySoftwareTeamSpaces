@@ -14,6 +14,19 @@ Bland, uniform environments can hurt creativity and well-being. Working only wit
 ## Solution
 Add different materials, textures, and touchable elements to work spaces. Choose materials based on research. Map out where different textures work best. Plan for easy maintenance.
 
+## Forces
+- Sensory stimulation vs. distraction
+- Maintenance requirements vs. textural variety
+- Professional appearance vs. creative inspiration
+- Cost of materials vs. environmental benefits
+
+## Related Patterns
+- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md)
+- [Environmental Comfort Patterns](../architectural-spatial/environmental-comfort-patterns.md)
+- [Display of Work](display-of-work.md)
+
+## Further details
+
 ### Material Selection Guides
 
 **Cognitive Performance Materials:**
@@ -309,17 +322,6 @@ Add different materials, textures, and touchable elements to work spaces. Choose
 - **Flexibility Value:** Modular material systems allow for cost-effective reconfiguration
 - **Cultural Investment:** Materials that reflect values create lasting organizational identity
 - **Health ROI:** Reduced healthcare costs and improved productivity from better work environment
-
-## Forces
-- Sensory stimulation vs. distraction
-- Maintenance requirements vs. textural variety
-- Professional appearance vs. creative inspiration
-- Cost of materials vs. environmental benefits
-
-## Related Patterns
-- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md)
-- [Environmental Comfort Patterns](../architectural-spatial/environmental-comfort-patterns.md)
-- [Display of Work](display-of-work.md)
 
 ## Sources
 - Architectural studio traditions

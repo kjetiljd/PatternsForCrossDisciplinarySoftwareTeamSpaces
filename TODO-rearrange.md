@@ -1,4 +1,3 @@
-./cross-disciplinary/materiality-texture.md
 ./cross-disciplinary/modular-furniture-reconfigurability.md
 ./cross-disciplinary/pin-up-space.md
 ./cross-disciplinary/poster-sessions.md
