@@ -14,6 +14,19 @@ Without visible showcases of work, teams miss chances to learn from each other. 
 ## Solution
 Set up regular poster sessions where teams display their work, prototypes, and findings. Use structured format templates and facilitation techniques. Mix digital and physical displays. This helps teams share knowledge and work together better.
 
+## Forces
+- Formal vs. informal knowledge sharing
+- Prepared presentations vs. work-in-progress sharing
+- Time investment vs. learning opportunities
+- Physical vs. digital display formats
+
+## Related Patterns
+- [Display of Work](display-of-work.md)
+- [Pin-Up Space](pin-up-space.md)
+- [Cross-Team Events](../temporal/cross-team-events.md)
+
+## Further details
+
 ### Format Templates
 
 **Academic Research Poster Format (for technical deep dives):**
@@ -345,17 +358,6 @@ Set up regular poster sessions where teams display their work, prototypes, and f
 - **Facilitator Training:** 1-hour orientation for rotating facilitators
 - **Technology Needs:** Basic camera/phone for documentation, shared file storage
 - **Expected Benefits:** Improved knowledge sharing, enhanced collaboration, better project visibility
-
-## Forces
-- Formal vs. informal knowledge sharing
-- Prepared presentations vs. work-in-progress sharing
-- Time investment vs. learning opportunities
-- Physical vs. digital display formats
-
-## Related Patterns
-- [Display of Work](display-of-work.md)
-- [Pin-Up Space](pin-up-space.md)
-- [Cross-Team Events](../temporal/cross-team-events.md)
 
 ## Sources
 - Academic research poster sessions
