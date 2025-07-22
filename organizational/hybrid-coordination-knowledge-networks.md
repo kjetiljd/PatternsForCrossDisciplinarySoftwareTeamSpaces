@@ -38,30 +38,38 @@ Use clear hybrid coordination strategies:
 - **Inclusion vs. Efficiency**: Make sure remote members aren't disadvantaged
 - **Spontaneity vs. Structure**: Keep informal interactions while providing clear processes
 
-## Consequences
+## Related Patterns
+- [Distributed Whiteboards](distributed-whiteboards.md) - Supports virtual collaboration
+- [Asynchronous Collaboration Norms](async-collaboration-norms.md) - Enables time-shifted work
+- [Anchor Days](anchor-days.md) - Provides structured in-person time
+- [Team API](team-api.md) - Makes team coordination explicit
 
-### Positive
+## Further details
+
+### Consequences
+
+#### Positive
 - **Inclusive coordination**: All team members have equal access to information and decisions
 - **Better work matching**: Tasks align with the best work environments
 - **Stronger relationships**: Planned in-person time strengthens team bonds
 - **Better documentation**: Hybrid requirements improve knowledge sharing practices
 - **Flexible talent access**: Can hire and retain talent regardless of location
 
-### Negative
+#### Negative
 - **Coordination overhead**: Requires more clear processes and tools
 - **Technology dependency**: Relies heavily on digital collaboration tools
 - **Scheduling complexity**: Coordinating across locations and time zones
 - **Discipline requirements**: Teams must maintain hybrid practices consistently
 
-## Examples
+### Examples
 - **Virtual co-working sessions**: Always-on video calls for background collaboration
 - **Hybrid design sprints**: In-person brainstorming with remote implementation
 - **Async-first documentation**: All decisions and context captured in writing
 - **Quarterly team gatherings**: Regular in-person connection and planning
 
-## Implementation
+### Implementation
 
-### Communication Channel Mapping
+#### Communication Channel Mapping
 
 **High-Context Information (In-Person/Video):**
 - Strategic decisions and direction setting
@@ -91,7 +99,7 @@ Use clear hybrid coordination strategies:
 - Reference materials and onboarding content
 - Cross-team coordination agreements
 
-### Synchronization Techniques
+#### Synchronization Techniques
 
 **Daily Synchronization:**
 - **Morning Alignment**: 15-minute hybrid standup combining in-person and remote participants
@@ -111,7 +119,7 @@ Use clear hybrid coordination strategies:
 - **Process Tuning**: Evaluation and adjustment of hybrid coordination practices
 - **Skill Development**: Coordinated learning experiences leveraging both individual and group study
 
-### Knowledge Capture Protocols
+#### Knowledge Capture Protocols
 
 **Decision Documentation:**
 - **Context Preservation**: Record the situation, alternatives considered, and reasoning
@@ -137,7 +145,7 @@ Use clear hybrid coordination strategies:
 - **Relevance Maintenance**: Regular review and updating of stored knowledge
 - **Access Controls**: Appropriate sharing while protecting sensitive information
 
-### Hybrid Meeting Excellence
+#### Hybrid Meeting Excellence
 
 **Pre-Meeting Preparation:**
 - Shared agenda with clear objectives and pre-reading materials
@@ -157,7 +165,7 @@ Use clear hybrid coordination strategies:
 - **Feedback Collection**: Assessment of meeting effectiveness from all participation modes
 - **Knowledge Integration**: Incorporation of meeting outcomes into team knowledge base
 
-### Technology Integration
+#### Technology Integration
 
 **Platform Consistency:**
 - Single source of truth for project information accessible from any location
@@ -177,7 +185,7 @@ Use clear hybrid coordination strategies:
 - **Tool Utilization**: Assessment of which technologies are most effective for different work types
 - **Outcome Correlation**: Tracking of how coordination practices affect team performance
 
-### Success Indicators
+#### Success Indicators
 
 **Quantitative Measures:**
 - **Decision Speed**: Time from issue identification to resolution
@@ -191,7 +199,7 @@ Use clear hybrid coordination strategies:
 - **Knowledge Confidence**: Team certainty about shared understanding
 - **Adaptation Capability**: How well teams respond to changing coordination needs
 
-## Implementation Steps
+### Implementation Steps
 
 1. **Assessment Phase**: Evaluate current coordination challenges and team hybrid work patterns
 2. **Channel Mapping**: Set up communication frameworks for different information types
@@ -200,12 +208,6 @@ Use clear hybrid coordination strategies:
 5. **Tool Integration**: Set up technology stack supporting hybrid coordination
 6. **Process Training**: Develop team skills in hybrid coordination techniques
 7. **Continuous Improvement**: Regular evaluation and refinement of coordination practices
-
-## Related Patterns
-- [Distributed Whiteboards](distributed-whiteboards.md) - Supports virtual collaboration
-- [Asynchronous Collaboration Norms](async-collaboration-norms.md) - Enables time-shifted work
-- [Anchor Days](anchor-days.md) - Provides structured in-person time
-- [Team API](team-api.md) - Makes team coordination explicit
 
 ## Sources
 - Research by Sporsem & Moe on hybrid team coordination
