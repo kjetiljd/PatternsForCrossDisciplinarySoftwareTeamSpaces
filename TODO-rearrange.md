@@ -1,4 +1,3 @@
-./organizational/team-api.md
 ./organizational/team-composition-size.md
 ./organizational/thinking-out-loud.md
 ./organizational/transparent-artifacts.md
