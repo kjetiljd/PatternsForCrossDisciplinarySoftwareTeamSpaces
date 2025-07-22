@@ -1,4 +1,3 @@
-./organizational/near-far-specialist-guilds.md
 ./organizational/nominal-group-technique.md
 ./organizational/one-way-two-way-door-decisions.md
 ./organizational/open-space-swarm-cadence.md
