@@ -12,19 +12,7 @@ Organizations with multiple teams that occasionally need specialized equipment o
 Teams work in isolation and miss chances to share ideas with other teams. Expensive specialized equipment sits unused most of the time. Individual teams can't use it enough to justify the cost.
 
 ## Solution
-Create shared equipment cores:
-- **Centralized location**: Place specialized tools in accessible common areas
-- **Multiple team access**: Design for use by various teams and disciplines
-- **Knowledge sharing**: Equipment areas become natural places for informal learning
-- **Booking system**: Simple reservation system for high-demand items
-- **Maintenance shared**: Distribute care and maintenance responsibility
-
-Examples of shared equipment:
-- UX research lab with eye-tracking, usability testing setup
-- Hardware prototyping area with 3D printers, electronics
-- Video/audio recording studio for demos and presentations
-- VR/AR headsets and development rigs
-- Specialized testing devices
+Create shared equipment cores with centralized specialized tools accessible to multiple teams. Include booking system and shared maintenance responsibility. Equipment areas become natural places for knowledge sharing and informal learning between teams.
 
 ## Forces
 - Specialized equipment is expensive and underutilized by single teams
@@ -33,9 +21,23 @@ Examples of shared equipment:
 - Shared resources require coordination and maintenance
 - Physical proximity encourages knowledge transfer
 
-## Governance Models
+## Related Patterns
+- [Toolbelt Availability](toolbelt-availability.md)
+- [Lab Adjacency](lab-adjacency.md)
+- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md)
 
-### Democratic Governance
+## Further details
+
+### Equipment Types and Examples
+- UX research lab with eye-tracking, usability testing setup
+- Hardware prototyping area with 3D printers, electronics
+- Video/audio recording studio for demos and presentations
+- VR/AR headsets and development rigs
+- Specialized testing devices
+
+### Governance Models
+
+#### Democratic Governance
 **Decision Making:**
 - Monthly equipment committee with rotating representation from all teams
 - Consensus-based decisions on new equipment purchases
@@ -48,7 +50,7 @@ Examples of shared equipment:
 - Shared responsibility for basic cleaning and care
 - Escalation path for repairs and technical issues
 
-### Custodial Governance
+#### Custodial Governance
 **Equipment Stewards:**
 - Assign specific individuals as stewards for different equipment categories
 - Stewards responsible for training, maintenance schedules, and usage policies
@@ -61,7 +63,7 @@ Examples of shared equipment:
 - Documentation of best practices and troubleshooting guides
 - Coordination with vendors for repairs and upgrades
 
-### Hybrid Governance
+#### Hybrid Governance
 **Tiered Access System:**
 - Basic equipment (printers, monitors) available to all with simple booking
 - Advanced equipment (specialized testing gear) requires certification
@@ -74,9 +76,9 @@ Examples of shared equipment:
 - Cost-sharing arrangements for expensive equipment based on usage
 - Grant funding for research equipment with academic partnerships
 
-## Digital Equivalents
+### Digital Equivalents
 
-### Virtual Shared Resources
+#### Virtual Shared Resources
 **Cloud-Based Tools:**
 - Shared licenses for expensive software (design tools, simulation software)
 - Development environments and testing platforms
@@ -89,7 +91,7 @@ Examples of shared equipment:
 - Cloud credits pooled across teams for elastic compute needs
 - Specialized development environments (mobile device testing, IoT platforms)
 
-### Digital Asset Libraries
+#### Digital Asset Libraries
 **Shared Components:**
 - Design system libraries and component repositories
 - Code libraries and frameworks developed by teams
@@ -102,9 +104,9 @@ Examples of shared equipment:
 - Training materials and certification programs
 - Best practice repositories and lesson learned databases
 
-## ROI Calculations
+### ROI Calculations
 
-### Cost-Benefit Analysis Framework
+#### Cost-Benefit Analysis Framework
 
 **Equipment Costs:**
 - Initial purchase price and setup costs
@@ -123,7 +125,7 @@ Examples of shared equipment:
 - **Shared Ownership**: Total cost + coordination overhead + space costs
 - **Break-even Analysis**: Shared ownership justified when more than 2-3 teams have regular need
 
-### Value Creation Metrics
+#### Value Creation Metrics
 
 **Direct Value:**
 - Projects completed that wouldn't be possible without equipment
@@ -149,9 +151,9 @@ UX Research Lab Equipment:
 - ROI: ($192,000 - $58,000) / $58,000 = 231%
 ```
 
-## Implementation Strategies
+### Implementation Strategies
 
-### Phase 1: Assessment and Planning
+#### Phase 1: Assessment and Planning
 **Needs Analysis:**
 - Survey teams about equipment needs and usage patterns
 - Identify overlap in requirements across teams
@@ -164,7 +166,7 @@ UX Research Lab Equipment:
 - Develop governance model appropriate for organization
 - Create timeline for equipment acquisition and setup
 
-### Phase 2: Equipment Selection and Setup
+#### Phase 2: Equipment Selection and Setup
 **Equipment Criteria:**
 - Multi-team applicability and learning value
 - Reasonable training requirements for safe usage
@@ -177,7 +179,7 @@ UX Research Lab Equipment:
 - Storage for equipment accessories and consumables
 - Comfortable areas for observation and informal learning
 
-### Phase 3: Operations and Optimization
+#### Phase 3: Operations and Optimization
 **Usage Monitoring:**
 - Track equipment utilization patterns
 - Monitor team satisfaction with access and training
@@ -190,66 +192,61 @@ UX Research Lab Equipment:
 - Integration with team workflows and project processes
 - Documentation of best practices and lessons learned
 
-## Examples in Practice
+### Examples in Practice
 
-### Technology Company UX Lab
+#### Technology Company UX Lab
 **Equipment**: Eye-tracking systems, usability testing setup, video recording equipment
 **Governance**: UX team stewardship with open access for product teams
 **Results**: 300% increase in user testing frequency, improved cross-team understanding of user needs
 
-### Financial Services Innovation Lab
+#### Financial Services Innovation Lab
 **Equipment**: VR/AR headsets, IoT prototyping kits, blockchain development nodes
 **Governance**: Innovation committee with rotating quarterly access
 **Results**: 12 new prototype concepts developed, 3 moved to production development
 
-### Healthcare Software Maker Space
+#### Healthcare Software Maker Space
 **Equipment**: 3D printers, medical device prototyping tools, testing equipment
 **Governance**: Shared maintenance with expert steward oversight
 **Results**: Rapid prototyping reduced development cycles by 40%, improved device usability
 
-### Open Source Project Digital Tools
+#### Open Source Project Digital Tools
 **Equipment**: Shared CI/CD credits, testing device farm, design tool licenses
 **Governance**: Contributor-based governance with usage-based allocation
 **Results**: Improved project quality, faster release cycles, increased contributor engagement
 
-## Anti-Patterns and Pitfalls
+### Anti-Patterns and Pitfalls
 
-### Common Failures
+#### Common Failures
 **Tragedy of the Commons**: Equipment becomes neglected when no one feels like they own it
 **Scheduling Conflicts**: High-demand equipment creates bottlenecks without proper governance
 **Skill Gaps**: Complex equipment sits unused due to lack of training or expertise
 **Maintenance Neglect**: Equipment degrades without clear maintenance responsibilities
 
-### Warning Signs
+#### Warning Signs
 - Equipment utilization below 30% of capacity
 - Frequent scheduling conflicts and user complaints
 - Repeated equipment failures due to poor maintenance
 - Teams avoiding shared equipment due to complexity or access issues
 
-### Prevention Strategies
+#### Prevention Strategies
 - Clear usage policies and training requirements
 - Regular equipment health monitoring and maintenance
 - Feedback mechanisms for continuous improvement
 - Backup plans for high-demand equipment
 
-## Advanced Patterns
+### Advanced Patterns
 
-### Equipment Ecosystem Integration
+#### Equipment Ecosystem Integration
 **Tool Chains**: Design equipment cores that support complete workflows
 **Cross-Training**: Develop expertise across multiple equipment types
 **Project Integration**: Align equipment access with project planning cycles
 **Vendor Relationships**: Leverage shared purchasing power for better terms
 
-### Scaling Patterns
+#### Scaling Patterns
 **Hub and Spoke**: Central core with satellite equipment in team areas
 **Rotating Access**: Equipment moves between teams on scheduled basis
 **Specialized Centers**: Different equipment cores for different domains
 **Partnership Models**: Shared equipment with external organizations or universities
-
-## Related Patterns
-- [Toolbelt Availability](toolbelt-availability.md)
-- [Lab Adjacency](lab-adjacency.md)
-- [Neighborhood Effect and Serendipity](../architectural-spatial/neighborhood-effect-serendipity.md)
 
 ## Sources
 - Research lab organization patterns
