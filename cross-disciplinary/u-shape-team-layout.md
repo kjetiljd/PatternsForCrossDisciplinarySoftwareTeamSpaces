@@ -14,30 +14,44 @@ Linear seating arrangements can create communication barriers and exclude some t
 ## Solution
 Arrange team workstations in U-shaped configurations with people sitting inside the U facing outward toward their screens. Use wheeled chairs for easy collaboration.
 
-**Software Team Implementation:**
+## Forces
+- Individual focus vs. team collaboration
+- Communication ease vs. noise control
+- Accessibility requirements vs. space efficiency
+- Flexibility vs. optimized arrangements
+- Visual privacy vs. team awareness
+
+## Related Patterns
+- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Overall team space design that can incorporate U-shape layout
+- [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Specific collaboration workstations within the U-shape
+- [Adjacent Semi-Private Spaces](../architectural-spatial/adjacent-semi-private-spaces.md) - Breakaway spaces for individual focus
+
+## Further details
+
+### Software Team Implementation
 - **Perimeter workstations**: Individual desks positioned around room perimeter facing walls, allowing easy swivel to face team center
 - **Central collaboration space**: Open area or shared table at the center of the U-shape for team gatherings
 - **Pair programming pods**: Adjacent workstations within the U-shape that can function as pairing stations
 - **Mobile collaboration**: Office chairs with wheels allow easy scooting between workstations for pair programming
 - **Monitor visibility**: Screens for easily showing others, with easy chair mobility for collaboration
 
-**Communication Optimization:**
+### Communication Optimization
 - **Easy mobility**: Team members can quickly wheel their chairs to collaborate at any workstation
 - **Peripheral awareness**: While facing outward, team members maintain awareness of teammates in their peripheral vision
 - **Quick pivoting**: Simple chair turn allows instant face-to-face communication when needed
 - **Central meeting point**: Open center of U contains gathering space for stand-ups and team discussions
 
-**Flexible Configuration:**
+### Flexible Configuration
 - **Modular implementation**: Wide desks at right angles forming corners of the U-shape
 - **Breakaway options**: Adjacent quiet spaces or privacy screens for concentrated individual work
-- - **Scalable design**: U-shape can accommodate 4-6 team members comfortably, perhaps doubling if needed for shorter paring sessions on wide desk-workstations
+- **Scalable design**: U-shape can accommodate 4-6 team members comfortably, perhaps doubling if needed for shorter paring sessions on wide desk-workstations
 - **Activity zones**: Different areas of the U can support different collaborations, e.g with a wall-mounted screen at the bottom of the U for software teaming sessions
 - **Accessibility accommodations**: Ensure adequate space and access for wheelchairs and mobility aids
 - **Acoustic management**: Balance collaborative communication with individual focus needs
 
-## Visual Layout
+### Visual Layout
 
-### Basic U-Shape Configuration
+#### Basic U-Shape Configuration
 ```
                  ┌─────────────────────────────────┐
                  │         WALL/DISPLAYS            │
@@ -83,7 +97,7 @@ Arrange team workstations in U-shaped configurations with people sitting inside 
                 └─────────────────┘
 ```
 
-### Collaboration Flow Diagram
+#### Collaboration Flow Diagram
 ```mermaid
 graph TD
     subgraph "U-Shape Team Layout"
@@ -120,7 +134,7 @@ graph TD
     class CENTER center
 ```
 
-## Accessibility Considerations for Inclusive U-Shape Layouts
+### Accessibility Considerations for Inclusive U-Shape Layouts
 
 *Ensure U-shape configurations accommodate team members with mobility challenges and diverse accessibility needs.*
 
@@ -142,7 +156,7 @@ graph TD
 - **Alternative seating**: Space for standing desks or alternative seating options within the U configuration
 - **Personal space adjustments**: Ability to modify individual workspace size while maintaining team connectivity
 
-## Acoustic Considerations for Communication Balance
+### Acoustic Considerations for Communication Balance
 
 *Address noise and sound transmission challenges inherent in U-shape collaborative layouts.*
 
@@ -164,7 +178,7 @@ graph TD
 - **Soft materials**: Include plants, fabric panels, or acoustic ceiling treatments to absorb excess sound
 - **Technology solutions**: Noise-canceling headphones available for intense focus periods
 
-## Hybrid Adaptation for Remote Team Members
+### Hybrid Adaptation for Remote Team Members
 
 *Modify U-shape layouts to effectively include remote team members in collaborative activities.*
 
@@ -192,21 +206,8 @@ graph TD
 - **Social connection**: Informal interaction opportunities that include remote team members (virtual coffee breaks, team lunches via video)
 - **Equal participation**: Design collaboration activities that give equal voice to in-person and remote team members  
 
-## Forces
-- Equal participation vs. space efficiency
-- Flexibility vs. optimal communication layout
-- Individual workspace vs. team configuration
-- Acoustic considerations vs. visual communication
-
-## Examples
+### Examples
 - **Software Development Teams:** Teams using U-shaped desk arrangements report improved screen visibility and effortless communication
-
-## Related Patterns
-- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Provides space framework for U-shaped arrangements
-- [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Individual stations within the U-shape
-- [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Central collaboration area at the bottom of the U
-- [Modular Furniture and Reconfigurability](modular-furniture-reconfigurability.md) - Enables adjustable U-shape implementation
-- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private-spaces.md) - Balances openness with focus needs
 
 ## Sources
 - Manufacturing cell design principles
