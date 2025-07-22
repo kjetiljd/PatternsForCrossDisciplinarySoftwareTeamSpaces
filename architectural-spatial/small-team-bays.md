@@ -150,9 +150,9 @@ Create small team bays with optimal sizing (typically 4-6 people), superior soun
 - [ ] **Space conflicts**: Establish clear team boundaries and usage norms
 - [ ] **Limited personalization**: Allow teams to modify and adapt within guidelines
 
-## Team Transition Protocols
+### Team Transition Protocols
 
-### When Team Composition Changes
+#### When Team Composition Changes
 Team bays must adapt when members join, leave, or when entirely new teams occupy the space:
 
 **Adding Team Members (1-2 people):**
@@ -176,7 +176,7 @@ Team bays must adapt when members join, leave, or when entirely new teams occupy
 - [ ] Support new team in establishing ownership and customization
 - [ ] Monitor space usage patterns during first 8 weeks for optimization needs
 
-### Space Evolution Guidelines
+#### Space Evolution Guidelines
 **Gradual Adaptation (Ongoing):**
 - [ ] Allow teams to move furniture within acoustic and safety constraints
 - [ ] Support seasonal or project-based reconfigurations
@@ -189,7 +189,7 @@ Team bays must adapt when members join, leave, or when entirely new teams occupy
 - [ ] Update technology infrastructure if new work modes require different setups
 - [ ] Coordinate with facilities management for structural or system changes
 
-### Handover Documentation
+#### Handover Documentation
 **For Teams Leaving Bay:**
 - [ ] Document successful furniture configurations and layout optimizations
 - [ ] Identify which acoustic treatments and environmental settings worked best
@@ -202,7 +202,7 @@ Team bays must adapt when members join, leave, or when entirely new teams occupy
 - [ ] Explain acoustic boundaries and noise etiquette with neighboring teams
 - [ ] Orient to shared resources and collaboration infrastructure
 
-## Examples
+### Examples
 - Wells (1960s) studies showing preference for smaller office groupings
 - Basecamp's quiet team areas with "library rules"
 - Agile team bays in software companies with acoustic treatment

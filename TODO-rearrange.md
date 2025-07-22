@@ -1,4 +1,3 @@
-./architectural-spatial/small-team-bays.md
 ./architectural-spatial/half-open-half-private-spaces.md
 ./cross-disciplinary/modular-furniture-reconfigurability.md
 ./cross-disciplinary/pin-up-space.md
