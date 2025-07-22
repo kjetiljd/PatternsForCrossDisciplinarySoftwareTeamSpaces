@@ -160,7 +160,7 @@ Research supports the need for acoustic privacy solutions:
 - **Cable Management**: Retractable cable system to reduce clutter and setup time
 
 **Environmental Controls:**
-- **Lighting System**: 
+- **Lighting System**:
   - Automatic LED lighting with motion sensor activation
   - Adjustable brightness (2700K-5000K temperature range)
   - Key light positioning for video calls (front-facing, soft diffusion)
@@ -212,7 +212,7 @@ Research supports the need for acoustic privacy solutions:
 **Fair Access Policies:**
 - **Daily Limits**: Maximum 2 hours per person per day across all booth reservations
 - **Team Priority**: Team members have booking priority over cross-team users
-- **Meeting Types**: 
+- **Meeting Types**:
   - Instant availability for urgent calls (5-15 minutes)
   - Advance booking for scheduled external meetings (30+ minutes)
   - Walk-up priority for internal team coordination calls
@@ -262,7 +262,7 @@ Research supports the need for acoustic privacy solutions:
    - Display and camera basic functionality check
 
 **Weekly Deep Cleaning (30 minutes per booth):**
-1. **Interior Deep Clean**: 
+1. **Interior Deep Clean**:
    - Vacuum carpet or clean flooring thoroughly
    - Clean glass panels inside and outside for visibility
    - Wipe down walls and acoustic panels (follow manufacturer methods)

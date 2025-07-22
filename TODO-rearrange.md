@@ -1,4 +1,3 @@
-./architectural-spatial/call-booths.md
 ./architectural-spatial/environmental-comfort-patterns.md
 ./architectural-spatial/mob-programming-corner.md
 ./architectural-spatial/neighborhood-effect-serendipity.md
