@@ -16,6 +16,34 @@ When processes and spaces are designed without observing actual usage patterns, 
 
 **Follow the Finnish planning approach**: Wait to observe natural patterns before implementing formal structures. Like Finnish planners who wait for the first snowfall to see where people actually walk before installing pathways, observe how teams naturally organize their work and space usage.
 
+Key approach: Observe → Analyze → Support rather than Design → Implement → Enforce.
+
+## Forces
+
+- **Efficiency seeking**: Teams naturally develop more efficient solutions through trial and error
+- **Context sensitivity**: Local conditions create unique optimal solutions that can't be predetermined
+- **Ownership**: Teams feel more invested in systems they helped create through use
+- **Adaptation**: Natural patterns evolve with changing needs, while imposed systems resist change
+- **Social proof**: When teams see their natural patterns validated, they refine and improve them
+
+## Examples
+
+**University campuses**: Many universities delay pathway construction to observe student movement patterns, creating more intuitive campus navigation.
+
+**Software team communication**: Teams often develop informal check-in patterns that work better than scheduled meetings - recognizing and supporting these creates better coordination.
+
+**Workspace usage**: Teams may naturally cluster certain types of work in specific areas - acknowledging these patterns can inform better space design.
+
+**Agile ceremonies**: Successful agile teams often modify standard ceremonies to fit their context - these adaptations become team-specific process improvements.
+
+## Related Patterns
+
+- **[Visible Evolution Traces](../architectural-spatial/visible-evolution-traces.md)** - Making natural patterns visible helps others recognize and adopt them
+- **[Self-Governing Teams](self-governing-teams.md)** - Teams need autonomy to develop natural patterns
+- **[Aligned Autonomy](aligned-autonomy.md)** - Balance between natural team patterns and organizational needs
+
+## Further details
+
 ### Observation Frameworks
 
 #### The 3-Layer Observation Model
@@ -213,30 +241,6 @@ When processes and spaces are designed without observing actual usage patterns, 
 - Emphasize pattern recognition as source of competitive advantage
 - Celebrate teams that develop novel effective approaches
 - Create rapid prototyping paths for pattern formalization
-
-## Forces
-
-- **Efficiency seeking**: Teams naturally develop more efficient solutions through trial and error
-- **Context sensitivity**: Local conditions create unique optimal solutions that can't be predetermined
-- **Ownership**: Teams feel more invested in systems they helped create through use
-- **Adaptation**: Natural patterns evolve with changing needs, while imposed systems resist change
-- **Social proof**: When teams see their natural patterns validated, they refine and improve them
-
-## Examples
-
-**University campuses**: Many universities delay pathway construction to observe student movement patterns, creating more intuitive campus navigation.
-
-**Software team communication**: Teams often develop informal check-in patterns that work better than scheduled meetings - recognizing and supporting these creates better coordination.
-
-**Workspace usage**: Teams may naturally cluster certain types of work in specific areas - acknowledging these patterns can inform better space design.
-
-**Agile ceremonies**: Successful agile teams often modify standard ceremonies to fit their context - these adaptations become team-specific process improvements.
-
-## Related Patterns
-
-- **[Visible Evolution Traces](../architectural-spatial/visible-evolution-traces.md)** - Making natural patterns visible helps others recognize and adopt them
-- **[Self-Governing Teams](self-governing-teams.md)** - Teams need autonomy to develop natural patterns
-- **[Aligned Autonomy](aligned-autonomy.md)** - Balance between natural team patterns and organizational needs
 
 ## Sources
 
