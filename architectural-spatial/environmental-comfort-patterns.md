@@ -123,9 +123,9 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Seat Depth**: 380-420mm with waterfall edge design
 - **Armrest Height**: 200-250mm above seat surface, adjustable
 
-## Detailed Product Recommendations
+### Detailed Product Recommendations
 
-### Ergonomic Furniture Specifications
+#### Ergonomic Furniture Specifications
 
 **Sit-Stand Desks for Collaborative Work:**
 
@@ -163,7 +163,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Adjustability**: Seat height, depth, backrest, and armrest adjustment
 - **Price Point**: 40-50% cost of premium Herman Miller options
 
-### Lighting Solutions and Equipment
+#### Lighting Solutions and Equipment
 
 **Circadian Rhythm Lighting Systems:**
 
@@ -191,7 +191,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Features**: Motion sensing, scheduled operation, 60-year LED lifespan
 - **Price Point**: Premium option with comprehensive lighting solutions
 
-### Climate Control and Air Quality Equipment
+#### Climate Control and Air Quality Equipment
 
 **Personal Climate Solutions:**
 
@@ -218,7 +218,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Accuracy**: Commercial-grade sensors with real-time monitoring
 - **Alerts**: Customizable notifications for air quality thresholds
 
-### Acoustic Treatment Products
+#### Acoustic Treatment Products
 
 **Mobile Acoustic Solutions:**
 
@@ -238,9 +238,9 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Aesthetics**: 30+ color options with custom printing capabilities
 - **Maintenance**: Vacuum-cleanable surface, no special treatment required
 
-## Personalization Guidelines for Individual Comfort
+### Personalization Guidelines for Individual Comfort
 
-### Balancing Individual Preferences with Team Standards
+#### Balancing Individual Preferences with Team Standards
 
 **Personal Customization Framework:**
 - **Core Standards**: Base environmental parameters that ensure health and safety for all
@@ -255,7 +255,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 4. **Monitoring Phase**: Track usage patterns and satisfaction over 3-month periods
 5. **Optimization**: Adjust standards based on real usage data and feedback
 
-### Technology-Assisted Personalization
+#### Technology-Assisted Personalization
 
 **Smart Environmental Controls:**
 - **Personal Profiles**: Individual settings stored in building management system
@@ -269,9 +269,9 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Stress Indicators**: Environmental adjustments based on stress level detection
 - **Health Compliance**: Monitoring for compliance with ergonomic guidelines and break schedules
 
-### Examples and Case Studies
+#### Examples and Case Studies
 
-#### Norwegian Implementation Examples
+##### Norwegian Implementation Examples
 
 **Opera Software Oslo Office:**
 - **Daylight Integration**: Floor-to-ceiling windows with automated blinds maintaining 2.5% daylight factor
@@ -285,7 +285,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Acoustic Design**: Open office with 42dBA background noise and speech privacy >85 PI
 - **Results**: 30% reduction in eye strain complaints, 20% improvement in concentration metrics
 
-#### International Best Practice Examples
+##### International Best Practice Examples
 
 **Google Zürich Engineering Floors:**
 - **Micro-Climate Zones**: Individual climate control within 6m² areas
