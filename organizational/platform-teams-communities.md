@@ -55,9 +55,16 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - **Service evolution vs. stability**: Keep improving without breaking existing integrations
 - **Self-service vs. support overhead**: Reduce platform team work while keeping service quality high
 
-## Implementation Checklist
+## Related Patterns
+- [Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Product teams that consume platform services
+- [Aligned Autonomy](aligned-autonomy.md) - Balance between team independence and organizational alignment
+- [Self-Governing Teams](self-governing-teams.md) - Teams that can operate effectively with platform support
 
-### Phase 1: Foundation and Assessment (Weeks 1-8)
+## Further details
+
+### Implementation Checklist
+
+#### Phase 1: Foundation and Assessment (Weeks 1-8)
 
 #### Platform Teams Formation
 
@@ -98,7 +105,7 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - [ ] Set up meeting rhythms and communication channels
 - [ ] Create lightweight governance model for community activities
 
-### Phase 2: Platform Development and Community Launch (Weeks 6-16)
+#### Phase 2: Platform Development and Community Launch (Weeks 6-16)
 
 #### Platform Service Development
 
@@ -139,7 +146,7 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - [ ] Implement cross-team project showcases and demo sessions
 - [ ] Create community-driven documentation and guideline development
 
-### Phase 3: Scaling and Improvement (Weeks 12-24)
+#### Phase 3: Scaling and Improvement (Weeks 12-24)
 
 #### Platform Team Scaling
 
@@ -180,7 +187,7 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - [ ] Create innovation showcases and cross-community learning events
 - [ ] Develop community impact measurement and business value demonstration
 
-### Phase 4: Continuous Improvement and Evolution (Month 6+)
+#### Phase 4: Continuous Improvement and Evolution (Month 6+)
 
 #### Platform Excellence
 
@@ -207,9 +214,9 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - [ ] Create community contribution pathways to platform team development
 - [ ] Develop community alumni networks and knowledge preservation
 
-## Success Metrics and Validation
+### Success Metrics and Validation
 
-### Platform Team Effectiveness
+#### Platform Team Effectiveness
 
 **Service Adoption Metrics:**
 - **Adoption Rate**: Percent of eligible teams using each platform service (target: >80% within 12 months)
@@ -229,7 +236,7 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - **Innovation Rate**: Increase in experimentation and new feature development (target: 50% more experiments)
 - **Compliance Adherence**: Improvement in security and regulatory compliance (target: 100% policy adherence)
 
-### Community of Practice Effectiveness
+#### Community of Practice Effectiveness
 
 **Participation Metrics:**
 - **Active Membership**: Number of regular community participants (target: 15-25% of eligible employees)
@@ -249,9 +256,9 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - **Technical Capability**: Overall improvement in organizational technical capabilities (annual assessment)
 - **External Recognition**: Community member speaking at conferences, contributing to open source (track annually)
 
-## Common Implementation Challenges and Solutions
+### Common Implementation Challenges and Solutions
 
-### Platform Team Challenges
+#### Platform Team Challenges
 
 **Challenge: Platform team becomes a bottleneck**
 - **Solution**: Focus on self-service capabilities and complete documentation
@@ -268,7 +275,7 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - **Prevention**: Regular usability testing and customer feedback
 - **Warning Signs**: High onboarding time, frequent support requests, low self-service success
 
-### Community of Practice Challenges
+#### Community of Practice Challenges
 
 **Challenge: Low community participation**
 - **Solution**: Align community activities with business goals and individual development goals
@@ -284,11 +291,6 @@ Without shared systems, teams do the same work many times. Each team builds thin
 - **Solution**: Show business value and align community goals with organization goals
 - **Prevention**: Get management support and add community participation to performance reviews
 - **Warning Signs**: Team leaders discouraging participation, scheduling conflicts, resource constraints
-
-## Related Patterns
-- [Aligned Autonomy](aligned-autonomy.md)
-- [Cross-Team Synchronization](cross-team-synchronization.md)
-- [Team API](team-api.md)
 
 ## Sources
 
