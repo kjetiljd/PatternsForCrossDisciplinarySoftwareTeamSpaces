@@ -14,6 +14,23 @@ Workspaces that don't meet accessibility standards exclude potential team member
 ## Solution
 Design all team spaces to exceed accessibility requirements. Use universal design principles. Include abundant natural light with controllable systems. Maintain optimal air quality and temperature with individual control options. Create inclusive environments that accommodate diverse physical, cognitive, and sensory needs from the start.
 
+## Forces
+- Legal requirements vs. cost considerations
+- Universal design vs. specific team needs  
+- Natural light access vs. privacy and glare concerns
+- Energy efficiency vs. comfort requirements
+- Standard solutions vs. individual needs
+- Planning for inclusion vs. reacting to requests
+
+## Related Patterns
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Detailed comfort specifications
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Individual space design
+- [Personalization and Human Scale](personalization-human-scale.md) - Individual expression within accessible design
+- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Acoustic and visual accessibility
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Sensory regulation spaces
+
+## Implementation notes
+
 ### Norwegian Building Code Compliance (TEK17)
 
 #### Physical Accessibility Requirements
@@ -31,14 +48,6 @@ Design all team spaces to exceed accessibility requirements. Use universal desig
 - **Temperature Control**: 20-24°C (68-75°F) with ±2°C adjustment capability
 - **Relative Humidity**: 30-60% year-round
 - **Noise Levels**: Maximum 40 dB for concentrated work areas
-
-## Forces
-- Legal requirements vs. cost considerations
-- Universal design vs. specific team needs  
-- Natural light access vs. privacy and glare concerns
-- Energy efficiency vs. comfort requirements
-- Standard solutions vs. individual needs
-- Planning for inclusion vs. reacting to requests
 
 ### Accessibility Compliance Checklists
 
@@ -138,13 +147,6 @@ Design all team spaces to exceed accessibility requirements. Use universal desig
 
 **Challenge: Open Office Acoustic Issues**
 - **Solution**: Personal noise-canceling systems, temporary acoustic barriers, policy changes
-
-## Related Patterns
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Detailed comfort specifications
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Individual space design
-- [Personalization and Human Scale](personalization-human-scale.md) - Individual expression within accessible design
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Acoustic and visual accessibility
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Sensory regulation spaces
 
 ## Sources
 - Norwegian building codes TEK17 and NS 11001-1:2009 accessibility standards
