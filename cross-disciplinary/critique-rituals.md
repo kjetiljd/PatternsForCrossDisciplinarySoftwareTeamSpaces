@@ -19,26 +19,41 @@ Without regular critique sessions, teams miss opportunities to:
 Informal feedback often becomes personal or lacks structure, while formal code reviews may be too late in the process or focused only on technical correctness.
 
 ## Solution
-Establish regular critique sessions where teams present their work to peers and receive structured feedback. Create a supportive environment that emphasizes learning and improvement over judgment.
+Establish regular critique sessions where teams present their work to peers and receive structured feedback. Create a supportive environment that emphasizes learning and improvement over judgment, using structured formats and psychological safety foundations.
 
-**Core Critique Structure:**
+## Forces
+- Structured feedback vs. informal discussion
+- Psychological safety vs. honest critique
+- Time investment vs. learning benefits
+- Individual vs. collective learning
+
+## Related Patterns
+- [Pin-Up Space](pin-up-space.md) - Physical space that supports displaying work for critique
+- [Poster Sessions](poster-sessions.md) - Similar approach to sharing and discussing work
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Essential foundation for productive critique
+- [Weekly Cadence](../temporal/weekly-cadence.md) - Critique rituals benefit from regular scheduling as part of weekly rhythms
+- [Rituals as Spatial Anchors](../temporal/rituals-spatial-anchors.md) - Using consistent spaces creates meaningful associations with critique practices
+
+## Further details
+
+### Core Critique Structure
 1. **Presenter sets context**: Share the problem, goals, and constraints (3-5 minutes)
 2. **Work presentation**: Show current state without defensive explanation (5-10 minutes)
 3. **Clarifying questions**: Audience asks questions to understand context (3-5 minutes)
 4. **Structured feedback**: Use specific frameworks to provide constructive input (10-15 minutes)
 5. **Synthesis and next steps**: Presenter summarizes key insights and planned actions (3-5 minutes)
 
-**Psychological Safety Foundations:**
+### Psychological Safety Foundations
 - **Work-focused critique**: Comment on work, not the person ("This approach..." vs. "You...")
 - **Assumption of positive intent**: Assume everyone wants to create good work and help others
 - **Growth mindset language**: Frame feedback as learning opportunities rather than judgments
 - **Shared vulnerability**: Leaders and senior team members model sharing unfinished work
 
-## Structured Feedback Templates
+### Structured Feedback Templates
 
 *Specific formats for giving and receiving constructive critique that maintains focus and psychological safety.*
 
-### Template 1: I Like, I Wish, I Wonder (Simple Format)
+#### Template 1: I Like, I Wish, I Wonder (Simple Format)
 **Purpose**: Quick, accessible feedback format suitable for any type of work
 
 **Structure**:
@@ -51,7 +66,7 @@ Establish regular critique sessions where teams present their work to peers and 
 - "I wish there was more error handling for the edge case when the database is unavailable"
 - "I wonder if we've considered how this will perform when we have 10x more users"
 
-### Template 2: Glow and Grow (Development-Focused)
+#### Template 2: Glow and Grow (Development-Focused)
 **Purpose**: Balanced feedback emphasizing strengths and development opportunities
 
 **Structure**:
@@ -62,7 +77,7 @@ Establish regular critique sessions where teams present their work to peers and 
 - "Glow: The test coverage approach you've taken makes the code behavior very clear and gives me confidence in changes"
 - "Grow: The architecture could benefit from clearer separation between business logic and UI concerns"
 
-### Template 3: Plus, Delta, Next (Action-Oriented)
+#### Template 3: Plus, Delta, Next (Action-Oriented)
 **Purpose**: Feedback that drives immediate action and iteration
 
 **Structure**:
@@ -75,7 +90,7 @@ Establish regular critique sessions where teams present their work to peers and 
 - "Delta: The wireframes could show more detail about the responsive behavior on mobile"
 - "Next: Consider prototyping the checkout flow to test the assumption about user preferences"
 
-### Template 4: Critical Friends Protocol (Deep Analysis)
+#### Template 4: Critical Friends Protocol (Deep Analysis)
 **Purpose**: Thorough critique for complex work requiring detailed analysis
 
 **Structure**:
@@ -86,11 +101,11 @@ Establish regular critique sessions where teams present their work to peers and 
 5. **Consider implications**: "What are the potential consequences of this choice?"
 6. **Suggest experiments**: "How might we test these assumptions?"
 
-## Remote Critique Protocols
+### Remote Critique Protocols
 
 *Strengthen guidance for conducting effective critiques in distributed teams where traditional in-person dynamics don't apply.*
 
-### Technology Setup for Remote Critique
+#### Technology Setup for Remote Critique
 **Essential Tools**:
 - **Screen sharing**: High-quality screen sharing for detailed work review
 - **Digital whiteboard**: Collaborative space for visual feedback and note-taking
@@ -104,7 +119,7 @@ Establish regular critique sessions where teams present their work to peers and 
 - **Cursor highlighting**: Use tools that highlight mouse movements for clarity
 - **Audio quality**: Ensure clear audio for nuanced discussion
 
-### Adapted Critique Process for Remote Teams
+#### Adapted Critique Process for Remote Teams
 **Pre-Session Preparation**:
 - **Async context sharing**: Share background materials 24-48 hours in advance
 - **Pre-submitted questions**: Collect clarifying questions before the session
@@ -124,7 +139,7 @@ Establish regular critique sessions where teams present their work to peers and 
 - **One-on-one follow-up**: Individual conversations for complex or sensitive feedback
 - **Async elaboration**: Opportunity for additional thoughts via text after processing time
 
-### Maintaining Engagement and Inclusion in Remote Critique
+#### Maintaining Engagement and Inclusion in Remote Critique
 **Participation Strategies**:
 - **Smaller groups**: 4-6 people maximum for effective remote interaction
 - **Rotation facilitation**: Different team members facilitate different sessions
@@ -137,20 +152,14 @@ Establish regular critique sessions where teams present their work to peers and 
 - **Technical barriers**: Have backup plans for screen sharing and connectivity issues  
 - **Time zone inclusion**: Record sessions and create async feedback opportunities
 
-### Building Psychological Safety in Remote Critique
+#### Building Psychological Safety in Remote Critique
 **Trust-Building Practices**:
 - **Camera-on culture**: Encourage video for better connection while respecting privacy needs
 - **Personal check-ins**: Brief personal sharing before work critique
 - **Explicit safety reminders**: Regular reinforcement of critique ground rules
 - **Modeling vulnerability**: Leaders share unfinished work and accept feedback gracefully
 
-## Forces
-- Structured feedback vs. informal discussion
-- Psychological safety vs. honest critique
-- Time investment vs. learning benefits
-- Individual vs. collective learning
-
-## Examples
+### Examples
 
 **Design Studios**: Architecture and graphic design schools use regular "pin-up" critiques where students present work to peers and faculty for structured feedback, building both design skills and critical thinking.
 
@@ -161,13 +170,6 @@ Establish regular critique sessions where teams present their work to peers and 
 **Creative Agencies**: Ad agencies and design firms use structured critique sessions called "reviews" where creative work is presented to peers and refined based on structured feedback before client presentation.
 
 **Open Source Projects**: Many open source communities use "request for comments" (RFC) processes that mirror critique rituals, where proposed changes are presented for community feedback before implementation.
-
-## Related Patterns
-- [Pin-Up Space](pin-up-space.md) - Physical space that supports displaying work for critique
-- [Poster Sessions](poster-sessions.md) - Similar approach to sharing and discussing work
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Essential foundation for productive critique
-- [Weekly Cadence](../temporal/weekly-cadence.md) - Critique rituals benefit from regular scheduling as part of weekly rhythms
-- [Rituals as Spatial Anchors](../temporal/rituals-spatial-anchors.md) - Using consistent spaces creates meaningful associations with critique practices
 
 ## Sources
 - Design studio critique traditions

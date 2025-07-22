@@ -1,4 +1,3 @@
-./cross-disciplinary/critique-rituals.md
 ./cross-disciplinary/display-of-work.md
 ./cross-disciplinary/kaizen-corner.md
 ./cross-disciplinary/lab-adjacency.md
