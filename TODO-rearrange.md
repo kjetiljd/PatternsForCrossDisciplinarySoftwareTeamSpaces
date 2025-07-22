@@ -1,4 +1,3 @@
-./organizational/in-zone-collaboration.md
 ./organizational/meeting-room-anti-pattern.md
 ./organizational/near-far-specialist-guilds.md
 ./organizational/nominal-group-technique.md
