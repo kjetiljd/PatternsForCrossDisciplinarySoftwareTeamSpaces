@@ -32,29 +32,37 @@ Deploy two types of supporting teams:
 - **Efficiency vs. Bottlenecks**: Centralizing common needs without creating delays
 - **Learning vs. Dependency**: Building capability without creating permanent reliance
 
-## Consequences
+## Related Patterns
+- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - The primary beneficiaries
+- [Team API](team-api.md) - Defines clear service interfaces
+- [Near/Far Specialist Guilds](near-far-specialist-guilds.md) - Alternative approach to specialty expertise
+- [Self-Governing Teams](self-governing-teams.md) - Enables autonomous consumption of platform services
 
-### Positive
+## Further details
+
+### Consequences
+
+#### Positive
 - **Reduced cognitive load**: Stream teams focus on their domain while platforms handle complexity
 - **Faster delivery**: Self-service platforms eliminate waiting for infrastructure
 - **Consistent standards**: Platform and enabling teams ensure quality across the organization
 - **Capability building**: Enabling teams spread knowledge rather than hoarding it
 - **Decoupled dependencies**: Clear service boundaries enable team autonomy
 
-### Negative
+#### Negative
 - **Platform bottleneck risk**: Platforms can become bottlenecks if not properly designed
 - **Complexity hiding**: May obscure important technical details from product teams
 - **Coordination overhead**: Requires clear interaction protocols and service management
 - **Resource allocation**: Needs dedicated investment in non-product-facing teams
 
-## Examples
+### Examples
 - **Netflix**: Internal platforms for deployment, monitoring, and data processing
 - **Spotify**: Infrastructure teams providing deployment and operational platforms
 - **Amazon**: Internal service platforms that became AWS products
 
-## Implementation
+### Implementation
 
-### Service Level Agreements (SLAs)
+#### Service Level Agreements (SLAs)
 
 **Platform Team SLAs Template:**
 
@@ -104,7 +112,7 @@ Deploy two types of supporting teams:
 - **Documentation:** Complete runbooks and decision frameworks left with team
 - **Mentorship Network:** Connection to ongoing support through guilds or communities
 
-### Capability Building Roadmaps
+#### Capability Building Roadmaps
 
 **Security Capability Building Roadmap:**
 
@@ -166,7 +174,7 @@ Deploy two types of supporting teams:
 - **Data Culture:** Fostering data-driven decision making
 - **Success Criteria:** Team can lead data initiatives and mentor others
 
-### Measurement Frameworks
+#### Measurement Frameworks
 
 **Platform Team Effectiveness Metrics:**
 
@@ -229,12 +237,6 @@ Deploy two types of supporting teams:
 - **Annual Planning:** Capability roadmap and resource allocation based on metrics
 - **Continuous Improvement:** Regular retrospectives and process refinements
 - **Success Stories:** Case studies and examples of successful capability building
-
-## Related Patterns
-- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - The primary beneficiaries
-- [Team API](team-api.md) - Defines clear service interfaces
-- [Near/Far Specialist Guilds](near-far-specialist-guilds.md) - Alternative approach to specialty expertise
-- [Self-Governing Teams](self-governing-teams.md) - Enables autonomous consumption of platform services
 
 ## Sources
 - Team Topologies by Skelton & Pais
