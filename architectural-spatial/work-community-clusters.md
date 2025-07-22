@@ -12,14 +12,9 @@ Creating human-scale workplace neighborhoods that foster informal interaction an
 Large open offices or isolated team spaces fail to create the right balance of community and focus. Teams need both identity and connection to other teams.
 
 ## Solution
-Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster should:
-- Accommodate 20-25 workstations (typically 2-4 teams sharing the space)
-- Have a central common area (like a courtyard or square)
-- Include shared amenities (coffee station, minimal presentation stage with screen, mobile whiteboard, informal seating)
-- Feel semi-autonomous while connected to the larger organization
-- Ensure every workstation has access to natural light (Norwegian compliance)
+Organize workspaces into clusters that feel like small villages or neighborhoods. Each cluster should accommodate 20-25 workstations (typically 2-4 teams) with a central common area, shared amenities, and semi-autonomous feel while connected to the larger organization.
 
-## Visual Layout
+## Forces
 
 ### Dimensional Specifications
 
@@ -628,6 +623,8 @@ Digital Workers:  😵‍💫 Frustrated by poor audio, frozen video, technical 
 - [Transparency and Osmotic Communication](../meta-patterns/transparency-osmotic-communication.md) - Information flow facilitation
 - [Spaces that Empower and Invite](../meta-patterns/spaces-empower-invite.md) - Creating welcoming community areas
 - [Human-Centric Design](../meta-patterns/human-centric-design.md) - Designing for human psychology and behavior
+
+## Further details
 
 ## Measurement and Success Metrics
 
