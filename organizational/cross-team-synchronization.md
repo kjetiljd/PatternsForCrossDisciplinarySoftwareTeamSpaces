@@ -14,6 +14,24 @@ Without coordination methods, teams can work against each other or miss chances 
 ## Solution
 Use simple coordination practices like Scrum of Scrums, cross-team retrospectives, and Open Space events. These keep teams aligned without too much extra work.
 
+## Forces
+- Team independence vs. organizational alignment
+- Coordination work vs. collaboration benefits  
+- Scheduled sync vs. natural coordination
+- Formal processes vs. informal communication
+- Live collaboration vs. async coordination
+- Central decisions vs. distributed authority
+
+
+## Related Patterns
+- [Aligned Autonomy](aligned-autonomy.md)
+- [Cross-Team Events](../temporal/cross-team-events.md)
+- [Embedded Coordination Roles](embedded-coordination-roles.md)
+- [Architecture Decision Records](architecture-decision-records.md)
+- [Demand-Led Fluid Teaming](demand-led-fluid-teaming.md)
+
+## Further details
+
 ### Cadence Options
 
 **Daily Synchronization (High-Frequency)**
@@ -161,15 +179,7 @@ Some teams should maintain intentional distance:
 - **Competitive Teams**: Internal competition can be healthy; coordination might reduce beneficial tension
 - **Different Time Horizons**: Teams that plan on very different timescales may coordinate poorly
 
-## Forces
-- Team independence vs. organizational alignment
-- Coordination work vs. collaboration benefits  
-- Scheduled sync vs. natural coordination
-- Formal processes vs. informal communication
-- Live collaboration vs. async coordination
-- Central decisions vs. distributed authority
-
-## Implementation
+### Implementation
 **Getting Started**
 1. Map current cross-team dependencies and pain points
 2. Choose the right meeting frequency based on how coupled teams are
@@ -201,13 +211,6 @@ Some teams should maintain intentional distance:
 - **Autonomy Erosion**: Teams report feeling less empowered over time
 - **Process Compliance Theater**: High process adherence scores but poor business outcomes
 - **Blame Attribution**: Increase in finger-pointing when cross-team issues arise
-
-## Related Patterns
-- [Aligned Autonomy](aligned-autonomy.md)
-- [Cross-Team Events](../temporal/cross-team-events.md)
-- [Embedded Coordination Roles](embedded-coordination-roles.md)
-- [Architecture Decision Records](architecture-decision-records.md)
-- [Demand-Led Fluid Teaming](demand-led-fluid-teaming.md)
 
 ## Sources
 - Scaled Agile frameworks
