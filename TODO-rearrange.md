@@ -1,4 +1,3 @@
-./architectural-spatial/small-team-bays.md
 ./architectural-spatial/visible-evolution-traces.md
 ./architectural-spatial/work-community-clusters.md
 ./architectural-spatial/workspace-enclosure-personal-space.md
