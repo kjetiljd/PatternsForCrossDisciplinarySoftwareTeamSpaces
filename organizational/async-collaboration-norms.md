@@ -14,6 +14,25 @@ When teams require everyone to work at the same time, it creates bottlenecks for
 ## Solution
 Create clear rules for working together without being online at the same time. Include communication templates, response time expectations, and the right tool choices for different types of interactions.
 
+## Forces
+- Rich real-time collaboration vs. accessible async work
+- Fast decisions vs. including everyone
+- Communication overhead vs. thorough documentation
+- Time zone limits vs. team connection
+- Too many tools vs. simple workflows
+- Quick response vs. thoughtful response
+- Individual productivity vs. team coordination
+
+
+## Related Patterns
+- [Handbook First Documentation](handbook-first-documentation.md) - Foundation for async communication
+- [Distributed Whiteboards](distributed-whiteboards.md) - Visual async collaboration
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Informal async connection
+- [Architecture Decision Records](architecture-decision-records.md) - Async decision documentation
+- [Anchor Days](anchor-days.md) - Balancing async with periodic sync time
+
+## Further details
+
 ### Communication Templates
 
 **Note**: These templates are starting points - adapt them to your team size and culture. Smaller teams may need simpler formats, while larger organizations might add more structure.
@@ -227,16 +246,7 @@ Create clear rules for working together without being online at the same time. I
 - **Mobile access**: Ensure tools work well on mobile devices
 - **Accessibility**: Consider team members with different abilities
 
-## Forces
-- Rich real-time collaboration vs. accessible async work
-- Fast decisions vs. including everyone
-- Communication overhead vs. thorough documentation
-- Time zone limits vs. team connection
-- Too many tools vs. simple workflows
-- Quick response vs. thoughtful response
-- Individual productivity vs. team coordination
-
-## Implementation Examples
+### Implementation Examples
 
 **Engineering Team (15 people, 3 time zones)**:
 - **Morning async standup**: Team posts updates in Slack thread by 9 AM local time
@@ -259,7 +269,7 @@ Create clear rules for working together without being online at the same time. I
 - **Training**: Self-paced modules with async discussion in dedicated channels
 - **Tools**: Zendesk for tickets, Slack for communication, Notion for knowledge base
 
-## Common Challenges & Solutions
+### Common Challenges & Solutions
 
 **Challenge: Information overload from too many async messages**
 - **Solution**: Establish "no notification" hours, use threading, create summary digests
@@ -290,13 +300,6 @@ Create clear rules for working together without being online at the same time. I
 - **Solution**: Provide multiple communication channels, offer async communication coaching
 - **Personality awareness**: Introverts often prefer written communication, extroverts may need more video calls
 - **Accommodation**: Balance async efficiency with individual communication needs
-
-## Related Patterns
-- [Handbook First Documentation](handbook-first-documentation.md) - Foundation for async communication
-- [Distributed Whiteboards](distributed-whiteboards.md) - Visual async collaboration
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Informal async connection
-- [Architecture Decision Records](architecture-decision-records.md) - Async decision documentation
-- [Anchor Days](anchor-days.md) - Balancing async with periodic sync time
 
 ## Sources
 - "Remote: Office Not Required" by DHH and Jason Fried
