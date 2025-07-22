@@ -251,19 +251,6 @@ graph TD
 6. **Document Important Decisions**: Use [Architecture Decision Records](architecture-decision-records.md) for significant choices
 7. **Communicate Transparently**: Share decision rationale and invite feedback through multiple channels
 
-## Related Patterns
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Assess decision reversibility
-- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Match process to complexity
-- [Structured Experiments](structured-experiments.md) - Reduce uncertainty before deciding
-- [Nominal Group Technique](nominal-group-technique.md) - Gather diverse input without bias
-- [Ranked Voting](ranked-voting.md) - Aggregate preferences fairly
-- [Architecture Decision Records](architecture-decision-records.md) - Document decision rationale
-- [Thinking Out Loud](thinking-out-loud.md) - Share reasoning process
-- [I Intend To](i-intend-to.md) - Communicate planned actions
-- [Aligned Autonomy](aligned-autonomy.md) - Balance freedom with alignment
-- [Self-Governing Teams](self-governing-teams.md) - Team-level decision authority
-- [Transparent Artifacts](transparent-artifacts.md) - Make decisions visible
-
 ## Sources
 - Reinventing Organizations by Frederic Laloux
 - Sociocracy and consent-based governance models

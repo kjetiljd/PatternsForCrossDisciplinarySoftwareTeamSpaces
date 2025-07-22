@@ -182,12 +182,6 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
 - Employee satisfaction with team assignment remains high
 - Strategic initiative progress meets quarterly targets
 
-## Related Patterns
-- [Aligned Autonomy](aligned-autonomy.md) - Ensures teams remain strategically aligned
-- [Communities of Practice](platform-teams-communities.md) - Provides continuity across team changes
-- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Defines optimal team composition
-- [Open Space Swarm Cadence](open-space-swarm-cadence.md) - Supports rapid team formation
-
 ## Sources
 - Team Topologies by Skelton & Pais
 - FAST Agile by Ron Quartel
