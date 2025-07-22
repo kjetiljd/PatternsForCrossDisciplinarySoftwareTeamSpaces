@@ -20,14 +20,22 @@ Have people rank all options in order of preference, then use counting methods t
 - Majority vs. Broad Acceptance - Majority winners may create losers, broad acceptance builds commitment
 - Strategic vs. Honest Voting - Ranking systems reduce reasons for strategic manipulation
 
-## Implementation
+## Related Patterns
+- [Nominal Group Technique](nominal-group-technique.md) - Can use ranked voting to aggregate independently gathered preferences
+- [Structured Experiments](structured-experiments.md) - Can use ranking to prioritize which experiments to run
+- [Decision-Making Patterns](decision-making-patterns.md) - Provides systematic approach to incorporating diverse input
+- [Psychological Safety Practices](psychological-safety-practices.md) - Creates environment where honest ranking is safe
+
+## Further details
+
+### Implementation Steps
 1. **Present Options**: Define a clear list of options that don't overlap
 2. **Independent Ranking**: Each person ranks all options in order of preference
 3. **Anonymous Submission**: Collect rankings individually to reduce influence
 4. **Count Results**: Use counting method right for the situation
 5. **Share Results**: Explain how the winning option came from everyone's preferences
 
-## Common Counting Methods
+### Common Counting Methods
 **Instant Runoff Voting (IRV):**
 - Eliminate option with fewest first-choice votes
 - Reassign those votes to next preferences
@@ -44,7 +52,7 @@ Have people rank all options in order of preference, then use counting methods t
 - Eliminate lowest candidates and transfer votes
 - Continue until positions filled
 
-## Examples
+### Examples
 **Backend Framework Selection:**
 - Options: Spring Boot, Micronaut, Quarkus, Helidon
 - Process: Team members rank all four options independently
@@ -62,12 +70,6 @@ Have people rank all options in order of preference, then use counting methods t
 - Process: Team members rank options considering team dynamics and project needs
 - Aggregation: STV to ensure final choice has broad team support
 - Result: Hybrid approach emerges as compromise with widest acceptance
-
-## Related Patterns
-- [Nominal Group Technique](nominal-group-technique.md) - Can use ranked voting to aggregate independently gathered preferences
-- [Structured Experiments](structured-experiments.md) - Can use ranking to prioritize which experiments to run
-- [Decision-Making Patterns](decision-making-patterns.md) - Provides systematic approach to incorporating diverse input
-- [Psychological Safety Practices](psychological-safety-practices.md) - Creates environment where honest ranking is safe
 
 ## Sources
 - Electoral system research and voting theory
