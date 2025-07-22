@@ -22,7 +22,16 @@ Integrate software team spaces into mixed-use developments where possible. Alter
 - Team identity and culture vs. external community integration
 - Intellectual property protection vs. open innovation benefits
 
-## Implementation Strategies
+## Related Patterns
+- [Work Community Clusters](work-community-clusters.md) - Framework for team clustering within distributed environments
+- [Neighborhood Effect and Serendipity](neighborhood-effect-serendipity.md) - Creating chance encounters in mixed-use settings
+- [Communal Eating](../temporal/communal-eating.md) - Leveraging shared dining spaces for team building
+- [Boundary Spanning Practices](../organizational/boundary-spanning-practices.md) - Managing interactions between internal teams and external community
+- [Remote-First Team Hubs](../organizational/remote-first-team-hubs.md) - Hybrid approaches to distributed work
+
+## Further details
+
+### Implementation Strategies
 
 ### For Organizations Transitioning from Isolated Campuses
 
@@ -348,12 +357,6 @@ For a 100-person team (25,000 sq ft):
 - Establish quiet zones for video calls with distributed team members
 - Develop protocols for community interaction when team is partially remote
 - Ensure community partnerships remain valuable even when team presence fluctuates
-
-## Related Patterns
-- [Work Community Clusters](work-community-clusters.md) - For organizing teams within mixed-use environments
-- [Neighborhood Effect and Serendipity](neighborhood-effect-serendipity.md) - For maximizing beneficial chance encounters
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - For balancing openness with team focus
-- [Anchor Days](../organizational/anchor-days.md) - For coordinating team presence in mixed-use spaces
 
 ## Sources
 - Christopher Alexander's "A Pattern Language" - Pattern 82: Office Connections to the Outside
