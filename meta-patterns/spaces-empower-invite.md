@@ -12,7 +12,28 @@ Work environments can either empower people to do their best work or create barr
 Spaces that feel controlling, unwelcoming, or exclusive can reduce motivation, creativity, and collaboration. Many traditional office environments unconsciously signal hierarchy, conformity, or exclusion through their design choices. Team members from different cultural backgrounds may interpret spatial cues differently. This leads to unintended barriers to participation. Without intentional design for empowerment and invitation, environments can inadvertently suppress the diverse contributions that cross-disciplinary teams need to thrive.
 
 ## Solution
+
 Design spaces that give people control over their environment and clearly invite participation and contribution. Use thoughtful, culturally-sensitive design choices. Create environments where every team member—regardless of their role, background, or location—feels they have agency and are welcomed to contribute their unique perspective.
+
+## Forces
+
+- **Empowerment vs. Consistency**: Balancing individual control with organizational standards and shared space needs
+- **Individual Agency vs. Collective Harmony**: Ensuring personal empowerment doesn't interfere with team cohesion
+- **Invitation vs. Overwhelm**: Making spaces welcoming without creating choice paralysis or cognitive burden
+- **Cultural Sensitivity vs. Universal Design**: Accommodating diverse cultural expectations while maintaining coherent design principles
+- **Physical vs. Digital Equity**: Ensuring empowerment translates equally across in-person and remote experiences
+- **Flexibility vs. Structure**: Providing enough framework for people to feel safe while enabling creative adaptation
+
+## Related Patterns
+
+- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md) - Enables individual expression within empowering environments
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Creates the cultural foundation for empowerment to be effective
+- [Self-Governing Teams](../organizational/self-governing-teams.md) - Organizational structure that complements empowering physical environments
+- [Accessible & Code-Compliant Design](../architectural-spatial/accessible-code-compliant.md) - Ensures empowerment extends to team members with diverse accessibility needs
+- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Overarching principle that guides empowerment and invitation strategies
+- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private.md) - Physical configuration that supports both individual empowerment and collective invitation
+
+## Further details
 
 ### Concrete Implementation Tactics
 
@@ -92,32 +113,17 @@ Design spaces that give people control over their environment and clearly invite
 - **Community Ownership**: Establish team responsibility for maintaining empowering features rather than relying solely on facilities management
 - **Evolution Planning**: Budget for periodic refreshing and updating of empowerment features as team needs change
 
-## Forces
-- **Empowerment vs. Consistency**: Balancing individual control with organizational standards and shared space needs
-- **Individual Agency vs. Collective Harmony**: Ensuring personal empowerment doesn't interfere with team cohesion
-- **Invitation vs. Overwhelm**: Making spaces welcoming without creating choice paralysis or cognitive burden
-- **Cultural Sensitivity vs. Universal Design**: Accommodating diverse cultural expectations while maintaining coherent design principles
-- **Physical vs. Digital Equity**: Ensuring empowerment translates equally across in-person and remote experiences
-- **Flexibility vs. Structure**: Providing enough framework for people to feel safe while enabling creative adaptation
+### Examples
 
-## Examples
-
-### Successful Implementations
+#### Successful Implementations
 - **GitHub's Office Design**: Open floor plans with numerous "neighborhoods," each with different aesthetic and functional characteristics, allowing teams to gravitate toward environments that match their working style
 - **Patagonia's Workspace**: Employees encouraged to modify their work areas, with access to tools and materials for customization, reflecting the company's values of environmental stewardship and personal agency
 - **Buffer's Remote Culture**: Digital-first practices where all team members—regardless of location—have equal access to decision-making tools and contribution platforms
-### Anti-Patterns to Avoid
+
+#### Anti-Patterns to Avoid
 - **Assigned Seating Policies**: Undermines choice and agency, particularly problematic in cross-disciplinary teams where different roles may need different types of spaces
 - **Meeting Room Hoarding**: VIP or department-specific spaces that signal hierarchy and exclusion
 - **Decoration Restrictions**: Policies that prevent personalization send signals of distrust and control
-
-## Related Patterns
-- [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md) - Enables individual expression within empowering environments
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Creates the cultural foundation for empowerment to be effective
-- [Self-Governing Teams](../organizational/self-governing-teams.md) - Organizational structure that complements empowering physical environments
-- [Accessible & Code-Compliant Design](../architectural-spatial/accessible-code-compliant.md) - Ensures empowerment extends to team members with diverse accessibility needs
-- [Human-Centric Design](../meta-patterns/human-centric-design.md) - Overarching principle that guides empowerment and invitation strategies
-- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private.md) - Physical configuration that supports both individual empowerment and collective invitation
 
 ## Sources
 - Altman, I. & Chemers, M. (1980). *Culture and Environment*. Cambridge University Press
