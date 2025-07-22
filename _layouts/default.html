@@ -134,6 +134,48 @@
                 }
             });
         });
+
+        // Auto-wrap "Further details" sections in collapsible details
+        function wrapFurtherDetails() {
+            // Find all h2 elements with "Further details" text
+            const furtherDetailsHeaders = Array.from(document.querySelectorAll('h2')).filter(h2 => 
+                h2.textContent.trim().toLowerCase().includes('further details')
+            );
+
+            furtherDetailsHeaders.forEach(header => {
+                // Create details and summary elements
+                const details = document.createElement('details');
+                const summary = document.createElement('summary');
+                const contentDiv = document.createElement('div');
+                
+                contentDiv.className = 'details-content';
+                summary.textContent = header.textContent;
+                
+                // Find all elements after the header until the next h2 or end of content
+                let nextElement = header.nextElementSibling;
+                const elementsToWrap = [];
+                
+                while (nextElement && nextElement.tagName !== 'H2') {
+                    elementsToWrap.push(nextElement);
+                    nextElement = nextElement.nextElementSibling;
+                }
+                
+                // Move elements into the collapsible content
+                elementsToWrap.forEach(element => {
+                    contentDiv.appendChild(element);
+                });
+                
+                // Build the details structure
+                details.appendChild(summary);
+                details.appendChild(contentDiv);
+                
+                // Replace the original header with the details element
+                header.parentNode.replaceChild(details, header);
+            });
+        }
+
+        // Run the function after DOM is loaded
+        wrapFurtherDetails();
     });
 </script>
 </body>
