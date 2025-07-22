@@ -1,3 +1,10 @@
+./architectural-spatial/adjacent-semi-private-spaces.md
+./architectural-spatial/call-booths.md
+./architectural-spatial/environmental-comfort-patterns.md
+./architectural-spatial/mob-programming-corner.md
+./architectural-spatial/neighborhood-effect-serendipity.md
+./architectural-spatial/pair-programming-workstations.md
+./architectural-spatial/personalization-human-scale.md
 ./architectural-spatial/small-team-bays.md
 ./architectural-spatial/visible-evolution-traces.md
 ./architectural-spatial/work-community-clusters.md

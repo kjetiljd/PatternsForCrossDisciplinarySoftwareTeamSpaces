@@ -16,7 +16,7 @@ Design all team spaces to exceed accessibility requirements. Use universal desig
 
 ## Forces
 - Legal requirements vs. cost considerations
-- Universal design vs. specific team needs  
+- Universal design vs. specific team needs
 - Natural light access vs. privacy and glare concerns
 - Energy efficiency vs. comfort requirements
 - Standard solutions vs. individual needs
@@ -29,7 +29,7 @@ Design all team spaces to exceed accessibility requirements. Use universal desig
 - [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Acoustic and visual accessibility
 - [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Sensory regulation spaces
 
-## Implementation notes
+## Further details
 
 ### Norwegian Building Code Compliance (TEK17)
 
@@ -88,7 +88,7 @@ Design all team spaces to exceed accessibility requirements. Use universal desig
 - **Glare Control**: Adjustable blinds, anti-glare screen filters, matte surface finishes
 - **Visual Wayfinding**: Clear sight lines, consistent signage, landmark elements
 
-**Auditory Accessibility**  
+**Auditory Accessibility**
 - **Acoustic Zoning**: Separate quiet and collaborative areas
 - **Sound Masking**: White/pink noise systems for speech privacy
 - **Reverberation Control**: RT60 < 0.6 seconds in meeting rooms
