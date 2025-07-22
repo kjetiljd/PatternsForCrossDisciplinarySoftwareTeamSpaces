@@ -44,7 +44,16 @@ Design dedicated mob programming stations with:
 - **Comfort vs. Energy:** Long sessions require comfort while maintaining engagement
 - **Inclusion vs. Distraction:** Open design invites stakeholder involvement but can create noise
 
-## Detailed Equipment Specifications
+## Related Patterns
+- [Pair Programming Workstations](pair-programming-workstations.md) - Can be combined or scaled up for mob sessions
+- [Small Team Bays](small-team-bays.md) - May contain or be adjacent to mob programming corners
+- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Enables flexible mob space configuration
+- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Critical for sustained team collaboration
+- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Provides foundation for mob seating arrangements
+
+## Further details
+
+### Detailed Equipment Specifications
 
 ### Display Technology and Positioning
 
@@ -341,13 +350,6 @@ Design dedicated mob programming stations with:
 - **Results**: 50% improvement in knowledge transfer between team members
 - **Key Lessons**: Dedicated space with acoustic treatment enhances focus and communication
 - **Equipment**: Commercial-grade displays with professional audio/video systems
-
-## Related Patterns
-- [Pair Programming Workstations](pair-programming-workstations.md) - Can be combined or scaled up for mob sessions
-- [Small Team Bays](small-team-bays.md) - May contain or be adjacent to mob programming corners
-- [Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md) - Enables flexible mob space configuration
-- [Environmental Comfort Patterns](environmental-comfort-patterns.md) - Critical for sustained team collaboration
-- [U-Shape Team Layout](../cross-disciplinary/u-shape-team-layout.md) - Provides foundation for mob seating arrangements
 
 ## Sources
 

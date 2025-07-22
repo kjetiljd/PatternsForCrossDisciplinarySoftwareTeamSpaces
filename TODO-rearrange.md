@@ -1,4 +1,3 @@
-./architectural-spatial/mob-programming-corner.md
 ./architectural-spatial/neighborhood-effect-serendipity.md
 ./architectural-spatial/office-connections-team-war-rooms.md
 ./architectural-spatial/pair-programming-workstations.md
