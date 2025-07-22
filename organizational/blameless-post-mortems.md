@@ -12,7 +12,27 @@ Teams face incidents, outages, bugs, or project failures. They need to learn fro
 Traditional post-incident reviews focus on finding someone to blame. This creates fear and reduces transparency. It stops teams from learning the real causes of problems.
 
 ## Solution
-Implement blameless post-mortem practices with structured facilitation and follow-through:
+Implement blameless post-mortem practices that focus on systems and learning rather than individual blame. Use structured facilitation to create psychological safety and extract meaningful lessons from incidents.
+
+## Forces
+- People need to feel safe to share honest information about what went wrong
+- Learning requires understanding all contributing factors, not just obvious ones
+- Blame creates fear and reduces information sharing
+- Systems and processes are usually more influential than individual actions
+- Prevention requires changing systems, not just telling people to be more careful
+
+## Examples
+- Netflix's culture of "keeper of the flame" vs blame
+- Etsy's famous blameless post-mortem practices
+- Aviation industry's focus on systemic factors in accident investigation
+- Medical industry's shift from blame to systems improvement
+
+## Related Patterns
+- [Psychological Safety Practices](psychological-safety-practices.md)
+- [Transparent Artifacts](transparent-artifacts.md)
+- [Team Health Checks](../temporal/team-health-checks.md)
+
+## Further details
 
 ### Core Principles
 - **Timeline focus**: Create detailed timelines of what happened, when, and what information was available
@@ -213,24 +233,6 @@ Implement blameless post-mortem practices with structured facilitation and follo
 - Don't skip documenting and sharing learnings
 - Don't ignore cultural dynamics that might silence some participants
 - Don't treat disagreement as a problem to solve rather than information to capture
-
-## Forces
-- People need to feel safe to share honest information about what went wrong
-- Learning requires understanding all contributing factors, not just obvious ones
-- Blame creates fear and reduces information sharing
-- Systems and processes are usually more influential than individual actions
-- Prevention requires changing systems, not just telling people to be more careful
-
-## Examples
-- Netflix's culture of "keeper of the flame" vs blame
-- Etsy's famous blameless post-mortem practices
-- Aviation industry's focus on systemic factors in accident investigation
-- Medical industry's shift from blame to systems improvement
-
-## Related Patterns
-- [Psychological Safety Practices](psychological-safety-practices.md)
-- [Transparent Artifacts](transparent-artifacts.md)
-- [Team Health Checks](../temporal/team-health-checks.md)
 
 ## Sources
 - John Allspaw's work on blameless post-mortems at Etsy
