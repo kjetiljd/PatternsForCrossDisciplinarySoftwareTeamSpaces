@@ -1,4 +1,3 @@
-./cross-disciplinary/pin-up-space.md
 ./cross-disciplinary/kaizen-corner.md
 ./cross-disciplinary/toolbelt-availability.md
 ./cross-disciplinary/u-shape-team-layout.md

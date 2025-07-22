@@ -220,7 +220,7 @@ Create professionally designed pin-up walls with systematic installation specifi
    - Public acknowledgment of courage in sharing work-in-progress and accepting critique
 
 
-## Examples
+### Examples
 
 **Architecture and Design Education:**
 
@@ -316,7 +316,7 @@ Create professionally designed pin-up walls with systematic installation specifi
 - **Cultural Integration**: Pin-up practices aligned with existing team rituals and values
 - **Balanced Protection**: Appropriate but not excessive IP protection allowed meaningful sharing
 
-## Implementation
+### Implementation
 
 **Phase 1: Infrastructure Development (4-6 weeks)**
 
@@ -360,9 +360,9 @@ Create professionally designed pin-up walls with systematic installation specifi
    - Expand successful practices to additional teams and spaces
    - Develop organizational competency in visual communication and collaborative critique
 
-### Consequences
+#### Consequences
 
-#### Positive
+##### Positive
 - **Design quality improvement**: Regular critique and feedback leads to stronger final outcomes
 - **Team skill development**: Exposure to diverse approaches accelerates individual learning
 - **Collaboration catalyst**: Visual work display sparks cross-pollination and unexpected connections
@@ -370,7 +370,7 @@ Create professionally designed pin-up walls with systematic installation specifi
 - **Cultural transformation**: Establishes norms of constructive feedback and continuous improvement
 - **Knowledge preservation**: Creates visual archive of project evolution and decision rationales
 
-#### Negative
+##### Negative
 - **Vulnerability exposure**: Public display of work-in-progress can create anxiety and resistance
 - **Maintenance demands**: Requires ongoing curation effort and space management
 - **Perfectionism pressure**: May discourage sharing of early-stage or experimental work
