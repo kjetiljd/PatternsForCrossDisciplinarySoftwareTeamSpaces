@@ -14,6 +14,31 @@ Poor work conditions cause problems. Bad lighting, uncomfortable furniture, too 
 ## Solution
 Design work spaces with adjustable furniture, multiple lighting options, sound treatments, and climate control to meet different comfort needs.
 
+## Forces
+- Individual comfort preferences vs. standard solutions
+- Cost of high-quality furniture vs. long-term health benefits
+- Looks vs. function
+- Energy efficiency vs. individual climate control
+- Norwegian building rules vs. international ergonomic standards
+- Team collaboration needs vs. individual comfort
+- Standardization efficiency vs. ergonomic optimization: Organizational drives for uniform solutions may conflict with individual physical needs and comfort requirements
+- Procurement consistency vs. specialized accommodation: Bulk purchasing and standard specifications can limit access to equipment and arrangements that improve individual performance
+- Administrative simplicity vs. diverse needs: Standardized environmental controls simplify management but may not address varied ergonomic requirements across different body types and work patterns
+- Policy uniformity vs. adaptive accommodation: Corporate policies and building standards may restrict environmental modifications that individuals find essential for health and productivity
+
+## Related Patterns
+- [Accessible & Code-Compliant Design](accessible-code-compliant-design.md) - Provides regulatory framework for environmental design
+- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Defines spatial comfort requirements
+- [Personalization and Human Scale](personalization-human-scale.md) - Enables individual comfort customization
+- [Pair Programming Workstations](pair-programming-workstations.md) - Requires multi-user ergonomic considerations
+- [Mob Programming Corner](mob-programming-corner.md) - Benefits from flexible furniture and acoustic design
+- [Small Team Bays](small-team-bays.md) - Provides framework for team-scale environmental comfort
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Physical comfort creates foundation for psychological safety and risk-taking
+- [Team Health Checks](../temporal/team-health-checks.md) - Environmental comfort directly impacts team well-being and energy levels
+- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for equipment and environment standardization vs. individual choice
+
+## Implementation notes
+
 **Collaborative Ergonomics:**
 - **Height-adjustable desks**: Sit-stand capabilities essential for pair programming and mob sessions
 - **Flexible seating options**: Task chairs, bar stools, and lounge seating to support different collaboration modes
@@ -32,19 +57,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Phone booth adjacency**: Quick access to quiet spaces when team members need private calls
 - **Noise management**: Materials and layout that support team discussions without disturbing neighbors
 
-## Forces
-- Individual comfort preferences vs. standard solutions
-- Cost of high-quality furniture vs. long-term health benefits
-- Looks vs. function
-- Energy efficiency vs. individual climate control
-- Norwegian building rules vs. international ergonomic standards
-- Team collaboration needs vs. individual comfort
-- **Standardization efficiency vs. ergonomic optimization**: Organizational drives for uniform solutions may conflict with individual physical needs and comfort requirements
-- **Procurement consistency vs. specialized accommodation**: Bulk purchasing and standard specifications can limit access to equipment and arrangements that improve individual performance
-- **Administrative simplicity vs. diverse needs**: Standardized environmental controls simplify management but may not address varied ergonomic requirements across different body types and work patterns
-- **Policy uniformity vs. adaptive accommodation**: Corporate policies and building standards may restrict environmental modifications that individuals find essential for health and productivity
-
-## Comprehensive Measurement Standards
+### Comprehensive Measurement Standards
 
 ### Lighting Performance Metrics
 
@@ -254,9 +267,9 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Stress Indicators**: Environmental adjustments based on stress level detection
 - **Health Compliance**: Monitoring for compliance with ergonomic guidelines and break schedules
 
-## Examples and Case Studies
+### Examples and Case Studies
 
-### Norwegian Implementation Examples
+#### Norwegian Implementation Examples
 
 **Opera Software Oslo Office:**
 - **Daylight Integration**: Floor-to-ceiling windows with automated blinds maintaining 2.5% daylight factor
@@ -270,7 +283,7 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Acoustic Design**: Open office with 42dBA background noise and speech privacy >85 PI
 - **Results**: 30% reduction in eye strain complaints, 20% improvement in concentration metrics
 
-### International Best Practice Examples
+#### International Best Practice Examples
 
 **Google Zürich Engineering Floors:**
 - **Micro-Climate Zones**: Individual climate control within 6m² areas
@@ -283,17 +296,6 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - **Acoustic Innovation**: Active noise cancellation integrated into ceiling systems
 - **Health Monitoring**: Wearable integration for posture and break reminders
 - **Results**: 40% reduction in musculoskeletal complaints, 18% productivity improvement
-
-## Related Patterns
-- [Accessible & Code-Compliant Design](accessible-code-compliant-design.md) - Provides regulatory framework for environmental design
-- [Workspace Enclosure & Personal Space](workspace-enclosure-personal-space.md) - Defines spatial comfort requirements
-- [Personalization and Human Scale](personalization-human-scale.md) - Enables individual comfort customization
-- [Pair Programming Workstations](pair-programming-workstations.md) - Requires multi-user ergonomic considerations
-- [Mob Programming Corner](mob-programming-corner.md) - Benefits from flexible furniture and acoustic design
-- [Small Team Bays](small-team-bays.md) - Provides framework for team-scale environmental comfort
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Physical comfort creates foundation for psychological safety and risk-taking
-- [Team Health Checks](../temporal/team-health-checks.md) - Environmental comfort directly impacts team well-being and energy levels
-- [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for equipment and environment standardization vs. individual choice
 
 ## Sources
 - Ergonomic research and workplace health studies
