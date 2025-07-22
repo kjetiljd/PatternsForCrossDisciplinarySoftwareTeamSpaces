@@ -14,6 +14,21 @@ Isolated team spaces, direct routing between workspaces and exits, and over-reli
 ## Solution
 Create common areas, shared facilities, and circulation paths that naturally bring different teams together. This encourages informal interactions and spontaneous collaboration. **Avoid locating formal meeting rooms in core work areas** - instead position them on separate floors or away from primary circulation paths. This prevents them from becoming barriers to natural interaction.
 
+## Forces
+- Efficiency of direct routing vs. benefits of chance encounters
+- Privacy and focus needs vs. openness to interaction
+- Space utilization vs. creating "inefficient" social spaces
+- Introverted vs. extroverted interaction preferences
+
+## Related Patterns
+- [Work Community Clusters](work-community-clusters.md) - Creates the foundation for neighborhood interaction
+- [Scattered Work and Campus Layout](scattered-work-campus-layout.md) - Distributes teams to enable cross-pollination
+- [Communal Eating](../temporal/communal-eating.md) - Temporal pattern supporting serendipitous encounters
+- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Avoid formal spaces that inhibit spontaneous interaction
+- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Alternative collaboration spaces that maintain team context
+
+## Further details
+
 ### Design for Natural Encounters
 
 **Central Hub Layout:**
@@ -128,19 +143,6 @@ Create common areas, shared facilities, and circulation paths that naturally bri
 - **Digital Discovery Boards:** Screens showing current projects, expertise needed, or collaboration opportunities
 - **Availability Indicators:** Subtle signals (desk flags, status boards) indicating openness to conversation
 - **Virtual Extensions:** Hybrid integration allowing remote team members to "bump into" in-office colleagues
-
-## Forces
-- Efficiency of direct routing vs. benefits of chance encounters
-- Privacy and focus needs vs. openness to interaction
-- Space utilization vs. creating "inefficient" social spaces
-- Introverted vs. extroverted interaction preferences
-
-## Related Patterns
-- [Work Community Clusters](work-community-clusters.md) - Creates the foundation for neighborhood interaction
-- [Scattered Work and Campus Layout](scattered-work-campus-layout.md) - Distributes teams to enable cross-pollination
-- [Communal Eating](../temporal/communal-eating.md) - Temporal pattern supporting serendipitous encounters
-- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - Avoid formal spaces that inhibit spontaneous interaction
-- [Adjacent Semi-Private Spaces](adjacent-semi-private-spaces.md) - Alternative collaboration spaces that maintain team context
 
 ## Sources
 - Christopher Alexander's "A Pattern Language"
