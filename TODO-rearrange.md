@@ -1,4 +1,3 @@
-./organizational/self-governing-teams.md
 ./organizational/structured-experiments.md
 ./organizational/swarm-reviews-pairing.md
 ./organizational/sync-async-balance-framework.md

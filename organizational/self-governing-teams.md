@@ -90,6 +90,14 @@ Create autonomous teams that:
 - **Alexander's self-governing workshops**: Physical spaces that enable team autonomy
 - **XP whole teams**: Cross-functional teams with all necessary skills
 
+## Related Patterns
+- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Specific team sizing and focus principles
+- [Team API](team-api.md) - Enables clear boundaries and interfaces for autonomous teams
+- [Aligned Autonomy](aligned-autonomy.md) - Balances team independence with organizational alignment
+- [Psychological Safety Practices](psychological-safety-practices.md) - Creates environment for effective self-governance
+
+## Further details
+
 ## Implementation Checklist
 
 ### Phase 1: Foundation Setup (Weeks 1-4)
@@ -211,13 +219,13 @@ Create autonomous teams that:
 - [ ] **Management fear**: Support managers through their own transition
 - [ ] **Boundary confusion**: Keep clear escalation and decision frameworks
 
-## Scaling Self-Governing Teams: From Startup to Enterprise
+### Scaling Self-Governing Teams: From Startup to Enterprise
 
-### The Scaling Challenge
+#### The Scaling Challenge
 
 Self-governing teams face unique challenges as organizations grow. What works for 1-2 teams doesn't naturally scale to 10, 50, or 200 teams without intentional architectural thinking.
 
-### Organizational Scale Patterns
+#### Organizational Scale Patterns
 
 #### Scale 1: Single Team (5-12 people)
 ```
@@ -352,7 +360,7 @@ Self-governing teams face unique challenges as organizations grow. What works fo
 - **Cross-BU Learning**: Centers of excellence and practice communities
 - **Distributed Leadership**: Multiple levels of servant leadership
 
-### Scaling Implementation Roadmap
+#### Scaling Implementation Roadmap
 
 #### Phase 1: Foundation (Scale 1 → Scale 2)
 **Timeline: 3-6 months**
@@ -429,7 +437,7 @@ Quarters 5-6: Ecosystem Maturity
 └── Establish long-term organizational learning systems
 ```
 
-### Scaling Success Patterns
+#### Scaling Success Patterns
 
 #### The Fractal Principle
 **Pattern**: Each level of scale maintains the same basic autonomy principles
@@ -456,7 +464,7 @@ Scale 2 → 3: Domain-level strategy alignment and platform teams
 Scale 3 → 4: Business unit governance and organizational platforms
 ```
 
-### Scaling Anti-Patterns and Failures
+#### Scaling Anti-Patterns and Failures
 
 #### ❌ The Premature Bureaucracy
 ```
@@ -514,7 +522,7 @@ PREVENTION:
 - Use asynchronous and pull-based communication patterns
 ```
 
-### Scale-Specific Metrics and Success Indicators
+#### Scale-Specific Metrics and Success Indicators
 
 #### Scale 2 (2-6 teams) Success Metrics
 - **Coordination Efficiency**: <20% of time spent in cross-team coordination
@@ -534,7 +542,7 @@ PREVENTION:
 - **Cross-BU Learning**: Regular knowledge sharing and practice adoption
 - **Cultural Coherence**: Consistent culture metrics across business units
 
-### Technology and Tooling for Scaled Self-Governance
+#### Technology and Tooling for Scaled Self-Governance
 
 #### Scale 2 Technology Stack
 - **Communication**: Slack/Teams with shared channels and bots
@@ -554,7 +562,7 @@ PREVENTION:
 - **Analytics**: Business intelligence and cross-unit dashboards
 - **Learning**: Knowledge management and expertise location systems
 
-### Real-World Scaling Examples and Lessons
+#### Real-World Scaling Examples and Lessons
 
 #### Spotify: The Scaling Pioneer (Scale 2 → Scale 4)
 **Journey**: From 30 engineers (2010) to 3,000+ engineers (2020)
@@ -584,7 +592,7 @@ PREVENTION:
 **Scaling Innovation**: All company processes documented publicly
 **Cultural Challenge**: Maintaining connection and culture without physical presence
 
-### Cultural Scaling Patterns
+#### Cultural Scaling Patterns
 
 #### High-Context Culture Scaling (Japan, Germany, Scandinavia)
 **Characteristics:**
@@ -625,7 +633,7 @@ PREVENTION:
 - Celebration rituals for successful transitions
 - Senior champion programs for cultural change
 
-### Scaling Failure Recovery Patterns
+#### Scaling Failure Recovery Patterns
 
 #### Recovery from Premature Bureaucracy
 ```
@@ -668,12 +676,6 @@ Long-term Evolution (Months 3-12):
 ├── Build platform analytics to optimize service delivery
 └── Establish platform success metrics based on customer satisfaction
 ```
-
-## Related Patterns
-- [Aligned Autonomy](aligned-autonomy.md) - Balances independence with organizational goals
-- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Defines optimal team structure
-- [Team API](team-api.md) - Makes team boundaries and interfaces explicit
-- [Enabling and Platform Teams](enabling-platform-teams.md) - Provides supporting infrastructure
 
 ## Sources
 - Research by Hoda et al. on self-organizing agile teams
