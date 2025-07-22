@@ -22,7 +22,7 @@ Set up rotating ambassador roles where team members serve as liaisons to other t
 - Individual development vs. team stability
 - Context preservation vs. fresh perspectives
 
-## Implementation
+## Further details
 
 ### Role Descriptions and Responsibilities
 
@@ -142,24 +142,24 @@ Set up rotating ambassador roles where team members serve as liaisons to other t
 - Team confidence in coordination capabilities
 - Improved cross-team relationship quality as measured by collaboration feedback
 
-## Examples
+### Examples
 
-### Technology Company Implementation
+#### Technology Company Implementation
 **Setup**: 8 product teams, rotating ambassadors quarterly
 **Approach**: Senior developers serve as primary ambassadors, junior developers shadow
 **Results**: 40% reduction in coordination meetings, improved cross-team collaboration
 
-### Financial Services Application
+#### Financial Services Application
 **Setup**: 12 development teams across 3 business units
 **Approach**: Business analyst ambassadors focus on requirements coordination
 **Results**: Earlier dependency identification, reduced project delays
 
-### Open Source Project
+#### Open Source Project
 **Setup**: 6 core teams, volunteer ambassador model
 **Approach**: Community members volunteer for 3-month ambassador terms
 **Results**: Better alignment between teams, improved contributor experience
 
-## Anti-Patterns to Avoid
+### Anti-Patterns to Avoid
 
 **Coordination Bottleneck**: Ambassador becomes single point of failure
 **Role Dumping**: Teams use ambassador to avoid coordination responsibilities

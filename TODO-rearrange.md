@@ -1,4 +1,3 @@
-./organizational/embedded-coordination-roles.md
 ./organizational/embedded-telepresence-team-spaces.md
 ./organizational/enabling-platform-teams.md
 ./organizational/handbook-first-documentation.md
