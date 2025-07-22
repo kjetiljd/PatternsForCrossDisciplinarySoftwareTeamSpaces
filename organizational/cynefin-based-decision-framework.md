@@ -20,9 +20,17 @@ Use the Cynefin framework to diagnose the decision context and match the appropr
 - Expertise vs. Emergence - Complicated problems need experts, complex ones need diverse perspectives
 - Prediction vs. Adaptation - Some situations are predictable, others require adaptive responses
 
-## Domain Assessment Tools
+## Related Patterns
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Reversibility assessment complements complexity assessment
+- [Structured Experiments](structured-experiments.md) - Key method for complex domain decisions
+- [Decision-Making Patterns](decision-making-patterns.md) - Overall decision framework
+- [Psychological Safety Practices](psychological-safety-practices.md) - Enables honest domain assessment
 
-### Quick Assessment Questions
+## Further details
+
+### Domain Assessment Tools
+
+#### Quick Assessment Questions
 
 *Use these as conversation starters, not rigid classification rules. Real domain assessment often requires group discussion and may change as you learn more.*
 
@@ -39,7 +47,7 @@ Use the Cynefin framework to diagnose the decision context and match the appropr
 - **Chaotic signals**: Immediate safety/business risk, no time for analysis, must act first
 
 
-### Domain Classification Matrix
+#### Domain Classification Matrix
 
 | Characteristics | Clear | Complicated | Complex | Chaotic |
 |----------------|-------|-------------|---------|---------|
@@ -49,9 +57,9 @@ Use the Cynefin framework to diagnose the decision context and match the appropr
 | **Failure Mode** | Complacency | Analysis paralysis | Over-analysis | Hasty action |
 | **Time Frame** | Minutes/Hours | Hours/Days | Days/Weeks | Immediate |
 
-## Visual Decision Trees
+### Visual Decision Trees
 
-### Primary Decision Tree
+#### Primary Decision Tree
 
 ```
 START: We have a decision to make
@@ -75,7 +83,7 @@ Are we dealing with uncertainty, emergence, or novel situations?
 DISORDER → Break into smaller parts and reassess
 ```
 
-### Domain-Specific Response Trees
+#### Domain-Specific Response Trees
 
 **CLEAR Domain Response:**
 ```
@@ -121,9 +129,9 @@ Respond: Move toward stability
 Learn: Document for future crises
 ```
 
-## Training Materials and Exercises
+### Training Materials and Exercises
 
-### Exercise 1: Domain Recognition Practice
+#### Exercise 1: Domain Recognition Practice
 
 **Instructions:** Read each scenario and classify it into a Cynefin domain. Discuss your reasoning.
 
@@ -145,7 +153,7 @@ Learn: Document for future crises
 
 *Remember: These classifications can change based on context, team experience, and additional information. The goal is better decision-making, not perfect categorization.*
 
-### Exercise 2: Decision Process Mapping
+#### Exercise 2: Decision Process Mapping
 
 **Goal:** Practice matching decision processes to domains.
 
@@ -166,7 +174,7 @@ Learn: Document for future crises
 - Timeline: _______________
 - Who decides: ____________
 
-### Exercise 3: Domain Shifting Simulation
+#### Exercise 3: Domain Shifting Simulation
 
 **Scenario:** You're launching a new mobile app feature.
 
@@ -182,7 +190,7 @@ Learn: Document for future crises
 - What's your new process? ________________
 - How do you ensure consistency? ________________
 
-### Common Misclassification Patterns
+#### Common Misclassification Patterns
 
 **Treating Complex as Complicated:**
 - Symptom: Over-analyzing emergent situations
@@ -204,9 +212,9 @@ Learn: Document for future crises
 - Example: Crisis management for non-critical outages, or slow response to actual emergencies
 - Solution: Assess actual safety/business impact, not just perceived urgency
 
-## Implementation Guide
+### Implementation Guide
 
-### Practical Integration (Start Small)
+#### Practical Integration (Start Small)
 
 **Critical Warning**: Don't turn Cynefin into a bureaucratic process. Most decisions don't need formal domain classification - use this framework only when you're stuck or teams disagree on approach.
 
@@ -222,17 +230,17 @@ Learn: Document for future crises
 - Forcing consensus on domain classification before proceeding
 - Using the framework for decisions that would be obvious without it
 
-### Step 2: Integration with Existing Processes
+#### Step 2: Integration with Existing Processes
 - Add domain assessment as first step in existing decision documents
 - Include Cynefin classification in meeting agendas for significant decisions
 - Create templates for each domain's decision process
 
-### Step 3: Regular Retrospectives
+#### Step 3: Regular Retrospectives
 - Monthly review: Which decisions did we classify correctly?
 - Quarterly adjustment: Are our domain classification skills improving?
 - Annual evolution: How has our understanding of complexity changed?
 
-### Facilitation Guidelines
+#### Facilitation Guidelines
 
 **For Meeting Facilitators:**
 - When domain classification is disputed, explore the reasoning rather than voting
@@ -244,7 +252,7 @@ Learn: Document for future crises
 - Involve others in classification for decisions that affect them
 - Be willing to shift domains as situations evolve
 
-## Examples
+### Examples
 **Clear/Simple**: 
 - Routine bug fixes following established procedures
 - Standard deployment processes with well-defined steps
