@@ -12,12 +12,7 @@ Teams create valuable artifacts, prototypes, and work-in-progress. These could i
 When teams hide their work, they miss opportunities to learn from each other's approaches. They also miss unexpected connections between projects. Empty display spaces send a signal that sharing work is not expected or valued.
 
 ## Solution
-Create dedicated spaces for displaying current work, prototypes, and visual artifacts. Team members can see and be inspired by each other's progress. Use systematic display design, rotation protocols, and engagement techniques.
-
-**Display Design Guidelines:**
-
-*Physical Display Infrastructure:*
-- **Magnetic walls**: 4'x8' steel-backed surfaces with magnetic strips for easy repositioning
+Create dedicated spaces for displaying current work, prototypes, and visual artifacts. Team members can see and be inspired by each other's progress. Use systematic display design, rotation protocols, and engagement techniques to maintain fresh, accessible displays.
 - **Pin-up boards**: High-quality cork or fabric surfaces that don't damage when pinned
 - **Rotating display stands**: Mobile units that can be repositioned based on foot traffic patterns
 - **Integrated lighting**: 3000K LED strips or track lighting to eliminate shadows and glare
