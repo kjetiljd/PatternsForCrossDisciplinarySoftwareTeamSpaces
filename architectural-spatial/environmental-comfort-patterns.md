@@ -37,7 +37,9 @@ Design work spaces with adjustable furniture, multiple lighting options, sound t
 - [Team Health Checks](../temporal/team-health-checks.md) - Environmental comfort directly impacts team well-being and energy levels
 - [Fractal Autonomy, Layered Alignment](../meta-patterns/fractal-autonomy-layered-alignment.md) - Decision authority frameworks for equipment and environment standardization vs. individual choice
 
-## Implementation notes
+## Further details
+
+### Implementation notes
 
 **Collaborative Ergonomics:**
 - **Height-adjustable desks**: Sit-stand capabilities essential for pair programming and mob sessions

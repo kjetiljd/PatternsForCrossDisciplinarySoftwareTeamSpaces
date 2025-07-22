@@ -1,4 +1,3 @@
-./architectural-spatial/environmental-comfort-patterns.md
 ./architectural-spatial/half-open-half-private-spaces.md
 ./architectural-spatial/mob-programming-corner.md
 ./architectural-spatial/neighborhood-effect-serendipity.md
