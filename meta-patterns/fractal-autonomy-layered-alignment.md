@@ -17,7 +17,21 @@ Traditional hierarchies can stifle autonomy, creativity, and quick decisions. Bu
 - Struggle to coordinate dependencies and handoffs
 
 ## Solution
-Create fractal patterns of autonomy where self-managing units exist at every scale—from individuals to teams to departments to divisions. Connect them with thin coordination layers that maintain alignment without micromanagement. Each unit operates with maximum autonomy within a clear framework of constraints and coordination tools.
+Create fractal patterns of autonomy where self-managing units exist at every scale—from individuals to teams to departments to divisions. Connect them with thin coordination layers that maintain alignment without micromanagement.
+
+## Forces
+- Autonomy vs. alignment across organizational levels
+- Local optimization vs. global coordination
+- Innovation freedom vs. strategic consistency
+- Self-organization vs. clear accountability
+- Cross-disciplinary diversity vs. shared understanding
+
+## Related Patterns
+- [Aligned Autonomy](../organizational/aligned-autonomy.md) - Team-level implementation of fractal autonomy
+- [Self-Governing Teams](../organizational/self-governing-teams.md) - Self-management at the team scale
+- [Cross-Team Coordination](../organizational/cross-team-coordination.md) - Coordination mechanisms between autonomous units
+
+## Further details
 
 ### Fractal Structure Visualization
 
@@ -171,38 +185,21 @@ The goal is maximum autonomy with minimum necessary coordination.
 - **Conflict Resolution**: Time to resolve cross-team disagreements (target: 80% resolved within one week)
 - **Knowledge Sharing**: Spread of successful practices across the organization (measured via surveys and adoption metrics)
 
-## Forces
-- **Autonomy vs. Alignment**: Teams need freedom to innovate while contributing to shared goals
-- **Local Optimization vs. Global Coherence**: Individual units optimizing their performance while maintaining overall system effectiveness  
-- **Coordination Overhead vs. Self-Management Benefits**: Minimizing coordination costs while preventing harmful fragmentation
-- **Scalability vs. Personal Relationships**: Keeping human connection and trust as the organization grows
-- **Innovation vs. Consistency**: Encouraging experimentation while keeping quality and brand standards
-- **Speed vs. Quality**: Moving fast at local levels while maintaining system-wide quality standards
+### Anti-Patterns to Avoid
 
-## Anti-Patterns to Avoid
-
-### Over-Coordination
+#### Over-Coordination
 - **Meeting-Heavy Culture**: Using meetings to solve coordination problems instead of designing better systems
 - **Approval Bottlenecks**: Requiring permission for decisions that could be made independently with proper constraints
 - **Disguised Micromanagement**: Using coordination tools to control rather than align
 
-### Under-Coordination  
+#### Under-Coordination
 - **Silo Formation**: Teams operating with no awareness of impact on others
 - **Duplicated Effort**: Multiple teams solving the same problems without knowledge sharing
 - **Conflicting Customer Experience**: Different teams creating inconsistent customer interactions
 
-### False Fractal Structures
+#### False Fractal Structures
 - **Hierarchy Relabeling**: Calling traditional management layers "autonomous units" without real decision authority
 - **Coordination Theater**: Creating coordination activities that don't really improve alignment or autonomy
-
-## Related Patterns
-- [Aligned Autonomy](../organizational/aligned-autonomy.md) - Specific techniques for balancing autonomy and alignment at team level
-- [Self-Governing Teams](../organizational/self-governing-teams.md) - Implementation details for autonomous team structures
-- [Platform Teams & Communities of Practice](../organizational/platform-teams-communities.md) - Coordination mechanisms that scale knowledge sharing
-- [Decision-Making Patterns](../organizational/decision-making-patterns.md) - Frameworks for distributing decision authority
-- [Cross-Team Synchronization](../organizational/cross-team-synchronization.md) - Specific coordination techniques between autonomous units
-- [Architecture Decision Records](../organizational/architecture-decision-records.md) - Documentation approach that supports autonomous decision-making
-- [OKRs and Goal Alignment](../temporal/goal-alignment-cadence.md) - Goal-setting system that enables fractal autonomy
 
 ## Sources
 - Laloux, F. (2014). *Reinventing Organizations*. Nelson Parker
