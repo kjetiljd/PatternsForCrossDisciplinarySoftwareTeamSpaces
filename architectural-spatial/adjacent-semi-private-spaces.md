@@ -17,9 +17,25 @@ Teams need a space for focused discussions that:
 - Supports both planned and spontaneous collaboration
 
 ## Solution
-Design small collaboration alcoves immediately adjacent to team work areas:
+Design small collaboration alcoves immediately adjacent to team work areas. Provide 4-6 person capacity with partial visual enclosure. Include acoustic treatment to contain conversations without complete isolation. Position within steps of the team's primary work area to maintain context and workflow.
 
-**Physical Design:**
+## Forces
+- **Privacy vs. Accessibility**: Need for private conversation balanced with team integration
+- **Context vs. Distraction**: Maintaining work context while minimizing noise impact
+- **Spontaneity vs. Structure**: Supporting informal collaboration without scheduling overhead
+- **Individual vs. Team Space**: Personal territory balanced with team collaboration needs
+- **Formality vs. Informality**: Professional enough for clients but casual enough for daily use
+
+## Related Patterns
+- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Overall workspace privacy design
+- [Small Team Bays](small-team-bays.md) - Primary work area that adjacent spaces support
+- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - What this pattern replaces
+- [Flexible Common Areas](../cross-disciplinary/modular-furniture-reconfigurability.md) - Furniture and layout flexibility
+- [Call Booths](call-booths.md) - Complement for individual privacy needs
+
+## Implementation notes
+
+### Physical Design
 - 4-6 person capacity for small team discussions (15-25 m² / 160-270 sq ft)
 - 50-75% visual enclosure using low walls (1.2-1.6m height), movable panels, or book shelves
 - Open entrance facing the team work area - no doors to create barriers
@@ -141,14 +157,7 @@ Design small collaboration alcoves immediately adjacent to team work areas:
 - Power and connectivity for devices
 - Optional: small display for screen sharing or reference materials
 
-## Forces
-- **Privacy vs. Accessibility**: Need for private conversation balanced with team integration
-- **Context vs. Distraction**: Maintaining work context while minimizing noise impact
-- **Spontaneity vs. Structure**: Supporting informal collaboration without scheduling overhead
-- **Individual vs. Team Space**: Personal territory balanced with team collaboration needs
-- **Formality vs. Informality**: Professional enough for clients but casual enough for daily use
-
-## Examples
+### Examples
 
 **Technology Companies:**
 - **Spotify**: Squad areas with adjacent "huddle corners" for quick team discussions
@@ -161,22 +170,22 @@ Design small collaboration alcoves immediately adjacent to team work areas:
 - **Elevated platform areas** that create defined space without walls
 - **Corner alcoves** using building architecture to create natural boundaries
 
-## Consequences
+### Consequences
 
-### Positive
+#### Positive
 - **Reduced Context Switching**: Teams can collaborate without leaving their work environment
 - **Increased Spontaneous Collaboration**: Low barrier to starting team discussions
 - **Preserved Work Context**: Access to team artifacts, boards, and reference materials
 - **Natural Flow**: Seamless transitions between individual and collaborative work
 - **Territory Ownership**: Teams feel ownership over their collaboration space
 
-### Negative
+#### Negative
 - **Potential Noise Impact**: Conversations may disturb individual work nearby
 - **Limited Privacy**: Some sensitive discussions may still require formal meeting rooms
 - **Space Efficiency**: Requires more square footage than traditional desk-only layouts
 - **Territorial Disputes**: Teams may claim spaces intended for flexible use
 
-## Implementation
+### Implementation
 
 **Design Phase:**
 1. Position next to each team bay or cluster
@@ -196,18 +205,11 @@ Design small collaboration alcoves immediately adjacent to team work areas:
 3. Gather feedback on effectiveness compared to formal meeting rooms
 4. Refine team protocols based on actual usage
 
-## Measurements
+### Measurements
 - **Usage Frequency**: How often teams use adjacent spaces vs. booking meeting rooms
 - **Collaboration Quality**: Team satisfaction with informal collaboration effectiveness
 - **Context Retention**: Teams' ability to maintain work context during discussions
 - **Noise Impact**: Acoustic measurements and individual work satisfaction
-
-## Related Patterns
-- [Half-Open, Half-Private Spaces](half-open-half-private-spaces.md) - Overall workspace privacy design
-- [Small Team Bays](small-team-bays.md) - Primary work area that adjacent spaces support
-- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md) - What this pattern replaces
-- [Flexible Common Areas](../cross-disciplinary/modular-furniture-reconfigurability.md) - Furniture and layout flexibility
-- [Call Booths](call-booths.md) - Complement for individual privacy needs
 
 ## Sources
 - MIT Allen Curve research on proximity and collaboration frequency
