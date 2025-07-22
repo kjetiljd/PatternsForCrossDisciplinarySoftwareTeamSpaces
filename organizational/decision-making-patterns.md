@@ -78,36 +78,51 @@ graph TD
 - Complexity vs. simplicity in decision processes
 - Reversibility vs. permanence of choices
 
-## Hybrid Team Decision-Making Strategies
+## Related Patterns
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Assess decision reversibility
+- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Match process to complexity
+- [Structured Experiments](structured-experiments.md) - Reduce uncertainty before deciding
+- [Nominal Group Technique](nominal-group-technique.md) - Gather diverse input without bias
+- [Ranked Voting](ranked-voting.md) - Aggregate preferences fairly
+- [Architecture Decision Records](architecture-decision-records.md) - Document decision rationale
+- [Thinking Out Loud](thinking-out-loud.md) - Share reasoning process
+- [I Intend To](i-intend-to.md) - Communicate planned actions
+- [Aligned Autonomy](aligned-autonomy.md) - Balance freedom with alignment
+- [Self-Governing Teams](self-governing-teams.md) - Team-level decision authority
+- [Transparent Artifacts](transparent-artifacts.md) - Make decisions visible
+
+## Further details
+
+### Hybrid Team Decision-Making Strategies
 
 *Effective decision-making in distributed/hybrid teams requires explicit attention to inclusion, timing, and communication methods.*
 
-### Synchronous Decision Approaches
+#### Synchronous Decision Approaches
 **Real-time Collaborative Decisions:**
 - **Facilitated video sessions**: Use structured facilitation with screen sharing for complex decisions requiring immediate discussion
 - **Digital whiteboarding**: Employ collaborative tools for visual decision-making processes (pros/cons lists, impact/effort matrices)
 - **Time-boxed discussions**: Set clear time limits for debate with explicit decision points to maintain momentum
 - **Rotating facilitation**: Share facilitation across time zones to ensure equal participation opportunities
 
-### Asynchronous Decision Processes  
+#### Asynchronous Decision Processes  
 **Distributed Consultation and Feedback:**
 - **Structured advice gathering**: Use forms or templates to collect consistent input from stakeholders across different time zones
 - **Decision documents**: Create shared documents with clear decision proposals, rationale, and deadline for feedback
 - **Threaded discussions**: Use discussion tools that maintain context and allow for thoughtful, non-immediate responses
 - **Progressive disclosure**: Share decision context first, allow processing time, then collect recommendations
 
-### Inclusion and Participation
+#### Inclusion and Participation
 **Ensuring Equal Voice:**
 - **Time zone rotation**: Rotate meeting times for important decisions to share the inconvenience burden
 - **Multiple input channels**: Provide both synchronous and asynchronous ways to contribute to decisions
 - **Cultural adaptation**: Acknowledge different communication styles and decision-making preferences across cultures
 - **Follow-up protocols**: Always confirm understanding and buy-in after decisions, especially from remote participants
 
-## Decision Documentation Templates
+### Decision Documentation Templates
 
 *Ready-to-use templates for capturing decision rationale and communicating outcomes.*
 
-### Template 1: Quick Decision Record
+#### Template 1: Quick Decision Record
 ```markdown
 # Decision: [Title]
 **Date**: [YYYY-MM-DD]
@@ -135,7 +150,7 @@ graph TD
 [When will we evaluate this decision?]
 ```
 
-### Template 2: Complex Decision Analysis
+#### Template 2: Complex Decision Analysis
 ```markdown
 # Major Decision Analysis: [Title]
 
@@ -192,7 +207,7 @@ graph TD
 **Learning Questions**: [What do we want to learn from this decision?]
 ```
 
-### Template 3: Team Consent Decision
+#### Template 3: Team Consent Decision
 ```markdown
 # Team Decision: [Title]
 **Proposal Date**: [YYYY-MM-DD]
@@ -227,7 +242,7 @@ graph TD
 [What happens after consent is achieved?]
 ```
 
-## Implementation
+### Implementation
 1. **Assess Decision Type**: Determine reversibility and complexity before choosing process
 2. **Choose Appropriate Template**: Use decision templates that match the decision complexity and stakes
 3. **Apply Appropriate Framework**: Use lightweight processes for simple/reversible decisions, rigorous processes for complex/irreversible ones
