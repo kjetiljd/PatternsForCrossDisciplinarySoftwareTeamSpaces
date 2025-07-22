@@ -273,13 +273,7 @@ Learn: Document for future crises
 - Security incident management
 - Crisis communication during major failures
 
-## Related Patterns
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Reversibility assessment complements complexity assessment
-- [Structured Experiments](structured-experiments.md) - Key method for complex domain decisions
-- [Decision-Making Patterns](decision-making-patterns.md) - Overall decision framework
-- [Psychological Safety Practices](psychological-safety-practices.md) - Enables honest domain assessment
-
-## Further details
+### Domain Summary Reference
 
 **Clear/Simple Domain**: Obvious cause and effect, predictable outcomes
 - **Approach**: Sense → Categorize → Respond
