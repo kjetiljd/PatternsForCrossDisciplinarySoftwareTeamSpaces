@@ -14,7 +14,26 @@ Teams often can't justify purchasing specialized tools for occasional experiment
 ## Solution
 Establish a comprehensive tool library with systematic inventory management, intuitive discovery mechanisms, and clear usage protocols. This maximizes experimentation while maintaining tool accessibility and organizational sustainability.
 
-**Inventory Management Systems:**
+## Forces
+- Accessibility vs. security and theft prevention
+- Individual exploration vs. collective responsibility
+- Tool specialization vs. general utility
+- Investment cost vs. utilization frequency
+- Maintenance overhead vs. tool availability
+- Discovery ease vs. inventory complexity
+- Innovation encouragement vs. organizational discipline
+- Cross-domain learning vs. domain expertise focus
+- Shared resources vs. team ownership
+
+## Related Patterns
+- [Labs and Studios Adjacency](labs-studios-adjacency.md) - Specialized work environments that benefit from tool access
+- [Prototype and Test Workflows](prototype-test-workflows.md) - Development processes enabled by tool availability
+- [Cross-Team Pollination](../organizational/cross-team-pollination.md) - Knowledge sharing facilitated by shared tools
+- [Learning and Development Infrastructure](../organizational/learning-development-infrastructure.md) - Skill building through tool experimentation
+
+## Further details
+
+### Inventory Management Systems
 
 *Categorization and Organization:*
 
@@ -178,19 +197,9 @@ Establish a comprehensive tool library with systematic inventory management, int
    - **Data Security**: Protocols for handling sensitive information on shared systems
    - **Cloud Integration**: Balancing local tool access with cloud-based collaboration capabilities
 
-## Forces
-- Tool access vs. maintenance overhead
-- Specialized tools vs. general-purpose equipment
-- Sharing coordination vs. immediate availability
-- Cost of tools vs. experimentation benefits
-- Community stewardship vs. institutional control
-- Learning curve vs. immediate productivity
-- Security and liability vs. open access
-- Tool standardization vs. diverse technology exploration
+### Consequences
 
-## Consequences
-
-### Positive
+#### Positive
 - **Innovation acceleration**: Access to diverse tools sparks creative problem-solving and cross-domain inspiration
 - **Cost efficiency**: Shared ownership reduces individual team tool acquisition costs significantly
 - **Skill development**: Exposure to new tools builds team capabilities and technical versatility
@@ -198,7 +207,7 @@ Establish a comprehensive tool library with systematic inventory management, int
 - **Experimentation culture**: Low-barrier access to tools encourages risk-taking and exploration
 - **Knowledge sharing**: Tool libraries become hubs for expertise exchange and peer learning
 
-### Negative
+#### Negative
 - **Management complexity**: Requires significant organizational overhead for tracking, maintenance, and coordination
 - **Availability constraints**: Popular tools may be unavailable when teams need them most urgently
 - **Learning overhead**: Teams must invest time in tool mastery that may not directly benefit core projects
@@ -206,7 +215,7 @@ Establish a comprehensive tool library with systematic inventory management, int
 - **Security risks**: Shared access can compromise tool security and increase loss or damage potential
 - **Cultural resistance**: Some teams may prefer tool ownership certainty over sharing protocols
 
-## Examples
+### Examples
 
 **Maker Spaces and Fab Labs:**
 
@@ -302,7 +311,7 @@ Establish a comprehensive tool library with systematic inventory management, int
 - **Balanced Access**: Fair sharing protocols preventing tool hoarding while ensuring availability
 - **Cultural Integration**: Tool libraries aligned with organizational values of experimentation and learning
 
-## Implementation
+### Implementation
 
 **Phase 1: Foundation and Infrastructure (6-8 weeks)**
 
@@ -345,11 +354,6 @@ Establish a comprehensive tool library with systematic inventory management, int
    - Integrate tool library with existing innovation programs and project workflows
    - Develop advanced training and certification programs for complex tools
    - Create partnerships with external organizations for tool sharing and expertise exchange
-
-## Related Patterns
-- [Shared Equipment Core](shared-equipment-core.md)
-- [Display of Work](display-of-work.md)
-- [Modular Furniture and Reconfigurability](modular-furniture-reconfigurability.md)
 
 ## Sources
 - Maker space tool libraries

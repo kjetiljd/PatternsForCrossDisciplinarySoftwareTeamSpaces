@@ -1,4 +1,3 @@
-./cross-disciplinary/toolbelt-availability.md
 ./cross-disciplinary/u-shape-team-layout.md
 ./meta-patterns/fractal-autonomy-layered-alignment.md
 ./meta-patterns/human-centric-design.md
