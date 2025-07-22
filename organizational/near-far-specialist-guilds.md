@@ -26,6 +26,19 @@ Create a dual structure for specialist expertise. Use evidence-based guild forma
 - Share cutting-edge knowledge and innovations
 - Provide backup support and knowledge continuity
 
+## Forces
+- **Expertise depth vs. Team integration**: Specialists need both community and application
+- **Efficiency vs. Availability**: Balancing expert utilization with team access
+- **Standardization vs. Customization**: Consistent practices versus team-specific needs
+- **Knowledge sharing vs. Focus**: Spreading expertise without diluting specialist attention
+
+## Related Patterns
+- [Platform Teams & Communities](platform-teams-communities.md) - Organizational structure for shared capabilities
+- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Team composition principles
+- [Psychological Safety Practices](psychological-safety-practices.md) - Foundation for effective guild dynamics
+
+## Further details
+
 ### Guild Formation Playbooks
 
 **Phase 1: Foundation and Charter Development (Weeks 1-4)**
@@ -426,44 +439,32 @@ Create a dual structure for specialist expertise. Use evidence-based guild forma
 - **Member Transition:** Supporting guild participants in finding alternative communities
 - **Learning Capture:** Documenting lessons learned for future guild implementations
 
-## Forces
-- **Expertise depth vs. Team integration**: Specialists need both community and application
-- **Efficiency vs. Availability**: Balancing expert utilization with team access
-- **Standardization vs. Customization**: Consistent practices versus team-specific needs
-- **Knowledge sharing vs. Focus**: Spreading expertise without diluting specialist attention
+### Consequences
 
-## Consequences
-
-### Positive
+#### Positive
 - **Timely expertise**: Teams get specialist input without delays
 - **Continued learning**: Specialists stay current through guild participation
 - **Resilience**: Guild provides backup when near specialists are unavailable
 - **Consistency**: Standards and practices align across teams through guild coordination
 - **Career development**: Specialists maintain professional community and growth
 
-### Negative
+#### Negative
 - **Dual loyalty**: Specialists balance team and guild commitments
 - **Coordination overhead**: Requires management of both embedded and guild relationships
 - **Potential conflicts**: Team needs may conflict with guild standards
 - **Resource allocation**: More complex than pure embedding or centralization
 
-## Examples
+### Examples
 - **Security champions**: Embedded security advocates connected to central security team
 - **Data scientists**: Team-embedded analysts with connections to data science guild
 - **UX designers**: Embedded designers participating in design system community
 
-## Implementation
+### Implementation Steps
 1. Identify critical specialties that need both embedding and community
 2. Establish guild structures with clear purposes and rhythms
 3. Define roles and expectations for near/far specialist relationships
 4. Create communication channels between embedded specialists and guilds
 5. Ensure guild activities add value rather than create bureaucracy
-
-## Related Patterns
-- [Enabling and Platform Teams](enabling-platform-teams.md) - Alternative approach to expertise sharing
-- [Communities of Practice](platform-teams-communities.md) - Supports the guild structure
-- [Right-Sized Stream-Aligned Teams](right-sized-stream-aligned-teams.md) - Teams that benefit from near specialists
-- [Self-Governing Teams](self-governing-teams.md) - Enables teams to work with embedded specialists
 
 ## Sources
 - Dan North's talks on specialist organization
