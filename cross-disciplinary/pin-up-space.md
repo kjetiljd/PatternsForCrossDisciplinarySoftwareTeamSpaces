@@ -14,7 +14,21 @@ Without dedicated display space, teams struggle to share visual work effectively
 ## Solution
 Create professionally designed pin-up walls with systematic installation specifications, clear curation guidelines, and structured interaction protocols. These facilitate high-quality critique and collaborative refinement.
 
-**Installation Specifications:**
+## Forces
+- Display quality vs. ease of change
+- Professional presentation vs. work-in-progress visibility
+- Individual work vs. collaborative critique
+- Permanent installation vs. flexible use
+
+## Related Patterns
+- [Display of Work](display-of-work.md)
+- [Poster Sessions](poster-sessions.md)
+- [Critique Rituals](../temporal/critique-rituals.md)
+- [Open Architecture](../architectural-spatial/open-architecture.md)
+
+## Further details
+
+### Installation Specifications
 
 *Physical Infrastructure Requirements:*
 
@@ -205,33 +219,6 @@ Create professionally designed pin-up walls with systematic installation specifi
    - Appreciation rituals for team members who provide particularly helpful feedback
    - Public acknowledgment of courage in sharing work-in-progress and accepting critique
 
-## Forces
-- Display space vs. workspace efficiency
-- Temporary vs. permanent displays
-- Formal critique vs. informal browsing
-- Physical vs. digital display systems
-- Professional presentation vs. authentic work-in-progress
-- Individual work ownership vs. collective critique culture
-- IP protection vs. transparent sharing
-- Maintenance investment vs. space utilization
-
-## Consequences
-
-### Positive
-- **Design quality improvement**: Regular critique and feedback leads to stronger final outcomes
-- **Team skill development**: Exposure to diverse approaches accelerates individual learning
-- **Collaboration catalyst**: Visual work display sparks cross-pollination and unexpected connections
-- **Process transparency**: Makes design thinking and iteration visible to entire organization
-- **Cultural transformation**: Establishes norms of constructive feedback and continuous improvement
-- **Knowledge preservation**: Creates visual archive of project evolution and decision rationales
-
-### Negative
-- **Vulnerability exposure**: Public display of work-in-progress can create anxiety and resistance
-- **Maintenance demands**: Requires ongoing curation effort and space management
-- **Perfectionism pressure**: May discourage sharing of early-stage or experimental work
-- **Critique fatigue**: Over-structured feedback sessions can become burdensome and formulaic
-- **IP security risks**: Visible work may inadvertently expose sensitive or proprietary information
-- **Space competition**: High-quality pin-up areas compete with other workspace needs
 
 ## Examples
 
@@ -373,10 +360,23 @@ Create professionally designed pin-up walls with systematic installation specifi
    - Expand successful practices to additional teams and spaces
    - Develop organizational competency in visual communication and collaborative critique
 
-## Related Patterns
-- [Display of Work](display-of-work.md)
-- [Poster Sessions](poster-sessions.md)
-- [Critique Rituals](critique-rituals.md)
+### Consequences
+
+#### Positive
+- **Design quality improvement**: Regular critique and feedback leads to stronger final outcomes
+- **Team skill development**: Exposure to diverse approaches accelerates individual learning
+- **Collaboration catalyst**: Visual work display sparks cross-pollination and unexpected connections
+- **Process transparency**: Makes design thinking and iteration visible to entire organization
+- **Cultural transformation**: Establishes norms of constructive feedback and continuous improvement
+- **Knowledge preservation**: Creates visual archive of project evolution and decision rationales
+
+#### Negative
+- **Vulnerability exposure**: Public display of work-in-progress can create anxiety and resistance
+- **Maintenance demands**: Requires ongoing curation effort and space management
+- **Perfectionism pressure**: May discourage sharing of early-stage or experimental work
+- **Critique fatigue**: Over-structured feedback sessions can become burdensome and formulaic
+- **IP security risks**: Visible work may inadvertently expose sensitive or proprietary information
+- **Space competition**: High-quality pin-up areas compete with other workspace needs
 
 ## Sources
 - Architectural studio practices
