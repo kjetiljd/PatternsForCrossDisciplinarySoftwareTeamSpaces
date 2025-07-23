@@ -20,9 +20,17 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
 - Work-life boundaries vs. availability
 - Ritual overhead vs. benefits of routine
 
-## Specific Ritual Examples
+## Related Patterns
+- [Core Hours & Temporal Zoning](core-hours-temporal-zoning.md)
+- [No-Meeting Time](no-meeting-time.md)
+- [Weekly Cadence](weekly-cadence.md)
+- [Rituals as Spatial Anchors](rituals-spatial-anchors.md)
 
-### Morning Rituals
+## Further details
+
+### Specific Ritual Examples
+
+#### Morning Rituals
 
 **Personal Morning Launch:**
 - **Purpose**: Transition from personal to work mindset
@@ -54,7 +62,7 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
   - Strategic planning conversations
 - **Remote Adaptation**: Virtual walk-and-talk calls with participants walking in their own locations
 
-### Midday Rituals
+#### Midday Rituals
 
 **Midday Reset:**
 - **Purpose**: Prevent afternoon energy crash and maintain focus
@@ -85,7 +93,7 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
   - Resource reallocation if needed
   - Urgent issue escalation
 
-### End-of-Day Rituals
+#### End-of-Day Rituals
 
 **Personal Shutdown Ritual:**
 - **Purpose**: Create clear boundary between work and personal time
@@ -119,9 +127,9 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
   - Identify one skill or knowledge gap to address
   - Update team knowledge base or documentation
 
-## Customization Framework
+### Customization Framework
 
-### Team Culture Assessment
+#### Team Culture Assessment
 
 **Values Alignment:**
 - **High Autonomy Teams**: Focus on individual rituals with optional team elements
@@ -135,7 +143,7 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
 - **Social Preference**: Emphasize team connection and shared experiences
 - **Individual Preference**: Focus on personal productivity and boundary setting
 
-### Implementation Approach
+#### Implementation Approach
 
 **Phase 1: Individual Adoption (Week 1-2)**
 - Each team member selects one morning and one end-of-day ritual
@@ -161,7 +169,7 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
 - Integration with other team practices and organizational rhythms
 - Continuous refinement based on changing team composition
 
-### Remote/Hybrid Adaptations
+#### Remote/Hybrid Adaptations
 
 **Technology Integration:**
 - **Video Calls**: Use for team rituals requiring face-to-face connection
@@ -181,56 +189,51 @@ Set up daily rituals that create structure. Examples include morning check-ins, 
 - **Asynchronous Sharing**: Ways for team members to contribute even when not present
 - **Cultural Sensitivity**: Respect different cultural approaches to ritual and routine
 
-## Success Indicators
+### Success Indicators
 
-### Individual Level
+#### Individual Level
 - **Boundary Clarity**: Improved work-life balance and transition rituals
 - **Energy Management**: Better alignment of energy with work demands
 - **Focus Quality**: Enhanced concentration and priority management
 - **Stress Reduction**: Decreased anxiety and overwhelm
 
-### Team Level
+#### Team Level
 - **Coordination Effectiveness**: Improved alignment and reduced miscommunication
 - **Relationship Quality**: Stronger team connections and mutual support
 - **Collective Energy**: Better team mood and motivation
 - **Shared Purpose**: Enhanced sense of common goals and direction
 
-### Organizational Level
+#### Organizational Level
 - **Culture Reinforcement**: Strengthened team culture and values
 - **Knowledge Sharing**: Improved documentation and learning transfer
 - **Adaptation Capability**: Better response to changing priorities and challenges
 - **Retention**: Increased job satisfaction and team member engagement
 
-## Implementation Examples
+### Implementation Examples
 
-### Software Development Team
+#### Software Development Team
 **Morning**: 15-minute hybrid standup with energy check-in
 **Midday**: Walking one-on-ones for complex discussions
 **Evening**: Personal shutdown ritual with tomorrow's priority setting
 **Results**: 30% improvement in work-life balance, better coordination
 
-### Product Design Team
+#### Product Design Team
 **Morning**: Individual focus ritual with team availability sharing
 **Midday**: Lunch learning sessions with design inspiration
 **Evening**: Team closing circle with creative insight sharing
 **Results**: Increased creativity, better cross-team collaboration
 
-### Remote-First Engineering Team
+#### Remote-First Engineering Team
 **Morning**: Async priority sharing with optional video coffee chat
 **Midday**: Virtual walk-and-talk for brainstorming sessions
 **Evening**: Personal shutdown with team acknowledgment channel
 **Results**: Maintained team connection, improved async coordination
 
-### Global Development Team
+#### Global Development Team
 **Morning**: Timezone-appropriate individual rituals with shared documentation
 **Midday**: Handoff rituals between time zones
 **Evening**: Knowledge harvest shared across all time zones
 **Results**: Better 24-hour coordination, reduced context switching
-
-## Related Patterns
-- [Daily Stand-Ups](../organizational/daily-stand-ups.md)
-- [Core Hours & Temporal Zoning](core-hours-temporal-zoning.md)
-- [Rituals as Spatial Anchors](rituals-spatial-anchors.md)
 
 ## Sources
 - Research on daily routines and productivity
