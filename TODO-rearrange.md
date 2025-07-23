@@ -1,4 +1,3 @@
-./organizational/trying-out-options.md
 ./temporal/annual-seasonal-patterns.md
 ./temporal/communal-eating.md
 ./temporal/core-hours-temporal-zoning.md

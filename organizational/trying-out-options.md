@@ -20,7 +20,15 @@ Instead of picking one option to test, try several alternatives at the same time
 - Experience vs. Analysis - Real work reveals insights that analysis cannot
 - Cost vs. Learning - Testing multiple options costs more upfront but can save bigger investments later
 
-## Implementation
+## Related Patterns
+- [Structured Experiments](structured-experiments.md) - Framework for designing and running comparative trials
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Trying options converts one-way doors to two-way doors
+- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Particularly useful for complex domain decisions
+- [Architecture Decision Records](architecture-decision-records.md) - Document the comparison results and final choice
+
+## Further details
+
+### Implementation
 1. **Frame the Challenge**: Find the decision area and good alternatives worth exploring
 2. **Keep Scope Small**: Limit trials to make results easier to compare and control costs
 3. **Design Parallel Options**: Make sure each path is different enough to show real differences
@@ -28,7 +36,7 @@ Instead of picking one option to test, try several alternatives at the same time
 5. **Compare Outcomes**: Use both numbers and feedback to assess trade-offs
 6. **Decide Based on Evidence**: Pick, combine, or drop options based on what you observe
 
-## Examples
+### Examples
 **API Design Approach:**
 - Options: GraphQL, REST with Consumer Driven Contracts, gRPC for internal services
 - Trial: Build simple, non-critical endpoints using each approach
@@ -46,12 +54,6 @@ Instead of picking one option to test, try several alternatives at the same time
 - Trial: Run each process for 2-3 sprints with similar work types
 - Comparison: Check team velocity, predictability, satisfaction, and stakeholder feedback
 - Decision: Choose the process that works best for the team's actual context
-
-## Related Patterns
-- [Structured Experiments](structured-experiments.md) - Framework for designing and running comparative trials
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Trying options converts one-way doors to two-way doors
-- [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Particularly useful for complex domain decisions
-- [Architecture Decision Records](architecture-decision-records.md) - Document the comparison results and final choice
 
 ## Sources
 - "It's in the doing of the work that we discover the work that we must do" - Woody Zuill
