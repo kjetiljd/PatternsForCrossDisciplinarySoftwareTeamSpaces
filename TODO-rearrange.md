@@ -1,4 +1,3 @@
-./architectural-spatial/scattered-work-campus-layout.md
 ./architectural-spatial/visible-evolution-traces.md
 ./architectural-spatial/work-community-clusters.md
 ./organizational/anchor-days.md
