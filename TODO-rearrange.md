@@ -1,1 +1,0 @@
-./temporal/weekly-cadence.md

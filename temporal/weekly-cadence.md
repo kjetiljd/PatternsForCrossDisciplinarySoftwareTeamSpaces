@@ -14,6 +14,20 @@ Without weekly structure, teams lose momentum and miss planning chances. They fa
 ## Solution
 Set up weekly rhythms with planning activities early in the week and reflection/demo activities at the end. This creates natural work cycles.
 
+## Forces
+- Predictable structure vs. flexible responsiveness
+- Team coordination vs. individual work patterns
+- Planning overhead vs. adaptive capacity
+- Regular reflection vs. forward momentum
+- Cross-timezone challenges vs. local optimization
+
+## Related Patterns
+- [Daily Rituals](daily-rituals.md)
+- [Monthly & Quarterly Rituals](monthly-4-monthly-rituals.md)
+- [Team Health Checks](team-health-checks.md)
+
+## Further details
+
 ### Alternative Cadence Models
 
 **Standard Monday-Friday Cadence:**
@@ -206,9 +220,9 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - Team coordination vs. individual schedules
 - Closure vs. continuous flow
 
-## Implementation Checklist
+### Implementation Checklist
 
-### Phase 1: Rhythm Design & Setup (Weeks 1-2)
+#### Phase 1: Rhythm Design & Setup (Weeks 1-2)
 **Prerequisites:**
 - [ ] Team commitment to structured weekly rhythms
 - [ ] Authority to establish team meeting schedules
@@ -242,7 +256,7 @@ Set up weekly rhythms with planning activities early in the week and reflection/
   - [ ] What will we try next week?
 - [ ] Plan celebration and closure activities
 
-### Phase 2: Process Implementation (Weeks 2-6)
+#### Phase 2: Process Implementation (Weeks 2-6)
 **Planning Session Execution:**
 - [ ] Start each Monday with energy and team alignment
 - [ ] Use visual planning tools (boards, charts, shared screens)
@@ -263,7 +277,7 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - [ ] Create clean closure before weekend break
 - [ ] Document insights for next week's planning
 
-### Phase 3: Rhythm Optimization (Weeks 4-8)
+#### Phase 3: Rhythm Optimization (Weeks 4-8)
 **Facilitation Excellence:**
 - [ ] Rotate facilitation responsibilities within team
 - [ ] Train team members in effective meeting facilitation
@@ -283,7 +297,7 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - [ ] Experiment with different facilitation techniques
 - [ ] Integrate insights from retrospectives into process improvements
 
-### Phase 4: Advanced Practices (Month 2+)
+#### Phase 4: Advanced Practices (Month 2+)
 **Cross-Team Coordination:**
 - [ ] Align weekly rhythms with other teams when beneficial
 - [ ] Share demos and learnings across team boundaries
@@ -302,7 +316,7 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - [ ] Support new team members in understanding rhythm
 - [ ] Document and share successful practices with other teams
 
-### Success Indicators
+#### Success Indicators
 **Immediate (Weeks 2-4):**
 - [ ] Consistent attendance at weekly rhythm sessions
 - [ ] Clear weekly commitments and outcomes
@@ -321,7 +335,7 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - [ ] External teams seek to learn from rhythm practices
 - [ ] Clear evidence of increased team performance
 
-### Measurements & Validation
+#### Measurements & Validation
 **Process Metrics:**
 - [ ] Weekly planning session duration (target: <90 minutes)
 - [ ] Retrospective action item completion rate (target: >80%)
@@ -334,17 +348,12 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - [ ] Team velocity and throughput trends
 - [ ] Frequency of process improvements implemented
 
-### Common Issues & Solutions
+#### Common Issues & Solutions
 - [ ] **Meeting fatigue**: Shorten sessions, improve facilitation, focus on value
 - [ ] **Low engagement**: Rotate responsibilities, vary formats, ensure psychological safety
 - [ ] **Schedule conflicts**: Protect weekly rhythm time, negotiate organizational priorities
 - [ ] **Lack of improvement**: Focus retrospectives on actionable items, track implementation
 - [ ] **Stakeholder disengagement**: Improve demo quality, solicit feedback, show clear value
-
-## Related Patterns
-- [Daily Rituals](daily-rituals.md)
-- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
-- [Cross-Team Events](cross-team-events.md)
 
 ## Sources
 - Agile sprint planning and retrospective practices
