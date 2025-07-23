@@ -26,7 +26,20 @@ Implement temporal zoning:
 - Personal life needs vary across team members
 - Time zone differences make scheduling hard
 
-## Global Team Considerations
+## Related Patterns
+### Anti-Pattern Prevention Patterns
+- [Deep Work Time Blocks](deep-work-time-blocks.md)
+- [Meeting-Free Zones](../organizational/meeting-free-zones.md)
+- [Context Switching Protection](../organizational/context-switching-protection.md)
+
+### Supporting Organizational Patterns  
+- [Team Working Agreements](../organizational/team-working-agreements.md)
+- [Asynchronous Decision Making](../organizational/async-decision-making.md)
+- [Distributed Communication Protocols](../organizational/distributed-communication-protocols.md)
+
+## Further details
+
+### Global Team Considerations
 
 ### Multi-Zone Coordination Strategies
 
@@ -62,9 +75,9 @@ Implement temporal zoning:
 - **Cultural Sensitivity**: Respect local holidays and work patterns
 - **Flexibility Budget**: Allow schedule adjustments for life events
 
-## Calendar Tool Integration
+### Calendar Tool Integration
 
-### Microsoft Outlook Integration
+#### Microsoft Outlook Integration
 
 **Temporal Zone Setup:**
 ```
@@ -90,7 +103,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Focus Blocks**: Meetings blocked except for emergencies
 - **Flexible Time**: Normal availability with preferences noted
 
-### Google Calendar Integration
+#### Google Calendar Integration
 
 **Time Zone Display:**
 - Primary: Local time zone
@@ -104,7 +117,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Cross-Zone**: Meetings involving multiple time zones
 - **Flexibility**: Personal time with override capability
 
-### Slack/Teams Integration
+#### Slack/Teams Integration
 
 **Status Automation:**
 - **Core Hours**: "Available for collaboration" with green indicator
@@ -118,9 +131,9 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Focus Blocks**: No notifications except direct mentions
 - **Off Hours**: Emergency notifications only
 
-## Implementation Frameworks
+### Implementation Frameworks
 
-### Organization-Wide Implementation
+#### Organization-Wide Implementation
 
 **Phase 1: Assessment (2-4 weeks)**
 - Survey team members about current scheduling challenges
@@ -152,7 +165,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - Adjust core hours based on changing team needs
 - Refine tool configurations based on usage patterns
 
-### Team-Level Implementation
+#### Team-Level Implementation
 
 **Week 1: Team Agreement**
 - Discuss individual work patterns and preferences
@@ -178,7 +191,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - Finalize implementation for ongoing use
 - Document best practices and lessons learned
 
-### Individual Adoption
+#### Individual Adoption
 
 **Personal Temporal Audit:**
 - Track current work patterns and energy levels
@@ -198,9 +211,9 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - Create automated responses for different time periods
 - Integrate with team's temporal zoning system
 
-## Success Metrics
+### Success Metrics
 
-### Quantitative Indicators
+#### Quantitative Indicators
 
 **Productivity Metrics:**
 - **Deep Work Hours**: Uninterrupted time blocks per week
@@ -214,7 +227,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Async Effectiveness**: Percentage of work completed asynchronously
 - **Time Zone Equity**: Distribution of inconvenient meeting times
 
-### Qualitative Indicators
+#### Qualitative Indicators
 
 **Team Satisfaction:**
 - Work-life balance improvements
@@ -234,9 +247,9 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - Better respect for individual work preferences
 - Enhanced cross-team coordination
 
-## Advanced Patterns
+### Advanced Patterns
 
-### Dynamic Temporal Zoning
+#### Dynamic Temporal Zoning
 
 **Project-Based Adjustments:**
 - **Sprint Planning**: Extended core hours during planning phases
@@ -250,7 +263,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Performance Reviews**: Individual meeting time allocation
 - **Conference Seasons**: Adjusted schedules for industry events
 
-### Role-Based Temporal Patterns
+#### Role-Based Temporal Patterns
 
 **Engineering Roles:**
 - **Developers**: Long protected blocks for coding, short core hours
@@ -264,7 +277,7 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Researchers**: Individual research time with scheduled sharing sessions
 - **Business Analysts**: Requirements gathering aligned with stakeholder availability
 
-### Organizational Rhythm Integration
+#### Organizational Rhythm Integration
 
 **Weekly Patterns:**
 - **Monday**: Extended core hours for planning and coordination
@@ -278,9 +291,9 @@ Focus Blocks: 2:00 PM - 4:00 PM (Mon, Wed, Fri)
 - **Week 4**: Review and coordination focus with flexible scheduling
 - **Month End**: Reduced meeting load for reporting and analysis
 
-## Common Anti-Patterns and Failure Modes
+### Common Anti-Patterns and Failure Modes
 
-### ❌ The Always-On Trap
+#### ❌ The Always-On Trap
 ```
 TIME: 8am ─────────────────────────────────── 8pm
 EXPECTATION: ████████████████████████████████████
@@ -309,7 +322,7 @@ Week 2-4: Cultural Reinforcement
 - Share success stories of deep work achievements
 ```
 
-### ❌ The Meeting Tsunami
+#### ❌ The Meeting Tsunami
 ```
 CORE HOURS: 10am ──────── 2pm
 REALITY:    🏢🏢🏢🏢🏢🏢🏢🏢  ← Back-to-back meetings fill all core time
@@ -338,7 +351,7 @@ Short-term (Weeks 2-8):
 - Implement walking meetings and other alternatives to conference rooms
 ```
 
-### ❌ The Timezone Tyranny
+#### ❌ The Timezone Tyranny
 ```
 TIME ZONES:  PST    EST    GMT    CET    JST
 CORE HOURS:  6am    9am    2pm    3pm    11pm  ← Someone always suffers
@@ -367,7 +380,7 @@ Long-term (Months 2-6):
 - Build comprehensive async collaboration workflows
 ```
 
-### ❌ The Fake Flexibility
+#### ❌ The Fake Flexibility
 ```
 POLICY:    "Teams can set their own core hours"
 REALITY:   Boss works 8am-5pm → Everyone else pressured to match
@@ -396,7 +409,7 @@ Structural Support (Weeks 4-12):
 - Build systems that work across diverse schedules
 ```
 
-### ❌ The Sacred Cow Syndrome
+#### ❌ The Sacred Cow Syndrome
 ```
 CALENDAR:     10am ─── DAILY STANDUP ─── 10:30am (every day for 2 years)
 REALITY:      Most days: 5 minutes of value + 25 minutes of ritual
@@ -425,7 +438,7 @@ Experimental Mindset (Weeks 3-8):
 - Measure outcomes rather than adherence to traditional patterns
 ```
 
-### ❌ The Context Switch Carnival
+#### ❌ The Context Switch Carnival
 ```
 SCHEDULE: 
 9am: Deep Work    ↕️ High focus required
@@ -456,7 +469,7 @@ Calendar Architecture (Weeks 3-4):
 - Build natural transition periods into the schedule
 ```
 
-### ❌ The Emergency Exception Erosion
+#### ❌ The Emergency Exception Erosion
 ```
 WEEK 1: Protected time respected except for "critical" client issue
 WEEK 2: Protected time interrupted for "urgent" cross-team dependency  
@@ -485,7 +498,7 @@ Exception Tracking (Weeks 2-8):
 - Gradually tighten emergency criteria based on evidence
 ```
 
-### Cultural Variations in Anti-Pattern Manifestation
+#### Cultural Variations in Anti-Pattern Manifestation
 
 **High-Context Cultures** (Germany, Japan, Scandinavia):
 - "Sacred Cow Syndrome" manifests as resistance to questioning established processes
@@ -502,21 +515,21 @@ Exception Tracking (Weeks 2-8):
 - "Emergency Exception Erosion" driven by fear of saying no to authority
 - Recovery requires senior leadership modeling and explicit empowerment
 
-## Anti-Pattern Recovery Success Metrics
+### Anti-Pattern Recovery Success Metrics
 
-### Short-term Recovery Indicators (1-4 weeks)
+#### Short-term Recovery Indicators (1-4 weeks)
 - **Boundary Adherence**: 80%+ of protected time remains uninterrupted
 - **Context Switch Reduction**: <3 major context switches per person per day
 - **Meeting Quality**: 90% of core hour meetings have clear outcomes
 - **Emergency Calibration**: <2 protected time interruptions per person per week
 
-### Long-term Health Indicators (3-6 months)
+#### Long-term Health Indicators (3-6 months)
 - **Sustainable Patterns**: <10% requests to modify temporal zones per quarter
 - **Flexibility Success**: 3+ different core hour patterns used successfully within organization
 - **Cultural Maturity**: <5% escalations of temporal boundary conflicts per month
 - **Outcome Focus**: Productivity KPIs improve despite reduced meeting time
 
-### Warning Signs Requiring Intervention
+#### Warning Signs Requiring Intervention
 - **Boundary Erosion**: Protected time interrupted >3 times per week per person
 - **Meeting Saturation**: >60% of core hours occupied by formal meetings
 - **Timezone Inequity**: Same people taking inconvenient times >80% of the time  
@@ -524,44 +537,31 @@ Exception Tracking (Weeks 2-8):
 - **Exception Creep**: "Emergency" interruptions increasing by >20% month-over-month
 - **Productivity Decline**: Deep work tasks taking 2x longer than previous baseline
 
-## Examples in Practice
+### Examples in Practice
 
-### Microsoft's Evolution
+#### Microsoft's Evolution
 - **Original**: "Focus Friday" no-meeting policy
 - **Enhanced**: Temporal zoning with 10am-2pm core hours
 - **Global**: Rotating core hours for international teams
 - **Results**: 25% reduction in meeting fatigue, improved work-life balance
 
-### Basecamp's Library Rules
+#### Basecamp's Library Rules
 - **Original**: "Library rules" for quiet work
 - **Enhanced**: Explicit temporal zones with tool integration
 - **Implementation**: 9am-11am and 2pm-4pm protected time
 - **Results**: Increased deep work satisfaction, better project outcomes
 
-### GitLab's Handbook-First Approach
+#### GitLab's Handbook-First Approach
 - **Original**: Async-first with minimal meetings
 - **Enhanced**: Temporal zoning for necessary synchronous work
 - **Global**: Zone-specific handoff procedures
 - **Results**: Maintained async benefits while improving real-time collaboration
 
-### Startup Implementation
+#### Startup Implementation
 - **Challenge**: 12-person team across 8 time zones
 - **Solution**: 2-hour rotating core hours with async handoffs
 - **Tools**: Automated calendar blocking and status updates
 - **Results**: 40% reduction in scheduling conflicts, improved team satisfaction
-
-## Related Patterns
-
-### Anti-Pattern Prevention Patterns
-- [No-Meeting Time](no-meeting-time.md) - Prevents "Meeting Tsunami" and "Always-On Trap"
-- [Daily Rituals](daily-rituals.md) - Creates structure that prevents "Context Switch Carnival"
-- [Asynchronous Collaboration Norms](../organizational/async-collaboration-norms.md) - Reduces "Timezone Tyranny"
-- [Blameless Post-Mortems](../organizational/blameless-post-mortems.md) - Helps recover from "Sacred Cow Syndrome"
-
-### Supporting Organizational Patterns  
-- [Self-Governing Teams](../organizational/self-governing-teams.md) - Enables teams to enforce their own temporal boundaries
-- [I Intend To](../organizational/i-intend-to.md) - Reduces "Emergency Exception Erosion"
-- [Handbook First Documentation](../organizational/handbook-first-documentation.md) - Supports async work reducing meeting pressure
 
 ## Sources
 - Paul Graham's "Maker's Schedule, Manager's Schedule"

@@ -1,4 +1,3 @@
-./temporal/core-hours-temporal-zoning.md
 ./temporal/cross-team-events.md
 ./temporal/daily-rituals.md
 ./temporal/monthly-4-monthly-rituals.md
