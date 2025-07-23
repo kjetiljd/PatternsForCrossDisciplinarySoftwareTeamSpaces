@@ -144,7 +144,7 @@ The following guide provides step-by-step checklists for implementing patterns f
 #### Weeks 9-12: Decision-Making Evolution
 - [ ] **Implement [Decision-Making Patterns](organizational/decision-making-patterns.md)** framework
 - [ ] **Train teams on [Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)**
-- [ ] **Establish [One-Way vs Two-Way Door Decisions](organizational/one-way-vs-two-way-door-decisions.md)** criteria
+- [ ] **Establish [One-Way vs Two-Way Door Decisions](organizational/one-way-two-way-door-decisions.md)** criteria
 - [ ] **Create [Near/Far Specialist Guilds](organizational/near-far-specialist-guilds.md)** for knowledge sharing
 - [ ] **Monitor decision latency** and team satisfaction
 

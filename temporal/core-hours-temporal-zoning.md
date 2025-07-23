@@ -28,14 +28,13 @@ Implement temporal zoning:
 
 ## Related Patterns
 ### Anti-Pattern Prevention Patterns
-- [Deep Work Time Blocks](deep-work-time-blocks.md)
-- [Meeting-Free Zones](../organizational/meeting-free-zones.md)
-- [Context Switching Protection](../organizational/context-switching-protection.md)
+- [No-Meeting Time](no-meeting-time.md)
+- [Daily Rituals](daily-rituals.md)
 
 ### Supporting Organizational Patterns  
-- [Team Working Agreements](../organizational/team-working-agreements.md)
-- [Asynchronous Decision Making](../organizational/async-decision-making.md)
-- [Distributed Communication Protocols](../organizational/distributed-communication-protocols.md)
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md)
+- [Sync/Async Balance Framework](../organizational/sync-async-balance-framework.md)
+- [Handbook First Documentation](../organizational/handbook-first-documentation.md)
 
 ## Further details
 

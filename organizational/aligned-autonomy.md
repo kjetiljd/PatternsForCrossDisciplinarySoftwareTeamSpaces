@@ -60,7 +60,7 @@ Create aligned freedom through several supporting practices:
 ### Leadership Patterns (Supporting)
 - [Cynefin-Based Decision Framework](cynefin-based-decision-framework.md) - Appropriate leadership responses
 - [Blameless Post-Mortems](blameless-post-mortems.md) - Learning from autonomous experiments
-- [One-Way vs Two-Way Door Decisions](one-way-vs-two-way-door-decisions.md) - Decision delegation framework
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - Decision delegation framework
 
 ### Meta-Pattern Alignment
 - [Transparency and Osmotic Communication](../meta-patterns/transparency-osmotic-communication.md) - Information flow for alignment

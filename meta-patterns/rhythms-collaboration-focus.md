@@ -29,14 +29,14 @@ Create intentional rhythms that alternate between convergent collaborative activ
 
 ## Related Patterns
 
-- **[Temporal Sanctuary](../temporal/temporal-sanctuary.md)** - Creating protected time for deep work
-- **[Convergence-Divergence Cycles](../temporal/convergence-divergence-cycles.md)** - The basic cycle of team collaboration patterns  
-- **[Hybrid Presence Coordination](../organizational/hybrid-presence-coordination.md)** - Coordinating presence across distributed teams
-- **[Context Switching Minimization](../temporal/context-switching-minimization.md)** - Reducing cognitive overhead from mode changes
-- **[Energy Level Matching](../temporal/energy-level-matching.md)** - Aligning activities with natural energy patterns
-- **[Collaboration Saturation Awareness](../temporal/collaboration-saturation-awareness.md)** - Recognizing when teams need more individual focus time
-- **[Sprint Planning Rhythms](../temporal/sprint-planning-rhythms.md)** - Longer-term rhythm patterns
-- **[Daily Standup Optimization](../temporal/daily-standup-optimization.md)** - Daily coordination patterns
+- **[No-Meeting Time](../temporal/no-meeting-time.md)** - Creating protected time for deep work
+- **[Core Hours & Temporal Zoning](../temporal/core-hours-temporal-zoning.md)** - The basic cycle of team collaboration patterns  
+- **[Anchor Days](../organizational/anchor-days.md)** - Coordinating presence across distributed teams
+- **[Daily Rituals](../temporal/daily-rituals.md)** - Daily coordination patterns
+- **[Weekly Cadence](../temporal/weekly-cadence.md)** - Weekly rhythm patterns
+- **[Monthly/4-Month Period Rituals](../temporal/monthly-4-monthly-rituals.md)** - Longer-term rhythm patterns
+- **[Team Health Checks](../temporal/team-health-checks.md)** - Recognizing when teams need attention to collaboration dynamics
+- **[Annual/Seasonal Patterns](../temporal/annual-seasonal-patterns.md)** - Annual rhythm patterns
 
 ## Further details
 

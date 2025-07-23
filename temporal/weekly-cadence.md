@@ -20,11 +20,13 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - Planning overhead vs. adaptive capacity
 - Regular reflection vs. forward momentum
 - Cross-timezone challenges vs. local optimization
+- Closure vs. continuous flow
 
 ## Related Patterns
 - [Daily Rituals](daily-rituals.md)
 - [Monthly & Quarterly Rituals](monthly-4-monthly-rituals.md)
 - [Team Health Checks](team-health-checks.md)
+- [Cross-Team Events](cross-team-events.md)
 
 ## Further details
 

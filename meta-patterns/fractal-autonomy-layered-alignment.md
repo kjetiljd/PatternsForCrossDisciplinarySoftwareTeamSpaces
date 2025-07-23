@@ -29,7 +29,7 @@ Create fractal patterns of autonomy where self-managing units exist at every sca
 ## Related Patterns
 - [Aligned Autonomy](../organizational/aligned-autonomy.md) - Team-level implementation of fractal autonomy
 - [Self-Governing Teams](../organizational/self-governing-teams.md) - Self-management at the team scale
-- [Cross-Team Coordination](../organizational/cross-team-coordination.md) - Coordination mechanisms between autonomous units
+- [Cross-Team Synchronization](../organizational/cross-team-synchronization.md) - Coordination mechanisms between autonomous units
 
 ## Further details
 

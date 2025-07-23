@@ -23,8 +23,8 @@ Create professionally designed pin-up walls with systematic installation specifi
 ## Related Patterns
 - [Display of Work](display-of-work.md)
 - [Poster Sessions](poster-sessions.md)
-- [Critique Rituals](../temporal/critique-rituals.md)
-- [Open Architecture](../architectural-spatial/open-architecture.md)
+- [Critique Rituals](critique-rituals.md)
+- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private-spaces.md)
 
 ## Further details
 

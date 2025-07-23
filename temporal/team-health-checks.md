@@ -15,18 +15,23 @@ Without regular health checks, teams may not notice declining dynamics, increasi
 Use regular team health checks through surveys, retrospectives, and talks. These identify issues early and create action plans for improvement.
 
 ## Forces
-- Team performance vs. individual privacy
+- Proactive vs. reactive problem-solving
+- Individual vs. team health metrics
+- Formal assessment vs. informal check-ins
 - Regular assessment vs. survey fatigue
 - Early detection vs. over-monitoring
 - Honest feedback vs. psychological safety
 - Action-oriented vs. discussion-only approaches
 - Time investment vs. productivity gains
+- Privacy vs. transparency in health discussions
 
 ## Related Patterns
 - [Daily Rituals](daily-rituals.md)
 - [Weekly Cadence](weekly-cadence.md)
-- [Monthly & Quarterly Rituals](monthly-4-monthly-rituals.md)
-- [Team Working Agreements](../organizational/team-working-agreements.md)
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md)
+- [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
+- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
+- [Team Composition and Size](../organizational/team-composition-size.md)
 
 ## Further details
 
@@ -37,7 +42,7 @@ Use regular team health checks through surveys, retrospectives, and talks. These
 
 **Core Questions**:
 1. **Energy Level**: How energized do you feel about your work this week? (1=Drained, 5=Energized)
-2. **Collaboration Quality**: How well is the team working together? (1=Poorly, 5=Excellently)  
+2. **Collaboration Quality**: How well is the team working together? (1=Poorly, 5=Excellently)
 3. **Work Satisfaction**: How satisfied are you with your progress this week? (1=Frustrated, 5=Satisfied)
 4. **Support Level**: How well supported do you feel by the team? (1=Isolated, 5=Well-supported)
 5. **Stress Level**: How manageable is your current workload? (1=Overwhelming, 5=Manageable)

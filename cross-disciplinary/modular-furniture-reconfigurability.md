@@ -28,8 +28,8 @@ Provide movable furniture with flexible power and data connections. This allows 
 
 ## Related Patterns
 - [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md)
-- [Collaborative Zones](../organizational/collaborative-zones.md)
-- [Prototype and Test Workflows](prototype-test-workflows.md)
+- [In-Zone Collaboration](../organizational/in-zone-collaboration.md)
+- [Display of Work](display-of-work.md)
 
 ## Further details
 

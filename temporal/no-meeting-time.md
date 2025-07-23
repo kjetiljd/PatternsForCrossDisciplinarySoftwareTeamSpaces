@@ -27,8 +27,8 @@ Set up protected time periods where no meetings are scheduled. This allows team 
 ## Related Patterns
 - [Core Hours & Temporal Zoning](core-hours-temporal-zoning.md)
 - [Daily Rituals](daily-rituals.md)
-- [Deep Work Time Blocks](../organizational/deep-work-time-blocks.md)
-- [Maker vs Manager Schedule](../organizational/maker-manager-schedule.md)
+- [Async Collaboration Norms](../organizational/async-collaboration-norms.md)
+- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md)
 
 ## Further details
 
@@ -175,7 +175,7 @@ Mandatory Team No-Meeting Core: Tuesday 10 AM - 12 PM
 Individual Optimization Windows:
 Monday: Personal choice
 Tuesday: 2 hours core + 2 hours individual choice
-Wednesday: Personal choice  
+Wednesday: Personal choice
 Thursday: Personal choice
 Friday: Personal choice (with optional team demo/review time)
 ```
@@ -221,7 +221,7 @@ Friday: Personal choice (with optional team demo/review time)
 - **Provide alternatives**: Offer multiple ways to get help that don't require real-time interruption
 - **Set expectations**: Clear communication about when team members will be available vs. focused
 
-**"Urgent Everything" Syndrome**  
+**"Urgent Everything" Syndrome**
 - **Urgency assessment**: Train teams to distinguish true urgency from habitual rush
 - **Planning improvements**: Better planning reduces number of genuine urgent interruptions
 - **Emergency protocols**: Clear definition of what constitutes an emergency worth interrupting deep work

@@ -29,9 +29,9 @@ Design spaces that give people control over their environment and clearly invite
 - [Personalization and Human Scale](../architectural-spatial/personalization-human-scale.md) - Enables individual expression within empowering environments
 - [Psychological Safety Practices](../organizational/psychological-safety-practices.md) - Creates the cultural foundation for empowerment to be effective
 - [Self-Governing Teams](../organizational/self-governing-teams.md) - Organizational structure that complements empowering physical environments
-- [Accessible & Code-Compliant Design](../architectural-spatial/accessible-code-compliant.md) - Ensures empowerment extends to team members with diverse accessibility needs
+- [Accessible & Code-Compliant Design](../architectural-spatial/accessible-code-compliant-design.md) - Ensures empowerment extends to team members with diverse accessibility needs
 - [Human-Centric Design](../meta-patterns/human-centric-design.md) - Overarching principle that guides empowerment and invitation strategies
-- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private.md) - Physical configuration that supports both individual empowerment and collective invitation
+- [Half-Open, Half-Private Spaces](../architectural-spatial/half-open-half-private-spaces.md) - Physical configuration that supports both individual empowerment and collective invitation
 
 ## Further details
 

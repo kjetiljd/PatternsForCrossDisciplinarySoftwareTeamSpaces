@@ -26,8 +26,8 @@ Integrate software team spaces into mixed-use developments where possible. Alter
 - [Work Community Clusters](work-community-clusters.md) - Framework for team clustering within distributed environments
 - [Neighborhood Effect and Serendipity](neighborhood-effect-serendipity.md) - Creating chance encounters in mixed-use settings
 - [Communal Eating](../temporal/communal-eating.md) - Leveraging shared dining spaces for team building
-- [Boundary Spanning Practices](../organizational/boundary-spanning-practices.md) - Managing interactions between internal teams and external community
-- [Remote-First Team Hubs](../organizational/remote-first-team-hubs.md) - Hybrid approaches to distributed work
+- [Cross-Team Synchronization](../organizational/cross-team-synchronization.md) - Managing interactions between internal teams and external community
+- [Anchor Days](../organizational/anchor-days.md) - Hybrid approaches to distributed work
 
 ## Further details
 
