@@ -14,6 +14,22 @@ Without regular health checks, teams may not notice declining dynamics, increasi
 ## Solution
 Use regular team health checks through surveys, retrospectives, and talks. These identify issues early and create action plans for improvement.
 
+## Forces
+- Team performance vs. individual privacy
+- Regular assessment vs. survey fatigue
+- Early detection vs. over-monitoring
+- Honest feedback vs. psychological safety
+- Action-oriented vs. discussion-only approaches
+- Time investment vs. productivity gains
+
+## Related Patterns
+- [Daily Rituals](daily-rituals.md)
+- [Weekly Cadence](weekly-cadence.md)
+- [Monthly & Quarterly Rituals](monthly-4-monthly-rituals.md)
+- [Team Working Agreements](../organizational/team-working-agreements.md)
+
+## Further details
+
 ### Assessment Templates
 
 #### Quick Weekly Health Check (5 minutes)
@@ -320,17 +336,6 @@ Use regular team health checks through surveys, retrospectives, and talks. These
 - Focus on sustainability and burnout prevention
 - Adapt quickly to changing team compositions
 - Balance speed of growth with team stability
-
-## Forces
-- Proactive vs. reactive problem-solving
-- Individual vs. team health metrics
-- Formal assessment vs. informal check-ins
-- Privacy vs. transparency in health discussions
-
-## Related Patterns
-- [Psychological Safety Practices](../organizational/psychological-safety-practices.md)
-- [Monthly/Quarterly Rituals](monthly-4-monthly-rituals.md)
-- [Team Composition and Size](../organizational/team-composition-size.md)
 
 ## Sources
 - Team health assessment methodologies
