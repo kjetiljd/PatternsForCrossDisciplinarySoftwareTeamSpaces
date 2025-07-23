@@ -1,4 +1,3 @@
-./organizational/right-sized-stream-aligned-teams.md
 ./organizational/self-governing-teams.md
 ./organizational/team-api.md
 ./organizational/thinking-out-loud.md

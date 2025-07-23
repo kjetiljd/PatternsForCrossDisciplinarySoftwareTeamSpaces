@@ -26,38 +26,40 @@ Create stream-aligned teams that are:
 - **Autonomy vs. Dependencies**: Minimizing hand-offs while serving business needs
 - **Speed vs. Capability**: Fast decision-making versus comprehensive expertise
 
-## Consequences
+## Related Patterns
+- [Enabling and Platform Teams](enabling-platform-teams.md) - Provides supporting infrastructure
+- [Team API](team-api.md) - Defines clear interaction protocols
+- [Self-Governing Teams](self-governing-teams.md) - Enables autonomous decision-making
+- [Aligned Autonomy](aligned-autonomy.md) - Balances independence with organizational goals
 
-### Positive
+## Further details
+
+### Consequences
+
+#### Positive
 - **Dense communication**: Everyone can talk with everyone else frequently
 - **Fast flow**: Minimal waiting on other teams for value delivery
 - **Clear accountability**: Unambiguous ownership of outcomes
 - **High autonomy**: Teams can make decisions without external dependencies
 - **Reduced coordination overhead**: Fewer inter-team dependencies to manage
 
-### Negative
+#### Negative
 - **Skill constraints**: May lack deep expertise in all areas
 - **Platform dependency**: Requires strong enabling infrastructure
 - **Cognitive load risk**: Teams may become overwhelmed with too many responsibilities
 - **Scaling challenges**: Need careful domain decomposition for multiple teams
 
-## Examples
+### Examples
 - **WhatsApp**: 13 engineers serving 500M users through small, focused teams
 - **Amazon**: "Two pizza teams" owning specific service domains
 - **Spotify**: Squads of 6-12 people owning specific features or services
 
-## Implementation
+### Implementation
 1. Define clear value streams and product boundaries
 2. Ensure each team has necessary skill mix within size constraints
 3. Provide platform and enabling team support
 4. Monitor and respect cognitive load limits
 5. Use Team API pattern for clear external interfaces
-
-## Related Patterns
-- [Enabling and Platform Teams](enabling-platform-teams.md) - Provides supporting infrastructure
-- [Team API](team-api.md) - Defines clear interaction protocols
-- [Self-Governing Teams](self-governing-teams.md) - Enables autonomous decision-making
-- [Aligned Autonomy](aligned-autonomy.md) - Balances independence with organizational goals
 
 ## Sources
 - Team Topologies by Skelton & Pais
