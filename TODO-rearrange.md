@@ -1,4 +1,3 @@
-./temporal/rituals-spatial-anchors.md
 ./temporal/team-health-checks.md
 ./temporal/weekly-cadence.md
 ./architectural-spatial/scattered-work-campus-layout.md
