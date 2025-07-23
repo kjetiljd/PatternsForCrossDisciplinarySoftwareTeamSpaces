@@ -1,4 +1,3 @@
-./organizational/distributed-whiteboards.md
 ./organizational/embedded-coordination-roles.md
 ./organizational/embedded-telepresence-team-spaces.md
 ./organizational/right-sized-stream-aligned-teams.md

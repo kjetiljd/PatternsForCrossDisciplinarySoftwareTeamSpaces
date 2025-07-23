@@ -24,6 +24,24 @@ Implement shared digital whiteboarding tools and establish practices for inclusi
 - Real-time collaboration vs. thoughtful contribution
 - Tool consistency vs. specialized functionality
 
+## Examples
+
+**Sprint planning sessions**: Teams use Miro boards to collaboratively estimate stories and plan iterations, with remote and in-office members contributing equally.
+
+**Architecture design workshops**: Technical teams sketch system diagrams on Excalidraw during video calls, allowing real-time collaborative system design.
+
+**User journey mapping**: Product teams use Mural templates to map customer experiences, with designers, developers, and stakeholders all contributing insights visually.
+
+**Retrospective sessions**: Agile teams conduct retrospectives on digital boards where all members can anonymously add sticky notes and vote on improvements.
+
+## Related Patterns
+
+- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Supports collaborative code review and design sessions
+- [Transparent Artifacts](transparent-artifacts.md) - Makes visual collaboration results visible to broader team
+- [Pin-Up Space](../cross-disciplinary/pin-up-space.md) - Physical complement to digital whiteboarding
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Informal use of visual collaboration tools
+- [Anchor Days](anchor-days.md) - Coordinates physical and digital whiteboarding activities
+
 ## Further details
 
 ### Tool Comparison Matrix
@@ -185,13 +203,6 @@ Implement shared digital whiteboarding tools and establish practices for inclusi
 - **Participation Inequality**: Use structured activities to ensure equal contribution
 - **Cultural Resistance**: Acknowledge that some team members may prefer traditional methods
 - **Skill Gaps**: Provide ongoing training and support for visual collaboration skills
-
-## Related Patterns
-- [Swarm Reviews & Pairing](swarm-reviews-pairing.md) - Supports collaborative code review and design sessions
-- [Transparent Artifacts](transparent-artifacts.md) - Makes visual collaboration results visible to broader team
-- [Pin-Up Space](../cross-disciplinary/pin-up-space.md) - Physical complement to digital whiteboarding
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Informal use of visual collaboration tools
-- [Anchor Days](anchor-days.md) - Coordinates physical and digital whiteboarding activities
 
 ## Sources
 - Digital whiteboarding tool research
