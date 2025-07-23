@@ -129,24 +129,24 @@ graph TD
 **Decider**: [Name/Role]
 **Decision Type**: [Individual/Team/Organizational] | [Reversible/One-way]
 
-## Context
+### Context
 [Brief background - why does this decision need to be made?]
 
-## Decision
+### Decision
 [What was decided?]
 
-## Rationale  
+### Rationale  
 [Why this option? What alternatives were considered?]
 
-## Advice Sought
+### Advice Sought
 - [Who was consulted?]
 - [Key input received]
 
-## Next Steps
+### Next Steps
 - [ ] [Action item 1]
 - [ ] [Action item 2]
 
-## Review Date
+### Review Date
 [When will we evaluate this decision?]
 ```
 
@@ -154,16 +154,16 @@ graph TD
 ```markdown
 # Major Decision Analysis: [Title]
 
-## Decision Summary
+### Decision Summary
 **What**: [One sentence decision statement]
 **When**: [Decision deadline]
 **Who**: [Decision maker + advice network]
 **Impact**: [High/Medium/Low - who is affected?]
 
-## Background & Context
+### Background & Context
 [Why is this decision necessary? What changed?]
 
-## Options Considered
+### Options Considered
 ### Option 1: [Name]
 - **Pros**: 
 - **Cons**:
@@ -179,30 +179,30 @@ graph TD
 ### Option 3: [Do Nothing]
 - **Consequences of not deciding**:
 
-## Stakeholder Input
+### Stakeholder Input
 | Stakeholder | Perspective | Recommendation |
 |-------------|-------------|----------------|
 | [Name/Role] | [Their viewpoint] | [Their recommendation] |
 
-## Decision Criteria
+### Decision Criteria
 [What factors are most important in this decision?]
 1. [Criterion 1]
 2. [Criterion 2]
 3. [Criterion 3]
 
-## Selected Option
+### Selected Option
 **Choice**: [Chosen option]
 **Rationale**: [Why this option best meets the criteria]
 
-## Implementation Plan
+### Implementation Plan
 - [ ] [Step 1 - Who/When]
 - [ ] [Step 2 - Who/When]
 - [ ] [Communication plan]
 
-## Success Metrics
+### Success Metrics
 [How will we know this decision was successful?]
 
-## Review & Learning
+### Review & Learning
 **Review Date**: [When will we assess outcomes?]
 **Learning Questions**: [What do we want to learn from this decision?]
 ```
@@ -214,31 +214,31 @@ graph TD
 **Consent Deadline**: [YYYY-MM-DD]
 **Proposer**: [Name]
 
-## Proposal
+### Proposal
 [Clear, specific proposal statement]
 
-## Background
+### Background
 [Why is this needed? What problem does it solve?]
 
-## Implementation Details
+### Implementation Details
 [How would this work? What would change?]
 
-## Team Input Period
+### Team Input Period
 **How to object**: [Process for raising concerns]
 **Questions/Clarifications**: 
 [Space for team members to ask questions]
 
-## Consent Record
+### Consent Record
 | Team Member | Status | Comments |
 |-------------|---------|----------|
 | [Name] | ✅ Consent / ❌ Object | [Any concerns or conditions] |
 
-## Final Status
+### Final Status
 - [ ] **Accepted**: No objections raised
 - [ ] **Modified**: Proposal adjusted based on concerns  
 - [ ] **Withdrawn**: Significant objections, need new approach
 
-## Next Steps
+### Next Steps
 [What happens after consent is achieved?]
 ```
 

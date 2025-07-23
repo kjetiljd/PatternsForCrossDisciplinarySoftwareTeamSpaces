@@ -1,4 +1,3 @@
-./organizational/decision-making-patterns.md
 ./organizational/desire-path-recognition.md
 ./organizational/distributed-whiteboards.md
 ./organizational/embedded-coordination-roles.md
