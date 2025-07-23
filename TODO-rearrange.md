@@ -1,4 +1,3 @@
-./organizational/desire-path-recognition.md
 ./organizational/distributed-whiteboards.md
 ./organizational/embedded-coordination-roles.md
 ./organizational/embedded-telepresence-team-spaces.md
