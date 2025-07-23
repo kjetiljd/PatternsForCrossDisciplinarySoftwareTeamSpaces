@@ -1,4 +1,3 @@
-./organizational/anchor-days.md
 ./organizational/architecture-decision-records.md
 ./organizational/async-collaboration-norms.md
 ./organizational/blameless-post-mortems.md

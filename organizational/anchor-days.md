@@ -21,8 +21,14 @@ Implement purposeful anchor days where the whole team commits to being present o
 - Teams need face-to-face time for complex problem-solving
 - Forced office time without purpose feels punitive
 
+## Related Patterns
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md)
+- [Communal Eating](../temporal/communal-eating.md)
+- [Cross-Team Events](../temporal/cross-team-events.md)
 
-## Examples
+## Further details
+
+### Examples
 
 **Mid-size SaaS Company (50 people)**:
 - Monthly anchor days, first Thursday of each month
@@ -38,13 +44,6 @@ Implement purposeful anchor days where the whole team commits to being present o
 - Bi-weekly anchor Tuesdays with optional attendance
 - Morning client work, afternoon internal collaboration, optional after-work social
 - Adaptation: Shortened format during busy client periods, extended during proposal seasons
-
-## Related Patterns
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md)
-- [Communal Eating](../temporal/communal-eating.md)
-- [Cross-Team Events](../temporal/cross-team-events.md)
-
-## Further details
 
 ### Scheduling Frameworks
 
