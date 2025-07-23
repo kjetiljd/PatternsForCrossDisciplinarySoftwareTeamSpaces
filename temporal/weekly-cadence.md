@@ -214,12 +214,6 @@ Set up weekly rhythms with planning activities early in the week and reflection/
 - Time zone accommodation satisfaction: >4/5
 - Global demo attendance: >60% of team members
 
-## Forces
-- Predictable rhythm vs. responsive flexibility
-- Weekly planning vs. daily adaptation
-- Team coordination vs. individual schedules
-- Closure vs. continuous flow
-
 ### Implementation Checklist
 
 #### Phase 1: Rhythm Design & Setup (Weeks 1-2)
