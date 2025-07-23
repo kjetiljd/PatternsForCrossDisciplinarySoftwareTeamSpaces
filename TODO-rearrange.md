@@ -1,4 +1,3 @@
-./organizational/blameless-post-mortems.md
 ./organizational/decision-making-patterns.md
 ./organizational/desire-path-recognition.md
 ./organizational/distributed-whiteboards.md

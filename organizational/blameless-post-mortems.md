@@ -99,17 +99,17 @@ Implement blameless post-mortem practices that focus on systems and learning rat
 **Severity**: [Critical/High/Medium/Low]  
 **Duration**: [How long incident lasted]
 
-## Executive Summary
+### Executive Summary
 [2-3 sentence summary of what happened and key learnings]
 
-## Timeline of Events
+### Timeline of Events
 | Time | Event | Information Available | Decision/Action Taken |
 |------|-------|----------------------|----------------------|
 | 14:23 | Alert fired for high error rate | Error rate at 15% | Team began investigation |
 | 14:25 | Checked recent deployments | Release went out at 14:20 | Suspected new deployment |
 | ... | ... | ... | ... |
 
-## Contributing Factors
+### Contributing Factors
 ### Technical Factors
 - [List technical conditions that enabled the incident]
 
@@ -122,22 +122,22 @@ Implement blameless post-mortem practices that focus on systems and learning rat
 ### Environmental Factors
 - [List external pressures, constraints, or context]
 
-## What Went Well
+### What Went Well
 - [List things that worked well during incident response]
 
-## Key Learnings
+### Key Learnings
 1. [Primary insight about our system or processes]
 2. [Secondary insight]
 3. [Additional learnings]
 
-## Action Items
+### Action Items
 | Action | Owner | Due Date | Success Metric |
 |--------|-------|----------|----------------|
 | Implement better monitoring for X | Team A | 2024-08-15 | Alert fires within 30 seconds |
 | Update deployment checklist | Team B | 2024-08-10 | Zero missed checklist items |
 | ... | ... | ... | ... |
 
-## Follow-Up Review
+### Follow-Up Review
 **Scheduled for**: [Date 2-4 weeks after incident]  
 **Focus**: Review action item progress and measure improvement effectiveness
 ```
@@ -148,24 +148,24 @@ Implement blameless post-mortem practices that focus on systems and learning rat
 # Quick Post-Mortem: [Incident Title]
 **Date**: [Date] | **Duration**: [X minutes] | **Impact**: [Brief impact statement]
 
-## What Happened
+### What Happened
 [1-2 paragraph summary of the incident]
 
-## Timeline (Key Events Only)
+### Timeline (Key Events Only)
 - **14:20** - [Event]
 - **14:25** - [Event]  
 - **14:45** - [Resolution]
 
-## Why It Happened
+### Why It Happened
 1. [Primary contributing factor]
 2. [Secondary factor if relevant]
 
-## What We're Doing About It
+### What We're Doing About It
 | Action | Owner | Due | 
 |--------|-------|-----|
 | [Specific action] | [Name] | [Date] |
 
-## Key Learning
+### Key Learning
 [One sentence takeaway for the team/organization]
 ```
 
