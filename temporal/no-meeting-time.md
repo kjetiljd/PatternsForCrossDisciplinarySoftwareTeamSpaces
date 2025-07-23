@@ -14,6 +14,24 @@ Frequent meetings interrupt flow states. They prevent the long concentration nee
 ## Solution
 Set up protected time periods where no meetings are scheduled. This allows team members to do deep work and enter flow states.
 
+## Forces
+- Need for collaboration vs. need for deep work
+- Team coordination vs. individual productivity
+- Urgent requests vs. planned work protection
+- Meeting culture vs. focus culture
+- Short-term convenience vs. long-term effectiveness
+- External demands vs. internal team needs
+- Open availability vs. protected boundaries
+- Cross-timezone coordination vs. local optimization
+
+## Related Patterns
+- [Core Hours & Temporal Zoning](core-hours-temporal-zoning.md)
+- [Daily Rituals](daily-rituals.md)
+- [Deep Work Time Blocks](../organizational/deep-work-time-blocks.md)
+- [Maker vs Manager Schedule](../organizational/maker-manager-schedule.md)
+
+## Further details
+
 ### Core Principles
 - **Protected boundaries**: No-meeting time is sacred and not compromised for convenience
 - **Deep work help**: Time blocks must be long enough for meaningful concentration (minimum 2 hours)
@@ -268,21 +286,6 @@ Friday: Personal choice (with optional team demo/review time)
 - **Interruption analysis**: Understanding sources and patterns of interruptions
 - **Productivity correlation**: Correlating no-meeting time with output and quality metrics
 - **Continuous optimization**: Data-driven improvement of no-meeting practices
-
-## Forces
-- Deep work needs vs. collaboration requirements
-- Individual focus vs. team coordination
-- Scheduled protection vs. organic flow
-- Meeting efficiency vs. time protection
-- Organizational accessibility vs. personal productivity
-- Synchronous coordination vs. asynchronous collaboration
-
-## Related Patterns
-- [Core Hours & Temporal Zoning](core-hours-temporal-zoning.md)
-- [Daily Rituals](daily-rituals.md)
-- [Async Collaboration Norms](../organizational/async-collaboration-norms.md)
-- [Meeting Room Anti-Pattern](../organizational/meeting-room-anti-pattern.md)
-- [Team Health Checks](team-health-checks.md)
 
 ## Sources
 - Deep work research by Cal Newport
