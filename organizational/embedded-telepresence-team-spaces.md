@@ -14,6 +14,22 @@ Remote team members often become second-class participants in team activities. T
 ## Solution
 Embed telepresence technology directly into team collaboration areas. Use comprehensive technical specifications, optimized room layouts, and structured interaction protocols.
 
+## Forces
+- **Inclusion vs. Distraction:** Remote presence should feel natural without dominating the space
+- **Spontaneity vs. Technology Complexity:** System must be simple enough for impromptu use
+- **Visual Quality vs. Cost:** High-definition video requires investment in equipment and bandwidth
+- **Privacy vs. Transparency:** Always-on systems raise concerns about surveillance and privacy
+- **Accessibility vs. Standardization:** Neurodivergent individuals may need different sensory environments
+- **Global vs. Local:** Time zone differences create tension between synchronous and asynchronous collaboration
+- **Compliance vs. Functionality:** Data protection regulations may limit recording and always-on capabilities
+
+## Related Patterns
+- [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Enhanced with remote participant visibility
+- [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Requires telepresence for hybrid mob sessions
+- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Core infrastructure for team-based telepresence
+- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Provides informal interaction channels
+- [Hybrid Coordination and Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Supports formal coordination processes
+
 ## Further details
 
 ### Technical Specifications
@@ -147,15 +163,6 @@ Embed telepresence technology directly into team collaboration areas. Use compre
 - **Quarterly Evolution:** Space layout optimization based on usage patterns
 - **Annual Investment:** Technology refresh cycle planning
 
-## Forces
-- **Inclusion vs. Distraction:** Remote presence should feel natural without dominating the space
-- **Spontaneity vs. Technology Complexity:** System must be simple enough for impromptu use
-- **Visual Quality vs. Cost:** High-definition video requires investment in equipment and bandwidth
-- **Privacy vs. Transparency:** Always-on systems raise concerns about surveillance and privacy
-- **Accessibility vs. Standardization:** Neurodivergent individuals may need different sensory environments
-- **Global vs. Local:** Time zone differences create tension between synchronous and asynchronous collaboration
-- **Compliance vs. Functionality:** Data protection regulations may limit recording and always-on capabilities
-
 ### Examples
 
 **GitLab Engineering Teams:**
@@ -227,13 +234,6 @@ Embed telepresence technology directly into team collaboration areas. Use compre
 - **Monthly:** Deep technical maintenance and calibration
 - **Quarterly:** User experience surveys and protocol refinement
 - **Annually:** Technology refresh planning and major upgrades
-
-## Related Patterns
-- [Pair Programming Workstations](../architectural-spatial/pair-programming-workstations.md) - Enhanced with remote participant visibility
-- [Mob Programming Corner](../architectural-spatial/mob-programming-corner.md) - Requires telepresence for hybrid mob sessions
-- [Small Team Bays](../architectural-spatial/small-team-bays.md) - Core infrastructure for team-based telepresence
-- [Digital Campfires & Virtual Watercoolers](digital-campfires-virtual-watercoolers.md) - Provides informal interaction channels
-- [Hybrid Coordination and Knowledge Networks](hybrid-coordination-knowledge-networks.md) - Supports formal coordination processes
 
 ## Sources
 - GitLab's remote work documentation and office design principles
