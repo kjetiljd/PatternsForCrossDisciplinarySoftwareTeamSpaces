@@ -22,6 +22,20 @@ Set up rotating ambassador roles where team members serve as liaisons to other t
 - Individual development vs. team stability
 - Context preservation vs. fresh perspectives
 
+## Examples
+
+**Technology Company**: 8 product teams use rotating quarterly ambassadors with senior developers as primary coordinators and junior developers shadowing, resulting in 40% reduction in coordination meetings.
+
+**Financial Services**: 12 development teams across 3 business units employ business analyst ambassadors focused on requirements coordination, achieving earlier dependency identification and reduced project delays.
+
+**Open Source Project**: 6 core teams use volunteer ambassador model with 3-month terms, improving alignment between teams and contributor experience.
+
+## Related Patterns
+
+- [Self-Governing Teams](self-governing-teams.md) - Teams need autonomy to effectively utilize coordination roles
+- [Aligned Autonomy](aligned-autonomy.md) - Balance between team independence and organizational coordination
+- [Team API](team-api.md) - Formal interfaces complement human coordination roles
+
 ## Further details
 
 ### Role Descriptions and Responsibilities
@@ -142,23 +156,6 @@ Set up rotating ambassador roles where team members serve as liaisons to other t
 - Team confidence in coordination capabilities
 - Improved cross-team relationship quality as measured by collaboration feedback
 
-### Examples
-
-#### Technology Company Implementation
-**Setup**: 8 product teams, rotating ambassadors quarterly
-**Approach**: Senior developers serve as primary ambassadors, junior developers shadow
-**Results**: 40% reduction in coordination meetings, improved cross-team collaboration
-
-#### Financial Services Application
-**Setup**: 12 development teams across 3 business units
-**Approach**: Business analyst ambassadors focus on requirements coordination
-**Results**: Earlier dependency identification, reduced project delays
-
-#### Open Source Project
-**Setup**: 6 core teams, volunteer ambassador model
-**Approach**: Community members volunteer for 3-month ambassador terms
-**Results**: Better alignment between teams, improved contributor experience
-
 ### Anti-Patterns to Avoid
 
 **Coordination Bottleneck**: Ambassador becomes single point of failure
@@ -166,13 +163,6 @@ Set up rotating ambassador roles where team members serve as liaisons to other t
 **Authority Confusion**: Unclear decision-making boundaries lead to conflicts
 **Rotation Chaos**: Too frequent rotation prevents relationship building
 **Information Hoarding**: Ambassadors don't share coordination insights with team
-
-## Related Patterns
-- [Cross-Team Synchronization](cross-team-synchronization.md)
-- [Team API](team-api.md)
-- [Platform Teams & Communities of Practice](platform-teams-communities.md)
-- [Aligned Autonomy](aligned-autonomy.md)
-- [Self-Governing Teams](self-governing-teams.md)
 
 ## Sources
 - Organizational design research on boundary spanning roles
