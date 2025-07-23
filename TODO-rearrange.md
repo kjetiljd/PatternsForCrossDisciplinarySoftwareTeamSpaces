@@ -1,4 +1,3 @@
-./architectural-spatial/work-community-clusters.md
 ./organizational/anchor-days.md
 ./organizational/architecture-decision-records.md
 ./organizational/async-collaboration-norms.md
