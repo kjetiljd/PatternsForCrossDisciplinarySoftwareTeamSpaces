@@ -14,7 +14,15 @@ Important architecture decisions often go unwritten, half-remembered, or get mix
 ## Solution
 Create Architecture Decision Records (ADRs) for decisions with big results, trade-offs, or that require people to change how they work. Use a consistent template and team process with open discussion.
 
-## Examples
+## Related Patterns
+- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - ADRs particularly important for one-way door decisions
+- [Structured Experiments](structured-experiments.md) - Document experiment results that lead to decisions
+- [Transparent Artifacts](transparent-artifacts.md) - ADRs are key form of transparent decision documentation
+- [I Intend To](i-intend-to.md) - Stating intent to create ADR before making decision
+
+## Further details
+
+### Examples
 **API Architecture Decision (with visualization):**
 - Context: Need to choose between GraphQL flexibility vs REST simplicity
 - Decision: Adopt REST with Consumer Driven Contracts
@@ -26,14 +34,6 @@ Create Architecture Decision Records (ADRs) for decisions with big results, trad
 - Decision: Gradual migration using dual-write pattern over 6 months
 - Visualization: Migration timeline and data flow diagrams
 - Consequences: Maintains availability but increases complexity during transition
-
-## Related Patterns
-- [One-Way vs Two-Way Door Decisions](one-way-two-way-door-decisions.md) - ADRs particularly important for one-way door decisions
-- [Structured Experiments](structured-experiments.md) - Document experiment results that lead to decisions
-- [Transparent Artifacts](transparent-artifacts.md) - ADRs are key form of transparent decision documentation
-- [I Intend To](i-intend-to.md) - Stating intent to create ADR before making decision
-
-## Further details
 
 ### Implementation
 1. **Sense the Need**: Find decisions that have big results or require behavior changes

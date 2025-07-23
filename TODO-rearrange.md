@@ -1,4 +1,3 @@
-./organizational/architecture-decision-records.md
 ./organizational/async-collaboration-norms.md
 ./organizational/blameless-post-mortems.md
 ./organizational/decision-making-patterns.md
