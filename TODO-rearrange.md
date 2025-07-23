@@ -1,4 +1,3 @@
-./organizational/async-collaboration-norms.md
 ./organizational/blameless-post-mortems.md
 ./organizational/decision-making-patterns.md
 ./organizational/desire-path-recognition.md

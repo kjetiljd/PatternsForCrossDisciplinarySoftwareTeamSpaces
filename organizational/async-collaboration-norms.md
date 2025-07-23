@@ -39,7 +39,7 @@ Create clear rules for working together without being online at the same time. I
 
 **Decision Request Template**:
 ```markdown
-## Decision Needed: [Brief Title]
+### Decision Needed: [Brief Title]
 
 **Context**: [Background and current situation]
 **Options**: 
@@ -58,7 +58,7 @@ Create clear rules for working together without being online at the same time. I
 
 **Status Update Template**:
 ```markdown
-## Weekly Update: [Team/Project Name] - [Date]
+### Weekly Update: [Team/Project Name] - [Date]
 
 **Completed This Week**:
 - [Specific accomplishment with link/context]
@@ -83,7 +83,7 @@ Create clear rules for working together without being online at the same time. I
 
 **Problem/Incident Report Template**:
 ```markdown
-## Issue: [Brief Description]
+### Issue: [Brief Description]
 
 **Impact**: [Who/what is affected and how severely]
 **Timeline**: [When did this start]
@@ -105,7 +105,7 @@ Create clear rules for working together without being online at the same time. I
 
 **RFC (Request for Comments) Template**:
 ```markdown
-## RFC: [Proposal Title]
+### RFC: [Proposal Title]
 
 **Summary**: [One paragraph overview]
 **Status**: [Draft/Under Review/Accepted/Rejected]
@@ -138,7 +138,7 @@ Create clear rules for working together without being online at the same time. I
 
 **Meeting Summary Template**:
 ```markdown
-## Meeting: [Topic] - [Date]
+### Meeting: [Topic] - [Date]
 
 **Attendees**: [List participants]
 **Absent**: [Note who couldn't attend]
