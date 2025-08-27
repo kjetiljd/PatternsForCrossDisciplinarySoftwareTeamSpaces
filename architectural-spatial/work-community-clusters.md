@@ -28,25 +28,25 @@ Organize workspaces into clusters that feel like small villages or neighborhoods
 ## Related Patterns
 
 ### Essential Spatial Combinations
-- **Team Territories**: Each cluster contains multiple team territories with clear boundaries
-- **Central Commons**: Shared community space at the heart of each cluster
-- **Light on Two Sides**: Natural light access from multiple directions
-- **Modular Furniture Reconfigurability**: Flexible arrangements for changing needs
+- **[Small Team Bays](small-team-bays.md)**: Each cluster contains multiple team bays with clear boundaries
+- **[Environmental Comfort Patterns](environmental-comfort-patterns.md)**: Create optimal acoustic and lighting conditions for the commons
+- **[Accessible & Code-Compliant Design](accessible-code-compliant-design.md)**: Ensure daylight access from multiple directions throughout cluster
+- **[Modular Furniture and Reconfigurability](../cross-disciplinary/modular-furniture-reconfigurability.md)**: Flexible arrangements for changing needs
 
 ### Community and Interaction Patterns
-- **Coffee Station Collaboration**: Social catalyst within the commons area
-- **Pin-up Space**: Display and discussion areas for team work
-- **Cross-Team Pollination**: Structured opportunities for inter-team learning
-- **Hybrid Commons**: Physical-digital integration for distributed team members
+- **[Communal Eating](../temporal/communal-eating.md)**: Social catalyst within the commons area through shared meals
+- **[Pin-Up Space](../cross-disciplinary/pin-up-space.md)**: Display and discussion areas for team work
+- **[Cross-Team Events](../temporal/cross-team-events.md)**: Structured opportunities for inter-team learning
+- **[Embedded Telepresence in Team Spaces](../organizational/embedded-telepresence-team-spaces.md)**: Physical-digital integration for distributed team members
 
 ### Organizational Support Patterns
-- **Aligned Autonomy**: Supporting team independence while maintaining organizational coherence
-- **Labs and Studios Adjacency**: Proximity to specialized work environments
-- **Kaizen Corner**: Continuous improvement spaces for team reflection
+- **[Aligned Autonomy](../organizational/aligned-autonomy.md)**: Supporting team independence while maintaining organizational coherence
+- **[Lab Adjacency](../cross-disciplinary/lab-adjacency.md)**: Proximity to specialized work environments
+- **[Kaizen Corner](../cross-disciplinary/kaizen-corner.md)**: Continuous improvement spaces for team reflection
 
 ### Meta-Pattern Alignment
-- **Human-Scale Organization**: Maintaining human connections at all scales
-- **Adaptive Workspace Evolution**: Responding to changing team and organizational needs
+- **[Human-Centric Design](../meta-patterns/human-centric-design.md)**: Maintaining human connections at all scales
+- **[Spaces that Empower and Invite](../meta-patterns/spaces-empower-invite.md)**: Responding to changing team and organizational needs
 
 ## Further details
 
