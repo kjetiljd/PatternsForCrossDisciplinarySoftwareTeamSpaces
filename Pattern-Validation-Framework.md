@@ -246,7 +246,7 @@ The framework provides standardized metrics, assessment methods, and success cri
 - User satisfaction surveys for space effectiveness
 - Social network analysis for collaboration patterns
 
-**Daily Stand-ups:**
+**[Daily Stand-ups](organizational/daily-stand-ups.md):**
 - Meeting effectiveness ratings
 - Information sharing quality assessment
 - Time-to-resolution for identified blockers

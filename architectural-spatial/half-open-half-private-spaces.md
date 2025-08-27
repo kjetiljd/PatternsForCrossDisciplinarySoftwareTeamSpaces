@@ -41,7 +41,7 @@ Design work areas with precisely calculated partial enclosure. Use 60-75% visual
 
 ### Activity-Based Enclosure Levels
 - **Individual Coding (Deep Focus)**: 70-75% enclosure with 1.4m visual barriers
-- **Pair Programming**: 60-65% enclosure with 1.2m barriers for easy collaboration
+- **[Pair Programming](pair-programming-workstations.md)**: 60-65% enclosure with 1.2m barriers for easy collaboration
 - **Code Review/Quick Discussions**: 50-60% enclosure with 1.0-1.2m barriers
 - **Research/Learning**: 65-70% enclosure with moderate acoustic treatment
 

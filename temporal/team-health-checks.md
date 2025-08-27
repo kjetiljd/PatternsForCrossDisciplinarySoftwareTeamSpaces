@@ -284,7 +284,7 @@ Use regular team health checks through surveys, retrospectives, and talks. These
 
 #### Integration with Existing Meetings
 
-**Daily Stand-ups**:
+**[Daily Stand-ups](../organizational/daily-stand-ups.md)**:
 - Include emotional check-in or energy level sharing
 - Rotate who shares their current state/mood
 - Use color coding (red/yellow/green) for quick health indication

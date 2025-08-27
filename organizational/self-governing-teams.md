@@ -162,7 +162,7 @@ Create autonomous teams that:
 - [ ] Effective knowledge sharing with other teams
 
 **Organizational Integration:**
-- [ ] Establish Team API for external collaboration
+- [ ] Establish [Team API](team-api.md) for external collaboration
 - [ ] Connect with enabling/platform teams for support
 - [ ] Participate in cross-team synchronization activities
 - [ ] Contribute to organizational learning and capability building

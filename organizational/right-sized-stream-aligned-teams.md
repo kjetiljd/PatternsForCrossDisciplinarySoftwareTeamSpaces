@@ -59,7 +59,7 @@ Create stream-aligned teams that are:
 2. Ensure each team has necessary skill mix within size constraints
 3. Provide platform and enabling team support
 4. Monitor and respect cognitive load limits
-5. Use Team API pattern for clear external interfaces
+5. Use [Team API](team-api.md) pattern for clear external interfaces
 
 ## Sources
 - Team Topologies by Skelton & Pais

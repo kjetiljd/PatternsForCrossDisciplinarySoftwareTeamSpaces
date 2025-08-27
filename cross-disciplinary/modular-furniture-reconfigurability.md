@@ -112,7 +112,7 @@ Provide movable furniture with flexible power and data connections. This allows 
 - **Power/Data:** Individual power access with cable management for personal devices
 - **Noise Consideration:** Position away from high-traffic reconfiguration zones to minimize disruption
 
-*Pair Programming Configuration:*
+*[Pair Programming](../architectural-spatial/pair-programming-workstations.md) Configuration:*
 - **Setup Time:** Less than 5 minutes for two people (realistic: 7-10 minutes including interruptions and coordination)
 - **Desk Arrangement:** Two 160×80 cm desks connected to create 160×160 cm workspace
 - **Seating:** Two chairs positioned at 90° angle for optimal collaboration. Consider personality dynamics and space preferences.

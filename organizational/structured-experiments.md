@@ -37,7 +37,7 @@ Design small, controlled experiments to test key assumptions before making irrev
 6. **Adapt Decisions**: Use findings to inform architecture choices, strategy, or further experiments
 
 ### Examples
-**Pair Programming Trial:**
+**[Pair Programming](../architectural-spatial/pair-programming-workstations.md) Trial:**
 - Uncertainty: Will pair programming improve code quality without slowing delivery?
 - Hypothesis: Pair programming on complex modules will reduce production bugs without increasing lead time
 - Experiment: One team tries pairing for 2 weeks on specific task types only

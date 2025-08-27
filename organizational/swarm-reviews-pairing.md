@@ -48,7 +48,7 @@ Combine collective code reviews, pair/mob programming, cross-team review session
 - Prevents long backlogs and maintains quality
 - Aligns with "what's the best possible day we can have?" approach
 
-**Pair Programming:**
+**[Pair Programming](../architectural-spatial/pair-programming-workstations.md):**
 - Continuous real-time review during code creation
 - Knowledge sharing and quality improvement built into development process
 - Reduces need for separate review cycles

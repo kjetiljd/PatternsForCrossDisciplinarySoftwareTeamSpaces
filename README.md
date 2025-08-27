@@ -40,7 +40,7 @@ Overarching themes and principles that tie pattern groups together.
 
 ## Key Principles
 
-- **Aligned Autonomy**: Teams operate independently while maintaining organizational alignment
+- **[Aligned Autonomy](organizational/aligned-autonomy.md)**: Teams operate independently while maintaining organizational alignment
 - **Hybrid-First**: All patterns work for distributed teams with occasional co-location
 - **Human-Centric Design**: Prioritizing psychological safety, well-being, and team effectiveness
 - **Evidence-Based**: Grounded in research and real-world case studies

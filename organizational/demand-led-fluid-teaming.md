@@ -110,7 +110,7 @@ Set up regular re-teaming cycles (usually every quarter). Teams reform based on 
 - **Context Maps**: Visual representations of system relationships and dependencies
 
 **Knowledge Transfer Protocols**
-- **Pair Programming Handovers**: Outgoing team members pair with incoming members
+- **[Pair Programming](../architectural-spatial/pair-programming-workstations.md) Handovers**: Outgoing team members pair with incoming members
 - **Walking Code Reviews**: Guided tours through critical system components
 - **Stakeholder Introductions**: Formal handover of external relationships
 - **Documentation Audits**: Review and update documentation before team transitions
