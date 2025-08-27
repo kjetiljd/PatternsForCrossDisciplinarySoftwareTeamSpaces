@@ -11,3 +11,5 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
+exclude:
+  - CLAUDE.md
