@@ -9,18 +9,18 @@ A complete visualization of connections across all 50+ patterns in the Cross-Dis
 The complete pattern network shows the interconnected nature of all patterns in the language. Click the image to view the animated visualization:
 
 <div style="text-align: center; margin: 2rem 0;">
-  <img id="pattern-graph" src="/images/PatternGraph.png" alt="Pattern Relationship Network Graph" style="max-width: 100%; height: auto; cursor: pointer; border: 1px solid #ddd; border-radius: 8px;" onclick="openVideoModal()">
+  <img id="pattern-graph" src="{{ '/images/PatternGraph.png' | relative_url }}" alt="Pattern Relationship Network Graph" style="max-width: 100%; height: auto; cursor: pointer; border: 1px solid #ddd; border-radius: 8px;" onclick="openVideoModal()">
 </div>
 
 <div id="video-modal" style="display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100vw; height: 100vh; background-color: rgba(0,0,0,0.9);">
   <div style="position: relative; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
     <span style="position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; font-weight: bold; cursor: pointer; z-index: 10000;" onclick="closeVideoModal()">&times;</span>
     <video id="pattern-video" controls preload="none" style="max-width: 90%; max-height: 90%; background: black;">
-      <source src="/images/PatternGraphAnimated.mp4" type="video/mp4">
+      <source src="{{ '/images/PatternGraphAnimated.mp4' | relative_url }}" type="video/mp4">
       <p style="color: white;">
         If the video doesn't play properly, try:
         <br>• Opening in Safari (recommended)
-        <br>• <a href="/images/PatternGraphAnimated.mp4" target="_blank" style="color: #4CAF50;">Download MP4</a>
+        <br>• <a href="{{ '/images/PatternGraphAnimated.mp4' | relative_url }}" target="_blank" style="color: #4CAF50;">Download MP4</a>
       </p>
     </video>
   </div>

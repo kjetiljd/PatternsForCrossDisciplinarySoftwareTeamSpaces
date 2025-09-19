@@ -32,7 +32,7 @@ The complete catalog of patterns can be found in the [Pattern Index](Pattern-Ind
 
 The true power of this pattern language emerges from the relationships between patterns. The [Pattern Relationship Network Analysis](Pattern-Relationship-Network-Analysis.md) provides a comprehensive visualization of how patterns connect across categories, revealing key insights about implementation pathways and pattern clusters.
 
-[![Pattern Relationship Network](images/PatternGraph.png)](Pattern-Relationship-Network-Analysis)
+[![Pattern Relationship Network]({{ '/images/PatternGraph.png' | relative_url }})](Pattern-Relationship-Network-Analysis)
 
 The network analysis identifies central hub patterns like [Small Team Bays](architectural-spatial/small-team-bays.md) and [Psychological Safety Practices](organizational/psychological-safety-practices.md). These patterns serve as integration points, connecting multiple other patterns. The analysis also reveals powerful pattern clusters. Pattern clusters are groups of related patterns that reinforce each other when implemented together. For example, the high-autonomy cluster combines [Self-Governing Teams](organizational/self-governing-teams.md), [Small Team Bays](architectural-spatial/small-team-bays.md), and [Aligned Autonomy](organizational/aligned-autonomy.md). The high-autonomy cluster creates environments where teams can operate independently while remaining organizationally aligned.
 
