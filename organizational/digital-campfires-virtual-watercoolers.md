@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - hybrid-work
 ---
 # Digital Campfires & Virtual Watercoolers
 

@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - architectural-spatial
+  - macro-scale
 ---
 # Office Connections & Team War Rooms
 

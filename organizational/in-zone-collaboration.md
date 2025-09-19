@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - communication-collaboration
 ---
 # In-Zone Collaboration
 

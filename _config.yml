@@ -6,10 +6,12 @@ title: "Cross-Disciplinary Software Team Spaces"
 description: A Pattern Language
 show_downloads: false
 google_analytics: G-CRHTQJZJBY
-repository: kjetiljd/PatternsForCross-DisciplinarySoftwareTeamSpaces
+repository: kjetiljd/PatternsForCrossDisciplinarySoftwareTeamSpaces
 markdown: kramdown
 kramdown:
   input: GFM
 permalink: pretty
 exclude:
   - CLAUDE.md
+include:
+  - "*.mp4"

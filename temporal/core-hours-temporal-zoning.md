@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - temporal
+  - daily-weekly-rhythms
 ---
 # Core Hours & Temporal Zoning
 

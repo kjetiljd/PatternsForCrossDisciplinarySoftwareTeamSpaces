@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - team-structure-autonomy
 ---
 # Right-Sized Stream-Aligned Teams
 

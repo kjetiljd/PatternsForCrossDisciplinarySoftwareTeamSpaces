@@ -1,23 +1,29 @@
-IMAGE_NAME=my-jekyll-site
+IMAGE_NAME ?= my-jekyll-site
+PORT ?= 4000
 
-build:
+.PHONY: $(shell sed -n -e '/^$$/ { n ; /^[^ .\#][^ ]*:/ { s/:.*$$// ; p ; } ; }' $(MAKEFILE_LIST))
+
+help: ## Show available targets
+	@grep -hE '^\S+:.*##' $(MAKEFILE_LIST) | sed -e 's/:.*##\s*/ : /' | while IFS=' : ' read -r cmd desc; do \
+		printf "\033[36m%-15s\033[0m %s\n" "$$cmd" "$$desc"; \
+	done
+
+build: ## Build Docker image
 	docker build -t $(IMAGE_NAME) .
 
-serve: build
-	docker run --rm -p 4000:4000 $(IMAGE_NAME)
+serve: build ## Build and serve site locally (blocks terminal)
+	docker run --rm -p $(PORT):4000 -p 35729:35729 $(IMAGE_NAME)
 
-serve-daemon: build
-	docker run --rm -d -p 4000:4000 --name $(IMAGE_NAME)-server $(IMAGE_NAME)
+serve-bg: build ## Build and serve site in background
+	docker run --rm -d -p $(PORT):4000 -p 35729:35729 --name $(IMAGE_NAME)-server $(IMAGE_NAME)
 
-rebuild: clean build
-
-logs:
+logs: ## Show logs from background server
 	docker logs $(IMAGE_NAME)-server
 
-stop:
+stop: ## Stop background server
 	docker stop $(IMAGE_NAME)-server || true
 
-clean:
-	docker rmi -f $(IMAGE_NAME) || true
+rebuild: clean build ## Clean and rebuild from scratch
 
-.PHONY: build serve serve-daemon logs stop rebuild clean
+clean: ## Remove Docker image
+	docker rmi -f $(IMAGE_NAME) || true

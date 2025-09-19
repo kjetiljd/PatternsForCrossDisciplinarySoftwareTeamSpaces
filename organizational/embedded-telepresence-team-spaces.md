@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - hybrid-work
 ---
 # Embedded Telepresence in Team Spaces
 

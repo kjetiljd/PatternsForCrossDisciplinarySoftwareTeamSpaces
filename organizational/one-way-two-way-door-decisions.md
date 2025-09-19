@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - advanced-decision-making
 ---
 # One-Way vs Two-Way Door Decisions
 

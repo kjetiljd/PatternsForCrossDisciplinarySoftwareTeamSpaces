@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - cross-disciplinary
+  - maker-space
 ---
 # Modular Furniture and Reconfigurability
 

@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - cross-team-coordination
 ---
 # Near/Far Specialist Guilds
 

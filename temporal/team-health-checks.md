@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - temporal
+  - longer-term-rhythms
 ---
 # Team Health Checks
 

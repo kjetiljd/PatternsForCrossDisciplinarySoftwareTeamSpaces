@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - temporal
+  - longer-term-rhythms
 ---
 # Monthly/4-Month Period Rituals
 

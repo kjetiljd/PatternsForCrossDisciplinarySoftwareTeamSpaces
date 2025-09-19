@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - communication-collaboration
 ---
 # Meeting Room Anti-Pattern
 

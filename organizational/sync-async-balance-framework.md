@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - hybrid-work
 ---
 # Synchronous/Asynchronous Balance Framework
 

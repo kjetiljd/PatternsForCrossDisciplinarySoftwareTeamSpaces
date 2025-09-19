@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - temporal
+  - space-time-integration
 ---
 # Rituals as Spatial Anchors
 

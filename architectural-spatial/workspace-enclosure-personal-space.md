@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - architectural-spatial
+  - micro-scale
 ---
 # Workspace Enclosure & Personal Space
 

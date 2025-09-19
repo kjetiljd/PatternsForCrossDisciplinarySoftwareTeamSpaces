@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - hybrid-work
 ---
 # Hybrid Coordination and Knowledge Networks
 

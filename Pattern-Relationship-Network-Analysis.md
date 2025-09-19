@@ -4,6 +4,201 @@
 
 A complete visualization of connections across all 50+ patterns in the Cross-Disciplinary Software Team Spaces pattern language.
 
+## Pattern Network Visualization
+
+The complete pattern network shows the interconnected nature of all patterns in the language. Click the image to view the animated visualization:
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img id="pattern-graph" src="/images/PatternGraph.png" alt="Pattern Relationship Network Graph" style="max-width: 100%; height: auto; cursor: pointer; border: 1px solid #ddd; border-radius: 8px;" onclick="openVideoModal()">
+</div>
+
+<div id="video-modal" style="display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100vw; height: 100vh; background-color: rgba(0,0,0,0.9);">
+  <div style="position: relative; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;">
+    <span style="position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; font-weight: bold; cursor: pointer; z-index: 10000;" onclick="closeVideoModal()">&times;</span>
+    <video id="pattern-video" controls preload="none" style="max-width: 90%; max-height: 90%; background: black;">
+      <source src="/images/PatternGraphAnimated.mp4" type="video/mp4">
+      <p style="color: white;">
+        If the video doesn't play properly, try:
+        <br>• Opening in Safari (recommended)
+        <br>• <a href="/images/PatternGraphAnimated.mp4" target="_blank" style="color: #4CAF50;">Download MP4</a>
+      </p>
+    </video>
+  </div>
+</div>
+
+<script>
+function openVideoModal() {
+  console.log('openVideoModal called');
+  const modal = document.getElementById('video-modal');
+  const video = document.getElementById('pattern-video');
+
+  console.log('Modal element:', modal);
+  console.log('Video element:', video);
+
+  if (modal) {
+    modal.style.display = 'block';
+    console.log('Modal should now be visible');
+
+    if (video) {
+      // Don't auto-play, let user control
+      console.log('Video element found, ready for user interaction');
+    }
+  } else {
+    console.error('Modal element not found');
+  }
+}
+
+function closeVideoModal() {
+  console.log('closeVideoModal called');
+  const modal = document.getElementById('video-modal');
+  const video = document.getElementById('pattern-video');
+
+  if (modal) {
+    modal.style.display = 'none';
+    console.log('Modal hidden');
+  }
+
+  if (video) {
+    video.pause();
+    // Don't reset currentTime - let user resume where they left off
+    console.log('Video paused');
+  }
+}
+
+// Wait for DOM to be ready
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM loaded, setting up event listeners');
+
+  const modal = document.getElementById('video-modal');
+  const video = document.getElementById('pattern-video');
+
+  if (modal) {
+    modal.addEventListener('click', function(event) {
+      if (event.target === modal) {
+        console.log('Clicked outside video, closing modal');
+        closeVideoModal();
+      }
+    });
+    console.log('Modal click listener added');
+  }
+
+  if (video) {
+    // Prevent video clicks from bubbling up to modal
+    video.addEventListener('click', function(event) {
+      event.stopPropagation();
+      console.log('Video clicked, preventing modal close');
+    });
+
+    // Add video event listeners for debugging
+    video.addEventListener('loadstart', function() {
+      console.log('Video: Load start');
+    });
+
+    video.addEventListener('loadeddata', function() {
+      console.log('Video: Data loaded');
+    });
+
+    video.addEventListener('canplay', function() {
+      console.log('Video: Can play');
+    });
+
+    video.addEventListener('play', function() {
+      console.log('Video: Play event');
+    });
+
+    video.addEventListener('pause', function() {
+      console.log('Video: Pause event');
+    });
+
+    video.addEventListener('stalled', function() {
+      console.log('Video: Stalled (network issue)');
+    });
+
+    video.addEventListener('waiting', function() {
+      console.log('Video: Waiting (buffering)');
+    });
+
+    video.addEventListener('error', function(e) {
+      console.error('Video error:', e);
+    });
+
+    console.log('Video event listeners added');
+  }
+});
+
+// Close modal with Escape key
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    console.log('Escape key pressed, closing modal');
+    closeVideoModal();
+  }
+});
+
+console.log('Script loaded');
+</script>
+
+## Key Network Insights
+
+### Central Hub Patterns
+The most connected patterns that serve as integration points:
+
+1. **[Small Team Bays](architectural-spatial/small-team-bays.md)** (15+ connections) - Physical foundation for team autonomy
+2. **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** (12+ connections) - Cultural foundation across all categories
+3. **[Transparent Artifacts](organizational/transparent-artifacts.md)** (11+ connections) - Information flow enabler
+4. **[Self-Governing Teams](organizational/self-governing-teams.md)** (10+ connections) - Organizational autonomy foundation
+
+### Cross-Category Bridges
+Patterns that strongly connect different categories:
+
+- **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** → Bridges physical design with team wellbeing
+- **[Daily Rituals](temporal/daily-rituals.md)** → Connects timing patterns with organizational practices
+- **[Display of Work](cross-disciplinary/display-of-work.md)** → Links cross-disciplinary practices with organizational transparency
+- **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** → Connects cross-disciplinary flexibility with spatial adaptability
+
+### Pattern Clusters
+
+#### High-Autonomy Cluster
+- [Self-Governing Teams](organizational/self-governing-teams.md)
+- [Small Team Bays](architectural-spatial/small-team-bays.md) 
+- [Aligned Autonomy](organizational/aligned-autonomy.md)
+
+#### Transparency Cluster  
+- [Transparent Artifacts](organizational/transparent-artifacts.md)
+- [Display of Work](cross-disciplinary/display-of-work.md)
+- [Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)
+
+#### Hybrid Integration Cluster
+- [Anchor Days](organizational/anchor-days.md)
+- [Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)
+- [Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)
+
+#### Decision Quality Cluster
+- [Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)
+- [Structured Experiments](organizational/structured-experiments.md)
+- [Architecture Decision Records](organizational/architecture-decision-records.md)
+
+### Implementation Pathways
+
+#### Foundation First
+1. Start with **[Meta-Patterns](meta-patterns/)** for philosophical alignment
+2. Establish **[Psychological Safety Practices](organizational/psychological-safety-practices.md)**
+3. Implement **[Self-Governing Teams](organizational/self-governing-teams.md)**
+
+#### Spatial Support
+1. Create **[Small Team Bays](architectural-spatial/small-team-bays.md)** 
+2. Add **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)**
+3. Enable **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** for adaptability
+
+#### Communication Flow
+1. Implement **[Transparent Artifacts](organizational/transparent-artifacts.md)**
+2. Establish **[Daily Stand-Ups](organizational/daily-stand-ups.md)**
+3. Create **[Display of Work](cross-disciplinary/display-of-work.md)** areas
+
+#### Hybrid Integration
+1. Set up **[Anchor Days](organizational/anchor-days.md)**
+2. Install **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)**
+3. Develop **[Async Collaboration Norms](organizational/async-collaboration-norms.md)**
+
 ## Complete Pattern Network
 
 ```mermaid
@@ -472,68 +667,6 @@ graph TD
     class SEC,PS,LA,MFR,DOW,TA2,PUS,CR,MT,UTL,ACS,KC crossDisciplinary
     class CHT,DR,WC,NMT,MMR,THC,ASP2,RSA,CE,CTE temporal
 ```
-
-## Key Network Insights
-
-### Central Hub Patterns
-The most connected patterns that serve as integration points:
-
-1. **[Small Team Bays](architectural-spatial/small-team-bays.md)** (15+ connections) - Physical foundation for team autonomy
-2. **[Psychological Safety Practices](organizational/psychological-safety-practices.md)** (12+ connections) - Cultural foundation across all categories
-3. **[Transparent Artifacts](organizational/transparent-artifacts.md)** (11+ connections) - Information flow enabler
-4. **[Self-Governing Teams](organizational/self-governing-teams.md)** (10+ connections) - Organizational autonomy foundation
-
-### Cross-Category Bridges
-Patterns that strongly connect different categories:
-
-- **[Environmental Comfort Patterns](architectural-spatial/environmental-comfort-patterns.md)** → Bridges physical design with team wellbeing
-- **[Daily Rituals](temporal/daily-rituals.md)** → Connects timing patterns with organizational practices
-- **[Display of Work](cross-disciplinary/display-of-work.md)** → Links cross-disciplinary practices with organizational transparency
-- **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** → Connects cross-disciplinary flexibility with spatial adaptability
-
-### Pattern Clusters
-
-#### High-Autonomy Cluster
-- [Self-Governing Teams](organizational/self-governing-teams.md)
-- [Small Team Bays](architectural-spatial/small-team-bays.md) 
-- [Aligned Autonomy](organizational/aligned-autonomy.md)
-
-#### Transparency Cluster  
-- [Transparent Artifacts](organizational/transparent-artifacts.md)
-- [Display of Work](cross-disciplinary/display-of-work.md)
-- [Neighborhood Effect and Serendipity](architectural-spatial/neighborhood-effect-serendipity.md)
-
-#### Hybrid Integration Cluster
-- [Anchor Days](organizational/anchor-days.md)
-- [Digital Campfires & Virtual Watercoolers](organizational/digital-campfires-virtual-watercoolers.md)
-- [Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)
-
-#### Decision Quality Cluster
-- [Cynefin-Based Decision Framework](organizational/cynefin-based-decision-framework.md)
-- [Structured Experiments](organizational/structured-experiments.md)
-- [Architecture Decision Records](organizational/architecture-decision-records.md)
-
-### Implementation Pathways
-
-#### Foundation First
-1. Start with **[Meta-Patterns](meta-patterns/)** for philosophical alignment
-2. Establish **[Psychological Safety Practices](organizational/psychological-safety-practices.md)**
-3. Implement **[Self-Governing Teams](organizational/self-governing-teams.md)**
-
-#### Spatial Support
-1. Create **[Small Team Bays](architectural-spatial/small-team-bays.md)** 
-2. Add **[Adjacent Semi-Private Spaces](architectural-spatial/adjacent-semi-private-spaces.md)**
-3. Enable **[Modular Furniture and Reconfigurability](cross-disciplinary/modular-furniture-reconfigurability.md)** for adaptability
-
-#### Communication Flow
-1. Implement **[Transparent Artifacts](organizational/transparent-artifacts.md)**
-2. Establish **[Daily Stand-Ups](organizational/daily-stand-ups.md)**
-3. Create **[Display of Work](cross-disciplinary/display-of-work.md)** areas
-
-#### Hybrid Integration
-1. Set up **[Anchor Days](organizational/anchor-days.md)**
-2. Install **[Embedded Telepresence in Team Spaces](organizational/embedded-telepresence-team-spaces.md)**
-3. Develop **[Async Collaboration Norms](organizational/async-collaboration-norms.md)**
 
 ---
 

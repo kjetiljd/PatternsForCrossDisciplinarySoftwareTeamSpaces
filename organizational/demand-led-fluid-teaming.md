@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - team-structure-autonomy
 ---
 # Demand-Led Fluid Teaming
 

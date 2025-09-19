@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - architectural-spatial
+  - collaborative-workspace
 ---
 # Adjacent Semi-Private Spaces
 

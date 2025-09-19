@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - cross-disciplinary
+  - research-lab
 ---
 # Lab Adjacency
 

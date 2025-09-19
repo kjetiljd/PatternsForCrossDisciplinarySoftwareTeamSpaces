@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - meta-patterns
+  - overarching-themes
 ---
 # Human-Centric Design
 

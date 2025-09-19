@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - cross-disciplinary
+  - manufacturing-cell
 ---
 # Kaizen Corner
 

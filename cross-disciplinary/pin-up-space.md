@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - cross-disciplinary
+  - architectural-studio
 ---
 # Pin-Up Space
 

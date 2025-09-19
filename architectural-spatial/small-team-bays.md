@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - architectural-spatial
+  - micro-scale
 ---
 # Small Team Bays
 

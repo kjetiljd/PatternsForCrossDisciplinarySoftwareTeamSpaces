@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - cross-team-coordination
 ---
 # Platform Teams & Communities of Practice
 

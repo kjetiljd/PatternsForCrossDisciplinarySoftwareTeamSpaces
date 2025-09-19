@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - architectural-spatial
+  - micro-scale
 ---
 # Half-Open, Half-Private Spaces
 

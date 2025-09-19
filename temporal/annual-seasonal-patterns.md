@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - temporal
+  - longer-term-rhythms
 ---
 # Annual/Seasonal Patterns
 

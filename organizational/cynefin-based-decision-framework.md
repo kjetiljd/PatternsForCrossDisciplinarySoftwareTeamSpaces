@@ -1,4 +1,8 @@
 ---
+tags:
+  - pattern
+  - organizational
+  - advanced-decision-making
 ---
 # Cynefin-Based Decision Framework
 
